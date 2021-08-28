@@ -28,25 +28,32 @@ If you have not installed the required software go and add [Epic Games Launcher]
 
 After you accept the [GitHub Classroom](https://classroom.github.com/a/WqCC8uOJ) invitation, go to the new GitHub repository and click on the green Code button and select Open with GitHub Desktop then confirm that you will open in desktop then pick a directory and press Clone.
 
-![alt_text](images/githubClassroom.jpg)
+![accept github classroom and clone project](images/githubClassroom.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 3.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+
+Go to the directory in where you installed the project and open the LICENSE file in a text editor. If you want to change the type of license now is the time to do so. If you want to keep the MIT license then just replace `ENTER NAME HERE` with your legal name. Press save and quit.
+
+![change license for project and add your name](images/changeLicense.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+This file has changed and is **NOT** in the Content folder. So go to **GitHub Dekstop** and add a commit message and commit the change to your local repository.
+
+![commit change to license in github desktop](images/commitLicenseChange.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
-![alt_text](images/.jpg)
+The project should load up in the Room/Level **Basic Materials**. It should look like a pitch black room as there are no lights. Also, the game will be building the shaders. You might want to wait for all the shaders to render before moving on.
+
+![pitch black game screen](images/blackGameScreen.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

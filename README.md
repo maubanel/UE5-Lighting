@@ -15,6 +15,7 @@ Lets look at **[Physically Based Rendering Materials (PBR)](https://en.wikipedia
 <!-- TOC -->
 ## Table of Contents
 <kbd></kbd> &nbsp;&nbsp; [Setting Up](setting-up/README.md#user-content-setting-up) <br>
+<kbd></kbd> &nbsp;&nbsp; [Lighting Prep](prep/README.md#user-content-prep) <br>
 
 
 <!-- LICENSE -->

@@ -187,27 +187,29 @@ https://user-images.githubusercontent.com/5504953/131570075-58a644c3-023c-4501-b
 
 ##### `Step 19.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Press **File | Save All** and press **Source Control | 
-![alt_text](images/.jpg)
+ We need to tell **UE4** that we are using source control.  Select **Source Control | Connect to Source Control...**.  Select a **Provider** `Git (beta version)`.  Press the <kbd>Accept Settings</kbd> button.
+
+![connect to  source control](images/connectToSourceControl.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 20.`\|`ITL`| :large_blue_diamond: :large_blue_diamond:
+Press **File | Save All** and press **Source Control |  Submit to Source Control...** and enter a **Description** then press the <kbd>Submit</kbd> button. Open up **GitHub Desktop** and press the <kbd>Push</kbd> button. Now we are updated.
 
-![alt_text](images/.jpg)
+![alt_text](images/GitHub.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 21.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+![save all, commit and push to github](images/GitHub.jpg)
 
 ___
 
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - ADD NEXT TITLE">
+<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Point Lights">
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 

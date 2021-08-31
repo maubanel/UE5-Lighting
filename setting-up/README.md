@@ -20,7 +20,7 @@ We will be working with a level that has already ben grey blocked and modelled. 
 
 If you have not installed the required software go and add [Epic Games Launcher](https://www.epicgames.com/store/en-US/download), [git](https://git-scm.com/downloads) (PC only), [Github Desktop](https://desktop.github.com), [Git LFS (Large File System)](https://git-lfs.github.com) (Large File System) on your mac or PC. Make sure you have a valid GitHub account. Make sure it has a 4.2X in front of the version so that we know this walk through will be compatible with your version of Unreal.
 
-![alt_text](images/.jpg)
+![software installs](images/InstallSoftware.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

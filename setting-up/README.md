@@ -105,7 +105,7 @@ The **Static Meshes** folder contains all the static meshes for the level.
 
 ##### `Step 11.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: 
 
-The **Audio** contains sound effects taht you can hear in the level and the **Environment** folder contains the ocean that we will activate shortly.
+The **Audio** contains sound effects that you can hear in the level when you start the game and the **Environment** folder contains the ocean that we will activate shortly.
 
 ![come meshes have collision volumes](images/collisionMeshOrNot.jpg)
 

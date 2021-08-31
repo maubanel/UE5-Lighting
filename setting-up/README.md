@@ -61,12 +61,13 @@ Move the `.gitattributes` file from the **Assets** folder into the top folder th
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
 
-Add a message stating change to **LICENSE**, **README.md** and **.gitattribute** files.  Press the **Commit** button.  Then press **Push** to update the change to **GitHub**.  Check the repository online to see the added changes to make sure it pushed properly.
+Add a message stating change to **LICENSE**, **README.md** and **.gitattribute** files.  Press the **Commit** button.  Then press **Push** to update the change to **GitHub**.  
 
 ![commit and push to github](images/CommitAndPushInitial.jpg)
 
-![check github for changes license, readme and gitattributes](images/InitialUpdatedGitHub.jpg)
+Check the repository online to see the added changes to make sure it pushed properly.
 
+![check github for changes license, readme and gitattributes](images/InitialUpdatedGitHub.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

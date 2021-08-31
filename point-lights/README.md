@@ -6,7 +6,7 @@
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-We need to add a lightmass importance volume so that the game can optimise the lighting processing on the area that the player is navigating in.
+We need to add a lightmass importance volume so that the game can optimise the lighting processing on the area that the player is navigating in. Lets look at adding light to the flames and embers throughout the level. We will add a static light for the embers and a dynamic one for the flames to add a bit of a realistic flicker. This will be using  a point light.  This is any light source like a lamp or flame that radiates light in all direction. 
 
 <br>
 
@@ -15,13 +15,17 @@ We need to add a lightmass importance volume so that the game can optimise the l
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-![alt_text](images/.jpg)
+When buidling lights look for errors in the **Message Log**.  We are getting one in our light buliding stating **! No importance volume found adn the scene is so large...**.  This means that the light baking will not yeild good results.
+
+The issue here is that the sky sphere is 10,000 units large and when it is ray tracing it doesn't have the memory or time to light everything inside it.  This is not necessary as we only are in the building and are blocked from leaving it.
+
+![missing importance volume error message](images/ErrorMessage.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+![im](images/.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

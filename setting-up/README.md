@@ -43,21 +43,31 @@ Go to the directory in where you installed the project and open the LICENSE file
 
 ##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-This file has changed and is **NOT** in the Content folder. So go to **GitHub Dekstop** and add a commit message and commit the change to your local repository.
+Edit the README.md file in a text editor and add your name and a message (in my case it is a reminder that I will complete it at the end!). 
 
-![commit change to license in github desktop](images/commitLicenseChange.jpg)
+![edit README.md and ](images/NameMessageREADME.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
-The project should load up in the Room/Level **Basic Materials**. It should look like a pitch black room as there are no lights. Also, the game will be building the shaders. You might want to wait for all the shaders to render before moving on.
+Move the `.gitattributes` file from the **Assets** folder into the top folder that contains the **Content** folder and **.gitignore** file.
 
-![pitch black game screen](images/blackGameScreen.jpg)
+![move .gitattributes to top folder ](images/addgitattributes.jpg)
+
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
+
+This file has changed and is **NOT** in the Content folder. So go to **GitHub Dekstop** and add a commit message and commit the change to your local repository.
+
+![commit change to license in github desktop](images/commitLicenseChange.jpg)
+
+The project should load up in the Room/Level **Basic Materials**. It should look like a pitch black room as there are no lights. Also, the game will be building the shaders. You might want to wait for all the shaders to render before moving on.
+
+![pitch black game screen](images/blackGameScreen.jpg)
 
 You will also most likely see a dark room that has not been lit. To see what is going on swtich to **Unlit** mode. Next page we will start lighting the scene from scratch.
 

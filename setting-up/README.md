@@ -93,25 +93,25 @@ Lets look at what is included in this project. We have a **Blocking Volumes** fo
 
 ![added blocking volumes](images/unblockedWindows.jpg)
 
-The **Building Meshes** folder contains all the static meshes for the level.
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
+
+The **Static Meshes** folder contains all the static meshes for the level.
 
 ![building meshes in world outliner](images/worldOutlinerBuildingMeshes.jpg)
+
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 11.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: 
 
 Each of these meshes may or may not have a collision volume with the model.
 
 ![come meshes have collision volumes](images/collisionMeshOrNot.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
-
 **Illumination Volumes** folder contains the fog, ocean, and sky sphere that are not visible in the game currently. We will fix that shortly.
 
 ![illumination volumes](images/illuminationFolder.jpg)
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 11.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: 
 
 We also have some cool particle effects included in the **Particles** folder that we will see better soon.
 

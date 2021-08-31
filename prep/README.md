@@ -15,7 +15,11 @@ Lets get ready to start lighting the scene. Before we can begin we need to turn 
 
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
 
-Since most of this scene is lit by sun through openings in this structure we will add a Directional Light to the level. We will also add a folder called `Lighting` to the **World Outliner**. We will rename the light to `Sun` and move it inside the new **Lighting** folder.
+Since most of this scene is lit by sun through openings in this structure we will add a ** Place Actors | Lights | Directional Light** to the level. We will also add a folder called `Lighting` to the **World Outliner**. We will rename the light to `Sun` and move it inside the new **Lighting** folder.
+
+The placement is irrelevant of where you put the light in the level.  It will light the entire scene.  I have put it next to the building so I don't click on it by accident.  The [Directional Light(https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LightingAndShadows/LightTypes/Directional/)].
+
+> The Directional Light simulates light that is being emitted from a source that is infinitely far away. This means that all shadows cast by this light will be parallel, making this the ideal choice for simulating sunlight. 
 
 ![alt_text](images/.jpg)
 

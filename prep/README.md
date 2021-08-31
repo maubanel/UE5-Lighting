@@ -15,7 +15,7 @@ Lets get ready to start lighting the scene. Before we can begin we need to turn 
 
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
 
-Since most of this scene is lit by sun through openings in this structure we will add a ** Place Actors | Lights | Directional Light** to the level. We will also add a folder called `Lighting` to the **World Outliner**. We will rename the light to `Sun` and move it inside the new **Lighting** folder. Ensure the mobility is **Stationary** and we will explain this later.
+Since most of this scene is lit by sun through openings in this structure we will add a **Place Actors | Lights | Directional Light** to the level. We will also add a folder called `Lighting` to the **World Outliner**. We will rename the light to `Sun` and move it inside the new **Lighting** folder. Ensure the mobility is **Stationary** and we will explain this later.
 
 The placement is irrelevant of where you put the light in the level.  It will light the entire scene.  I have put it next to the building so I don't click on it by accident.  The [Directional Light](https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LightingAndShadows/LightTypes/Directional/).
 

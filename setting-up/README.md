@@ -105,17 +105,10 @@ The **Static Meshes** folder contains all the static meshes for the level.
 
 ##### `Step 11.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: 
 
-Each of these meshes may or may not have a collision volume with the model.
+The **Audio** contains sound effects taht you can hear in the level and the **Environment** folder contains the ocean that we will activate shortly.
 
 ![come meshes have collision volumes](images/collisionMeshOrNot.jpg)
 
-**Illumination Volumes** folder contains the fog, ocean, and sky sphere that are not visible in the game currently. We will fix that shortly.
-
-![illumination volumes](images/illuminationFolder.jpg)
-
-We also have some cool particle effects included in the **Particles** folder that we will see better soon.
-
-![cool particles to use later](images/particlesNotUsedYet.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

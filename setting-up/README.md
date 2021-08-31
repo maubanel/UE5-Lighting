@@ -26,7 +26,7 @@ If you have not installed the required software go and add [Epic Games Launcher]
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
-After you accept the [GitHub Classroom](https://classroom.github.com/a/WqCC8uOJ) invitation, go to the new GitHub repository and click on the green Code button and select Open with GitHub Desktop then confirm that you will open in desktop then pick a directory and press Clone.
+After you accept the [GitHub Classroom](https://classroom.github.com/a/WqCC8uOJ) invitation, go to the new **GitHub** repository and click on the green Code button and select open with **GitHub Desktop** then confirm that you will open in desktop then pick a directory and press the <kbd>Clone</kbd> button.
 
 ![accept github classroom and clone project](images/githubClassroom.jpg)
 

@@ -48,7 +48,9 @@ Press the **Arrow** next to the <kbd>Build</kbd> button and select **Build Light
 | :--- |
 | :floppy_disk: &nbsp; &nbsp; For the embers with no flame we will use a point light. This is a light that radiates equally in all directions.
 
-> [Point Lights](https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LightingAndShadows/LightTypes/Point/) work much like a real world light bulb, emitting light in all directions from the light bulb's tungsten filament. However, for the sake of performance, Point Lights are simplified down emitting light equally in all directions from just a single point in space. - Unreal Documentation|
+> [Point Lights](https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LightingAndShadows/LightTypes/Point/) work much like a real world light bulb, emitting light in all directions from the light bulb's tungsten filament. However, for the sake of performance, Point Lights are simplified down emitting light equally in all directions from just a single point in space. - Unreal Documentation
+
+|
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 

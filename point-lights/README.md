@@ -25,7 +25,8 @@ The issue here is that the sky sphere is 10,000 units large and when it is ray t
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
-![im](images/.jpg)
+Add a **Volumes | Lightmass Importance Volume**  into the level.  Press the downward arrow in the top left of the editor game window and select **Layouts | Three Panes** to open up three game windows.  Set one to `Top` the other to `Left` and the third one to `Perspective`.
+![im](images/LightMassImportanceVolume.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

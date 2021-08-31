@@ -147,7 +147,9 @@ Now lets have the sun in the sky sphere point at the back porch to give direct s
 Now lets add some [atmospheric fog](https://docs.unrealengine.com/4.26/en-US/BuildingWorlds/FogEffects/AtmosphericFog/) that will add some realism to the skyline. 
 
 > Atmospheric Fog gives an approximation of light scattering through a planetary atmosphere. This can give your outdoor levels a much more realistic look. This total effect includes the following: <br><br>The dominant directional light in your level will receive a sun disc effect in the sky. This will be placed infinitely far away, opposite the light's direction.<br><br>A sky color that will vary depending on the altitude of the sun (or put another way, how close the dominant directional light's vector gets to being parallel with the ground).
-<br><br>Control over scattering and decay settings, allowing for full control of your atmospheric density.
+<br><br>Control over scattering and decay settings, allowing for full control of your atmospheric density. - Unreal Documentation
+
+
 ![alt_text](images/AddAtmosphericFog.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>

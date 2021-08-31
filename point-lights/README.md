@@ -107,7 +107,21 @@ When you are happy turn it back on.
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+Now lights have three settings for **Mobility**.  They are `Static`, `Stationary` and `Movable`.  These are very different.  From a performance standpoint, the least expensive is static, then next most expensive is stationary and the MOST expensive is movable.
+
+> [Static Lights](https://docs.unrealengine.com/4.26/en-US/BuildingWorlds/LightingAndShadows/LightMobility/StaticLights/) are lights that cannot be changed or moved in any way at runtime. They are calculated only within Lightmaps, and once processed, have no further impact on performance. Movable objects cannot integrate with static lights, so the usefulness of static lights is limited. - Unreal Manual
+
+> [Stationary Lights](https://docs.unrealengine.com/4.26/en-US/BuildingWorlds/LightingAndShadows/LightMobility/StationaryLights/) are lights that are intended to stay in one position, but are able to change in other ways, such as their brightness and color. This is the primary way in which they differ from Static Lights, which cannot change in any way during gameplay. However, it should be noted that runtime changes to brightness only affect the direct lighting. Indirect (bounced) lighting, since it is pre-calculated by Lightmass, will not change. - Unreal Manual
+
+> [Movable Lights](https://docs.unrealengine.com/4.26/en-US/BuildingWorlds/LightingAndShadows/LightMobility/DynamicLights/) cast completely dynamic light and shadows. They can change position, rotation, color, brightness, falloff, radius, and just about every other property they have. None of the light they cast gets baked into the lightmaps, and do not support indirect lighting without a dynamic global illumination method. - Unreal Manual
+
+Of the three light mobilities, Stationary lights tend to have the highest quality, medium mutability, and medium performance cost.
+
+
+
+The **Sta
+
+![static stationary adn movable light](images/StaticMovableStationary.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

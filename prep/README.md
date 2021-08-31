@@ -109,7 +109,11 @@ Now there is a sky but no ground plane.  So now our light seems to be coming fro
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+To see the ocean we need to open up **Materials | M_Ocean** and connect the **RBG** pin of the **Texture Sampmle** node and connect it to the **Emissive Color**.  By making the ocean emissive it recreates the effect of reflecting the sky in it.  That is why we need to wear sunglasses when out of the water on a sunny day!
+
+Press the <kbd>Apply</kbd> button.
+
+![connect texture sample to emissive in m_ocean](images/ReconnectMOceanMat.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

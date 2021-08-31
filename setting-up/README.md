@@ -121,9 +121,9 @@ The **Game Mode** loads up the **Blueprints | MyGameLDDemo** that the **PlayerSt
 
 ##### `Step 13.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Now go into **Settings | World Settings** and expand **Game Mode**. This is overrides the settings that are in project settings for this one level. This is selecting our custom BP for Game Mode and **BP_ThirdPersonCharacter** as the **Default Pawn Class**. **The Default Pawn** is the game object that we are controlling in game. You will see all of these blueprints running and added to the scene when running the game.
+Open up **Settings | Project Settings | Maps and Modes**. It will start the editor and full game in the level `Unlit Level`. This is the dark room we are in. We also have **GameModeBase** which is the default gamemode for the entire project. This
 
-Open up Project Settings. We also have the Lighting_Map room loading by default.
+Now go into **Settings | World Settings** and expand **Game Mode**. This is overrides the settings that are in project settings for this one level. So **MYGameLDDemo** is overriding the **GameModeBase** in the project level setting.  You can see when you expand the **Selected Game Mode** that the **Default Pawn** is `ThirdPersonCharacter`. 
 
 ![room project settings](images/projectSettings.jpg)
 

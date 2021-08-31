@@ -147,6 +147,8 @@ Since this light does not animate and the object it is illuminating is static, w
 
 Press **Build | Build Lighting** then run and look at it in game. We want a subtle efect here but we can clearly see that the embers does have a small lighting effect that you don't see on the non-lit ember next to it. This adds a bit more realism.
 
+https://user-images.githubusercontent.com/5504953/131583790-6aa24dda-0249-4b34-8315-bbfc7ad2c5bd.mp4
+
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 

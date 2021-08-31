@@ -128,6 +128,10 @@ Now we need to build lighting for lights that are marked at **Static** or **Stat
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
+Now when I move under the lights look at how the light affects the shadow on the ground and the lighting on the player.  The static light casts no shadow and it doesn't read correctly as one would expect it to affect the ground plane.  
+
+https://user-images.githubusercontent.com/5504953/131582540-619753cf-a5e4-4eaa-acea-cbc7a2bfe841.mp4
+
 ![alt_text](images/.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>

@@ -67,7 +67,7 @@ In **GlobalPostProcessingVolume** go to **Lens | Exposure** and change **Min Bri
 
 Now when we run around we can really see how limiting the directional light is.  There is no fill or spill and it only affects where the sun directly hits.  For indirect lighting we need another lighting actor.
 
-https://user-images.githubusercontent.com/5504953/131555058-93ff99ab-74ed-43ad-9a02-ac6aa9143c06.mp4
+https://user-images.githubusercontent.com/5504953/131555655-3ebac7a5-b681-4f17-9bdc-ed03427e359c.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

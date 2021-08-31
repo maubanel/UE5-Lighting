@@ -99,6 +99,8 @@ Position the light into the embers to cast the right shadow on the wall.
 
 Now to see the effect of the light I need to turn it on or off.  Do not use the **Eye** icon in the **World Outliner** this will not affect the light. Instead go to the **Details** panel and turn **Light | Affects World** on and off and you can see what changes it makes.
 
+When you are happy turn it back on.
+
 ![affect world turns light on and off](images/TurnOnOffLight.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>

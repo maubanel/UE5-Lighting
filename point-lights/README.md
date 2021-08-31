@@ -50,7 +50,9 @@ Press the **Arrow** next to the <kbd>Build</kbd> button and select **Build Light
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
-![alt_text](images/.jpg)
+Lets turn on another emissive material in the level that is used to represent the embers on the top of the torches.  Open up **M_FirePit** and connect the output of the **Multiply** node to the **Emissive Color** node in the main shader.
+
+![connect multiply to emissive in m_fire_pit](images/EmissiveFirePit.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

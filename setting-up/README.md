@@ -85,6 +85,10 @@ You will also most likely see a dark room that has not been lit. To see what is 
 
 ![change to unlit mode to see level](images/unlitMode.jpg)
 
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 9.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
 Lets look at what is included in this project. We have blocking volumes. These are collision volumes with no visible geometry. Press **BlockingVolume** and press the <kbd>F</kbd> key to focus on it. Notice that is is blocking the player from jumping outside the unblocked window archways.
 
 ![added blocking volumes](images/unblockedWindows.jpg)
@@ -92,10 +96,6 @@ Lets look at what is included in this project. We have blocking volumes. These a
 The **Building Meshes** folder contains all the static meshes for the level.
 
 ![building meshes in world outliner](images/worldOutlinerBuildingMeshes.jpg)
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 9.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Each of these meshes may or may not have a collision volume with the model.
 

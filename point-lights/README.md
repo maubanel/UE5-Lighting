@@ -117,9 +117,9 @@ Now lights have three settings for **Mobility**.  They are `Static`, `Stationary
 
 Of the three light mobilities, Stationary lights tend to have the highest quality, medium mutability, and medium performance cost.
 
+Look at the level where I have adjusted the brightness and put three point lights for the player to walk underneath.
 
-
-The **Sta
+Now we need to build lighting for lights that are marked at **Static** or **Stationary**. These bake the lighting and shadows of static objects in the texture itself. 
 
 ![static stationary adn movable light](images/StaticMovableStationary.jpg)
 

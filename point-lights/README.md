@@ -87,7 +87,9 @@ Select the advanced features of lighting (the small arrow at the bottom) and cha
 
 Now lets adjust the **Attenuation Radius**.  This is the distance the light will travel before it no longer affects the world.  It is the distance a light travels.  It is indicated with the light colored sphere.  I set mine to `165`.
 
-I also set the **Source Radius**.  This is how large and what shape is the light emanating from.  It is the entire coal bed so I set mine to `27`.
+I also set the **Source Radius**.  This is how large and what shape is the light emanating from.  It is the entire coal bed so I set mine to `27`. This is the inner yellow sphere. 
+
+Position the light into the embers to cast the right shadow on the wall.
 
 ![set attenuation and source radius](images/AttenuationSourceRadius.jpg)
 
@@ -95,7 +97,9 @@ I also set the **Source Radius**.  This is how large and what shape is the light
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-![alt_text](images/.jpg)
+Now to see the effect of the light I need to turn it on or off.  Do not use the **Eye** icon in the **World Outliner** this will not affect the light.
+
+![alt_text](images/TurnOnOffLight.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

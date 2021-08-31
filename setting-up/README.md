@@ -109,13 +109,11 @@ The **Audio** contains sound effects that you can hear in the level when you sta
 
 ![come meshes have collision volumes](images/collisionMeshOrNot.jpg)
 
-
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
 
 ##### `Step 12.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-The **Game Mode** loads up the **Blueprints | BP_ThirdPersonCharacter** that the **PlayerStart** object launches the player in the front terrace.
+The **Game Mode** loads up the **Blueprints | MyGameLDDemo** that the **PlayerStart** object launches the player in the front terrace. The **Blueprints** folder also contains **ThirdPersonCharacter** which is the **UE4** mannequin that we will control in the game.
 
 ![game mode for level](images/gameMode.jpg)
 

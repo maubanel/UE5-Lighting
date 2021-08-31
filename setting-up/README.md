@@ -73,9 +73,13 @@ Check the repository online to see the added changes to make sure it pushed prop
 
 ##### `Step 7.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-The project should load up in the Room/Level **Basic Materials**. It should look like a pitch black room as there are no lights. Also, the game will be building the shaders. You might want to wait for all the shaders to render before moving on.
+Open up **UE4LightingStarter.uproject**. The project should load up in the Room/Level **UnlitLevel**. It should look like a pitch black room as there are no lights. Also, the game may be building the shaders. You might want to wait for all the shaders to render before moving on.
 
 ![pitch black game screen](images/blackGameScreen.jpg)
+
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 8.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 You will also most likely see a dark room that has not been lit. To see what is going on swtich to **Unlit** mode. Next page we will start lighting the scene from scratch.
 
@@ -84,10 +88,6 @@ You will also most likely see a dark room that has not been lit. To see what is 
 Lets look at what is included in this project. We have blocking volumes. These are collision volumes with no visible geometry. Press **BlockingVolume** and press the <kbd>F</kbd> key to focus on it. Notice that is is blocking the player from jumping outside the unblocked window archways.
 
 ![added blocking volumes](images/unblockedWindows.jpg)
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 8.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 The **Building Meshes** folder contains all the static meshes for the level.
 

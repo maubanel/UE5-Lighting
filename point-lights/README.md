@@ -68,7 +68,9 @@ Now you should see some of the torches in the level are glowing.  Lets add a Poi
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Add a **Light | Point Light** to the scene and position it on top of one of the embers that is in the shadows. Adjust the color to match the orange/red of the embers the best you can.
+
+![add point light and change color to orange](images/AddPointLight.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

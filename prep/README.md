@@ -57,7 +57,7 @@ Call it `GlobalPostProcessingVolume` and move it to the **Lighting** folder.
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
-In **GlobalPostProcessingVolume** go to **Lens | Exposure** and change **Min Brightness** and **Max Brightness** to both be `1.0`.  This way
+In **GlobalPostProcessingVolume** go to **Lens | Exposure** and change **Min Brightness** and **Max Brightness** to both be `1.0`.  The tool tip says that if **Min = Max** that **Eye Adaption** is disabled which is what we want!
 
 ![make min and max brightness 1.0](images/MaxMinBrightness.jpg)
 

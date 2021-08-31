@@ -32,17 +32,17 @@ Add a **Volumes | Lightmass Importance Volume**  into the level.  Press the down
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now put the **Lightmass Importance Volume** in the **Lighting** folder.  Adjust the **Location** to the center of the building then adjust the **Brush Settings | X | Y | Z** to surround the building.  You don't need to get too close.
- 
+Now put the **Lightmass Importance Volume** in the **Lighting** folder.  Adjust the **Location** to the center of the building then adjust the **Brush Settings | X | Y | Z** to surround the building.  You don't need to get too close. 
+
 ![surround building with importance volume](images/SurroundBuildingWithImportanceVOlume.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Press the **Arrow** next to the <kbd>Build</kbd> button and select **Build Lighting Only**. Now we no longer get a pop up with an error.  It is good when lighting to **ALWAYS** check for errors and respond to them in kind.
 
-
-![](images/.jpg)
+![press build lighting only](images/BuildLightingOnly.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

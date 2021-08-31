@@ -119,8 +119,10 @@ Press the <kbd>Apply</kbd> button.
 
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
+ 
+ Now when we run the game that our outdoors is complete!
 
-![alt_text](images/.jpg)
+![water and sky in game](images/WaterWorking.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -6,7 +6,7 @@
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-Chapter introduction here.
+Lets get ready to start lighting the scene. Before we can begin we need to turn on the skybox, water and fog. We need to add a lightmass importance volume so that the game can optimise the lighting processing on the area that the player is navigating in. We will also add a post processing volume to kill the auto iris so that we can light with a fixed exposure. We will rotate the sun to match the skybox.
 
 <br>
 
@@ -14,6 +14,8 @@ Chapter introduction here.
 
 
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
+
+Since most of this scene is lit by sun through openings in this structure we will add a Directional Light to the level. We will also add a folder called `Lighting` to the **World Outliner**. We will rename the light to `Sun` and move it inside the new **Lighting** folder.
 
 ![alt_text](images/.jpg)
 

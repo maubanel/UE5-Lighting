@@ -61,9 +61,16 @@ Move the `.gitattributes` file from the **Assets** folder into the top folder th
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
 
-This file has changed and is **NOT** in the Content folder. So go to **GitHub Dekstop** and add a commit message and commit the change to your local repository.
+Add a message stating change to **LICENSE**, **README.md** and **.gitattribute** files.  Press the **Commit** button.  Then press **Push** to update the change to **GitHub**.  Check the repository online to see the added changes to make sure it pushed properly.
 
-![commit change to license in github desktop](images/commitLicenseChange.jpg)
+![commit and push to github](images/CommitAndPushInitial.jpg)
+
+![check github for changes license, readme and gitattributes](images/InitialUpdatedGitHub.jpg)
+
+
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 7.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 The project should load up in the Room/Level **Basic Materials**. It should look like a pitch black room as there are no lights. Also, the game will be building the shaders. You might want to wait for all the shaders to render before moving on.
 
@@ -72,10 +79,6 @@ The project should load up in the Room/Level **Basic Materials**. It should look
 You will also most likely see a dark room that has not been lit. To see what is going on swtich to **Unlit** mode. Next page we will start lighting the scene from scratch.
 
 ![change to unlit mode to see level](images/unlitMode.jpg)
-
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 7.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Lets look at what is included in this project. We have blocking volumes. These are collision volumes with no visible geometry. Press **BlockingVolume** and press the <kbd>F</kbd> key to focus on it. Notice that is is blocking the player from jumping outside the unblocked window archways.
 

@@ -181,6 +181,8 @@ Now press the <kbd>Build</kbd> button to rebuild the light.
 
 Run the game and see what we have set up.  Our basics are all in place to start diving into lighting a bit deeper.
 
+https://user-images.githubusercontent.com/5504953/131570075-58a644c3-023c-4501-b3f0-607b23ca650c.mp4
+
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 19.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:

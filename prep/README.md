@@ -101,7 +101,9 @@ Now lets add a sky to the game so the light is coming from somewhere. Drag a **M
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-![alt_text](images/.jpg)
+Now there is a sky but no ground plane.  So now our light seems to be coming from the sky and the scene makes a bit more sense. This is water with an emissive texture.  Lets fix that yet.
+
+![view of skybox](images/SkyNoGround.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

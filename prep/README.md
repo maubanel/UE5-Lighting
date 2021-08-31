@@ -47,7 +47,9 @@ https://user-images.githubusercontent.com/5504953/131544371-b0dd5838-8dd4-4ca2-b
 
 ##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-We don't want the auto iris exposure built in the game affect our lighting settings.  So lets go into **Show | Post Processing | Eye Adaptation** and turn this off.  This way we can see a constant fixed *actual* light.
+We don't want the auto iris exposure built in the game affect our lighting settings.  It is hard to light when it opens up to iris to light the scene. So lets go add a **Volumes | Post Process Volume** to the level.  Go to **Post Process Volume Settings | Infinite Extent** and tick the box to `true`.  We want to have this volume affect every object in the world even if it falls outside this box.
+
+Call it `GlobalPostProcessingVolume` and move it to the **Lighting** folder. 
 
 ![turn eye adaption off](images/EyeAdaptionTurnOff.jpg)
 
@@ -55,7 +57,9 @@ We don't want the auto iris exposure built in the game affect our lighting setti
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
-![alt_text](images/.jpg)
+In **GlobalPostProcessingVolume** go to **Lens | Exposure** and change **Min Brightness** and **Max Brightness** to both be `1.0`.  This way
+
+![make min and max brightness 1.0](images/MaxMinBrightness.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

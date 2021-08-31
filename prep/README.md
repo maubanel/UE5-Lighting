@@ -21,7 +21,7 @@ The placement is irrelevant of where you put the light in the level.  It will li
 
 > The Directional Light simulates light that is being emitted from a source that is infinitely far away. This means that all shadows cast by this light will be parallel, making this the ideal choice for simulating sunlight. 
 
-![alt_text](images/.jpg)
+![add directional light to scene](images/AddSUn.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

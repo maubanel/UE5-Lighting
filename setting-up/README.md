@@ -2,7 +2,7 @@
 
 ### Setting Up
 
-<sub>[previous](../) • [home](../README.md#user-content-ue4-lighting) • [next](../)</sub>
+<sub>[home](../README.md#user-content-ue4-lighting) • [next](../prep/README.md#user-content-lighting-prep)</sub>
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
@@ -138,5 +138,5 @@ ___
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-| [previous](../)| [home](../README.md#user-content-ue4-lighting) | [next](../)|
-|---|---|---|
+| [home](../README.md#user-content-ue4-lighting) | [next](../prep/README.md#user-content-lighting-prep)|
+|---|---|

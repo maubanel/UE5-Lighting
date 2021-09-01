@@ -169,7 +169,9 @@ Duplicate the cubes, text and spot light from the **World Outliner**.  Move the 
 
 ##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+There is not a large difference between the static object and the stationary object with the stationary light.  It does an equally good job with both.
+
+![stationary light and stationary object in game](images/StationaryStationaryInGame.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

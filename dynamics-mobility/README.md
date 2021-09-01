@@ -85,7 +85,9 @@ Lets add a **Custom Event** node to this blueprint and call it `Animate Light`.
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-![alt_text](images/.jpg)
+Add a **Timeline** node and call it `Move Light`. Connect the execution pin from **Animate Light** to **Play From Start**.
+
+![add timeline called move light and connect to event](images/AddTimeline.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

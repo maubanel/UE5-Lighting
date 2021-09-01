@@ -33,8 +33,9 @@ Create a new folder called **Mobility** and put the actor in it and rename it as
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
-Add a **
-![alt_text](images/StaticLightText.jpg)
+Add a **All Classes | Text Render** node and change the text to `Static Light`.  Place and rotate it on top of the spotlight.  Call it `SaticLightText` and change the render color to a shade of yellow.  Change the size to something larger such as `64`.
+
+![add text render class for static light title](images/StaticLightText.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

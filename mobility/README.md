@@ -22,7 +22,10 @@ OK, lets look at static lights and static objects.
 > For [Static Mesh Actors](https://docs.unrealengine.com/4.26/en-US/Basics/Actors/Mobility/), this means they will have their shadows contribute to pre-calculated lightmaps using Lightmass to generate and process them. This mobility makes them ideal for structural or decorative meshes that never need to relocate during gameplay. Note, however, that their Materials can still be animated.
 
 > For [Light Actors](https://docs.unrealengine.com/4.26/en-US/Basics/Actors/Mobility/), this means it will contribute to pre-calculated lightmaps using Lightmass. They will illuminate the scene for Static and Stationary Actors and for Movable ones, use an indirect lighting method (like Indirect Lighting Samples or Volumetric Lightmaps) to illuminate these dynamic objects.
-![alt_text](images/.jpg)
+
+Add a **Light | Spot Light** to the scene in the middle room to the left of the doorway to the back hallway. and keep the default values.  Set the **Mobility** to `Static`.
+
+![alt_teadd spot light to room and set to static](images/StaticLight.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

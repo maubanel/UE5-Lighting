@@ -17,6 +17,11 @@ Lets take a more in depth look at what happens when we adjust actor mobility for
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
+OK, lets look at static lights and static objects.  
+
+> For [Static Mesh Actors](https://docs.unrealengine.com/4.26/en-US/Basics/Actors/Mobility/), this means they will have their shadows contribute to pre-calculated lightmaps using Lightmass to generate and process them. This mobility makes them ideal for structural or decorative meshes that never need to relocate during gameplay. Note, however, that their Materials can still be animated.
+
+> For [Light Actors](https://docs.unrealengine.com/4.26/en-US/Basics/Actors/Mobility/), this means it will contribute to pre-calculated lightmaps using Lightmass. They will illuminate the scene for Static and Stationary Actors and for Movable ones, use an indirect lighting method (like Indirect Lighting Samples or Volumetric Lightmaps) to illuminate these dynamic objects.
 ![alt_text](images/.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>

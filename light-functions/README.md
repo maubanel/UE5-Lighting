@@ -170,7 +170,8 @@ Right click on **M_FlickerFlame** and create 3 **Material Instances**.  Turn on 
 
 ##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Go to all of your **Flame Flicker Spotlight** actors and mix up the 
+Go to all of your **Flame Flicker Spotlight** actors and mix up the **Light Function Materials** assigning an equal amount of the 4.  Make sure no two lights close to each other or in the same vincinity have the same material.
+
 ![add different material instances to each actor](images/MIxUpMaterialInstances.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>

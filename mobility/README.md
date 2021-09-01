@@ -75,7 +75,7 @@ If you are happy with how the four cubes look you can select all four **Cubes** 
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Leave all the defaults the same and in the **Merge Actors** pop-up select **Merge**.
+Leave all the defaults the same and in the **Merge Actors** pop-up select **Merge Actors**.
 
 ![press merge button](images/MergeActors2.jpg)
 

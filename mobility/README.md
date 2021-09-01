@@ -187,7 +187,9 @@ Play the game and look at all the lights.  The stationary lights provide consist
 
 ##### `Step 20.`\|`ITL`| :large_blue_diamond: :large_blue_diamond:
 
-![alt_text](images/.jpg)
+> [Movable](https://docs.unrealengine.com/4.26/en-US/Basics/Actors/Mobility/) For Light Actors means they can only cast dynamic shadows. In addition to being able to move the light during gameplay, they can also change their color and intensity during gameplay as well. However, care must be taken when making these lights cast shadows since their shadowing method is the most performance intensive. It should be noted that non-shadowing Movable Lights are very inexpensive to calculate due to Unreal Engine's Deferred rendering system. - UE4 Manual
+
+Repeat this three more times for a Movable Light with Static, Stationary and Mobile Static Meshes.
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

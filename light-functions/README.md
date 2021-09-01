@@ -15,8 +15,8 @@ We are going to turn on an emissive particle system effect for the flames.  We w
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-We have another effect that I turned off as it did emit light.  Open up **Materials | M_Fire** and connect the output of the **Multiply** pin into the **Emissions** pin in the main shader node.
-  
+We have another effect that I turned off as it did emit light.  Open up **Materials | M_Fire** and connect the output of the **Multiply** pin into the **Emissive Color** pin in the main shader node.
+
 ![alt_text](images/M_FireOn.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>

@@ -171,8 +171,9 @@ There is not a large difference between the static object and the stationary obj
 
 ##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Duplicate the cubes, text and spot light from the **World Outliner**.  Move the copies to the right and put them in a folder called `StationaryLightMovableObject`. Change the **StaticLightText6** **Text** to `Stationary Light<br>Movable Object`. Make sure that **SM_ShadowCubes4** is set to `Stationary` and **StaticSpotLight4** is set to `Stationary`.  Press the <kbd>Build</kbd> button.
 
-![alt_text](images/.jpg)
+![duplicate text, box and light](images/StationaryMovable.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

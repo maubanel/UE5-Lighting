@@ -67,7 +67,7 @@ https://user-images.githubusercontent.com/5504953/131713084-f6f3b6a6-7851-4713-a
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-If you are happy with how the four cubes look you can select all four in the **World Outliner** and  right click then select **Merge Actors**.
+If you are happy with how the four cubes look you can select all four **Cubes** in the **World Outliner** and  right click then select **Merge Actors**.
 ![merge 4 box actors](images/MergeActors.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>

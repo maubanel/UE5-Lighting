@@ -170,6 +170,7 @@ Right click on **M_FlickerFlame** and create 3 **Material Instances**.  Turn on 
 
 ##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Go to all of your **Flame Flicker Spotlight** actors and mix up the 
 ![alt_text](images/.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>

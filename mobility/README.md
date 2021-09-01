@@ -137,7 +137,7 @@ Since shadows can't be baked for movable objects (the shadows have to move aroun
 
 ##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-[Stationary](https://docs.unrealengine.com/4.26/en-US/Basics/Actors/Mobility/) for Light Actors means they can change in some way during gameplay, such as having their color changed or their intensity changed to be brighter or softer or even completely off. Stationary lights still contribute to pre-calculated lightmaps using Lightmass but can also cast dynamic shadows for moving objects. Note that care must be used to not have too many Stationary Lights affecting a given Actor. See Stationary Lights for more details. - UE4 Manual
+> [Stationary](https://docs.unrealengine.com/4.26/en-US/Basics/Actors/Mobility/) for Light Actors means they can change in some way during gameplay, such as having their color changed or their intensity changed to be brighter or softer or even completely off. Stationary lights still contribute to pre-calculated lightmaps using Lightmass but can also cast dynamic shadows for moving objects. Note that care must be used to not have too many Stationary Lights affecting a given Actor. See Stationary Lights for more details. - UE4 Manual
 
 Duplicate the cubes, text and spot light from the **World Outliner**.  Move the copies to the right and put them in a folder called `StationaryLightStaticObject`. Change the **StaticLightText4** **Text** to `Stationary Light<br>Static Object`. Make sure that **SM_ShadowCubes4** is set to `Static` and **StaticSpotLight4** is set to `Stationary`.  Press the <kbd>Build</kbd> button.
 

@@ -116,7 +116,9 @@ Notice that a static light does not cast light on a stationary or movable object
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+Duplicate the cubes, text and spot light from the **World Outliner**.  Move the copies to the right and put them in a folder called `StaticLightMovableObject`. Change the **StaticLightText3** **Text** to `Static Light<br>Movable Object`. Make sure that **SM_ShadowCubes3** is set to `Movable`.  Press the <kbd>Build</kbd> button.
+
+![alt_text](images/StaticLightMovable.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

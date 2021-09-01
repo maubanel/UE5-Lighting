@@ -6,7 +6,9 @@
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-Chapter introduction here.
+Lets take a more in depth look at what happens when we adjust actor mobility for meshes as well as lights. These all have dramatic impacts on the look and performance of our game.
+
+> The [Mobility](https://docs.unrealengine.com/4.26/en-US/Basics/Actors/Mobility/) setting controls whether an Actor will be allowed to move or change in some way during gameplay. This primarily applies to Static Mesh Actors and Light Actors. - Unreal Manual
 
 <br>
 

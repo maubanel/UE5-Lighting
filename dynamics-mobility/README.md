@@ -112,7 +112,9 @@ Add a second key at **Time** `2.5` and **Value** of `1.0`. Add a third key at **
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+By left clicking a box around all 5 key points select them so they are all bright orange.  Then right click and select **Auto**.  This will turn the linear interpolation into a nice curve.  This is all we need for the timeline.  What it will do is over 10 seconds will pull a value from the curve between -1 and 1 with nice ease in and ease out.
+
+![select all keys and press auto](images/AutoCurve.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

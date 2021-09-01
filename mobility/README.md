@@ -140,7 +140,7 @@ Duplicate the cubes, text and spot light from the **World Outliner**.  Move the 
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.jpg)
+Run the game and look at the stationary light versus static light on the static object.  The shadows on the ground are so much nicer with the baked lighting in the static light.  There is a fall off and dithering.  With the stationary light though the shadow is sharper and is crisp on the edges which doesn't fit this environment as well.
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

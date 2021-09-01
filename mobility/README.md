@@ -107,7 +107,7 @@ Duplicate the cubes, text and spot light from the **World Outliner**.  Move the 
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-Notice that a static light does not cast light on a stationary or movable object.  Even if the player goes underneath this light they will not get a shadow. Notice that this looks wrong.  We should mostly use static lights with static objects that both don't get changed dynamically.  Now remember a static mesh that has a **Mobility** of static can still have an animated material (the model can't move).
+Notice that a static light does not cast light on a stationary or movable object.  Even if the player goes underneath this light they will not get a shadow. Notice that this looks wrong.  We should mostly use static lights with static objects that both don't get changed dynamically.  Now remember a static mesh that has a **Mobility** of static can still have an animated material (the model can't move). Notice that the self shadowing on the cubes doesn't look right.  They are a lot brighter than the static ones and again look wrong.
 
 ![no shadow cast from static light to stationary object](images/NoShadow.jpg)
 
@@ -124,7 +124,7 @@ Duplicate the cubes, text and spot light from the **World Outliner**.  Move the 
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Since shadows can't be baked for movable objects (the shadows have to move around) as predicted this static light doesn't cast a shadow.  Avoid using this type of light if the actor passes under it with such a prominent light like in this scene.  This exacerbates the issue.
+Since shadows can't be baked for movable objects (the shadows have to move around) as predicted this static light doesn't cast a shadow.  Avoid using this type of light if the actor passes under it with such a prominent light like in this scene.  This exacerbates the issue. Notice that the self shadowing on the cubes doesn't look right.  They are a lot brighter than the static ones and again look wrong.
 
 ![no shadow for static light movable object](images/NoShadow2.jpg)
 
@@ -132,7 +132,9 @@ Since shadows can't be baked for movable objects (the shadows have to move aroun
 
 ##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+Duplicate the cubes, text and spot light from the **World Outliner**.  Move the copies to the right and put them in a folder called `StationaryLightStaticObject`. Change the **StaticLightText4** **Text** to `Stationary Light<br>Static Object`. Make sure that **SM_ShadowCubes4** is set to `Static` and **StaticSpotLight4** is set to `Stationary`.  Press the <kbd>Build</kbd> button.
+
+![duplicate text box and light](images/.StationaryStaticjpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

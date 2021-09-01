@@ -120,7 +120,7 @@ By left clicking a box around all 5 key points select them so they are all brigh
 
 ##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Press the **+** icon next to **Variable** to add a variable to the blueprint.  Select **Type** `Vector` and call it ``.
+Press the **+** icon next to **Variable** to add a variable to the blueprint.  Select **Type** `Vector` and call it `Initial Location`.
 
 ![alt_text](images/AddVariable.jpg)
 

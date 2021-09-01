@@ -134,7 +134,7 @@ Since shadows can't be baked for movable objects (the shadows have to move aroun
 
 Duplicate the cubes, text and spot light from the **World Outliner**.  Move the copies to the right and put them in a folder called `StationaryLightStaticObject`. Change the **StaticLightText4** **Text** to `Stationary Light<br>Static Object`. Make sure that **SM_ShadowCubes4** is set to `Static` and **StaticSpotLight4** is set to `Stationary`.  Press the <kbd>Build</kbd> button.
 
-![duplicate text box and light](images/.StationaryStaticjpg)
+![duplicate text box and light](images/StationaryStatic.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

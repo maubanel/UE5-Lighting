@@ -47,6 +47,7 @@ Add a **Make Rotator** node.  Attach the output of **X** to the **Z(Yaw)** of th
 
 Play the game and make sure that the cube actually turns!
 
+https://user-images.githubusercontent.com/5504953/131739199-1c5f8d20-b7c0-4823-b21c-96bbf2d78e7a.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -2,7 +2,7 @@
 
 ### Actor & Light Mobility
 
-<sub>[previous](../light-functions/README.md#user-content-light-functions) • [home](../README.md#user-content-ue4-lighting) • [next](../)</sub>
+<sub>[previous](../light-functions/README.md#user-content-light-functions) • [home](../README.md#user-content-ue4-lighting) • [next](../dynamics-mobility/README.md#user-content-add-dynamics-to-mobility)</sub>
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
@@ -210,5 +210,5 @@ ___
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-| [previous](../light-functions/README.md#user-content-light-functions)| [home](../README.md#user-content-ue4-lighting) | [next](../)|
+| [previous](../light-functions/README.md#user-content-light-functions)| [home](../README.md#user-content-ue4-lighting) | [next](../dynamics-mobility/README.md#user-content-add-dynamics-to-mobility)|
 |---|---|---|

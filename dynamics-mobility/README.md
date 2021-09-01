@@ -128,7 +128,7 @@ Press the **+** icon next to **Variable** to add a variable to the blueprint.  S
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.jpg)
+![alt_text](images/BeginPlay.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

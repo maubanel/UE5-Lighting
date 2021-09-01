@@ -93,7 +93,11 @@ Add a **Timeline** node and call it `Move Light`. Connect the execution pin from
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/FirstChangeTimeline.jpg)
+Double click the timeline to open it up.  Change the **Length** to `10.0`.  Press the **F+** button to add a float curve.  Right click the name and select **Rename** and call this curve `Position X`.  
+
+On the open graph right mouse click and then select **Add key to CurveFLoat0**.  This puts a diamond and click on it and set the **Time** and **Value** to `0`.
+
+![open graph add float then add a 0,0 key](images/FirstChangeTimeline.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

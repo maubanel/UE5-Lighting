@@ -189,13 +189,13 @@ Play the game and look at all the lights.  The stationary lights provide consist
 
 > [Movable](https://docs.unrealengine.com/4.26/en-US/Basics/Actors/Mobility/) For Light Actors means they can only cast dynamic shadows. In addition to being able to move the light during gameplay, they can also change their color and intensity during gameplay as well. However, care must be taken when making these lights cast shadows since their shadowing method is the most performance intensive. It should be noted that non-shadowing Movable Lights are very inexpensive to calculate due to Unreal Engine's Deferred rendering system. - UE4 Manual
 
-Repeat this three more times for a Movable Light with Static, Stationary and Mobile Static Meshes.
+Repeat this three more times for a Movable Light with Static, Stationary and Mobile Static Meshes. Press the <kbd>Build</kbd> button to build the light.
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 21.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Check it out in game.  The shadows that fall on the ground and on the cubes are much sharper with the real time light.  The only time we would use this is if they move (like a follow spot, flashlight or car lights).
 
 ___
 

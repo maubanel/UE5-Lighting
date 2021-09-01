@@ -69,14 +69,17 @@ https://user-images.githubusercontent.com/5504953/131740035-507a6f3d-35dc-4ed5-a
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now lets animated a moving light.  
-![alt_text](images/.jpg)
+Now lets animated a moving light.  Select a spot light that is marked as **Movable** and press the **Blueprint/Add Script** and select the **Blueprints** folder and call the file `BP_MobileSpotlight`. Press the <kbd>Select</kbd> button.
+
+![alt_text](images/MovableLightToBP.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/MovableLightToBP.jpg)
+Lets add a **Custom Event** node to this blueprint and call it `Animate Light`.
+
+![add custom event called animate light](images/AddCustomEvent.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

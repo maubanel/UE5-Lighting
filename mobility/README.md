@@ -51,13 +51,15 @@ Add four **Cubes** under the light and place them in an interesting manner.  Cha
 
 Play the game and look at the lighting on the boxes and the shadow cast on the floor.  Look at how nicely the shadow dithers.
 
-
+https://user-images.githubusercontent.com/5504953/131712876-bf8b114b-faa0-4b4f-87b1-dc4a9022f805.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
-![alt_text](images/.jpg)
+Now the lighting on the cubes and the shadow on the ground are baked.  If we move the actors the lighting disappears on the cubes and the shadow stays on the ground.  The static meshes for pieces that we never animate and do not get affected by physics should be set to static.  That way we get terrific shadows baked into the ground.
+
+https://user-images.githubusercontent.com/5504953/131713084-f6f3b6a6-7851-4713-ab79-779d671321d9.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

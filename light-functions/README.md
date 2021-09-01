@@ -103,7 +103,7 @@ This will give us some apparent randomness to the fades giving more eratic outpu
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-
+Now look at the result, it gives us something much closer to what we are looking for. 
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

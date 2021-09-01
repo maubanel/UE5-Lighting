@@ -128,6 +128,8 @@ Press the **+** icon next to **Variable** to add a variable to the blueprint.  S
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
+Next to the existing **Event BeginPlay** node add a **Get Actor Location** location node.  Pull off of the **Get Actor Location | Return Value** pin and select **Set Initial Location**.  This will store the starting point of the light in the room (its current position).  Add a **Animate Light** node to call the custom function below.  Connectr the execution pins.
+
 ![alt_text](images/BeginPlay.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>

@@ -30,8 +30,9 @@ Now lets rotate the static mesh we created.  Go to one of the **SM_ShadowCubes**
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Open up **BP_MovingCubes** and add a **Float X float** node to multiply to floats.  
-![alt_text](images/AddFloatMultiply.jpg)
+Open up **BP_MovingCubes** and add a **Float X float** node to multiply to floats.  Connect the **Delta Seconds** output from the **Event Tick** into the top side of the multiply pin. Set the bottom value to `50.0`.  Add a comment of `Degrees per Second`.  This will dictate how many degrees the cubes will turn per second.
+
+![add float times float attach to delta seconds times 50](images/AddFloatMultiply.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

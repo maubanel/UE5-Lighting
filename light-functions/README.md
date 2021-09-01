@@ -111,7 +111,11 @@ https://user-images.githubusercontent.com/5504953/131687015-ab95adc2-a934-4eea-9
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-![](images/.jpg)
+One of the big challenges we face is too much symmetry in a level.  If we place all these lights then they will all have the exact same flicker at the same time.  Lets set up the possibility to extend this in a material instance with a variable to adjust the speed.  This way we can ensure that a room doesn't have the same flicker on two flames.
+
+Add a **Vector Parameter** and call it `FlickerSpeed`.  Set the **Default Value** to `1.45`.  This is a good speed.
+
+![Vector Parameter called FlickerSpeed with a Default Value of 1.45](images/VectorParameter.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

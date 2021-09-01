@@ -53,7 +53,7 @@ https://user-images.githubusercontent.com/5504953/131739199-1c5f8d20-b7c0-4823-b
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-
+Now if you select **BP_Moving_Cube** in the **Content Browser** you can right click on other two **Static Meshes** that are set to **Movable**.  Select the **Replace Selected Actors with BP_MovingCube**.
 
 ![replace two movable meshes with blueprint](images/ReplaceActors.jpg)
 

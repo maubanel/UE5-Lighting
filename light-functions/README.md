@@ -130,7 +130,9 @@ https://user-images.githubusercontent.com/5504953/131688042-0e1d22c6-1d6b-4302-8
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+Now select the **Flame Flicker Light** Spot Light from the **World Outliner** and drag and drop **M_FlickerFlame** into the **Light Function | Light Function Material**.
+
+![drag and drop m_flickerflame onto spot light](images/AddFlickerToLight.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

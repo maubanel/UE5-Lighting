@@ -61,7 +61,9 @@ Now if you select **BP_Moving_Cube** in the **Content Browser** you can right cl
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Now hit play and make sure that the three movable static meshes rotate.
+
+https://user-images.githubusercontent.com/5504953/131740035-507a6f3d-35dc-4ed5-a412-1d786cfbe2c1.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

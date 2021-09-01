@@ -105,6 +105,8 @@ This will give us some apparent randomness to the fades giving more eratic outpu
 
 Now look at the result, it gives us something much closer to what we are looking for. 
 
+https://user-images.githubusercontent.com/5504953/131687015-ab95adc2-a934-4eea-9809-920367c3104a.mp4
+
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 

@@ -193,7 +193,9 @@ https://user-images.githubusercontent.com/5504953/131703962-9481e5fb-6c37-4ae9-a
 
 ##### `Step 21.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Press **File | Save All** and press **Source Control |  Submit to Source Control...** and enter a **Description** then press the <kbd>Submit</kbd> button. Open up **GitHub Desktop** and press the <kbd>Push</kbd> button. Now we are updated.
+
+![save all, commit and push to github](images/GitHub.jpg)
 
 ___
 

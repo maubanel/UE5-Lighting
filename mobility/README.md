@@ -107,7 +107,9 @@ Duplicate the cubes, text and spot light from the **World Outliner**.  Move the 
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+Notice that a static light does not cast light on a stationary or movable object.  Even if the player goes underneath this light they will not get a shadow. Notice that this looks wrong.  We should mostly use static lights with static objects that both don't get changed dynamically.  Now remember a static mesh that has a **Mobility** of static can still have an animated material (the model can't move).
+
+![no shadow cast from static light to stationary object](images/NoShadow.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -23,7 +23,9 @@ OK, lets look at static lights and static objects.
 
 > For [Light Actors](https://docs.unrealengine.com/4.26/en-US/Basics/Actors/Mobility/), this means it will contribute to pre-calculated lightmaps using Lightmass. They will illuminate the scene for Static and Stationary Actors and for Movable ones, use an indirect lighting method (like Indirect Lighting Samples or Volumetric Lightmaps) to illuminate these dynamic objects.
 
-Add a **Light | Spot Light** to the scene in the middle room to the left of the doorway to the back hallway. and keep the default values.  Set the **Mobility** to `Static`. Place it high enough that the player can walk under it.
+Add a **Light | Spot Light** to the scene in the middle room to the left of the doorway to the back hallway. and keep the default values.  Set the **Mobility** to `Static`. Place it high enough that the player can walk under it. 
+
+Create a new folder called **Mobility** and put the actor in it and rename it as `StaticSpotLight`.
 
 ![alt_teadd spot light to room and set to static](images/StaticLight.jpg)
 
@@ -31,7 +33,8 @@ Add a **Light | Spot Light** to the scene in the middle room to the left of the 
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+Add a **
+![alt_text](images/StaticLightText.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

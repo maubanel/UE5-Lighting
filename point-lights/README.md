@@ -153,7 +153,10 @@ https://user-images.githubusercontent.com/5504953/131583790-6aa24dda-0249-4b34-8
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
-Alt drag another copy of the ember light to each lantern that either has an ember. There is one stand that has neither and we will not place a light here. Check all the rooms for all the lanterns with glowing embers.
+Alt drag another copy of the ember light to each lantern that either has an ember. There is one stand that has neither and we will not place a light here. Check all the rooms for all the lanterns with glowing embers. I counted 14 additional lights.  You can copy the **Location** of the **FirePit** actor and paste it on the **Location** of a duplicated light.  This way I could ensure I had a light per location though some had no lit embers so no light.
+
+https://user-images.githubusercontent.com/5504953/131666409-a2482b9f-4fef-4adc-beac-d7ffa48e5345.mp4
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

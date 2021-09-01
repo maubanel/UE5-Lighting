@@ -140,7 +140,9 @@ Duplicate the cubes, text and spot light from the **World Outliner**.  Move the 
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
-Run the game and look at the stationary light versus static light on the static object.  The shadows on the ground are so much nicer with the baked lighting in the static light.  There is a fall off and dithering.  With the stationary light though the shadow is sharper and is crisp on the edges which doesn't fit this environment as well.
+Run the game and look at the stationary light versus static light on the static object.  The shadows on the ground are so much nicer with the baked lighting in the static light.  There is a fall off and dithering.  With the stationary light though the shadow is sharper and is crisp on the edges which doesn't fit this environment as well. The movable objects don't look right at all and clearly can't work with just static lighting.  Now a stationary light is more expensive than a static one, but less expensive than a movable light.
+
+https://user-images.githubusercontent.com/5504953/131724522-9875ec56-8555-458e-a569-e5502d626682.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -141,7 +141,7 @@ Since shadows can't be baked for movable objects (the shadows have to move aroun
 
 Duplicate the cubes, text and spot light from the **World Outliner**.  Move the copies to the right and put them in a folder called `StationaryLightStaticObject`. Change the **StaticLightText4** **Text** to `Stationary Light<br>Static Object`. Make sure that **SM_ShadowCubes4** is set to `Static` and **StaticSpotLight4** is set to `Stationary`.  Press the <kbd>Build</kbd> button.
 
-![duplicate text box and light](images/StationaryStatic.jpg)
+![duplicate text, box and light](images/StationaryStatic.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
@@ -155,7 +155,9 @@ https://user-images.githubusercontent.com/5504953/131724522-9875ec56-8555-458e-a
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+Duplicate the cubes, text and spot light from the **World Outliner**.  Move the copies to the right and put them in a folder called `StationaryLightStationaryObject`. Change the **StaticLightText5** **Text** to `Stationary Light<br>Stationary Object`. Make sure that **SM_ShadowCubes4** is set to `Stationary` and **StaticSpotLight4** is set to `Stationary`.  Press the <kbd>Build</kbd> button.
+
+![duplicate text, box and light](images/StationaryStationary.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

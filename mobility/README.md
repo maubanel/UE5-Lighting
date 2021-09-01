@@ -92,6 +92,8 @@ Select the **Meshes** folder and call the file `SM_ShadowCubes` and press the <k
 
 Delete the four cubes.  Replace them with the single mesh `SM_ShadowCubes`.  Press the <kbd>Build</kbd> button again.  Edit the text on the **Text Render** object to `Static Light<br>Static Objects`.  The <br> is for line break and Unreal text takes this html markup.
 
+Right click on **Mobility** folder and add a new subfolder.  Call it `StatiLightStaticObject`.  Drag the three objects used into this subfolder.
+
 ![delete 4 cubes add single mesh add static objects to title](images/Delete4Cubes.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>

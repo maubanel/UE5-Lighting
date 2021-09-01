@@ -104,6 +104,8 @@ On the open graph right mouse click and then select **Add key to CurveFLoat0**. 
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
+Add a second key at **Time** `2.5` and **Value** of `1.0`. Add a third key at **Time** `5` and **Value** of `0.0`. Add a fourth key at **Time** `7.5` and **Value** of `-1.0` and finally a fifth key  at **Time** `10` and **Value** of `0`.  It should look like the graph I have.
+
 ![alt_text](images/FourKeyPoints.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>

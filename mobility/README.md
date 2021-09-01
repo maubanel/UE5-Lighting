@@ -41,15 +41,17 @@ Add a **All Classes | Text Render** node and change the text to `Static Light`. 
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Add four **Cubes** under the light and place them in an interesting manner.  Change the **Scale** to `0.5` on the **XYZ** axes.   
+Add four **Cubes** under the light and place them in an interesting manner.  Change the **Scale** to `0.5` on the **XYZ** axes. Make sure the mobibility is set to **Static**.  Add a **M_StoneBrickWall** material to each cube.  Press the <kbd>Build</kbd> button to rebuild the static lights in the scene (including the one we just added)
 
-![alt_text](images/GroupOfFourCubes.jpg)
+![add 4 half size cubes and make sure they are static build lighting](images/GroupOfFourCubes.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Play the game and look at the lighting on the boxes and the shadow cast on the floor.  Look at how nicely the shadow dithers.
+
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

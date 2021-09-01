@@ -15,7 +15,7 @@ Now having the different modes are necessary for certain abilities.  Lets make s
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-Now the easiest thing for us to do is to add our existing flickering light to the **Stationary Lights**.  This is affecting this light without moving it.  You can select all lights that are marked as stationary 
+Now the easiest thing for us to do is to add our existing flickering light to the **Stationary Lights**.  This is affecting this light without moving it.  You can select all lights that are marked as **Stationary** and drab **M_FlickerFlame** into the **Light Function Material** which will make all three lights flicker.
 
 ![alt_text](images/StationaryLightFlickering.jpg)
 

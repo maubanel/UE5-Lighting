@@ -18,6 +18,7 @@ Lets look at **[Physically Based Rendering Materials (PBR)](https://en.wikipedia
 <kbd></kbd> &nbsp;&nbsp; [Lighting Prep](prep/README.md#user-content-lighting-prep) <br>
 <kbd></kbd> &nbsp;&nbsp; [Point Lights](point-lights/README.md#user-content-point-lights) <br>
 <kbd></kbd> &nbsp;&nbsp; [Light Functions](light-functions/README.md#user-content-light-functions) <br>
+<kbd></kbd> &nbsp;&nbsp; [Actor & Light Mobility](mobility/README.md#user-content-mobility) <br>
 
 <!-- LICENSE -->
 ## License

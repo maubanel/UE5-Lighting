@@ -179,7 +179,9 @@ Duplicate the cubes, text and spot light from the **World Outliner**.  Move the 
 
 ##### `Step 19.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Play the game and look at all the lights.  The stationary lights provide consistent results against all object mobility types.  But it doesn't look as good as a static light on a static object.
+
+![stationary light movable object in game](images/StationaryMovableInGame.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

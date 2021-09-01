@@ -17,13 +17,15 @@ We are going to turn on an emissive particle system effect for the flames.  We w
 
 We have another effect that I turned off as it did emit light.  Open up **Materials | M_Fire** and connect the output of the **Multiply** pin into the **Emissive Color** pin in the main shader node.
 
-![alt_text](images/M_FireOn.jpg)
+![hook up multiply to emissive in m_fire](images/M_FireOn.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+I used the same mannequin as the level design assignment and we had the collision volume rendering.  Open up **Blueprints | ThirdPersonCharacter** and select the **Capsule Component**.  Go to **Rendering | Hidden In Game** and select `true` by ticking the box.
+
+![turn on hidden in games in third person character capsule component](images/HideCapsule.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

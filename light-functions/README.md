@@ -140,7 +140,9 @@ Add a **Vector Parameter** and call it `FlickerSpeed`.  Set the **Default Value*
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.jpg)
+Now we can see that we have something usable.  Press the <kbd>Apply</kbd> key.
+
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

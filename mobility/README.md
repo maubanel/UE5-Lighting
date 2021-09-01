@@ -99,8 +99,9 @@ Right click on **Mobility** folder and add a new subfolder.  Call it `StatiLight
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
+Duplicate the cubes, text and spot light from the **World Outliner**.  Move the copies to the right and put them in a folder called `StaticLightStationaryObject`. Change the **StaticLightText2** **Text** to `Static Light<br>Stationary Object`. Make sure that **SM_ShadowCubes2** is set to `Stationary`.  Press the <kbd>Build</kbd> button.
 
-![alt_text](images/StaticLightStationary.jpg)
+![duplicate text box and light](images/StaticLightStationary.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

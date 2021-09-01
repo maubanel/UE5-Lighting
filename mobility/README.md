@@ -90,7 +90,7 @@ Select the **Meshes** folder and call the file `SM_ShadowCubes` and press the <k
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Delete the four cubes.  Replace them with the single mesh `SM_ShadowCubes`.  Press the **Build** button again.  Edit the text on the **Text Render** object to `Static Light<br>Static Objects`.  The <br> is for line break and Unreal text takes this html markup.
+Delete the four cubes.  Replace them with the single mesh `SM_ShadowCubes`.  Press the <kbd>Build</kbd> button again.  Edit the text on the **Text Render** object to `Static Light<br>Static Objects`.  The <br> is for line break and Unreal text takes this html markup.
 
 ![delete 4 cubes add single mesh add static objects to title](images/Delete4Cubes.jpg)
 

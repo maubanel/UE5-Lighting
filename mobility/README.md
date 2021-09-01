@@ -41,7 +41,9 @@ Add a **All Classes | Text Render** node and change the text to `Static Light`. 
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Add four **Cubes** under the light and place them in an interesting manner.  Change the **Scale** to `0.5` on the **XYZ** axes.   
+
+![alt_text](images/GroupOfFourCubes.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -146,7 +146,7 @@ https://user-images.githubusercontent.com/5504953/131690436-807e490c-2095-4e31-8
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
-I backed off the **Intensity** from **10** to `2`.  This provides a more subtle and realistic effect. The flicker also relects in the mannequin's surface, super cool!
+I backed off the **Intensity** from `10` to `2` lumens.  This provides a more subtle and realistic effect. The flicker also relects in the mannequin's surface, super cool!
 
 https://user-images.githubusercontent.com/5504953/131690553-f30e19aa-350f-4292-8f1a-b83128bcc5bb.mp4
 

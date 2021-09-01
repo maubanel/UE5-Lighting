@@ -142,7 +142,7 @@ Add a **Vector Parameter** and call it `FlickerSpeed`.  Set the **Default Value*
 
 Now we can see that we have something usable.  Press the <kbd>Apply</kbd> key.
 
-
+https://user-images.githubusercontent.com/5504953/131688042-0e1d22c6-1d6b-4302-8b0d-0ca357c51cdd.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

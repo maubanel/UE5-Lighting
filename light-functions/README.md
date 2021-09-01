@@ -138,13 +138,17 @@ Now select the **Flame Flicker Light** Spot Light from the **World Outliner** an
 
 ##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Now play the game and look at the light in action.
+Now play the game and look at the light in action. I find the light much brighter than the flame appears to be.  Lets fix that.
+
+https://user-images.githubusercontent.com/5504953/131690436-807e490c-2095-4e31-8bf2-69ed67beb52a.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
-I backed off the **Intensity** from **10** to `2`.  This provides a more subtle realistic effect.
+I backed off the **Intensity** from **10** to `2`.  This provides a more subtle and realistic effect. The flicker also relects in the mannequin's surface, super cool!
+
+https://user-images.githubusercontent.com/5504953/131690553-f30e19aa-350f-4292-8f1a-b83128bcc5bb.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

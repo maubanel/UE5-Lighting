@@ -124,7 +124,9 @@ Duplicate the cubes, text and spot light from the **World Outliner**.  Move the 
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+Since shadows can't be baked for movable objects (the shadows have to move around) as predicted this static light doesn't cast a shadow.  Avoid using this type of light if the actor passes under it with such a prominent light like in this scene.  This exacerbates the issue.
+
+![no shadow for static light movable object](images/NoShadow2.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

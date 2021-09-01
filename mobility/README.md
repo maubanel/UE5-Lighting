@@ -57,7 +57,9 @@ https://user-images.githubusercontent.com/5504953/131712876-bf8b114b-faa0-4b4f-8
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
-Now the lighting on the cubes and the shadow on the ground are baked.  If we move the actors the lighting disappears on the cubes and the shadow stays on the ground.  The static meshes for pieces that we never animate and do not get affected by physics should be set to static.  That way we get terrific shadows baked into the ground.
+Now the lighting on the cubes and the shadow on the ground are baked.  If we move the actors the lighting disappears on the cubes and the shadow stays on the ground.  This is because the build process baked those shadows into the lightmaps.
+
+The static meshes for pieces that we never animate and do not get affected by physics should be set to static.  That way we get terrific shadows baked into the ground.
 
 https://user-images.githubusercontent.com/5504953/131713084-f6f3b6a6-7851-4713-ab79-779d671321d9.mp4
 
@@ -65,6 +67,7 @@ https://user-images.githubusercontent.com/5504953/131713084-f6f3b6a6-7851-4713-a
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
+If you are happy with how the four cubes look you can select all four in the **World Outliner** and  right click then select **Merge Actors**.
 ![alt_text](images/.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>

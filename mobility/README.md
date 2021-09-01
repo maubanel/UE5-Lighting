@@ -197,7 +197,7 @@ https://user-images.githubusercontent.com/5504953/131732607-935722d6-3629-49cf-8
 
 ##### `Step 21.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
-Check it out in game.  The shadows that fall on the ground and on the cubes are much sharper with the real time light.  The only time we would use this is if they move (like a follow spot, flashlight or car lights).
+Check it out in game.  The shadows that fall on the ground and on the cubes are much sharper with the Movable lights.  The only time we would use this is if they move (like a follow spot, flashlight or car lights).
 
 https://user-images.githubusercontent.com/5504953/131732792-3843456f-bb40-4619-aa59-48511a10bb44.mp4
 
@@ -206,7 +206,7 @@ ___
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Add Dynamics To Modes">
+<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Add Dynamics To Mobility">
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 

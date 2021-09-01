@@ -79,7 +79,7 @@ A material normally affects a polygon surface and we can apply a lot of effects 
 
 Add a **Time** node to the graph.  This node takes a number from 0 to 1 and back to 0 over time.  This way we can animate it.  Since this is a normalized scalar we can multiply it to speed it up or slow it down.
 
-Add a **Multiply** node and send the output of the **Time** node. This will multiply by 1 which will be the set speed of the time function.  Now send this to a **Sine** node.  This will take it from a linear transition to a ease in and out over a [sine wave](https://en.wikipedia.org/wiki/Sine_wave).  
+Add a **Multiply** node and send the output of the **Time** node. This will multiply by 1 (default) which will be the set speed of the time function.  Now send this to a **Sine** node.  This will take it from a linear transition to a ease in and out over a [sine wave](https://en.wikipedia.org/wiki/Sine_wave).  
 
 ![add Time, Multiply and Sine node and connect them in series](images/TimeMaterialNode.jpg)
 

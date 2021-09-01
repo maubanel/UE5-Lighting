@@ -83,6 +83,7 @@ Leave all the defaults the same and in the **Merge Actors** pop-up select **Merg
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Select the **Meshes** folder and call the file `SM_SHadowCubes` and press the <kbd>Save</kbd> button. 
 ![alt_text](images/savesmshadowCubes.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>

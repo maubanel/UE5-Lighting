@@ -85,7 +85,9 @@ https://user-images.githubusercontent.com/5504953/131840594-b1a8f8dd-45d8-4104-9
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Now we keep refining the process by adding volumes.  What we have to worry about is that the 360 view from the first one will have some areas of occlusion.  The statue blocks it from getting what is behind it.  We need to strategically place them to fill out all voids and avoid issues in transitionp points between volumes.  Clever placed **Sphere Reflection Capture** volumes takes  some trial and error.  Looking at the ball and makin adjustments to the size in **Relections** mode is very helpful.
+
+Add a second reflection capture and switch to **Reflections** view.  Position it between the statue and the wall with the black area at roughly player height (this is the viewpoint the player experiences).  Adjust the size until the reflection is the right scale and replaces the black.  Press the **Build | Build Reflection Caputures** and run around.  I was able to get rid of those black voids I had previously.
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

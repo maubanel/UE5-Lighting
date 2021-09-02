@@ -67,7 +67,9 @@ Duplicate the light and move it to the next window.
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Make two lights set to `0.1` lumens and a very narrow **Outer Core Angle** for the two lights for the small windows above the large ones. 
+
+![two more small lights](images/NarrowerTopLights.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

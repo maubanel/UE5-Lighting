@@ -57,8 +57,10 @@ https://user-images.githubusercontent.com/5504953/131838101-33666902-fca6-49cc-8
 
 Full reflection documentation can be found at [Reflection Environment](https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LightingAndShadows/ReflectionEnvironment/)
 
+Add a **Sphere Reflection Capture** actor to the gazebo above the statue.
 
-![alt_text](images/.jpg)
+
+![alt_text](images/AddFirstSRC.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

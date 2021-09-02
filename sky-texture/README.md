@@ -31,7 +31,9 @@ We don't care about the bottom half below the equator. That part of the globe is
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Bring the image into Photoshop to do some simple formatting.
+
+![bring image into photoshop](images/image_77.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

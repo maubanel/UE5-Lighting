@@ -116,7 +116,9 @@ Press **File | Save All** and press **Source Control |  Submit to Source Control
 
 ![save all, commit and push to github](images/GitHub.jpg)
 
-___
+| `lighting.reflections`\|`THE END`| 
+| :--- |
+| **That's All Folks!** Thanks for sticking around. That's it for this lesson. |
 
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>

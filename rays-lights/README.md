@@ -33,7 +33,9 @@ https://user-images.githubusercontent.com/5504953/131884060-ce78d8f6-1a10-47b2-9
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Now lets go to the outside right of the building (looking from the Gazebo) to the large window in the middle room.  Normally in the day light would be coming in.  But since the sun isn't pointing here it is not contributing much light.  Lets add a spot light and rotate and point it at the window.
+
+![alt_text](images/AddFirstSpotlight.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

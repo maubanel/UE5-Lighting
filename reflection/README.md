@@ -95,7 +95,9 @@ https://user-images.githubusercontent.com/5504953/131842299-03bd7852-a0f5-49d7-9
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Now lets move the camera to the other side of the statue.  I find the reflection map very blurry.  Lets add a third **Sphere Reflection Volume** to this side.
+
+![add third sphere reflection volume](images/OtherSideOfGazebo.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

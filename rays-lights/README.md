@@ -129,8 +129,8 @@ https://user-images.githubusercontent.com/5504953/131903319-6f79bbe9-b982-4f20-a
 Press **File | Save All** and press **Source Control |  Submit to Source Control...** and enter a **Description** then press the <kbd>Submit</kbd> button. Open up **GitHub Desktop** and press the <kbd>Push</kbd> button. Now we are updated.
 
 ![save all, commit and push to github](images/GitHub.jpg)
-___
 
+___
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 

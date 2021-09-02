@@ -113,13 +113,13 @@ Press the **Build | Build Reflection Caputures** and run around to see the third
 https://user-images.githubusercontent.com/5504953/131844633-ca242938-fc94-42da-8df7-15c08cf6c980.mp4
 
 
-
-
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+In **Reflection** mode go around a eliminate any fuzzy or black areas by includuding **Sphere Reflection ** in those spots.
+
+![fill in black areas](images/FillInBlackHoles.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

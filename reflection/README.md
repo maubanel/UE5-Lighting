@@ -73,7 +73,9 @@ The sphere reflection camera takes a 360 degree shot of where it is centered and
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Now press the arrow key next the **Build** button and select 
+
+![alt_text](images/BuildReflectionCaptures.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -89,6 +89,8 @@ Now we keep refining the process by adding volumes.  What we have to worry about
 
 Add a second reflection capture and switch to **Reflections** view.  Position it between the statue and the wall with the black area at roughly player height (this is the viewpoint the player experiences).  Adjust the size until the reflection is the right scale and replaces the black.  Press the **Build | Build Reflection Caputures** and run around.  I was able to get rid of those black voids I had previously.
 
+https://user-images.githubusercontent.com/5504953/131842299-03bd7852-a0f5-49d7-93f6-e91fec95dda5.mp4
+
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:

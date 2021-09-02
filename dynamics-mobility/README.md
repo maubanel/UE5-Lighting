@@ -186,6 +186,21 @@ Convert all three movable lights to the **BP_Movable_Spotlight** and run the gam
 
 https://user-images.githubusercontent.com/5504953/131831850-56fc6a79-3117-4db4-99d6-04fd9cfbba8b.mp4
 
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 22.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
+
+Now these are the most common lighting combinations using the **Mobility** setting.  Notice that they have a large performance impact as well as a visual one.  You need to think about what mobility setting the objects have in your game levels.  Press the <kbd>Build<kbd> button to rebuild the lighting. 
+  
+Now play the game and look at all 9 combinations.
+
+https://user-images.githubusercontent.com/5504953/131832538-0feb20ea-c523-40f8-bfc9-49321dd0569e.mp4
+
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 23.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
+
+
 ___
 
 

@@ -73,7 +73,7 @@ The sphere reflection camera takes a 360 degree shot of where it is centered and
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now press the arrow key next the **Build** button and select 
+Now press the arrow key next the **Build** button and select **Build Reflection Captures**.  Notice that we now see the interior.  There are still some black spots though.
 
 ![alt_text](images/BuildReflectionCaptures.jpg)
 

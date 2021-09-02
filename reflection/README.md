@@ -126,13 +126,17 @@ In **Reflection** mode go around a eliminate any fuzzy or black areas by includu
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+I put a sphere to cover the hallway between the gazebo and the central room.  This is for reflecting the hallway back into those two spaces.
+
+![larger reflection sphere in hallway](images/SphereInHallway.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+To get reflections inside the hallway itself we need to use two smaller reflection volumes to cover just the two walls and floor.
+
+![two small spheres in hallway](images/TwoSmallSpheresInHallway.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -85,7 +85,7 @@ Now I get some very subtle fill lighting indoors that adds a bit more detail to 
 
 I don't like the very dark area when we enter the middle room.  It has no light going to the player.  I added a spotlight from the ceiling to give this area a bit of light.
 
-![alt_text](images/.jpg)
+https://user-images.githubusercontent.com/5504953/131890978-dd445c22-d6e4-444a-88bd-10c7c5a9d4c5.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -59,7 +59,9 @@ Put the spotlight in the **Lighting** folder. I played the game and ran around. 
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Duplicate the light and move it to the next window.
+
+![dupe light and move to next window](images/SecondWindowLight.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

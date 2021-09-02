@@ -180,15 +180,20 @@ Now these reflections are fairly inexpensive.  We need to be carefull about how 
 
 This increases the render time dramatically. For those who are not doing intense games and are doing visualizations or virtual productions, this is a powerful mode that can make water and reflective survaces look SO much more realistic.
 
-To turn it on go to **Settings | Project Settings** and check the box for **Engine | Rendering | Support global clip plane for Planar Reflections**.  It will require a rebooting of the game for this option to take effect.  In my case it took a long time to reboot. It launched a bunch of shader compilers so it looks like it had to rebuild ALL the materials.
+Before turning on this feature lets make this our default map.  Open up **Settings | Project Settings | Maps and Modes** and put the **Lit Level** as our two default ones.
 
-![turn global clip plan setting on](images/TurnPlanarReflectionsOn.jpg)
+![set lit level as default load](images/MapsAndModes.jpg)
+
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+To turn it on support for planar reflections, go to **Settings | Project Settings** and check the box for **Engine | Rendering | Support global clip plane for Planar Reflections**.  It will require a rebooting of the game for this option to take effect.  In my case it took a long time to reboot. It launched a bunch of shader compilers so it looks like it had to rebuild ALL the shaders.
+
+![turn global clip plan setting on](images/TurnPlanarReflectionsOn.jpg)
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

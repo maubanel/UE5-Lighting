@@ -65,7 +65,9 @@ Add a **Sphere Reflection Capture** actor to the gazebo above the statue. Place 
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+The sphere reflection camera takes a 360 degree shot of where it is centered and uses that for the reflection map.  We want to set the distance it photographs to just beyond the gazebo (It starts to reduce the effect the close you get to the end of the volume).  
+
+![alt_text](images/ScaleAroundGazebo.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

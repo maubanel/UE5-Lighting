@@ -170,7 +170,11 @@ Now we are ready to translate the light to the new spot in the room.  Add a **Se
 
 ##### `Step 20.`\|`ITL`| :large_blue_diamond: :large_blue_diamond:
 
-![alt_text](images/.jpg)
+Every frame the **Timeline** will move along the graph for 10 seconds.  Connect the **Update** execution pin from the timeline to the **SetActorLocation** pin.  This will set the actor's new location.
+
+Connect the output of the **+** pin to the **New X Location** pin.  Connect the **Initial Location Y** and **Initial Location X** to the **New Location Y** and **New Location X** pins.  These two axis are not moving so the values will stay the same. 
+
+![connect the pins for set actor location](images/ConnectSetActorLocation.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

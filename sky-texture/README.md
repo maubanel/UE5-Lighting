@@ -106,6 +106,7 @@ Now adjust the sun to lower to the horizon as this is near sunset.  I also match
 
 I didn't build the lighting but took a quick look around at a different global lighting scenario based on the a new sky texture.
 
+https://user-images.githubusercontent.com/5504953/131925562-515a33b3-6271-44ba-be3d-53e03218ef6f.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

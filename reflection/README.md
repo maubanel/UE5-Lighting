@@ -164,7 +164,9 @@ https://user-images.githubusercontent.com/5504953/131867364-109acbda-9449-4c29-b
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+Repeat this for the final dark hallway. In the end I used 37 capture volumes.
+
+![capture volumes in back hallway](images/LastRoomReflections.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

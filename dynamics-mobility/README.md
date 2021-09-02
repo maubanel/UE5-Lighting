@@ -138,9 +138,9 @@ We need to know the startin point so we can move to and from there (we use the t
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-Go back to the custom event on the graph and add a **Get Initial Location** pin. Then we just want to adjust the **X** axis of the light so we want to access this location seperately.  Right mouse click on the node and pick **Split Pins**.  This separates the set of **X,Y,Z** values into seperate pins.
+Go back to the custom event on the graph and add a **Get Initial Location** pin. Then we just want to adjust the **X** axis of the light so we want to access this location seperately.  Right mouse click on the node and pick **Split Struct Pin**.  This separates the set of **X,Y,Z** values into seperate pins.
 
-![add git initial location and split pins](images/SplitGetInitialLocation.jpg)
+![add git initial location and split struct pin](images/SplitGetInitialLocation.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

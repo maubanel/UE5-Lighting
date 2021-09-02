@@ -35,6 +35,8 @@ https://user-images.githubusercontent.com/5504953/131884060-ce78d8f6-1a10-47b2-9
 
 Now lets go to the outside right of the building (looking from the Gazebo) to the large window in the middle room.  Normally in the day light would be coming in.  But since the sun isn't pointing here it is not contributing much light.  Lets add a spot light and rotate and point it at the window.
 
+Change the color to a sky color and adjust the attenuation radius (look inside the room) so it affects the whole room.  I lowered the intensity to `3.0` lumens.  Also, since this is the sun I set **Use Inverse Square** falloff to `false`.  This stops the light from falling off like a house light as this is the sun whose fall off is too small for our eye to see.
+
 ![alt_text](images/AddFirstSpotlight.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>

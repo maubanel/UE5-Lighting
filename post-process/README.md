@@ -83,6 +83,7 @@ I added three more volumes for the middle room and Gazebo.  I have them as close
 
 Make subtle changes between them and test going between volumes.  Can you completely mask the changes?  Play with other settings as there are so many to play with to get different effects. Remember, subtle!
 
+https://user-images.githubusercontent.com/5504953/131915480-dbca1927-5e78-4f5d-bb4b-38cf17287050.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

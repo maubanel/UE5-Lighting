@@ -174,9 +174,9 @@ Connect the output of the **+** pin to the **New X Location** pin.  Connect the 
 
 ##### `Step 20.`\|`ITL`| :large_blue_diamond: :large_blue_diamond:
 
-Now this will only animate the light for 10 seconds as the timeline stops at the end.  Pull from the **Finished Pin** and select **Animate Ligth** to restart this custom event again.  This way the light will keep animating the entire time this leve is being played.
+Now this will only animate the light for 10 seconds as the timeline stops at the end.  Pull from the **Finished Pin** and select **Animate Light** to restart this custom event again.  This way the light will keep animating the entire time this leve is being played. Press the <kbd>Compile</kbd> button to finish up.
 
-![](images/FinishBP.jpg)
+![call animate light when finished](images/FinishBP.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -43,13 +43,17 @@ Change the color to a sky color and adjust the attenuation radius (look inside t
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Now I adjusted the brightness as since this is opposite the sun's direction I lowered it to `1.0` lumens.  I still get a bit more detail in the inside architecture that is nice!
+
+![alt_text](images/ThreeSpotlights.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
-![alt_text](images/.jpg)
+Put the spotlight in the **Lighting** folder. I played the game and ran around.  In my case, my character was not casting any extra shadows due to this light so I changed it to **Static**.  This way it doesn't take any more real time and is baked.  Press the <Build> button to rebuild the lights.
+
+![make light static](images/MovedFolderStatic.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -75,11 +75,15 @@ Make two lights set to `0.1` lumens and a very narrow **Outer Core Angle** for t
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Now I get some very subtle fill lighting indoors that adds a bit more detail to my scene.
+
+![lit dark side of room](images/DarkSideLight.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+I don't like the very dark area when we enter the middle room.  It has no light going to the player.  I added a spotlight from the ceiling to give this area a bit of light.
 
 ![alt_text](images/.jpg)
 

@@ -152,7 +152,7 @@ Delete the **Mobility** folder and its contents to get rid of all those test lig
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
-Add capture volumes to the middle room.  Use your **Reflections** view to fix any issues you see.
+Add capture volumes to the middle room.  Use your **Reflections** view to fix any issues you see. Notice that with no volumes we just reflect the sky in an interior space which is completely wrong.  Placing these is tricky as you can get some double reflections depending on the overlap.  This takes a **LOT** of trial and error.
 
 ![add 20 reflection volumes to middle room](images/AddCaptureToMiddleRoom.jpg)
 

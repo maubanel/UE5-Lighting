@@ -146,7 +146,11 @@ Go back to the custom event on the graph and add a **Get Initial Location** pin.
 
 ##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/AddXOffset.jpg)
+Now we want to alter our X axis so the light moves left and right.  The amount of offset will be read on the curve coming from **Position X** in the timeline.  Now this will only move 1cm to the right and left so we want add a **Float X Float** multiply node and adjust the value to `75`. This way the light will move 75cm to the left and right (-75cm to 75 cm from its initial position in the room). 
+
+Then we add a **float + float** node to add this new offset to the **Initial Location X** pin. 
+
+![add multiply and addition node](images/AddXOffset.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

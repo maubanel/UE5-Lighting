@@ -27,6 +27,7 @@ To make the outdoors look a lot more dramatic lets add some lens effects.  Go to
 
 You can play with the settings and see different results.  But we essentially get some nice rays!
 
+https://user-images.githubusercontent.com/5504953/131884060-ce78d8f6-1a10-47b2-9d0e-d3f1ac560bbe.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

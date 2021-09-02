@@ -156,7 +156,9 @@ Then we add a **float + float** node to add this new offset to the **Initial Loc
 
 ##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/SetActorLocation.jpg)
+Now we are ready to translate the light to the new spot in the room.  Add a **Set Actor Location** node and right click on **New Location** and select **Split Struct Pin**.
+
+![add set actor location node and split struct pin](images/SetActorLocation.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

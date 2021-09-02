@@ -99,13 +99,15 @@ Now lets move the camera to the other side of the statue.  I find the reflection
 
 ![add third sphere reflection volume](images/OtherSideOfGazebo.jpg)
 
+Press the **Build | Build Reflection Caputures** and run around to see the third capture volume.
+
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-Now adjust the size.
+Now adjust the size of the **Influence Radius** to get a better reflection.
 
-![alt_text](images/AdjustInfluence.jpg)
+![Ajust Influence Radius](images/AdjustInfluence.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -49,7 +49,7 @@ Click **Edit | Image Size** and select a size that is power of 2. I selected a h
 
 Change the texture to a square ratio. The game engine needs a square texture to properly mip-map. The material also fixes the aspect ratio in its uvs. So we need to go back to Edit | Image Size and **unlock** the aspect ration lock and make the size `2048` by `2048`.
 
-![alt_text](images/.jpg)
+![change aspect ration to square](images/image_79.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

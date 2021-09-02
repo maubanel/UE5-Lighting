@@ -209,6 +209,7 @@ After rebooting and a long rebuilding of materials we are ready to go.  This eff
 
 Lets run the game and see what a very reflective flat plane surface looks like with our existing reflections. As you can see we don't get a very sharp reflection.  For a sphere and our objects in the level its ok, but for a flat mirorred surface it doesn't cut it.
 
+https://user-images.githubusercontent.com/5504953/131877998-079d55f0-0748-4acb-83ac-cf956dfe3631.mp4
 
 ![alt_text](images/.jpg)
 

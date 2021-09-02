@@ -117,7 +117,7 @@ https://user-images.githubusercontent.com/5504953/131844633-ca242938-fc94-42da-8
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-In **Reflection** mode go around a eliminate any fuzzy or black areas by includuding **Sphere Reflection ** in those spots.
+In **Reflection** mode go around a eliminate any fuzzy or black areas by includuding a **Sphere Reflection Capture** volume with the appropriate radius in those spots.
 
 ![fill in black areas](images/FillInBlackHoles.jpg)
 

@@ -207,7 +207,7 @@ After rebooting and a long rebuilding of materials we are ready to go.  This eff
 
 ##### `Step 20.`\|`ITL`| :large_blue_diamond: :large_blue_diamond:
 
-Lets run the game and see what a very reflective flat plane surface looks like with our existing reflections.
+Lets run the game and see what a very reflective flat plane surface looks like with our existing reflections. As you can see we don't get a very sharp reflection.  For a sphere and our objects in the level its ok, but for a flat mirorred surface it doesn't cut it.
 
 
 ![alt_text](images/.jpg)

@@ -158,7 +158,7 @@ Add capture volumes to the middle room.  Use your **Reflections** view to fix an
 
 Now place reflective balls throughout the room and take a look.
 
-
+https://user-images.githubusercontent.com/5504953/131867364-109acbda-9449-4c29-b1f5-2b620e2bc3c8.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

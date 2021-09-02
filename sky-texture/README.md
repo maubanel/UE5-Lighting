@@ -95,14 +95,17 @@ Now go to the **Sky Light** in the level and update the **HDRI** with the one yo
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+Now adjust the sun to lower to the horizon as this is near sunset.  I also match the **Sun** color to match the cool bluish/purple sky. I reduce the intensity to an evening light. 
+
+![adjust sun to match new sky sphere](images/EveningLight.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+I didn't build the lighting but took a quick look around at a different global lighting scenario based on the a new sky texture.
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

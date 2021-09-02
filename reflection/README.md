@@ -180,9 +180,9 @@ Now these reflections are fairly inexpensive.  We need to be carefull about how 
 
 This increases the render time dramatically. For those who are not doing intense games and are doing visualizations or virtual productions, this is a powerful mode that can make water and reflective survaces look SO much more realistic.
 
-To turn it on go to **Settings | Project Settings** and check the box for **
+To turn it on go to **Settings | Project Settings** and check the box for **Engine | Rendering | Support global clip plane for Planar Reflections**.  It will require a rebooting of the game for this option to take effect.  In my case it took a long time to reboot.
 
-![alt_text](images/TurnPlanarReflectionsOn.jpg)
+![turn global clip plan setting on](images/TurnPlanarReflectionsOn.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

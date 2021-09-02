@@ -199,7 +199,9 @@ To turn it on support for planar reflections, go to **Settings | Project Setting
 
 ##### `Step 19.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+After rebooting and a long rebuilding of materials we are ready to go.  This effect would be best for puddles, a mirror or water.  Lets put a cube in the area and scale it putting the **M_Reflection** material on it.
+
+![add mirrored floor surface](images/MirrorFLoor.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

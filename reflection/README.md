@@ -152,7 +152,13 @@ Delete the **Mobility** folder and its contents to get rid of all those test lig
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.jpg)
+Add capture volumes to the middle room.  Use your **Reflections** view to fix any issues you see.
+
+![add 20 reflection volumes to middle room](images/AddCaptureToMiddleRoom.jpg)
+
+Now place reflective balls throughout the room and take a look.
+
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

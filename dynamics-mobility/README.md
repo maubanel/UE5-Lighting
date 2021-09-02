@@ -182,7 +182,9 @@ Now this will only animate the light for 10 seconds as the timeline stops at the
 
 ##### `Step 21.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Convert all three movable lights to the **BP_Movable_Spotlight** and run the game.  Look at how the shadow updates dynaimically with this light! Again, this light is the most expensive and should be used only when necessary.
+
+https://user-images.githubusercontent.com/5504953/131831850-56fc6a79-3117-4db4-99d6-04fd9cfbba8b.mp4
 
 ___
 

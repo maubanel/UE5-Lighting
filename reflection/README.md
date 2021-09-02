@@ -107,7 +107,7 @@ https://user-images.githubusercontent.com/5504953/131844633-ca242938-fc94-42da-8
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-Now adjust the size of the **Influence Radius** to get a better reflection.
+Now adjust the size of the **Influence Radius** to get a better reflection. Move the relection sphere to the other side of the room.  As you are workign with reflections keep moving the ball around to better see them.
 
 ![Ajust Influence Radius](images/AdjustInfluence.jpg)
 

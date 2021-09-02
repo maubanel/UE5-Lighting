@@ -103,7 +103,9 @@ Now lets move the camera to the other side of the statue.  I find the reflection
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-![alt_text](images/.jpg)
+Now adjust the size.
+
+![alt_text](images/AdjustInfluence.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

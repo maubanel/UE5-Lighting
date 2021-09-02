@@ -91,7 +91,9 @@ https://user-images.githubusercontent.com/5504953/131890978-dd445c22-d6e4-444a-8
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-![alt_text](images/.jpg)
+I like the lighting effect, it is subtle but I can see the player.  Now one side effect I really don't like is the sharp shadow.  For ambient light this is way to sharp.  Lets fix that.
+
+![sharp shadow in hallway](images/ShadowTooSharp.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

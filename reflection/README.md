@@ -142,7 +142,8 @@ To get reflections inside the hallway itself we need to use two smaller reflecti
 
 ##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+Before we add reflection volumes to the middle and back rooms, press **File | Save All**.  Go to **Maps | 
+![alt_text](images/DupeRename.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

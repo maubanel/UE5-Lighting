@@ -188,7 +188,7 @@ https://user-images.githubusercontent.com/5504953/131831850-56fc6a79-3117-4db4-9
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 22.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
+##### `Step 22.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now these are the most common lighting combinations using the **Mobility** setting.  Notice that they have a large performance impact as well as a visual one.  You need to think about what mobility setting the objects have in your game levels.  Press the <kbd>Build<kbd> button to rebuild the lighting. 
   
@@ -198,7 +198,11 @@ https://user-images.githubusercontent.com/5504953/131832538-0feb20ea-c523-40f8-b
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 23.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
+##### `Step 23.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Press **File | Save All** and press **Source Control |  Submit to Source Control...** and enter a **Description** then press the <kbd>Submit</kbd> button. Open up **GitHub Desktop** and press the <kbd>Push</kbd> button. Now we are updated.
+
+![save all, commit and push to github](images/GitHub.jpg)
 
 
 ___

@@ -99,7 +99,8 @@ I like the lighting effect, it is subtle but I can see the player.  Now one side
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+On the light adjust the **Shadow Resolution Scale**. I used a cube to test it and found `.2` about right.
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

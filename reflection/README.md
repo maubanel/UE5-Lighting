@@ -99,9 +99,6 @@ Now lets move the camera to the other side of the statue.  I find the reflection
 
 ![add third sphere reflection volume](images/OtherSideOfGazebo.jpg)
 
-Press the **Build | Build Reflection Caputures** and run around to see the third capture volume.
-
-https://user-images.githubusercontent.com/5504953/131844633-ca242938-fc94-42da-8df7-15c08cf6c980.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
@@ -110,6 +107,13 @@ https://user-images.githubusercontent.com/5504953/131844633-ca242938-fc94-42da-8
 Now adjust the size of the **Influence Radius** to get a better reflection. Move the relection sphere to the other side of the room.  As you are workign with reflections keep moving the ball around to better see them.
 
 ![Ajust Influence Radius](images/AdjustInfluence.jpg)
+
+Press the **Build | Build Reflection Caputures** and run around to see the third capture volume.
+
+https://user-images.githubusercontent.com/5504953/131844633-ca242938-fc94-42da-8df7-15c08cf6c980.mp4
+
+
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

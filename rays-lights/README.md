@@ -108,7 +108,7 @@ https://user-images.githubusercontent.com/5504953/131892326-a47e2d6f-3894-4dbb-a
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+I added a very subtle spot light in the back hallway to help light the player a bit as well.  I made it orange and turned off shadows as I don't want it to cast any shadows.  I made it `3.0` lumens. I then didn't like the total darkness when walking backwards so added another light, made it **Stationary** and had it pointing back.  Finally I am ok with the dark hallway lighting.
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -174,7 +174,15 @@ https://user-images.githubusercontent.com/5504953/131869409-eea03535-6eb0-4e93-9
 
 ##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Now these reflections are fairly inexpensive.  We need to be carefull about how many reflections we create as the texture size will add up.  There is also another kind of reflection [Planar Reflections](https://docs.unrealengine.com/4.26/en-US/BuildingWorlds/LightingAndShadows/PlanarReflections/).
+
+> UE4 has support for real-time Planar Reflection that can give more accurate looking reflections than Screen Space Reflections (SSR) provide but come with a higher rendering cost. This higher rendering cost is due to how Planar Reflection works, as Planar Reflection actually renders the level again from the direction of the reflection. - UE4 Manual
+
+This increases the render time dramatically. For those who are not doing intense games and are doing visualizations or virtual productions, this is a powerful mode that can make water and reflective survaces look SO much more realistic.
+
+To turn it on go to **Settings | Project Settings** and check the box for **
+
+![alt_text](images/TurnPlanarReflectionsOn.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

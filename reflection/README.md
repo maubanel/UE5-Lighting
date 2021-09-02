@@ -111,6 +111,11 @@ Now adjust the size of the **Influence Radius** to get a better reflection.
 
 ![Ajust Influence Radius](images/AdjustInfluence.jpg)
 
+
+https://user-images.githubusercontent.com/5504953/131847011-c857d00d-fc1f-4379-9f79-cc0eb5471516.mp4
+
+
+
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 

@@ -73,7 +73,9 @@ https://user-images.githubusercontent.com/5504953/131910605-c0c1703c-ff39-4d23-a
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+I added three more volumes for the middle room and Gazebo.  I have them as close to each other as possible.
+
+![add two more volumes to level](images/TwoMoreVolumes.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

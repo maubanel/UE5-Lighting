@@ -77,6 +77,8 @@ Now press the arrow key next the **Build** button and select **Build Reflection 
 
 ![alt_text](images/BuildReflectionCaptures.jpg)
 
+Check out the level with the ball and also switching the **Reflection** view.  This is still showing black reflecting into the scene.
+
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:

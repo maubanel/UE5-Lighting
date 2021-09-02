@@ -101,7 +101,7 @@ I like the lighting effect, it is subtle but I can see the player.  Now one side
 
 On the light adjust the **Shadow Resolution Scale**. I used a cube to test it and found `.2` about right.
 
-https://user-images.githubusercontent.com/5504953/131892083-d9fd1163-b2fa-4384-a3ee-b552460347ed.mp4
+https://user-images.githubusercontent.com/5504953/131892326-a47e2d6f-3894-4dbb-abbb-2d968e889180.mp4
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

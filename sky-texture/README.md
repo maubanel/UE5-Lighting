@@ -55,7 +55,9 @@ Change the texture to a square ratio. The game engine needs a square texture to 
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+The image will look squished but the game engine will stretch it out again.
+
+![image is square ratio](images/image_80.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -17,7 +17,7 @@ In the center room next to the gazebo we will want lights that resemble sun comi
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-To make the outdoors look a lot more dramatic lets add some lens effects.  Go to the **Sun** (directional light) and 
+To make the outdoors look a lot more dramatic lets add some lens effects.  Go to the **Sun** (directional light) and turn on **Light Shaft Occlusion** and **Light Shaft Bloom**.  Look at how the sun picks up the fog and makes it look much more like we are on the ocean.
 
 ![alt_text](images/LighShafts.jpg)
 

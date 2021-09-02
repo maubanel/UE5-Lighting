@@ -55,9 +55,11 @@ Make the Dusk Mask Intensity equal around 90.0. Change the color tint to the col
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-We can also add some lens flare to the back room as the flames would be quite hot in a dark room and cause some lens flares.
+We can also add some lens flare to the back room as the flames would be quite hot in a dark room and cause some lens flares. I took the intensity way down to `0.25` and changed the tint to match the room.  I made the **Bokeh Size** `2.0`.
 
-![alt_text](images/LensFlare.jpg)
+![set lens flare](images/LensFlare.jpg)
+
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

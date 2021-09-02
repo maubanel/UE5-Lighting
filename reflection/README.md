@@ -226,12 +226,17 @@ I turned my planar reflection into a mirror on the wall in the gazebo.  Stunning
 
 ![put mirror on wall](images/MirrorOnWall.jpg)
 
+##### `Step 23.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Press **File | Save All** and press **Source Control |  Submit to Source Control...** and enter a **Description** then press the <kbd>Submit</kbd> button. Open up **GitHub Desktop** and press the <kbd>Push</kbd> button. Now we are updated.
+
+![save all, commit and push to github](images/GitHub.jpg)
 ___
 
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - ADD NEXT TITLE">
+<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Rays and Lights">
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 

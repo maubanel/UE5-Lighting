@@ -211,13 +211,13 @@ Lets run the game and see what a very reflective flat plane surface looks like w
 
 https://user-images.githubusercontent.com/5504953/131877998-079d55f0-0748-4acb-83ac-cf956dfe3631.mp4
 
-![alt_text](images/.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 21.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.jpg)
+Now add a **Planar Reflection**.  Put it just above the floor and adjust the size so it is not much larger than the mirrored surface.  This is VERY expensive and doubles our draw calls (it renders the world twice) so only use what is necessary.  The first time I did it below I left a little strip of the old so you can see how much nicer the planar reflections are.
+
 
 ___
 

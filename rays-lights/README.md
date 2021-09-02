@@ -6,7 +6,9 @@
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-Chapter introduction here.
+Lets look at adding some rays that interact with the sund and fog. Lets also look at some more lights to make our level really shine!
+
+In the center room next to the gazebo we will want lights that resemble sun coming in through the windows. We are placing directional lights to act like ambient sunlight in the room. Also on the other side of the room we will use rect lights to light the inside frame with ambient light without affecting the room.
 
 <br>
 

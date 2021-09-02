@@ -199,13 +199,16 @@ To turn it on support for planar reflections, go to **Settings | Project Setting
 
 ##### `Step 19.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-After rebooting and a long rebuilding of materials we are ready to go.  This effect would be best for puddles, a mirror or water.  Lets put a cube in the area and scale it putting the **M_Reflection** material on it.
+After rebooting and a long rebuilding of materials we are ready to go.  This effect would be best for puddles, a mirror or water.  Lets put a cube in the area and scale it putting the **M_Reflection** material on it. This will be like a mirrored floor.
 
 ![add mirrored floor surface](images/MirrorFLoor.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 20.`\|`ITL`| :large_blue_diamond: :large_blue_diamond:
+
+Lets run the game and see what a very reflective flat plane surface looks like with our existing reflections.
+
 
 ![alt_text](images/.jpg)
 

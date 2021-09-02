@@ -25,7 +25,8 @@ To make the outdoors look a lot more dramatic lets add some lens effects.  Go to
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.jpg)
+You can play with the settings and see different results.  But we essentially get some nice rays!
+
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

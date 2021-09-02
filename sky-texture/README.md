@@ -15,7 +15,7 @@ All of our lighting comes from the sky sphere and the models.  We can completely
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-You need to find an equilateral panorama (ideally HDR) that is a 360 degree photo. You can find them online and one website is [texturify.com](https://texturify.com)
+You need to find an **equilateral panorama** (equirectangular) (ideally HDR) that is a 360 degree photo. You can find them online and one website is [texturify.com](https://texturify.com)
 
 ![alt_text](images/image_75.jpg)
 

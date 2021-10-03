@@ -4,7 +4,7 @@
 <!-- OVERVIEW -->
 ## Overview
 
-Lets look at **[Physically Based Rendering Materials (PBR)](https://en.wikipedia.org/wiki/Physically_based_rendering)** in **UE4**.
+Lets look at lighting a scene in **UE4**.
 
  Lighting is what really makes games go from average to great. It is not only important visually but interactively. You can paint hints and paths for players to follow with light becoming one of the most powerful design aids to help players navigate your level. In this exercise you will be lighting a scene from Unreal to see how you can do versus how they lit the scene. We will be lighting one of the scenes provided by Unreal that demonstrates the final part of the level design cycle process.
   

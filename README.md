@@ -4,13 +4,13 @@
 <!-- OVERVIEW -->
 ## Overview
 
-Lets look at lighting a scene in **UE4**.
+Lets look at lighting a scene in **UE5**.
 
- Lighting is what really makes games go from average to great. It is not only important visually but interactively. You can paint hints and paths for players to follow with light becoming one of the most powerful design aids to help players navigate your level. In this exercise you will be lighting a scene from Unreal to see how you can do versus how they lit the scene. We will be lighting one of the scenes provided by Unreal that demonstrates the final part of the level design cycle process.
+ Lighting is what really makes games go from average to great. It is not only important visually but interactively. You can paint hints and paths for players to follow with light becoming one of the most powerful design aids to help players navigate your level. In this exercise you will be lighting a scene from Unreal to see how you can do versus how they lit the scene. 
   
 
-* Tested on UE4 4.26
-* Required to install: Github, GitHub Desktop, Git, Git LFS, and Unreal Engine
+* Tested on UE4 4.5.X
+* Required to install: Perforce, and Unreal Engine
 
 <!-- TOC -->
 ## Table of Contents

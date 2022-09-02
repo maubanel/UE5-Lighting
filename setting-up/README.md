@@ -26,14 +26,13 @@ If you have not installed the required software go and add [Epic Games Launcher]
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-Navigate to [UE5-Lighting-Starter](https://github.com/LSU-UE5/UE5-Lighting-Starter) and press the <kbd>Code ButtonM</kbd> and select **Download ZIP**.
+Navigate to [UE5-Lighting-Starter](https://github.com/LSU-UE5/UE5-Lighting-Starter) and press the <kbd>Code ButtonM</kbd> and select **Download ZIP**. It will take a while as the project is fairly large.
 
 ![download github lighting starter project](images/downloadZip.png)
 
 ![](../images/line2.png)
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
 
 Right click on **UE5-Lighting-Starter-main.zip** and select **Extract Here**.  Rename the folder to `UE5-Lighting`.
 

@@ -34,7 +34,7 @@ Make sure you have room for another 4 gigabytes (starter plus your added work) o
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Right click on **UE5-Lighting-Starter-main.zip** and select **Extract Here**.  Rename the folder to `UE5-Lighting`.
+Right click on **UE5-Lighting-Starter-main.zip** and select **Extract Files...**.  A pop up with the current directory appears and you can press the <kbd>OK</kbd> button. 
 
 ![exract and renamte folder](images/unzipDownload.png)
 

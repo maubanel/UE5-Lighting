@@ -19,7 +19,7 @@ Chapter introduction here.
 
 ![](../images/line2.png)
 
-##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
+##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
 ![alt_text](images/.jpg)
 

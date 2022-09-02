@@ -6,7 +6,7 @@
 
 ![](../images/line3.png)
 
-We will be working with a level that has already been gray blocked and modelled. It is a finished level minus the lighting. This was created by the team at Unreal and included in their Content Example project in UE4 (they have removed it in the latest version). You will also have a first person character to move through the environment to check your work.
+We will be working with a level that has already been gray blocked and modelled. It is a finished level minus the lighting. This was created by the team at Unreal and included in their Content Example project in UE4 (they have removed it in the latest version). You will also have a third person character to move through the environment to check your work.
 
 <br>
 

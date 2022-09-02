@@ -68,7 +68,7 @@ Edit the README.md file in a text editor and add your name and a message (in my 
 
 In P4V select the **UE5-Lighting** folder and press the **+ Add** button.  Select a **New** changelist and enter a message `uploading ue5 lighting starter`. Press the <kbd>OK</kbd> button.
 
-![alt_text](images/.png)
+![alt_text](images/submitToP4Initial.png)
 
 ![](../images/line2.png)
 

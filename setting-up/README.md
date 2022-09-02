@@ -42,8 +42,7 @@ Right click on **UE5-Lighting-Starter-main.zip** and select **Extract Files...**
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Rename the folder from **UE5-Lighting-Starter-main** to `UE-5-Lighting`.  Drag and drop the renamed folder into your **P4 Workspace** folder. Delete the `.gitignore` and `.gitattributes` file as they are not needed.
-
+Rename the folder from **UE5-Lighting-Starter-main** to `UE-5-Lighting`.  Drag and drop the renamed folder into your **P4 Workspace** folder.
 ![drag starter project into p4 workspace](images/dragFiles.png)
 
 
@@ -51,17 +50,17 @@ Rename the folder from **UE5-Lighting-Starter-main** to `UE-5-Lighting`.  Drag a
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
-Edit the README.md file in a text editor and add your name and a message (in my case it is a reminder that I will complete it at the end!). 
+Delete the `.gitignore` and `.gitattributes` file as they are not needed.
 
-![edit README.md and ](images/NameMessageREADME.jpg)
+![delete two .git... files](images/deleteDotGit.png)
 
 ![](../images/line2.png)
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-Open up **P4V** and login. Make sure your `.p4ignore` file will work by oppening up the command line prompt **File | Command Line** and select **Open Editor**.  Type `p4 set` and you should see **P4IGNORE=.p4ignore**.  If you don't type in `p4 set P4IGNORE=.p4ignore` and press enter.  Now type `p4 set` and you should see that you have set up **P4IGNORE=.p4ignore**.
+Edit the README.md file in a text editor and add your name and a message (in my case it is a reminder that I will complete it at the end!). 
 
-![commit and push to github](images/CommitAndPushInitial.jpg)
+![edit README.md and ](images/changeReadme.png)
 
 ![](../images/line2.png)
 

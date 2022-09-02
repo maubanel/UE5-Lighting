@@ -42,9 +42,9 @@ Right click on **UE5-Lighting-Starter-main.zip** and select **Extract Files...**
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Drag and drop that folder into your **P4 Workspace** folder. Delete the `.gitignore` and `.gitattributes` file as they are not needed.
+Rename the folder from **UE5-Lighting-Starter-main** to `UE-5-Lighting`.  Drag and drop the renamed folder into your **P4 Workspace** folder. Delete the `.gitignore` and `.gitattributes` file as they are not needed.
 
-![drag into p4 workspace](images/p4Project.png)
+![drag starter project into p4 workspace](images/dragFiles.png)
 
 
 ![](../images/line2.png)

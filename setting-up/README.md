@@ -18,7 +18,7 @@ We will be working with a level that has already been gray blocked and modelled.
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-If you have not installed the required software go and add [Epic Games Launcher](https://www.epicgames.com/store/en-US/download). Make sure the version of Unreal you are installed  has a 5.0.X in its name so that we know this walk through will be compatible with your version of Unreal.
+If you have not installed the required software go and add [Epic Games Launcher](https://www.epicgames.com/store/en-US/download). Make sure the version of Unreal you are installed  has a 5.0.X in its name so that we know this walk through will be compatible with your version of Unreal. This will not work in UE4.
 
 ![unreal 5 installed](images/FiveDotO.png)
 
@@ -26,7 +26,7 @@ If you have not installed the required software go and add [Epic Games Launcher]
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-Make sure you have room for another 4 gigabytes (starter plus your added work) of space on your computer. Navigate to [UE5-Lighting-Starter](https://github.com/LSU-UE5/UE5-Lighting-Starter) and press the <kbd>Code ButtonM</kbd> and select **Download ZIP**. It will take a while so try and do this on your best internet connection available to you. The file is roughly ~2 gigabytes.
+Make sure you have room for another 4 gigabytes (starter plus your added work) of space on your computer. Navigate to [UE5-Lighting-Starter](https://github.com/LSU-UE5/UE5-Lighting-Starter) and press the <kbd>Code Button</kbd> and select **Download ZIP**. It will take a while so try and do this on your best internet connection available to you. The file is roughly ~2 gigabytes.
 
 ![download github lighting starter project](images/downloadZip.png)
 

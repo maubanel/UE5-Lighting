@@ -26,7 +26,7 @@ If you have not installed the required software go and add [Epic Games Launcher]
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-Navigate to [UE5-Lighting-Starter](https://github.com/LSU-UE5/UE5-Lighting-Starter) and press the <kbd>Code ButtonM</kbd> and select **Download ZIP**. It will take a while as the project is fairly large.
+Make sure you have room for another 4 gigabytes (starter plus your added work) of space on your computer. Navigate to [UE5-Lighting-Starter](https://github.com/LSU-UE5/UE5-Lighting-Starter) and press the <kbd>Code ButtonM</kbd> and select **Download ZIP**. It will take a while so try and do this on your best internet connection available to you. The file is roughly ~2 gigabytes.
 
 ![download github lighting starter project](images/downloadZip.png)
 
@@ -42,7 +42,7 @@ Right click on **UE5-Lighting-Starter-main.zip** and select **Extract Here**.  R
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Drag and drop that folder into your **P4 Workspace** folder.
+Drag and drop that folder into your **P4 Workspace** folder. Delete the `.gitignore` and `.gitattributes` file as they are not needed.
 
 ![drag into p4 workspace](images/p4Project.png)
 

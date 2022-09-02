@@ -20,7 +20,7 @@ We will be working with a level that has already been gray blocked and modelled.
 
 If you have not installed the required software go and add [Epic Games Launcher](https://www.epicgames.com/store/en-US/download). Make sure it has a 5.0.X in front of the version so that we know this walk through will be compatible with your version of Unreal.
 
-![software installs](images/InstallSoftware.jpg)
+![unreal 5 installed](images/FiveDotO.png)
 
 ![](../images/line2.png)
 

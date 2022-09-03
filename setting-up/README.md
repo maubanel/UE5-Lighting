@@ -66,7 +66,7 @@ Edit the README.md file in a text editor and add your name and a message (in my 
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-In P4V select the **UE5-Lighting** folder and press the **+ Add** button.  Select a **New** changelist and enter a message `uploading ue5 lighting starter`. Press the <kbd>OK</kbd> button.
+Open up P4V and log into the workspace you avhe set up for this maching. select the **UE5-Lighting** folder and press the **+ Add** button.  Select a **New** changelist and enter a message `uploading ue5 lighting starter`. Press the <kbd>OK</kbd> button.
 
 ![alt_text](images/submitToP4Initial.png)
 
@@ -74,9 +74,9 @@ In P4V select the **UE5-Lighting** folder and press the **+ Add** button.  Selec
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Press the <kbd>Submit</kbd> button to send these files to the **Depot**.
+Press the <kbd>Submit</kbd> button to send these files to the **Depot**. Enter a message ``
 
-![alt_text](images/.png)
+![submit to P4V](images/submitP4v.png)
 
 ![](../images/line2.png)
 

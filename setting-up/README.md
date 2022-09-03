@@ -74,7 +74,7 @@ Open up P4V and log into the workspace you avhe set up for this maching. select 
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Press the <kbd>Submit</kbd> button to send these files to the **Depot**. Enter a message ``
+Press the <kbd>Submit</kbd> button to send these files to the **Depot**. Enter a message `UE 5 Lighting Starter Project` then press the <kbd>Submit</kbd> on the pop up.
 
 ![submit to P4V](images/submitP4v.png)
 

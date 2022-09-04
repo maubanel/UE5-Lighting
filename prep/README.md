@@ -84,13 +84,21 @@ https://user-images.githubusercontent.com/5504953/188335700-99b05a27-ff06-4e8c-8
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now go to the sun and see that is is only back to the **GlobalPostProductionVolume**
+Now go to the sun and see that is is only putting out an **Intensity** of `10.0 lux`.  The real sun  would put out [120,000](https://en.wikipedia.org/wiki/Daylight) lux on the brightest day all the way down to 1,000 lux on overcast days. to the **GlobalPostProductionVolume | Lens | Exposure** and set **Metering Mode** to `Manual`.  And turn on **Apply Physcis Camera Exposure** to `true`. This only applies to a manual exposure setting. Now the scene gos dark.  Go back to the **Sun** directional light and adjust the exposure all the way up to `120000`.
 
 https://user-images.githubusercontent.com/5504953/188335980-055ac744-c9a9-4fa2-bb39-4e5fd2e9ab8c.mp4
 
 ![](../images/line2.png)
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
+
+Turn down the **Intensity** of the **Sun** to `90 000 lux`.
+
+![sun 90k lutz](images/90klutz.png)
+
+![](../images/line2.png)
+
+##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
  Add a [Lights | Sky Light](https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LightingAndShadows/LightTypes/SkyLight/) to the outside of the room (doesn't matter where it goes it affects the entire screen).  Move it to the **Lighting** folder. 
 
@@ -112,10 +120,6 @@ Now lets add a sky to the game so the light is coming from somewhere. Drag a **M
 Now there is a sky but no ground plane.  So now our light seems to be coming from the sky and the scene makes a bit more sense. This is water with an emissive texture.  Lets fix that yet.
 
 ![view of skybox](images/SkyNoGround.jpg)
-
-![](../images/line2.png)
-
-##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
 To see the ocean we need to open up **Materials | M_Ocean** and connect the **RBG** pin of the **Texture Sampmle** node and connect it to the **Emissive Color**.  By making the ocean emissive it recreates the effect of reflecting the sky in it.  That is why we need to wear sunglasses when out of the water on a sunny day!
 

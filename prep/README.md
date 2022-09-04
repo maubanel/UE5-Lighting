@@ -117,7 +117,23 @@ Now middle gray that we use in photograph as a grey card is at [18% gray](https:
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Now to set the exposure 
+Now add a  
+
+![set gray scale](images/grayScale.png)
+
+
+
+![](../images/line2.png)
+
+##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+ 
+ OK, now lets change the angle of the **Sun** actor to match the new position of the sun. It is late in the day so I found that the **Rotation | Y** of `338.39` and a **Rotation | Z** of `154.79` works well.
+
+![rotate y and z of sun](images/RepositionSun.jpg)
+
+![](../images/line2.png)
+
+##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
  Add a [Lights | Sky Light](https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LightingAndShadows/LightTypes/SkyLight/) to the outside of the room (doesn't matter where it goes it affects the entire screen).  Move it to the **Lighting** folder. 
 
 > The Sky Light captures the distant parts of your level and applies that to the scene as a light. That means the sky's appearance and its lighting/reflections will match, even if your sky is coming from atmosphere, or layered clouds on top of a skybox, or distant mountains. You can also manually specify a cubemap to use. - Unreal Manual
@@ -135,19 +151,7 @@ https://user-images.githubusercontent.com/5504953/131558153-4862e2e2-feba-49c3-9
 
 Now lets have the sun in the sky sphere point at the back porch to give direct sunlight streaming into the porch area. Move **SM_SkySphere1** in **World Outliner** to the **Environment** folder.  Rotate the **Rotation | Z** transform by `255.6` degrees. This will have the sun facing in at the porch.
 
-![rotate skysphere on Z by 255.6 degrees](images/RotateSun.jpg)
-
-![](../images/line2.png)
-
-##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
- 
- OK, now lets change the angle of the **Sun** actor to match the new position of the sun. It is late in the day so I found that the **Rotation | Y** of `338.39` and a **Rotation | Z** of `154.79` works well.
-
-![rotate y and z of sun](images/RepositionSun.jpg)
-
-![](../images/line2.png)
-
-##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
+![rotate skysphere on Z by 255.6 degrees](images/RotateSun.jpg) 
 
 Now lets add a [Visual Effects | Atmospheric Fog](https://docs.unrealengine.com/4.26/en-US/BuildingWorlds/FogEffects/AtmosphericFog/) to the level in the **Lighting** folder.  Thist will add some realism to the skyline and top the sun when looking at it.. 
 

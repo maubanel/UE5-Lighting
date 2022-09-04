@@ -108,15 +108,30 @@ Lets look at what is included in this project. We have a **Blocking Volumes** fo
 
 The **Static Meshes** folder contains all the static meshes for the level.
 
-![building meshes in world outliner](images/worldOutlinerBuildingMeshes.jpg)
+![building meshes in world outliner](images/staticMeshes.png)
 
 ![](../images/line2.png)
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
+In the **Outliner | Ground** folder we have a landscape and ocean water.  We are going to be on an island in the middle of the sea!
+
+![ground and water](images/groundWater.png)
+
+
+![](../images/line2.png)
+
+##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+
 The **Game Mode** loads up the **Blueprints | MyGameLDDemo** that the **PlayerStart** object launches the player in the front terrace. The **Blueprints** folder also contains **ThirdPersonCharacter** which is the **UE4** mannequin that we will control in the game. This character blueprint is the **Default Pawn** in the gamemode blueprint.
 
 ![game mode for level](images/gameMode.jpg)
+
+![alt_text](images/.png)
+
+![](../images/line2.png)
+
+##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
 Open up **Settings | Project Settings | Maps and Modes**. It will start the editor and full game in the level `Unlit Level`. This is the dark room we are in. We also have **GameModeBase** which is the default gamemode for the entire project. 
 
@@ -124,6 +139,41 @@ Now go into **Settings | World Settings** and expand **Game Mode**. This is over
 
 ![room project settings](images/projectSettings.jpg)
 
+![alt_text](images/.png)
+
+![](../images/line2.png)
+
+##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
+
+![alt_text](images/.png)
+
+![](../images/line2.png)
+
+##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+
+![alt_text](images/.png)
+
+![](../images/line2.png)
+
+##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+![alt_text](images/.png)
+
+![](../images/line2.png)
+
+##### `Step 19.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+![alt_text](images/.png)
+
+![](../images/line2.png)
+
+##### `Step 20.`\|`ITL`| :large_blue_diamond: :large_blue_diamond:
+
+![alt_text](images/.png)
+
+![](../images/line2.png)
+
+##### `Step 21.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 ![](../images/line.png)
 
 <!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Preparing to Start Lighting"> -->

@@ -140,6 +140,13 @@ Now stack 4 ballls with white at the bottom, then gray, then black and silver at
 ![](../images/line2.png)
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
+
+Now we can finally set the exposure.  Go back to the **GlobalPostProcessVolume** and in the **Lens | Exposure** section set the 
+
+![](../images/line2.png)
+
+##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
+
  Add a [Lights | Sky Light](https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LightingAndShadows/LightTypes/SkyLight/) to the outside of the room (doesn't matter where it goes it affects the entire screen).  Move it to the **Lighting** folder. 
 
 > The Sky Light captures the distant parts of your level and applies that to the scene as a light. That means the sky's appearance and its lighting/reflections will match, even if your sky is coming from atmosphere, or layered clouds on top of a skybox, or distant mountains. You can also manually specify a cubemap to use. - Unreal Manual
@@ -168,9 +175,6 @@ We will leave the default settings as is for now.
 
 ![add atmoshperic fog to level](images/AddAtmosphericFog.jpg)
 
-![](../images/line2.png)
-
-##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
 Now to get the best effect it needs to be turned on in the **Sun**. Open the **Atmosphere and Cloud** section and turn `on` **Atmosphere Sun Light**.  You can rotate the sun and see how the haze moves with the sun.
 

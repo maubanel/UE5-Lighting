@@ -92,11 +92,19 @@ Open up **UE5Lighting.uproject**. The project should load up in the Room/Level *
 
 You will see a dark room that has not been lit. To see what is going on swtich to **Unlit** mode. Next page we will start lighting the scene from scratch.
 
-![change to unlit mode to see level](images/unlitMode.jpg)
+![change to unlit mode to see level](images/unlit.png)
 
-Lets look at what is included in this project. We have a **Blocking Volumes** folder that contains invisible meshes. These are collision volumes with no visible geometry. They are used to stop players from entering areas the designer doesn't want them to go in. Press **BlockingVolume6** and press the <kbd>F</kbd> key to focus on it. Notice that is is blocking the player from jumping outside the unblocked window archways.
+![](../images/line2.png)
 
-![added blocking volumes](images/unblockedWindows.jpg)
+##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
+
+Lets look at what is included in this project. We have a **Blocking Volumes** folder that contains invisible meshes. These are collision volumes with no visible geometry. They are used to stop players from entering areas the designer doesn't want them to go in. Select all of the  **BlockingVolumes** and press the <kbd>F</kbd> key to focus on it. Notice that is is blocking the player from jumping outside the unblocked windows and can't exit the building.
+
+![added blocking volumes](images/blockingVolumes.png)
+
+![](../images/line2.png)
+
+##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
 The **Static Meshes** folder contains all the static meshes for the level.
 
@@ -104,25 +112,17 @@ The **Static Meshes** folder contains all the static meshes for the level.
 
 ![](../images/line2.png)
 
-##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
+##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+
 The **Game Mode** loads up the **Blueprints | MyGameLDDemo** that the **PlayerStart** object launches the player in the front terrace. The **Blueprints** folder also contains **ThirdPersonCharacter** which is the **UE4** mannequin that we will control in the game. This character blueprint is the **Default Pawn** in the gamemode blueprint.
 
-![](../images/line2.png)
-
-##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
+![game mode for level](images/gameMode.jpg)
 
 Open up **Settings | Project Settings | Maps and Modes**. It will start the editor and full game in the level `Unlit Level`. This is the dark room we are in. We also have **GameModeBase** which is the default gamemode for the entire project. 
 
 Now go into **Settings | World Settings** and expand **Game Mode**. This is overrides the settings that are in project settings for this one level. So **MyGameLDDemo** is overriding the **GameModeBase** in the project level setting.  You can see when you expand the **Selected Game Mode** that the **Default Pawn** is `ThirdPersonCharacter`. 
 
 ![room project settings](images/projectSettings.jpg)
-
-![game mode for level](images/gameMode.jpg)
-
-![](../images/line2.png)
-
-##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
-
 
 ![](../images/line.png)
 

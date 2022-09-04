@@ -52,7 +52,7 @@ Now go to **File | Project Settings** and look for **Default RHI** and it should
 
 Now in Unreal 4 we relied on baked lighting to get good performance out of Unreal.  With Lumen and Nanites we can now have real time global illumination which looks great.  So we no longer have to bake lights.  Lets go to the **Directional Light** and set **Mobility** to `Movable`.
 
-![change directional light to movable]](images/movableLight.png)
+![change directional light to movable](images/movableLight.png)
 
 ![](../images/line2.png)
 

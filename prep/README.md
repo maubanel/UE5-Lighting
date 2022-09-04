@@ -62,7 +62,7 @@ We don't want the auto iris exposure built in the game affect our lighting setti
 
 So lets go add a **Volumes | Post Process Volume** to the level.  Go to **Post Process Volume Settings | Infinite Extent** and tick the box to `true`.  We want to have this volume affect every object in the world even if it falls outside this box.
 
-![turn eye adaption off](images/EyeAdaptionTurnOff.jpg)
+![turn eye adaption off](images/postProcessVolume.png)
 
 
 

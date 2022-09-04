@@ -118,7 +118,6 @@ In the **Outliner | Ground** folder we have a landscape and ocean water.  We are
 
 ![ground and water](images/groundWater.png)
 
-
 ![](../images/line2.png)
 
 ##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
@@ -127,27 +126,27 @@ Our player will start on the outside terrace of this building.  This is where th
 
 ![player start node](images/playerStart.png)
 
-![alt_text](images/.png)
-
 ![](../images/line2.png)
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
+
+Open up **Settings | Project Settings | Maps and Modes**. It will start the editor and full game in the level `Unlit Level`. This is the dark room we are in. We also have **GameModeBase** which is the default gamemode for the entire project. This will not load up our custom third person character.  It would have a first person controller.  But it is the **World Settings** that loads up the custom game mode.
+
+![project settings](images/projectSettings.png)
+
+![](../images/line2.png)
+
+##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
 The **Game Mode** loads up the **Blueprints | MyGameLDDemo** that the **PlayerStart** object launches the player in the front terrace. The **Blueprints** folder also contains **ThirdPersonCharacter** which is the **UE4** mannequin that we will control in the game. This character blueprint is the **Default Pawn** in the gamemode blueprint.
 
 ![game mode for level](images/gameMode.jpg)
 
-Open up **Settings | Project Settings | Maps and Modes**. It will start the editor and full game in the level `Unlit Level`. This is the dark room we are in. We also have **GameModeBase** which is the default gamemode for the entire project. 
+
 
 Now go into **Settings | World Settings** and expand **Game Mode**. This is overrides the settings that are in project settings for this one level. So **MyGameLDDemo** is overriding the **GameModeBase** in the project level setting.  You can see when you expand the **Selected Game Mode** that the **Default Pawn** is `ThirdPersonCharacter`. 
 
 ![room project settings](images/projectSettings.jpg)
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
 ![alt_text](images/.png)
 

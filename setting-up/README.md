@@ -84,7 +84,11 @@ Press the <kbd>Submit</kbd> button to send these files to the **Depot**. Enter a
 
 Open up **UE5Lighting.uproject**. The project should load up in the Room/Level **UnlitLevel**. It should look like a pitch black room as there are no lights. 
 
-![pitch black game screen](images/blackGameScreen.jpg)
+![pitch black game screen](images/emptyLevel.png)
+
+![](../images/line2.png)
+
+##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
 You will see a dark room that has not been lit. To see what is going on swtich to **Unlit** mode. Next page we will start lighting the scene from scratch.
 
@@ -93,10 +97,6 @@ You will see a dark room that has not been lit. To see what is going on swtich t
 Lets look at what is included in this project. We have a **Blocking Volumes** folder that contains invisible meshes. These are collision volumes with no visible geometry. They are used to stop players from entering areas the designer doesn't want them to go in. Press **BlockingVolume6** and press the <kbd>F</kbd> key to focus on it. Notice that is is blocking the player from jumping outside the unblocked window archways.
 
 ![added blocking volumes](images/unblockedWindows.jpg)
-
-![](../images/line2.png)
-
-##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
 The **Static Meshes** folder contains all the static meshes for the level.
 

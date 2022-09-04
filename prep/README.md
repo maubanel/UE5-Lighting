@@ -133,6 +133,10 @@ For **MI_Black** use **R G B** of `.05` which is very dark latex paint.  There i
 
 For **MI_Ball_Test** use **R G B** of `.9` which is very bright.  Make the **Specular** `.7`, and change the **Metallic** to `1` and change the **Roughness** to `.05`.
 
+Now stack 4 ballls with white at the bottom, then gray, then black and silver at the top.  Create a folder called **Exposure Reference** and name the ball's accordingly. Make sure all the new materials are assigned.
+
+![add three more balls](images/addThreeMoreBalls.png)
+
 ![](../images/line2.png)
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 

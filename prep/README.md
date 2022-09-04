@@ -109,9 +109,9 @@ Now before we can properly set the exposure we should have a range of spheres in
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
  
+Now middle gray that we use in photograph as a grey card is at 18%.  
 
-
-![water and sky in game](images/WaterWorking.jpg)
+![water and sky in game](images/greyCardPBR.png)
 
 ![](../images/line2.png)
 

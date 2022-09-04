@@ -84,11 +84,12 @@ https://user-images.githubusercontent.com/5504953/188335700-99b05a27-ff06-4e8c-8
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-In **GlobalPostProcessingVolume** go to **Lens | Exposure** and change **Min Brightness** and **Max Brightness** to both be `1.0`.  The tool tip says that if **Min = Max** that **Eye Adaption** is disabled which is what we want!
+Now go to the sun and see that is is only back to the **GlobalPostProductionVolume**
 
-Now when we run around we can really see how limiting the directional light is.  There is no fill or spill and it only affects where the sun directly hits.  For indirect lighting we need another lighting actor.
 
-https://user-images.githubusercontent.com/5504953/131555655-3ebac7a5-b681-4f17-9bdc-ed03427e359c.mp4
+![](../images/line2.png)
+
+##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
  Add a [Lights | Sky Light](https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LightingAndShadows/LightTypes/SkyLight/) to the outside of the room (doesn't matter where it goes it affects the entire screen).  Move it to the **Lighting** folder. 
 
@@ -106,9 +107,6 @@ Now lets add a sky to the game so the light is coming from somewhere. Drag a **M
 
 ![add skybox and build lighting](images/SkyBox.jpg)
 
-![](../images/line2.png)
-
-##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
 Now there is a sky but no ground plane.  So now our light seems to be coming from the sky and the scene makes a bit more sense. This is water with an emissive texture.  Lets fix that yet.
 

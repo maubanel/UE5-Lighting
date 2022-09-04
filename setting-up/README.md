@@ -146,6 +146,7 @@ The **Game Mode** loads up the **Blueprints | MyGameLDDemo** that the **PlayerSt
 
 ##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Go to **Project Settings | Description** and update it to your liking.  I encourage you sue the [MIT License](https://opensource.org/licenses/MIT) for your Copyright notice so you can allow other students to play and look at your creation!
 
 ![game mode for level](images/credits.png)
 

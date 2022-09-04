@@ -78,6 +78,8 @@ Call it `GlobalPostProcessingVolume` and move it to the **Lighting** folder.
 
 Now when you move the camera to and from the hallway look at the sides and the back.  You can see that the exposure is compensating just like our eyes do when moving from outdoors to indoors or vice versa.  For lighting we want to remove it, then turn it back on when we are done.  Look carefully at the game and see if you can spot it?
 
+https://user-images.githubusercontent.com/5504953/188335700-99b05a27-ff06-4e8c-8ce7-94eca7f6d8dc.mp4
+
 ![](../images/line2.png)
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:

@@ -86,6 +86,7 @@ https://user-images.githubusercontent.com/5504953/188335700-99b05a27-ff06-4e8c-8
 
 Now go to the sun and see that is is only back to the **GlobalPostProductionVolume**
 
+https://user-images.githubusercontent.com/5504953/188335980-055ac744-c9a9-4fa2-bb39-4e5fd2e9ab8c.mp4
 
 ![](../images/line2.png)
 

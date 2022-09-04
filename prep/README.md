@@ -107,7 +107,7 @@ Now before we can properly set the exposure we should have a range of spheres in
 ![](../images/line2.png)
 
 
-##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
+##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :
  
 Now middle gray that we use in photograph as a grey card is at [18% gray](https://en.wikipedia.org/wiki/Gray_card). This mid gray is a good reference for white balance and finding the middle ground.  So our **R G B** are all `.18`, we have minimal **Specular** with `.1` and a very high roughness with `.908`.  So there is not much specularity, just mid gray.   
 

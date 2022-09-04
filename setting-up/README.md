@@ -123,15 +123,19 @@ In the **Outliner | Ground** folder we have a landscape and ocean water.  We are
 
 ##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-The **Game Mode** loads up the **Blueprints | MyGameLDDemo** that the **PlayerStart** object launches the player in the front terrace. The **Blueprints** folder also contains **ThirdPersonCharacter** which is the **UE4** mannequin that we will control in the game. This character blueprint is the **Default Pawn** in the gamemode blueprint.
+Our player will start on the outside terrace of this building.  This is where the level begins when we start the level.
 
-![game mode for level](images/gameMode.jpg)
+![player start node](images/playerStart.png)
 
 ![alt_text](images/.png)
 
 ![](../images/line2.png)
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
+
+The **Game Mode** loads up the **Blueprints | MyGameLDDemo** that the **PlayerStart** object launches the player in the front terrace. The **Blueprints** folder also contains **ThirdPersonCharacter** which is the **UE4** mannequin that we will control in the game. This character blueprint is the **Default Pawn** in the gamemode blueprint.
+
+![game mode for level](images/gameMode.jpg)
 
 Open up **Settings | Project Settings | Maps and Modes**. It will start the editor and full game in the level `Unlit Level`. This is the dark room we are in. We also have **GameModeBase** which is the default gamemode for the entire project. 
 

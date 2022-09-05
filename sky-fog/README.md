@@ -39,6 +39,8 @@ https://user-images.githubusercontent.com/5504953/188452815-0ea89816-b8ce-4a08-a
 
 > The sky atmoshphere also provides an aerial perspective to which you can simulate transitions from ground to sky to outer space with proper planetary curvature. - Unreal
 
+https://user-images.githubusercontent.com/5504953/188460013-14fa14af-d427-4748-bf87-35e7cdf3e9ee.mp4
+
 ![](../images/line2.png)
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:

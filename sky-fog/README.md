@@ -104,8 +104,9 @@ https://user-images.githubusercontent.com/5504953/188520360-70df16f0-9b3a-4de4-a
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-There are quite a few things we can tweak with the exponential height fog.  First is the 
+There are quite a few things we can tweak with the exponential height fog.  First is the
 
+https://user-images.githubusercontent.com/5504953/188520978-d211fa64-7a00-4b6e-a027-dddf7ad643a0.mp4
 
 ![](../images/line2.png)
 

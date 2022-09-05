@@ -96,7 +96,7 @@ Move it to the **Lighting** folder.
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-If you have ever looked out on an ocean it is often hard to amke out the horizon as fog and mist usually limits your view. Toggle the eyeball in the viewer on and off and look at the horizon.  You can make it look as foggy and as moody as you like.
+If you have ever looked out on an ocean it is often hard to amke out the horizon as fog and mist usually limits your view. Toggle the eyeball in the **Outliner** on and off and look at the horizon.  You can make it look as foggy and as moody as you like.
 
 https://user-images.githubusercontent.com/5504953/188520360-70df16f0-9b3a-4de4-abcc-f315995b91c4.mp4
 
@@ -104,7 +104,8 @@ https://user-images.githubusercontent.com/5504953/188520360-70df16f0-9b3a-4de4-a
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-![alt_text](images/.png)
+There are quite a few things we can tweak with the exponential height fog.  First is the 
+
 
 ![](../images/line2.png)
 

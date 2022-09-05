@@ -76,15 +76,17 @@ https://user-images.githubusercontent.com/5504953/188489577-4edd6f5a-53f7-45a4-b
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-So now back on th eport I customize the values I want for **Layer Bottom Altitude** and **Layer Height**. I raised them a bit and made the a bit thinner (less tall).  I think this is the look I am sticking with for now.
+So now back on the gazebo and you can customize the values you want for **Layer Bottom Altitude** and **Layer Height**. I raised them a bit and made the a bit thinner (less tall).  I think this is the look I am sticking with for now.
 
-![alt_text](images/customizeClouds.png)
+![custom layer bottom altitude and layer height](images/customizeClouds.png)
 
 ![](../images/line2.png)
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now lets go back to the 
+
+![alt_text](images/addExponentialHeightFog.png)
 
 ![](../images/line2.png)
 

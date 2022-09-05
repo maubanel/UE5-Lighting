@@ -169,6 +169,7 @@ https://user-images.githubusercontent.com/5504953/188353653-4173684f-bd9a-4381-8
 
 *Press* the <kbd>Play</kbd> button and run around.  Now our exposure is good for the bright end of the front porch but is too dark inside.  We will address that next.
 
+https://user-images.githubusercontent.com/5504953/188353839-975604cb-cd71-40ba-9c2d-580806d8ef38.mp4
 
 ![](../images/line2.png)
 

@@ -23,6 +23,12 @@ Now we have a convenient tool for setting up levels quickly.  You can click on *
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
+Now add a **[Sky Atmosphere](https://docs.unrealengine.com/5.0/en-US/sky-atmosphere-component-in-unreal-engine/)** to the level.  Notice that our sky goes from black to an actual atmosphere.  
+
+> The Sky Atmosphere component in Unreal Engine is a physically-based sky and atmosphere-rendering technique. It's flexible enough to create an Earth-like atmosphere with time-of-day featuring sunrise and sunset, or to create extraterrestrial atmospheres of an exotic nature. - Unreal Manual
+
+Change the sun position and notice that the atmosphere changes based on the position of the sun.
+
 https://user-images.githubusercontent.com/5504953/188452815-0ea89816-b8ce-4a08-aa3e-035049efc78b.mp4
 
 ![alt_text](images/.png)
@@ -31,7 +37,7 @@ https://user-images.githubusercontent.com/5504953/188452815-0ea89816-b8ce-4a08-a
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+> The sky atmoshphere also provides an aerial perspective to which you can simulate transitions from ground to sky to outer space with proper planetary curvature. - Unreal
 
 ![](../images/line2.png)
 

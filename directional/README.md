@@ -1,6 +1,6 @@
 ![](../images/line3.png)
 
-### Lighting Prep
+### Directional Light & Exposure
 
 <sub>[previous](../setting-up/README.md#user-content-setting-up) • [home](../README.md#user-content-ue4-lighting) • [next](../point-lights/README.md#user-content-point-lights)</sub>
 

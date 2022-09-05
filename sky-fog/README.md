@@ -76,7 +76,7 @@ https://user-images.githubusercontent.com/5504953/188489577-4edd6f5a-53f7-45a4-b
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-So now back on th eport I customize the values I want for **Layer Bottom Altitude** and **Layer Height**.
+So now back on th eport I customize the values I want for **Layer Bottom Altitude** and **Layer Height**. I raised them a bit and made the a bit thinner (less tall).  I think this is the look I am sticking with for now.
 
 ![alt_text](images/customizeClouds.png)
 

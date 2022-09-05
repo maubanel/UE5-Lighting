@@ -58,7 +58,7 @@ https://user-images.githubusercontent.com/5504953/188461608-8034546b-c7cb-4fcd-b
 
 Move the **SkyAtmosphere** actor to the **Lighting** folder.
 
-Now you can add **Volumetric Clouds** to add moving clouds to the sky. And you see volumetric clouds in the sky.  
+Now you can add **Volumetric Clouds** from the **Env Light Mixer** to add moving clouds to the sky. And you see volumetric clouds in the sky.  
 
 >The [Volumetric Cloud](https://docs.unrealengine.com/5.0/en-US/volumetric-cloud-component-properties-in-unreal-engine/) component is a physically-based cloud rendering system that uses a material-driven approach to give artists and designers the freedom to create any type of clouds they need for their projects. The cloud system handles dynamic time-of-day setups that is complemented by the Sky Atmosphere and Sky Light using the real time capture mode. The system provides scalable, artist-defined clouds that can adapt to projects using ground views, flying, and ground to outer space transitions. - Unreal Manual
 
@@ -68,7 +68,7 @@ Now you can add **Volumetric Clouds** to add moving clouds to the sky. And you s
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now we will get into more detail on how to alter the cloud cover.  This basic actor has two major elements we can change.  The height the clouds start at and how high they extend into the sky.  If we go up in the air it is a bit more appraent what is happening here.
 
 ![](../images/line2.png)
 

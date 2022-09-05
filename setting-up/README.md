@@ -2,7 +2,7 @@
 
 ### Setting Up
 
-<sub>[home](../README.md#user-content-ue4-lighting) • [next](../prep/README.md#user-content-lighting-prep)</sub>
+<sub>[home](../README.md#user-content-ue4-lighting) • [next](../directional/README.md#user-content-lighting-prep)</sub>
 
 ![](../images/line3.png)
 
@@ -160,10 +160,10 @@ Select the **File | Save All** then press the <kbd>Source Control</kbd> button a
 
 ![](../images/line.png)
 
-<!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Preparing to Start Lighting"> -->
+<!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Directional Light and Exposure"> -->
 ![next up next tile](images/banner.png)
 
 ![](../images/line.png)
 
-| [home](../README.md#user-content-ue4-lighting) | [next](../prep/README.md#user-content-lighting-prep)|
+| [home](../README.md#user-content-ue4-lighting) | [next](../directional/README.md#user-content-lighting-prep)|
 |---|---|

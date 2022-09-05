@@ -2,7 +2,7 @@
 
 ### Setting Up
 
-<sub>[home](../README.md#user-content-ue4-lighting) • [next](../directional/README.md#user-content-lighting-prep)</sub>
+<sub>[home](../README.md#user-content-ue4-lighting) • [next](../directional/README.md#user-content-directional-light--exposure)</sub>
 
 ![](../images/line3.png)
 
@@ -165,5 +165,5 @@ Select the **File | Save All** then press the <kbd>Source Control</kbd> button a
 
 ![](../images/line.png)
 
-| [home](../README.md#user-content-ue4-lighting) | [next](../directional/README.md#user-content-lighting-prep)|
+| [home](../README.md#user-content-ue4-lighting) | [next](../directional/README.md#user-content-directional-light--exposure)|
 |---|---|

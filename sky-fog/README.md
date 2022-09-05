@@ -2,7 +2,7 @@
 
 ### Sky & Fog
 
-<sub>[previous](../) • [home](../README.md#user-content-ue4-lighting) • [next](../)</sub>
+<sub>[previous](../) • [home](../README.md#user-content-ue5-lighting) • [next](../)</sub>
 
 ![](../images/line3.png)
 
@@ -145,5 +145,5 @@ Now that we have a single direct light we need a sky to reflect the light and ac
 
 ![](../images/line.png)
 
-| [previous](../)| [home](../README.md#user-content-ue4-lighting) | [next](../)|
+| [previous](../)| [home](../README.md#user-content-ue5-lighting) | [next](../)|
 |---|---|---|

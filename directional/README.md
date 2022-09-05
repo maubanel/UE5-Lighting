@@ -2,7 +2,7 @@
 
 ### Directional Light & Exposure
 
-<sub>[previous](../setting-up/README.md#user-content-setting-up) • [home](../README.md#user-content-ue4-lighting) • [next](../point-lights/README.md#user-content-point-lights)</sub>
+<sub>[previous](../setting-up/README.md#user-content-setting-up) • [home](../README.md#user-content-ue5-lighting) • [next](../point-lights/README.md#user-content-point-lights)</sub>
 
 ![](../images/line3.png)
 
@@ -187,5 +187,5 @@ Select the **File | Save All** then press the <kbd>Source Control</kbd> button a
 
 ![](../images/line.png)
 
-| [previous](../setting-up/README.md#user-content-setting-up)| [home](../README.md#user-content-ue4-lighting) | [next](../point-lights/README.md#user-content-point-lights)|
+| [previous](../setting-up/README.md#user-content-setting-up)| [home](../README.md#user-content-ue5-lighting) | [next](../point-lights/README.md#user-content-point-lights)|
 |---|---|---|

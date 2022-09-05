@@ -127,7 +127,7 @@ Now add a  **Place Actors | Shapes | Sphere** and make the **Scale** `0.65` on *
  
 Now right click on **MI_GrayScale** and select duplicate and make a `MI_White`, duplicate again and make a `MI_Black`, and duplicate a final time and make a `MI_TestBall`.  
 
-**MI_White** is an **R G B** of `.9` which is very bright snow.  There is no pure white in nature so `9` is about as high as we want to go.  Make the **Specular** `.5`, leave the **Metallic** at `0` and change the **Roughness** to `.75`.
+**MI_White** is an **R G B** of `.9` which is very bright snow.  There is no pure white in nature so `0.9` is about as high as we want to go.  Make the **Specular** `.5`, leave the **Metallic** at `0` and change the **Roughness** to `.75`.
 
 For **MI_Black** use **R G B** of `.05` which is very dark latex paint.  There is no pure dark in nature so `.05` is about as low as we want to go.  Make the **Specular** `.5`, leave the **Metallic** at `0` and change the **Roughness** to `.75`.
 

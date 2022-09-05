@@ -17,7 +17,7 @@ Now that we have a single direct light we need a sky to reflect the light and ac
 
 Now we have a convenient tool for setting up levels quickly.  You can click on **Window | Env. Light Mixer** and it brings up all of the elements you need to complete an initial pass at lighting the level.
 
-![environmental light mixer](images/envLightMixer.png.png)
+![environmental light mixer](images/envLightMixer.png)
 
 ![](../images/line2.png)
 

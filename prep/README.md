@@ -155,6 +155,12 @@ Now there are two more settings for the directoinal light we want to look at. Le
 
 ##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
+*Press* the <kbd>Play</kbd> button and run around.  Now our exposure is good for the bright end of the front porch but is too dark inside.  We will address that next.
+
+![](../images/line2.png)
+
+##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
 
 
 Now lets add some immediate fog as we are on the ocean which often has a fog/mist.  The horizon is too straight and visible. Drag a **[Special Effects | Exponential Height Fog](https://docs.unrealengine.com/4.26/en-US/BuildingWorlds/FogEffects/HeightFog/)** into the level in the **Lighting** folder.  
@@ -166,10 +172,6 @@ Now the default **Fog Density** of `0.02` is not enough and I still see a hard l
 Now press the <kbd>Build</kbd> button to rebuild the light. 
 
 ![add exponential height fog](images/ExponentialFog.jpg)
-
-![](../images/line2.png)
-
-##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Run the game and see what we have set up.  Our basics are all in place to start diving into lighting a bit deeper.
 

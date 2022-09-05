@@ -70,6 +70,8 @@ Now you can add **Volumetric Clouds** from the **Env Light Mixer** to add moving
 
 Now we will get into more detail on how to alter the cloud cover.  This basic actor has two major elements we can change.  The height the clouds start at and how high they extend into the sky.  If we go up in the air it is a bit more appraent what is happening here.
 
+https://user-images.githubusercontent.com/5504953/188489577-4edd6f5a-53f7-45a4-b552-7417dfd47f9a.mp4
+
 ![](../images/line2.png)
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:

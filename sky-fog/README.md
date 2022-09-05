@@ -31,8 +31,6 @@ Change the sun position and notice that the atmosphere changes based on the posi
 
 https://user-images.githubusercontent.com/5504953/188452815-0ea89816-b8ce-4a08-aa3e-035049efc78b.mp4
 
-![alt_text](images/.png)
-
 ![](../images/line2.png)
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:

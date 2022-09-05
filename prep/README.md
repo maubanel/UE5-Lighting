@@ -143,6 +143,8 @@ Now stack 4 ballls with white at the bottom, then gray, then black and silver at
 
 Now we can finally set the exposure.  Go back to the **GlobalPostProcessVolume** and in the **Lens | Exposure** section set the 
 
+https://user-images.githubusercontent.com/5504953/188338597-7782fdcf-9ccd-4af6-8d5e-4d2c2d0513a8.mp4
+
 ![](../images/line2.png)
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 

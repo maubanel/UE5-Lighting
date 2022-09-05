@@ -62,7 +62,7 @@ Move the **SkyAtmosphere** actor to the **Lighting** folder.
 
 Now you can add **Volumetric Clouds** to add moving clouds to the sky. And you see volumetric sounds 
 
-![add volumetric clouds](images/.png)
+![add volumetric clouds](images/volumetricClouds.png)
 
 ![](../images/line2.png)
 

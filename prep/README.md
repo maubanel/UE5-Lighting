@@ -151,6 +151,8 @@ https://user-images.githubusercontent.com/5504953/188338730-7ad547c5-51c9-45be-8
 
 Now there are two more settings for the directoinal light we want to look at. Lets 
 
+https://user-images.githubusercontent.com/5504953/188339500-3b148242-a80a-4ba1-a077-382c042615e2.mp4
+
 ![](../images/line2.png)
 
 ##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:

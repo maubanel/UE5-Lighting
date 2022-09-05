@@ -143,7 +143,7 @@ Now stack 4 ballls with white at the bottom, then gray, then black and silver at
 
 Now we can finally set the exposure.  Go back to the **GlobalPostProcessVolume** and in the **Lens | Exposure** section set the 
 
-https://user-images.githubusercontent.com/5504953/188338597-7782fdcf-9ccd-4af6-8d5e-4d2c2d0513a8.mp4
+https://user-images.githubusercontent.com/5504953/188338730-7ad547c5-51c9-45be-8147-36f5959c7f39.mp4
 
 ![](../images/line2.png)
 
@@ -160,7 +160,6 @@ In this case we will change **Source Type** to `SLS Specified Cubemap` as this i
 Now when you run the game the back room is still black but we have a bit more fill light in the first two rooms.  We will leave these default setting for now as we are still adding big pieces that affect our lighting.
 
 https://user-images.githubusercontent.com/5504953/131558153-4862e2e2-feba-49c3-9b6e-2819daf6f77d.mp4
-
 
 
 

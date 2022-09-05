@@ -15,7 +15,9 @@ Now that we have a single direct light we need a sky to reflect the light and ac
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-![alt_text](images/.png)
+Now we have a convenient tool for setting up levels quickly.  You can click on **Window | Env. Light Mixer** and it brings up all of the elements you need to complete an initial pass at lighting the level.
+
+![environmental light mixer](images/envLightMixer.png.png)
 
 ![](../images/line2.png)
 

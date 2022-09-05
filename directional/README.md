@@ -125,7 +125,7 @@ Now add a  **Place Actors | Shapes | Sphere** and make the **Scale** `0.65` on *
 
 ##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
  
-Now right lcik on **MI_GrayScale** and select duplicate and make a `MI_White`, duplicate again and make a `MI_Black`, and duplicate a final time and make a `MI_TestBall`.  
+Now right click on **MI_GrayScale** and select duplicate and make a `MI_White`, duplicate again and make a `MI_Black`, and duplicate a final time and make a `MI_TestBall`.  
 
 **MI_White** is an **R G B** of `.9` which is very bright snow.  There is no pure white in nature so `9` is about as high as we want to go.  Make the **Specular** `.5`, leave the **Metallic** at `0` and change the **Roughness** to `.75`.
 

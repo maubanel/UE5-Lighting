@@ -16,6 +16,7 @@ Lets look at lighting a scene in **UE5**.
 ## Table of Contents
 <kbd></kbd> &nbsp;&nbsp; [Setting Up](setting-up/README.md#user-content-setting-up) <br>
 <kbd></kbd> &nbsp;&nbsp; [Directional Light & Exposure](directional/README.md#user-content-directional-light--exposure) <br>
+<kbd></kbd> &nbsp;&nbsp; [Sky & Fog](sky-fog/README.md#user-content-sky--fog) <br>
 <kbd></kbd> &nbsp;&nbsp; [Point Lights](point-lights/README.md#user-content-point-lights) <br>
 <kbd></kbd> &nbsp;&nbsp; [Light Functions](light-functions/README.md#user-content-light-functions) <br>
 <kbd></kbd> &nbsp;&nbsp; [Actor & Light Mobility](mobility/README.md#user-content-actor--light-mobility) <br>

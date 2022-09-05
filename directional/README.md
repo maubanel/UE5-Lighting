@@ -159,7 +159,7 @@ https://user-images.githubusercontent.com/5504953/188339500-3b148242-a80a-4ba1-a
 
 ##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now you can also change between the engine doing the shadows through software or through ray tracing if you have a ray tracing gpu.  Go to the **Sun** directional light
+Now you can also change between the engine doing the shadows through software or through ray tracing if you have a ray tracing gpu.  Go to the **Sun** directional light and select **Cast Ray Traced Shadows**.  Switch between **Use Project Settings** and **Enabled**.  YOu can see there is some noise in the ray traced shadows by they are a bit more detailed and subtle.
 
 https://user-images.githubusercontent.com/5504953/188353653-4173684f-bd9a-4381-8c49-209331c0ace1.mp4
 

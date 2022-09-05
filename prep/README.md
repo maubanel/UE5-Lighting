@@ -141,7 +141,7 @@ Now stack 4 ballls with white at the bottom, then gray, then black and silver at
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
-Now we can finally set the exposure.  Go back to the **GlobalPostProcessVolume** and in the **Lens | Exposure** section set the 
+Now we can finally set the exposure.  Go back to the **GlobalPostProcessVolume** and when we the **Lens | Exposure** section's **Exposure Compensation** up we blow out the white, if we turn it down too low we go out to black.  We want to see good definition of the different brightness in the shade and in the light.  Pick a middle ground value that works for you.  `-1.64` works best for me to tone down the brightness.
 
 https://user-images.githubusercontent.com/5504953/188338730-7ad547c5-51c9-45be-8147-36f5959c7f39.mp4
 
@@ -149,41 +149,13 @@ https://user-images.githubusercontent.com/5504953/188338730-7ad547c5-51c9-45be-8
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
- Add a [Lights | Sky Light](https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LightingAndShadows/LightTypes/SkyLight/) to the outside of the room (doesn't matter where it goes it affects the entire screen).  Move it to the **Lighting** folder. 
-
-> The Sky Light captures the distant parts of your level and applies that to the scene as a light. That means the sky's appearance and its lighting/reflections will match, even if your sky is coming from atmosphere, or layered clouds on top of a skybox, or distant mountains. You can also manually specify a cubemap to use. - Unreal Manual
-
-In this case we will change **Source Type** to `SLS Specified Cubemap` as this is the same one we will use on our sky sphere in a few moments. Select `Sky54a2048` as the cubemap texture.  It will use this to figure out the fill lighting in the scene so the bright and dark spots correspond with the sky.
-
-![add skylight and add cubemap](images/Skylight.jpg)
-
-Now when you run the game the back room is still black but we have a bit more fill light in the first two rooms.  We will leave these default setting for now as we are still adding big pieces that affect our lighting.
-
-https://user-images.githubusercontent.com/5504953/131558153-4862e2e2-feba-49c3-9b6e-2819daf6f77d.mp4
-
-
-
-Now lets have the sun in the sky sphere point at the back porch to give direct sunlight streaming into the porch area. Move **SM_SkySphere1** in **World Outliner** to the **Environment** folder.  Rotate the **Rotation | Z** transform by `255.6` degrees. This will have the sun facing in at the porch.
-
-![rotate skysphere on Z by 255.6 degrees](images/RotateSun.jpg) 
-
-Now lets add a [Visual Effects | Atmospheric Fog](https://docs.unrealengine.com/4.26/en-US/BuildingWorlds/FogEffects/AtmosphericFog/) to the level in the **Lighting** folder.  Thist will add some realism to the skyline and top the sun when looking at it.. 
-
-> Atmospheric Fog gives an approximation of light scattering through a planetary atmosphere. This can give your outdoor levels a much more realistic look. This total effect includes the following: <br><br>The dominant directional light in your level will receive a sun disc effect in the sky. This will be placed infinitely far away, opposite the light's direction.<br><br>A sky color that will vary depending on the altitude of the sun (or put another way, how close the dominant directional light's vector gets to being parallel with the ground).
-<br><br>Control over scattering and decay settings, allowing for full control of your atmospheric density. - Unreal Documentation
-
-We will leave the default settings as is for now.
-
-![add atmoshperic fog to level](images/AddAtmosphericFog.jpg)
-
-
-Now to get the best effect it needs to be turned on in the **Sun**. Open the **Atmosphere and Cloud** section and turn `on` **Atmosphere Sun Light**.  You can rotate the sun and see how the haze moves with the sun.
-
-![turn on atmosphere sun light in Sun object in game](images/AtmosphericSUn.jpg)
+Now there are two more settings for the directoinal light we want to look at. Lets 
 
 ![](../images/line2.png)
 
 ##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+
+
 
 Now lets add some immediate fog as we are on the ocean which often has a fog/mist.  The horizon is too straight and visible. Drag a **[Special Effects | Exponential Height Fog](https://docs.unrealengine.com/4.26/en-US/BuildingWorlds/FogEffects/HeightFog/)** into the level in the **Lighting** folder.  
 

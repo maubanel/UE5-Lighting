@@ -39,6 +39,8 @@ https://user-images.githubusercontent.com/5504953/188452815-0ea89816-b8ce-4a08-a
 
 > The sky atmoshphere also provides an aerial perspective to which you can simulate transitions from ground to sky to outer space with proper planetary curvature. - Unreal
 
+Now you can can adjust the camera speed and zoom out into space.  Our island disappears as those object culls are set to not render at a certain distance.  But you can see that we have a complete earth like atmosphere even in space.
+
 https://user-images.githubusercontent.com/5504953/188460013-14fa14af-d427-4748-bf87-35e7cdf3e9ee.mp4
 
 ![](../images/line2.png)

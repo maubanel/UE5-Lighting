@@ -149,7 +149,9 @@ https://user-images.githubusercontent.com/5504953/188338730-7ad547c5-51c9-45be-8
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-Now there are two more settings for the directional light we want to look at. Lets 
+Now there are two more settings for the directional light we want to look at. Lets highlight the **Sun** directional light and adjust the **Source Angle**.  `0` is completely sharp shadows with a hard edge and anything above 0 increase the [penumbra])(https://nineplanets.org/penumbra-shadow/).  The more clouds the larger the penumbra, and the less clouds with very clear air the crisper the shadows.  If you look at the specular in the silver ball the sun also gets more diffuse the larger the number.
+
+You can also adjust the **Soft Source Angle**.  This affects mostly the specular.  Look at the reflection ball and it softens the lights sources.  I liked a **Source Angle** of `3.28` and a **Source Soft Angle** of `1.68`.
 
 https://user-images.githubusercontent.com/5504953/188339500-3b148242-a80a-4ba1-a077-382c042615e2.mp4
 

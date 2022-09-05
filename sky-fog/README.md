@@ -23,6 +23,8 @@ Now we have a convenient tool for setting up levels quickly.  You can click on *
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
+https://user-images.githubusercontent.com/5504953/188452815-0ea89816-b8ce-4a08-aa3e-035049efc78b.mp4
+
 ![alt_text](images/.png)
 
 ![](../images/line2.png)

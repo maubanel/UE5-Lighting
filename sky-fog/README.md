@@ -131,7 +131,7 @@ https://user-images.githubusercontent.com/5504953/188612919-9d48eb9c-95ed-48f3-a
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Now if you want the light to react in interesting ways with the particles you can set **Volumetric Fog** to true. 
+Now if you want the light to react in interesting ways with the particles you can set [**Volumetric Fog**](https://docs.unrealengine.com/5.0/en-US/volumetric-fog-in-unreal-engine/) to true. 
 
 ![alt_text](images/.png)
 

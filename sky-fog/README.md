@@ -121,6 +121,8 @@ https://user-images.githubusercontent.com/5504953/188612829-bc4bd408-532a-4a21-9
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
+You can also adjust how dense the fog is with the **Fog Max Opacity**.  A value of `1` is the least transulcent and `0` would be completely transparent. You can also adjust the **Start Distance**: "*Distance from the camera that the fog will start.*" and **Fog Cuttoff Distance**: "*Scene elements past this distance will not have fog applied. This is useful for excluding skyboxes which already have fog baked into them.*"
+
 https://user-images.githubusercontent.com/5504953/188612919-9d48eb9c-95ed-48f3-ab37-6ca548dd6109.mp4
 
 ![](../images/line2.png)

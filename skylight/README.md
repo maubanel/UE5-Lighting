@@ -6,7 +6,7 @@
 
 ![](../images/line3.png)
 
-This is the final outdoor lighting effect we will look at.  It acts as the sky ambient light for an outdoor scene.
+This is the final outdoor lighting effect we will look at.  It acts as the sky ambient light for an outdoor scene. We have both outdoor and indoor scenes so we will need the skylight.
 
 <br>
 

@@ -2,7 +2,7 @@
 
 ### Sky & Fog
 
-<sub>[previous](../) • [home](../README.md#user-content-ue5-lighting) • [next](../)</sub>
+<sub>[previous](../directional/README.md#user-content-directional-light--exposure) • [home](../README.md#user-content-ue5-lighting) • [next](../)</sub>
 
 ![](../images/line3.png)
 
@@ -176,5 +176,5 @@ Select the **File | Save All** then press the <kbd>Source Control</kbd> button a
 
 ![](../images/line.png)
 
-| [previous](../)| [home](../README.md#user-content-ue5-lighting) | [next](../)|
+| [previous](../directional/README.md#user-content-directional-light--exposure)| [home](../README.md#user-content-ue5-lighting) | [next](../)|
 |---|---|---|

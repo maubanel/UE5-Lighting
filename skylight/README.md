@@ -2,7 +2,7 @@
 
 ### SkyLight
 
-<sub>[previous](../) • [home](../README.md#user-content-ue5-lighting) • [next](../)</sub>
+<sub>[previous](../sky-fog/README.md#user-content-sky--fog) • [home](../README.md#user-content-ue5-lighting) • [next](../)</sub>
 
 ![](../images/line3.png)
 
@@ -145,5 +145,5 @@ This is the final outdoor lighting effect we will look at.  It acts as the sky a
 
 ![](../images/line.png)
 
-| [previous](../)| [home](../README.md#user-content-ue5-lighting) | [next](../)|
+| [previous](../sky-fog/README.md#user-content-sky--fog)| [home](../README.md#user-content-ue5-lighting) | [next](../)|
 |---|---|---|

@@ -112,6 +112,8 @@ https://user-images.githubusercontent.com/5504953/188520978-d211fa64-7a00-4b6e-a
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
+Now there is a secondary fog layer hta tyou can add with the **Second Fog Density** and **Second Height Falloff**.  You can also adjust the height relative to the first fog layer with the **Fog Height Offset**.  If the density is set to `0` there is no secondary fog at all.
+
 https://user-images.githubusercontent.com/5504953/188612829-bc4bd408-532a-4a21-967e-69cc4e289ff1.mp4
 
 ![](../images/line2.png)

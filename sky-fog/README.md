@@ -145,11 +145,19 @@ https://user-images.githubusercontent.com/5504953/188617279-0b383a35-cbe2-4e28-8
 
 ##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now lets get interesting patterns of the sun off of the gazebo to interact with our volumetric fog.  Select the **Directional Light** (Sun). You can adjust the **Volumetric Scattering Intensity** which affects the intensity of the scattering of the volumetric fog from this light. Turn on **Light Shaft Occlusion** which adjusts how it is blurred based on the camera angle with the light. The **Occlusion Mask Darkening** controls how much the rays will darken.  
+
+Also, turn on **Light Shaft Occlusion** which will add a bloom through the fog when looking at the light.  You can then adjust the scale, threshold and brightness.  The default settings are too pronounced so I adjusted them down to lessen the bloom effect. 
+
+Run the game and make the tweaks to your liking.
+
 
 ![](../images/line2.png)
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
+
+Now lets make one more change.  Lets have the clouds overhead affect the lighting.  Select **Cast Shadows on Clouds**.  This might have no effect, or in my case it makes the entire scene go dark.  This is because the clouds are occluding the sun and there is no other light source.  The sun will light up all the particle sin the sky and we get lots of ambient light (why we can still see when the clouds block the sun). If you can see some blue sky there will lighting.  Our sky atmosphere doesn't act as a light and there is one more actor we need for an outdoor scene that will act to light the entire sky.
+
 
 ![alt_text](images/.png)
 
@@ -157,37 +165,10 @@ https://user-images.githubusercontent.com/5504953/188617279-0b383a35-cbe2-4e28-8
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/.png)
+Select the **File | Save All** then press the <kbd>Source Control</kbd> button and select **Submit Content**.  If you are prompted, select **Check Out** for all items that are not checked out of source control. Update the **Changelist Description** message and with the latest changes. Make sure all the files are correct and press the <kbd>Submit</kbd> button. A confirmation will pop up on the bottom right with a message about a changelist was submitted with a commit number.
 
-![](../images/line2.png)
+![save all and submit to perforce](images/submitP4.png)
 
-##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 19.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 20.`\|`ITL`| :large_blue_diamond: :large_blue_diamond:
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 21.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
 
 ![](../images/line.png)
 

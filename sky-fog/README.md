@@ -151,12 +151,16 @@ Also, turn on **Light Shaft Occlusion** which will add a bloom through the fog w
 
 Run the game and make the tweaks to your liking.
 
+https://user-images.githubusercontent.com/5504953/188624574-9454f1c7-a6d4-46c6-aa79-de224f7dd9e8.mp4
 
 ![](../images/line2.png)
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
 Now lets make one more change.  Lets have the clouds overhead affect the lighting.  Select **Cast Shadows on Clouds**.  This might have no effect, or in my case it makes the entire scene go dark.  This is because the clouds are occluding the sun and there is no other light source.  The sun will light up all the particle sin the sky and we get lots of ambient light (why we can still see when the clouds block the sun). If you can see some blue sky there will lighting.  Our sky atmosphere doesn't act as a light and there is one more actor we need for an outdoor scene that will act to light the entire sky.
+
+
+https://user-images.githubusercontent.com/5504953/188625147-1dff565a-e528-4c87-8ecf-abc551befb12.mp4
 
 
 ![alt_text](images/.png)

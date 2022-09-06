@@ -135,6 +135,10 @@ Now if you want the light to react in interesting ways with the particles you ca
 
 >Volumetric Fog is an optional part of the Exponential Height Fog Component. Volumetric Fog computes participating media density and lighting at every point in the camera frustum to support varying densities and any number of lights that affect the fog. - Unreal Manual
 
+You can adjust the **Scaterring Distribution**: "*This determines how directional the volumetric scattering is; a value of 0, means light scatters equally in all directions, while a value close to 1 causes scattering, predominantly in the direction of the light (you have to be looking at the light to see its scattering)*", the **Albedo**: "*This is the overall reflectiveness of the participating media. Clouds, fog, and mist, which are based on water particles, have an Albedo close to 1.*", the **Extinction Scale**: "*Controls how much the participating media blocks light*", the **View Distance** and the **Light Colors**.
+
+Turn **Volumetric Fog** on.  Make all the fog changes you see fit on your level.
+
 
 ![](../images/line2.png)
 

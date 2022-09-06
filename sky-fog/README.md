@@ -104,7 +104,7 @@ https://user-images.githubusercontent.com/5504953/188520360-70df16f0-9b3a-4de4-a
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-There are quite a few things we can tweak with the exponential height fog.  First is the **Fog Density**: "*This is the global density factor, which can be thought of as the fog layer's thickness.*".  The second is **Fog Height Falloff**: "*Height density factor, controls how the density increases as height decreases. Smaller values make the transition larger.*".
+There are quite a few things we can tweak with the exponential height fog.  First is the **Fog Density**: "*This is the global density factor, which can be thought of as the fog layer's thickness.*".  The second is **Fog Height Falloff**: "*Height density factor, controls how the density increases as height decreases. Smaller values make the transition larger.*" You can control the height of the fog layer by adjusting the **Z** value of the fog actor.
 
 https://user-images.githubusercontent.com/5504953/188520978-d211fa64-7a00-4b6e-a027-dddf7ad643a0.mp4
 
@@ -120,8 +120,6 @@ https://user-images.githubusercontent.com/5504953/188612829-bc4bd408-532a-4a21-9
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
 https://user-images.githubusercontent.com/5504953/188612919-9d48eb9c-95ed-48f3-ab37-6ca548dd6109.mp4
-
-![alt_text](images/.png)
 
 ![](../images/line2.png)
 

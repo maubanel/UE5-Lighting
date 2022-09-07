@@ -96,7 +96,7 @@ https://user-images.githubusercontent.com/5504953/188850009-8fb6b17d-a29c-4ae7-8
 
 Now we can adjust the resolution of the map used for reflections.
 
-![alt_text](images/.png)
+https://user-images.githubusercontent.com/5504953/188872610-aa19055a-7b2c-4c18-8bf9-b6fc65f31a49.mp4
 
 ![](../images/line2.png)
 

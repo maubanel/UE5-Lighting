@@ -68,8 +68,6 @@ Now if you go back to the gazebo and you turn off **Affects World** on the **Sky
 
 https://user-images.githubusercontent.com/5504953/188779547-0468efb6-767d-410f-8a6b-dde2b168a637.mp4
 
-![alt_text](images/.png)
-
 ![](../images/line2.png)
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:

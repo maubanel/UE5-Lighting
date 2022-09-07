@@ -14,7 +14,6 @@ This is the final outdoor lighting effect we will look at.  It acts as the sky a
 
 ---
 
-
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
 Go back to the editor and make sure you have opened up **Window | Env Light Mixer** and select a **SkyLight**.  Move it to the **Lighting** folder.  Make sure it's mobility is set to **Movable**.
@@ -35,6 +34,7 @@ https://user-images.githubusercontent.com/5504953/188761989-cf2176a2-6bec-4c56-a
 
 Now you can go back to the **Directional Light** (Sun) and now go to 
 
+https://user-images.githubusercontent.com/5504953/188763433-13739436-f804-4133-b0e8-e8939ce4db15.mp4
 
 ![](../images/line2.png)
 

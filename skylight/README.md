@@ -6,7 +6,7 @@
 
 ![](../images/line3.png)
 
-This is the final outdoor lighting effect we will look at.  It acts as the sky ambient light for an outdoor scene. We have both outdoor and indoor scenes so we will need the skylight. The skylight also is used for reflections in the level.  
+This is the final outdoor lighting effect we will look at.  It acts as the sky ambient light for an outdoor scene. We have both outdoor and indoor scenes so we will need the skylight. The [SkyLight](https://docs.unrealengine.com/5.0/en-US/sky-lights-in-unreal-engine/) also is used for reflections in the level.  
 
 >The Sky Light captures the distant parts of your level and applies that to the scene as a light. That means the sky's appearance and its lighting/reflections will match, even if your sky is coming from atmosphere, or layered clouds on top of a skybox, or distant mountains. You can also manually specify a cubemap to use. - Unreal Manual
 
@@ -72,7 +72,13 @@ https://user-images.githubusercontent.com/5504953/188779547-0468efb6-767d-410f-8
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+The first option we will look at for the **SkyLight** is the **RealTime** setting.
+
+>The Real Time Capture mode provides dynamic and specular environment lighting, making possible dynamic time-of-day simulations with real-time reflections on scene elements. - Unreal manual
+
+This way you will see the sky atmosphere, volumetric clouds and exponential height fog all get updated in real time during gameplay. Go to your silver reflective ball and look at the difference when turning real time on and off.  When you turn it off you can recapture your scene by pressing the <kbd>Recapture</kbd> button in the skylight actor.
+
+![real time skylight](images/.png)
 
 ![](../images/line2.png)
 

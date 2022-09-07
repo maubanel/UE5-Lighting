@@ -72,7 +72,7 @@ https://user-images.githubusercontent.com/5504953/188779547-0468efb6-767d-410f-8
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-The first option we will look at for the **SkyLight** is the **RealTime** setting.
+The first option we will look at for the **SkyLight** is the **RealTime** setting. Move the silver ball outside the gazebo and look at the reflection.  Select the **Skylight**.  Turn on and off the **Real Time** toggle.
 
 >The Real Time Capture mode provides dynamic and specular environment lighting, making possible dynamic time-of-day simulations with real-time reflections on scene elements. - Unreal manual
 

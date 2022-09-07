@@ -56,7 +56,7 @@ https://user-images.githubusercontent.com/5504953/188764426-325f47b9-5594-4436-b
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-If you want to turn off a light in **both** the editor and in game you can turn off the switch for **Affects World**.  This way you don't have to delete a light, you can just turn it off in the editor and it will not affect the world anymore in game or in editor.
+If you want to turn off a light in **both** the editor and in game you can turn off the switch for **Affects World**.  Select the **Sun** actor and turn the light on and off. This way you don't have to delete a light, you can just turn it off in the editor and it will not affect the world anymore in game or in editor.
 
 
 ![](../images/line2.png)

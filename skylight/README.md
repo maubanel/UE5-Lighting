@@ -72,18 +72,13 @@ https://user-images.githubusercontent.com/5504953/188779547-0468efb6-767d-410f-8
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-<<<<<<< HEAD
 The first option we will look at for the **SkyLight** is the **RealTime** setting.
 
 >The Real Time Capture mode provides dynamic and specular environment lighting, making possible dynamic time-of-day simulations with real-time reflections on scene elements. - Unreal manual
 
 This way you will see the sky atmosphere, volumetric clouds and exponential height fog all get updated in real time during gameplay. Go to your silver reflective ball and look at the difference when turning real time on and off.  When you turn it off you can recapture your scene by pressing the <kbd>Recapture</kbd> button in the skylight actor.
 
-![real time skylight](images/.png)
-=======
-
 [![alt_text](images/.png)](https://user-images.githubusercontent.com/5504953/188846253-0fadf7da-de51-46a4-8169-79f04cde1e89.mp4)
->>>>>>> b6172f746e1af47dae785150f60e9cad956cdcba
 
 ![](../images/line2.png)
 

@@ -38,13 +38,17 @@ Now open up **M_FirePit_Inst_Glow** material instance and increase the **Glow** 
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Now you should see some of the torches in the level are glowing.  Lets add a Point Light to light up the surrounding. Now these materials send a light but not enough.  We should add a point light (a radiating light like a light bulb).
 
+![torches glowing](images/TorchesGlow.png)
 
 ![](../images/line2.png)
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+So press the **Add Actor** button and select a **Light | Point Light** and drag it on top of the 
 
+![torches glowing](images/addPointLight.png)
 
 
 
@@ -55,9 +59,7 @@ Now open up **M_FirePit_Inst_Glow** material instance and increase the **Glow** 
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-Now you should see some of the torches in the level are glowing.  Lets add a Point Light to light up the surrounding.
 
-![torches glowing](images/TorchesGlow.jpg)
 
 ![](../images/line2.png)
 

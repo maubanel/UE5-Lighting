@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/5504953/188761989-cf2176a2-6bec-4c56-a
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now you can go back to the **Directional Light** (Sun) and now go to 
+Now you can go back to the **Directional Light** (Sun) and now go to **Atmosphere and Cloud | Cloud Shadows** so that the cloud casts shadows on the ground.  
 
 https://user-images.githubusercontent.com/5504953/188763433-13739436-f804-4133-b0e8-e8939ce4db15.mp4
 

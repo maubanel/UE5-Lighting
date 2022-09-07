@@ -115,6 +115,8 @@ Now the **SkyLight** is using the actual sky in the game.  We can also use an **
 
 You can match real life locations really quickly this way.  It will also affect the sky in the reflection.
 
+https://user-images.githubusercontent.com/5504953/188874768-91f4cb40-4b42-48c0-aba6-2bf64d5068f5.mp4
+
 ![](../images/line2.png)
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 

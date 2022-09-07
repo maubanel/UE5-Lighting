@@ -121,7 +121,9 @@ https://user-images.githubusercontent.com/5504953/188874768-91f4cb40-4b42-48c0-a
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/returnSettings.png)
+Change the **Intensity Scale** back to `1.0`, the **Source Type** to `SLS Capture Scene` and the **Real Time Capture** back to `true`. We will use our existing sky as our lighting and reflection source.
+
+![put cubemap back to original settings](images/returnSettings.png)
 
 ![](../images/line2.png)
 

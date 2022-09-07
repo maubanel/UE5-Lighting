@@ -72,7 +72,8 @@ https://user-images.githubusercontent.com/5504953/188779547-0468efb6-767d-410f-8
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+
+[![alt_text](images/.png)](https://user-images.githubusercontent.com/5504953/188846253-0fadf7da-de51-46a4-8169-79f04cde1e89.mp4)
 
 ![](../images/line2.png)
 

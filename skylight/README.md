@@ -6,7 +6,9 @@
 
 ![](../images/line3.png)
 
-This is the final outdoor lighting effect we will look at.  It acts as the sky ambient light for an outdoor scene. We have both outdoor and indoor scenes so we will need the skylight.
+This is the final outdoor lighting effect we will look at.  It acts as the sky ambient light for an outdoor scene. We have both outdoor and indoor scenes so we will need the skylight. The skylight also is used for reflections in the level.  
+
+>The Sky Light captures the distant parts of your level and applies that to the scene as a light. That means the sky's appearance and its lighting/reflections will match, even if your sky is coming from atmosphere, or layered clouds on top of a skybox, or distant mountains. You can also manually specify a cubemap to use. - Unreal Manual
 
 <br>
 
@@ -15,7 +17,9 @@ This is the final outdoor lighting effect we will look at.  It acts as the sky a
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-![alt_text](images/.png)
+Go back to the editor and make sure you have opened up **Window | Env Light Mixer** and select a **SkyLight**.  Move it to the **Lighting** folder.  Make sure it's mobility is set to **Movable**.
+
+![make skylight movable](images/addSkyLight.png)
 
 ![](../images/line2.png)
 

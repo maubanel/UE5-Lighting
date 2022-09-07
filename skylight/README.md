@@ -84,6 +84,10 @@ https://user-images.githubusercontent.com/5504953/188846253-0fadf7da-de51-46a4-8
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Our reflection has a black ring at the bottom when you move outside the building.  This is because the default setting is to reflect black from the lower hemisphere.  This is useful when using a cubemap where there is lighting information from the ground plane being cast.  But in our case we have no texture on a skydome, so we want to turn off **Lower Hemisphere is Solid Color**.
+
+>Lower Hemisphere is Solid Color determines whether all lighting from the lower hemisphere should be set to zero. This is useful to prevent leaking from the lower hemisphere. Advanced.
+
 ![alt_text](images/.png)
 
 ![](../images/line2.png)

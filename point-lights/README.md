@@ -30,7 +30,9 @@ Press the <kbd>Apply</kbd> and <kbd>Save</kbd> buttons.
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
+Now open up 
 
+![alt_text](images/glowScalar.png)
 
 ![](../images/line2.png)
 

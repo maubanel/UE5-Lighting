@@ -58,6 +58,7 @@ https://user-images.githubusercontent.com/5504953/188764426-325f47b9-5594-4436-b
 
 If you want to turn off a light in **both** the editor and in game you can turn off the switch for **Affects World**.  Select the **Sun** actor and turn the light on and off. This way you don't have to delete a light, you can just turn it off in the editor and it will not affect the world anymore in game or in editor.
 
+https://user-images.githubusercontent.com/5504953/188778954-651a88dd-53ef-4f2e-81a4-f97cce879aa5.mp4
 
 ![](../images/line2.png)
 

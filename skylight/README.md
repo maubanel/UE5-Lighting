@@ -78,7 +78,7 @@ The first option we will look at for the **SkyLight** is the **RealTime** settin
 
 This way you will see the sky atmosphere, volumetric clouds and exponential height fog all get updated in real time during gameplay. Go to your silver reflective ball and look at the difference when turning real time on and off.  When you turn it off you can recapture your scene by pressing the <kbd>Recapture</kbd> button in the skylight actor.
 
-[![alt_text](images/.png)](https://user-images.githubusercontent.com/5504953/188846253-0fadf7da-de51-46a4-8169-79f04cde1e89.mp4)
+https://user-images.githubusercontent.com/5504953/188846253-0fadf7da-de51-46a4-8169-79f04cde1e89.mp4
 
 ![](../images/line2.png)
 

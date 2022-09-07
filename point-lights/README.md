@@ -46,7 +46,7 @@ Now you should see some of the torches in the level are glowing.  Lets add a Poi
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-So press the **Add Actor** button and select a **Light | Point Light** and drag it on top of the lantern.  Position it just inside the center of the embers.  Change the **Light Color** to match the orange of the glow and set the **Intensity** to an appropriate level that radiates subtly on the edge of the column. 
+So press the **Add Actor** button and select a **Light | Point Light** and drag it on top of the lantern.  Position it just inside the center of the embers.  Change the **Light Color** to match the orange of the glow and set the **Intensity** to an appropriate level that radiates subtly on the edge of the column.  Drag it into the **Lighting** folder and name it `Ember Glow`.
 
 ![torches glowing](images/addPointLight.png)
 

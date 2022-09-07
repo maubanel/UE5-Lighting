@@ -30,9 +30,9 @@ Press the <kbd>Apply</kbd> and <kbd>Save</kbd> buttons.
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-Now open up 
+Now open up **M_FirePit_Inst_Glow** material instance and increase the **Glow** scalr to a very large number.  The preview window does not reflect what we are seeing in game as we are in **EV100**. Now you should see an ember in every lantern except for one on the gazebo.
 
-![alt_text](images/glowScalar.png)
+![adjust glow scalar](images/glowScalar.png)
 
 ![](../images/line2.png)
 

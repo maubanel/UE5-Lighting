@@ -64,6 +64,8 @@ https://user-images.githubusercontent.com/5504953/188778954-651a88dd-53ef-4f2e-8
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Now if you go back to the gazebo and you turn off **Affects World** on the **Sky Light**, you can see the shadows goes from solid and crisp to light and blurry because of the effect of the sun being filtered through the clouds. 
+
 ![alt_text](images/.png)
 
 ![](../images/line2.png)

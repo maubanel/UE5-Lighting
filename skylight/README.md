@@ -2,7 +2,7 @@
 
 ### SkyLight
 
-<sub>[previous](../sky-fog/README.md#user-content-sky--fog) • [home](../README.md#user-content-ue5-lighting) • [next](../)</sub>
+<sub>[previous](../sky-fog/README.md#user-content-sky--fog) • [home](../README.md#user-content-ue5-lighting) • [next](../point-lights/README.md#user-content-point-lights)</sub>
 
 ![](../images/line3.png)
 
@@ -141,5 +141,5 @@ Select the **File | Save All** then press the <kbd>Source Control</kbd> button a
 
 ![](../images/line.png)
 
-| [previous](../sky-fog/README.md#user-content-sky--fog)| [home](../README.md#user-content-ue5-lighting) | [next](../)|
+| [previous](../sky-fog/README.md#user-content-sky--fog)| [home](../README.md#user-content-ue5-lighting) | [next](../point-lights/README.md#user-content-point-lights)|
 |---|---|---|

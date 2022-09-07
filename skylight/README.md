@@ -104,14 +104,16 @@ https://user-images.githubusercontent.com/5504953/188872610-aa19055a-7b2c-4c18-8
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now the **SkyLight** is using the actual sky in the game.  We can also use an **HDR** 360 capture to project instead.  I have included a few samples including this outdoor scene.  This way you can use an actual 360 photo from an existing sight to recreate the ambient lighting from that area at that time of day. 
+
+![outdoor hdr photo](images/outdoorScene.png)
 
 ![](../images/line2.png)
 
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+You can match real life locations really quickly this way.  It will also affect the sky in the reflection.
 
 ![](../images/line2.png)
 

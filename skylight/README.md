@@ -25,6 +25,8 @@ Go back to the editor and make sure you have opened up **Window | Env Light Mixe
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
+https://user-images.githubusercontent.com/5504953/188761989-cf2176a2-6bec-4c56-a22c-d51d5dee114f.mp4
+
 ![alt_text](images/.png)
 
 ![](../images/line2.png)

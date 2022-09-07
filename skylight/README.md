@@ -94,7 +94,7 @@ https://user-images.githubusercontent.com/5504953/188850009-8fb6b17d-a29c-4ae7-8
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-
+Now we can adjust the resolution of the map used for reflections.
 
 ![alt_text](images/.png)
 

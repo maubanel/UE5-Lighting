@@ -48,7 +48,7 @@ Now in my case it darkened the scene.  I go back to the reference balls in the r
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
-![alt_text](images/.png)
+Now the eyeball in the **Outliner** only affects the editor.  So if you turn off the lights using the eyeball it doesn't affect the game, just the editor.  So if you hit play, those lights work again.
 
 ![](../images/line2.png)
 

@@ -24,7 +24,7 @@ Go back to the editor and make sure you have opened up **Window | Env Light Mixe
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-Now if you zoom way up and turn the eyeball on and off.  You will see that now the water reflects the sky and that the sky is lighting the scene (taking into account the clouds). 
+Now if you zoom way up and turn the eyeball on and off.  You will see that now the water reflects the sky and that the sky is lighting the scene (taking into account the clouds). Notice that when the directional light gets turned off that the lighting doesn't disappear.  The skylight is using a capture of the sky to light up the scene with soft indirect light.
 
 https://user-images.githubusercontent.com/5504953/188761989-cf2176a2-6bec-4c56-a22c-d51d5dee114f.mp4
 
@@ -84,7 +84,7 @@ https://user-images.githubusercontent.com/5504953/188846253-0fadf7da-de51-46a4-8
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Our reflection has a black ring at the bottom when you move outside the building.  This is because the default setting is to reflect black from the lower hemisphere.  This is useful when using a cubemap where there is lighting information from the ground plane being cast.  But in our case we have no texture on a skydome, so we want to turn off **Lower Hemisphere is Solid Color**.
+Our reflection has a black ring at the bottom when you move outside the building.  This is because the default setting is to reflect black from the lower hemisphere.  This is useful when using a cubemap where there is lighting information from the ground plane being cast.  But in our case we have no texture on a skydome, so we want to turn off **Lower Hemisphere is Solid Color**. In our case this gets rid of the black ring around the horizon. You also notice that the new water shader is not reflecting in the Unreal reflection volume.
 
 >Lower Hemisphere is Solid Color determines whether all lighting from the lower hemisphere should be set to zero. This is useful to prevent leaking from the lower hemisphere. Advanced.
 
@@ -93,6 +93,8 @@ https://user-images.githubusercontent.com/5504953/188850009-8fb6b17d-a29c-4ae7-8
 ![](../images/line2.png)
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
+
+
 
 ![alt_text](images/.png)
 

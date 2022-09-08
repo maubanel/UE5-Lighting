@@ -58,11 +58,13 @@ Attenuation radius & size of source
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-
+https://user-images.githubusercontent.com/5504953/189105415-f286a91e-8e25-4a9d-aca5-9feb3d45db72.mp4
 
 ![](../images/line2.png)
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+
+https://user-images.githubusercontent.com/5504953/189105474-e9cba197-f828-4548-9e4b-cdc71019ceec.mp4
 
 Add a **Light | Point Light** to the scene and position it on top of one of the embers that is in the shadows. Add a new folder called `Torches`.  Put the **Point Light** in it. Adjust the color to match the orange/red of the embers the best you can.
 

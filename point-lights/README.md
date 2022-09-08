@@ -52,6 +52,7 @@ So press the **Add Actor** button and select a **Light | Point Light** and drag 
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
+Attenuation radius & size of source
 
 ![](../images/line2.png)
 

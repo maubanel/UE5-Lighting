@@ -52,7 +52,7 @@ So press the **Add Actor** button and select a **Light | Point Light** and drag 
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
-Attenuation radius & size of source
+Now lets adjust the **Attenuation Radius**.  This is the distance the light will travel before it no longer affects the world.  It is the distance a light travels before its light drops to 0.  It is indicated with the light colored sphere.  I set mine to `135`.
 
 ![](../images/line2.png)
 
@@ -83,7 +83,7 @@ Select the advanced features of lighting (the small arrow at the bottom) and cha
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now lets adjust the **Attenuation Radius**.  This is the distance the light will travel before it no longer affects the world.  It is the distance a light travels.  It is indicated with the light colored sphere.  I set mine to `165`.
+
 
 I also set the **Source Radius**.  This is how large and what shape is the light emanating from.  It is the entire coal bed so I set mine to `27`. This is the inner yellow sphere. 
 

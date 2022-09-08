@@ -45,7 +45,7 @@ Now you should see some of the torches in the level are glowing.  Lets add a Poi
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-So press the **Add Actor** button and select a **Light | Point Light** and drag it on top of the lantern.  Position it just inside the center of the embers.  Change the **Light Color** to match the orange of the glow and set the **Intensity** to an appropriate level that radiates subtly on the edge of the column.  Drag it into the **Lighting** folder and name it `Ember Glow`.
+So press the **Add Actor** button and select a **Light | Point Light** and drag it on top of the lantern.  Position it just inside the center of the embers.  Change the **Light Color** to match the orange of the glow and set the **Intensity** to an appropriate level that radiates subtly on the edge of the column.  Drag it into the **Lighting** folder and name it `Ember Glow`. Set the mobility to **Movable**.
 
 ![torches glowing](images/addPointLight.png)
 
@@ -80,75 +80,38 @@ lt drag another copy of the ember light to each lantern that either has an ember
 https://user-images.githubusercontent.com/5504953/189105474-e9cba197-f828-4548-9e4b-cdc71019ceec.mp4
 
 
-![change point light to 3.2 lumens](images/ReduceBrightness.jpg)
 
 ![](../images/line2.png)
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 
-
-
-
-Position the light into the embers to cast the right shadow on the wall.
-
-![set attenuation and source radius](images/AttenuationSourceRadius.jpg)
-
 ![](../images/line2.png)
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-Now to see the effect of the light I need to turn it on or off.  Do not use the **Eye** icon in the **World Outliner** this will not affect the light. Instead go to the **Details** panel and turn **Light | Affects World** on and off and you can see what changes it makes.
-
-When you are happy turn it back on.
-
-![affect world turns light on and off](images/TurnOnOffLight.jpg)
 
 ![](../images/line2.png)
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-Now lights have three settings for **Mobility**.  They are `Static`, `Stationary` and `Movable`.  These are very different.  From a performance standpoint, the least expensive is static, then next most expensive is stationary and the MOST expensive is movable.
-
-> [Static Lights](https://docs.unrealengine.com/4.26/en-US/BuildingWorlds/LightingAndShadows/LightMobility/StaticLights/) are lights that cannot be changed or moved in any way at runtime. They are calculated only within Lightmaps, and once processed, have no further impact on performance. Movable objects cannot integrate with static lights, so the usefulness of static lights is limited. - Unreal Manual
-
-> [Stationary Lights](https://docs.unrealengine.com/4.26/en-US/BuildingWorlds/LightingAndShadows/LightMobility/StationaryLights/) are lights that are intended to stay in one position, but are able to change in other ways, such as their brightness and color. This is the primary way in which they differ from Static Lights, which cannot change in any way during gameplay. However, it should be noted that runtime changes to brightness only affect the direct lighting. Indirect (bounced) lighting, since it is pre-calculated by Lightmass, will not change. - Unreal Manual
-
-> [Movable Lights](https://docs.unrealengine.com/4.26/en-US/BuildingWorlds/LightingAndShadows/LightMobility/DynamicLights/) cast completely dynamic light and shadows. They can change position, rotation, color, brightness, falloff, radius, and just about every other property they have. None of the light they cast gets baked into the lightmaps, and do not support indirect lighting without a dynamic global illumination method. - Unreal Manual
-
-Of the three light mobilities, Stationary lights tend to have the highest quality, medium mutability, and medium performance cost.
-
-Look at the level where I have adjusted the brightness and put three point lights for the player to walk underneath.
-
-Now we need to build lighting for lights that are marked at **Static** or **Stationary**. These bake the lighting and shadows of static objects in the texture itself. 
-
-![static stationary adn movable light](images/StaticMovableStationary.jpg)
 
 ![](../images/line2.png)
 
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-Now when I move under the lights look at how the light affects the shadow on the ground and the lighting on the player.  The static light casts no shadow and it doesn't read correctly as one would expect it to affect the ground plane.  In this case the movable setting looks the best but stationary is a good comprimise.
 
-https://user-images.githubusercontent.com/5504953/131582540-619753cf-a5e4-4eaa-acea-cbc7a2bfe841.mp4
 
 
 ![](../images/line2.png)
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Since this light does not animate and the object it is illuminating is static, we can bake this light into the texture. It will not be interacting with the player as they cannot get behind the torches.  So we will use the cheapest lighting mobility and set it to **Static**.
-
-![set point light to static](images/SetLightToStatic.jpg)
 
 ![](../images/line2.png)
 
 ##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
-
-Press **Build | Build Lighting** then run and look at it in game. We want a subtle efect here but we can clearly see that the embers does have a small lighting effect that you don't see on the non-lit ember next to it. This adds a bit more realism.
-
-https://user-images.githubusercontent.com/5504953/131583790-6aa24dda-0249-4b34-8315-bbfc7ad2c5bd.mp4
 
 ![](../images/line2.png)
 
@@ -163,11 +126,6 @@ https://user-images.githubusercontent.com/5504953/131666409-a2482b9f-4fef-4adc-b
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-Press **File | Save All** and press **Source Control |  Submit to Source Control...** and enter a **Description** then press the <kbd>Submit</kbd> button. Open up **GitHub Desktop** and press the <kbd>Push</kbd> button. Now we are updated.
-
-![save all, commit and push to github](images/GitHub.jpg)
-
-Light Functions
 
 ![](../images/line.png)
 

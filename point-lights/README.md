@@ -75,13 +75,9 @@ https://user-images.githubusercontent.com/5504953/189105415-f286a91e-8e25-4a9d-a
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+lt drag another copy of the ember light to each lantern that either has an ember. You should hvae a total of 7 lights on the gazebo. There is one stand that has neither and we will not place a light here. 
+
 https://user-images.githubusercontent.com/5504953/189105474-e9cba197-f828-4548-9e4b-cdc71019ceec.mp4
-
-Add a **Light | Point Light** to the scene and position it on top of one of the embers that is in the shadows. Add a new folder called `Torches`.  Put the **Point Light** in it. Adjust the color to match the orange/red of the embers the best you can.
-
-![add point light and change color to orange](images/AddPointLight.jpg)
-
-Select the advanced features of lighting (the small arrow at the bottom) and change intensity units to **Lumens**.  Many lights we use day to day are published in lumens so it is a common format. You can also use **Candelas**.  Do not use **Unitless** as this is legacy for old versions to work. Set the value to `3.2` lumens as it is a dim glow that we want.
 
 
 ![change point light to 3.2 lumens](images/ReduceBrightness.jpg)
@@ -158,7 +154,7 @@ https://user-images.githubusercontent.com/5504953/131583790-6aa24dda-0249-4b34-8
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
-Alt drag another copy of the ember light to each lantern that either has an ember. There is one stand that has neither and we will not place a light here. Check all the rooms for all the lanterns with glowing embers. I counted 14 additional lights.  You can copy the **Location** of the **FirePit** actor and paste it on the **Location** of a duplicated light.  This way I could ensure I had a light per location though some had no lit embers so no light.
+A
 
 https://user-images.githubusercontent.com/5504953/131666409-a2482b9f-4fef-4adc-beac-d7ffa48e5345.mp4
 

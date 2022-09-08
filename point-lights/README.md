@@ -59,6 +59,8 @@ https://user-images.githubusercontent.com/5504953/189125482-355ed330-d096-4641-a
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
+I also set the **Source Radius**.  This is how large and what shape is the light emanating from.  It is the entire coal bed so I set mine to `27`. This is the inner yellow sphere. This not only affects how large a radius the light is emitted from, but it also shows up in the reflection.  Move the silver ball close to the light and see how the glow grows with the source radius.  Now the **Soft Source Radius** affects how soft the light is and since this is an ember and not a flame it looks a bit bright so we will soften the radius of the light. 
+
 https://user-images.githubusercontent.com/5504953/189126555-622baf8f-be41-4ec8-858b-6af88d184571.mp4
 
 ![](../images/line2.png)
@@ -88,7 +90,7 @@ Select the advanced features of lighting (the small arrow at the bottom) and cha
 
 
 
-I also set the **Source Radius**.  This is how large and what shape is the light emanating from.  It is the entire coal bed so I set mine to `27`. This is the inner yellow sphere. 
+
 
 Position the light into the embers to cast the right shadow on the wall.
 

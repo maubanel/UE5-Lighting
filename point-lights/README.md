@@ -54,6 +54,8 @@ So press the **Add Actor** button and select a **Light | Point Light** and drag 
 
 Now lets adjust the **Attenuation Radius**.  This is the distance the light will travel before it no longer affects the world.  It is the distance a light travels before its light drops to 0.  It is indicated with the light colored sphere.  I set mine to `135`.
 
+https://user-images.githubusercontent.com/5504953/189125482-355ed330-d096-4641-a3f8-07a8492c4843.mp4
+
 ![](../images/line2.png)
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:

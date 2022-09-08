@@ -25,7 +25,6 @@ Press the <kbd>Apply</kbd> and <kbd>Save</kbd> buttons.
 
 ![connect multiply to emissive in m_fire_pit](images/EmissiveFirePit.png)
 
-
 ![](../images/line2.png)
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
@@ -60,7 +59,7 @@ https://user-images.githubusercontent.com/5504953/189125482-355ed330-d096-4641-a
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-
+https://user-images.githubusercontent.com/5504953/189126555-622baf8f-be41-4ec8-858b-6af88d184571.mp4
 
 ![](../images/line2.png)
 

@@ -25,7 +25,7 @@ Lets move on to the middle room.  Put the four exposure balls into a **Gazebo** 
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+![alt_text](images/gazeboGlow.png)
 
 ![](../images/line2.png)
 

@@ -165,7 +165,7 @@ Rename in **Outliner** the first rect light as `RectLightStainedGlass`.  Create 
 
 ##### `Step 19.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+https://user-images.githubusercontent.com/5504953/189345562-b2096d5c-20a3-48d8-88a0-6c1b3b5a26e9.mp4
 
 ![](../images/line2.png)
 

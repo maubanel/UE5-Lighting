@@ -87,6 +87,8 @@ https://user-images.githubusercontent.com/5504953/189105474-e9cba197-f828-4548-9
 
 Now lets organize the outliner a bit.  Put the 4 exposure balls inside a folder called.
 
+![torches glowing](images/putBallsInFolder.png)
+
 ![](../images/line2.png)
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:

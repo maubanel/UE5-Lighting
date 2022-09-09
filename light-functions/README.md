@@ -1,12 +1,12 @@
-<img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
+![](../images/line3.png)
 
 ### Light Functions
 
 <sub>[previous](../point-lights/README.md#user-content-point-lights) • [home](../README.md#user-content-ue4-lighting) • [next](../mobility/README.md#user-content-actor--light-mobility)</sub>
 
-<img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
+![](../images/line3.png)
 
-We are going to turn on an emissive particle system effect for the flames.  We will then create a **Light Function** to animate a flicker on the wall to accentuate what the particle system is already doing and make it look even better!
+Now we have a back room with no incidental window light and just flames.  So lets add a point light with a light function that will exaggerate the indirect light of the flames.  A light function material allows us to alter what a light does. In this case it will be to change the intensity to look like flickering fire light.
 
 <br>
 
@@ -19,15 +19,15 @@ We have another effect that I turned off as it did emit light.  Open up **Materi
 
 ![hook up multiply to emissive in m_fire](images/M_FireOn.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
-##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
+##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
 I used the same mannequin as the level design assignment and we had the collision volume rendering.  Open up **Blueprints | ThirdPersonCharacter** and select the **Capsule Component**.  Go to **Rendering | Hidden In Game** and select `true` by ticking the box.
 
 ![turn on hidden in games in third person character capsule component](images/HideCapsule.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -36,7 +36,7 @@ Run the game and you will see that some of the torches have a particle flame on 
 https://user-images.githubusercontent.com/5504953/131667822-4aed95df-9ce8-44d2-9924-599e1bf721bc.mp4
 
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -48,7 +48,7 @@ Pick a color that matches the flame. I adjusted the **Attenuation Radius** to ju
 
 ![add pointlight on top of flame, make stationary adjust values](images/FlickeringLightSetup.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
@@ -56,7 +56,7 @@ To preview what it might look like click the **Light | Affect World** setting in
 
 https://user-images.githubusercontent.com/5504953/131670011-b83fecf7-eda9-415f-8114-146486a9e142.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
@@ -64,7 +64,7 @@ Add a new **Material** in **Materials** called `M_FlickerFlame`.
 
 ![add m_flickerflame material](images/addMFlickerFlame.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -73,7 +73,7 @@ A material normally affects a polygon surface and we can apply a lot of effects 
 
 ![set material domain to light function](images/LightFunction.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -83,7 +83,7 @@ Add a **Multiply** node and send the output of the **Time** node. This will mult
 
 ![add Time, Multiply and Sine node and connect them in series](images/TimeMaterialNode.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -91,7 +91,7 @@ Now right click on the **Sine** node and select **Start Previewing Node**.  Look
 
 https://user-images.githubusercontent.com/5504953/131685325-ff8abaf0-e36d-418e-b9e9-ecbb755e9856.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 Add a **Frac** node between the **Sine** and the **Emissive Color** nodes.
 
@@ -107,7 +107,7 @@ Now look at the result, it gives us something much closer to what we are looking
 
 https://user-images.githubusercontent.com/5504953/131687015-ab95adc2-a934-4eea-9809-920367c3104a.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
@@ -117,7 +117,7 @@ Add a **Scalar Parameter** and call it `FlickerSpeed`.  Set the **Default Value*
 
 ![Vector Parameter called FlickerSpeed with a Default Value of 1.45](images/VectorParameter.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
@@ -126,7 +126,7 @@ Now we can see that we have something usable.  Press the <kbd>Apply</kbd> key.
 
 https://user-images.githubusercontent.com/5504953/131688042-0e1d22c6-1d6b-4302-8b0d-0ca357c51cdd.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
@@ -134,7 +134,7 @@ Now select the **Flame Flicker Light** Spot Light from the **World Outliner** an
 
 ![drag and drop m_flickerflame onto spot light](images/AddFlickerToLight.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
@@ -142,7 +142,7 @@ Now play the game and look at the light in action. I find the light much brighte
 
 https://user-images.githubusercontent.com/5504953/131690436-807e490c-2095-4e31-8bf2-69ed67beb52a.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
@@ -150,7 +150,7 @@ I backed off the **Intensity** from `10` to `2` lumens.  This provides a more su
 
 https://user-images.githubusercontent.com/5504953/131690553-f30e19aa-350f-4292-8f1a-b83128bcc5bb.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
@@ -158,7 +158,7 @@ Lets now place 8 more flickering lights (for a total of 9 lights) on the remaini
 
 https://user-images.githubusercontent.com/5504953/131701352-f6e18cdd-2afb-4141-8e0d-f29f46851764.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -166,7 +166,7 @@ Right click on **M_FlickerFlame** and create 3 **Material Instances**.  Turn on 
 
 ![add three material instances of M_FlickerFlame and change the flicker speed to 4 different values](images/ThreeMatInstances.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -174,7 +174,7 @@ Go to all of your **Flame Flicker Spotlight** actors and mix up the **Light Func
 
 ![add different material instances to each actor](images/MIxUpMaterialInstances.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 19.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -182,14 +182,14 @@ Now you might notice that the generated shadows created in the lighting build ar
 
 ![build medium quality lights](images/DefaultLightQuality.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 20.`\|`ITL`| :large_blue_diamond: :large_blue_diamond:
  Now run the game and look at all the firelight.  See how it adds a bit of life to the scene.  It is especially important in levels that are fairly bare with few people have enough elements in the scene that look alive to give it some life.  This is a nice addition.  You notice the shadows are better rendered in our baking process.  You can return to a **Preview** lighting quality to make future light builds faster.
 
 https://user-images.githubusercontent.com/5504953/131703962-9481e5fb-6c37-4ae9-aaea-5dfa9f5d88c9.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 21.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
@@ -197,14 +197,12 @@ Press **File | Save All** and press **Source Control |  Submit to Source Control
 
 ![save all, commit and push to github](images/GitHub.jpg)
 
-___
+![](../images/line.png)
 
+<!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - ADD NEXT TITLE"> -->
+![next up next tile](images/banner.png)
 
-<img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
-
-<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Actor and Light Mobility">
-
-<img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
+![](../images/line.png)
 
 | [previous](../point-lights/README.md#user-content-point-lights)| [home](../README.md#user-content-ue4-lighting) | [next](../mobility/README.md#user-content-actor--light-mobility)|
 |---|---|---|

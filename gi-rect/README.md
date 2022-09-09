@@ -129,7 +129,7 @@ Now we could make this material translucent and use the sunlight coming through 
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
-Now move the exposure balls in front of the window.  Make sure the rect light is pointing inside the room (it only goes in one direction). In this case I need to rotate it on **Z** `180`°.
+Now move the exposure balls in front of the window.  Make sure the rect light is pointing inside the room (it only goes in one direction). In this case I need to rotate it on **Z** `180`°. Play the game and make any other adjustmets you would like!
 
 ![rotate rect light](images/lightAdjustment.png)
 
@@ -137,13 +137,21 @@ Now move the exposure balls in front of the window.  Make sure the rect light is
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
+First select the **Rect Light** and adjust the **Attenuation Radius**.  Make it slightly larger than the room so the light affects the entire area. Adjust the **Intensity** and use the exposure balls as a reference for brightness.  Tune to your taste. 
+
+Adjust the **Source Width** and **Source Height** so it is the exact size of the window.  Make sure the rear plane fits perfectly in the sill.  Then adjust the **Barn Door Length** and **Barn Door Angle** setting to create a soft shadow fall off on the window sill to taste.
+
+Now the one unique item of the rect light is that you can use a texture that will change each pixel of the light to match the color of the texture.  In this case we will use the same texture of the window in the **Source Texture** and assign `T_StainedGlass_BCH`. Notice that it now lights up the scene in color!
+
 https://user-images.githubusercontent.com/5504953/189341003-dc00df69-6818-4f53-8529-fd48097ef5ea.mp4
 
 ![](../images/line2.png)
 
 ##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now we repeat theis for the east side window.  Now in my case the sun is facing from the east so it will be brighter than the west side.  First select 
+
+![alt_text](images/repeatOtherSide.png)
 
 ![](../images/line2.png)
 

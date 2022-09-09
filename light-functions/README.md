@@ -15,9 +15,9 @@ Now we have a back room with no incidental window light and just flames.  So let
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-We have another effect that I turned off as it did emit light.  Open up **Materials | M_Fire** and connect the output of the **Multiply** pin into the **Emissive Color** pin in the main shader node.
+Lets create a new **Material** in the **Materials** folder.  Click on <kbd>+ Add</kbd> and select a new **Material** and call it ``.  
 
-![hook up multiply to emissive in m_fire](images/M_FireOn.jpg)
+![hook up multiply to emissive in m_fire](images/flFlickerLightFunction.png)
 
 ![](../images/line2.png)
 

@@ -57,19 +57,15 @@ You can turn **Lumen** off in **Project Settings** (for the whole game) or in th
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-Now we have another powerful tool we can adjust on the various lights.  Select the **Sun** (Directional Light) and change the **Volumetric Scattering Intensity** to `100`.  You can see that the volumetric fog now picks up the light and it much more visible. Now I want to have a bit of dramatic fog inside so I liked a setting of `20`.
+Now we have another powerful tool we can adjust on the various lights.  Select the **Sun** (Directional Light) and change the **Volumetric Scattering Intensity** to `100`.  You can see that the volumetric fog now picks up the light and it much more visible. Now I want to have a bit of dramatic fog inside so I liked a setting of `10`.
 
 https://user-images.githubusercontent.com/5504953/189334563-8338f094-8ef7-4313-81d6-87ec54f59cb0.mp4
-
-![alt_text](images/.png)
 
 ![](../images/line2.png)
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now some of the torches there have flames. Open up **M_Fire** and connect the output of the **Multiply** node to the **Emissive Color** node in the shader.
-
-![connect multiply to emissive color](images/miFireEmiss.png)
+*Press* the <kbd>Play</kbd> button and now you have a moodier feel and really accentuate the rays coming in through the hallway.
 
 ![alt_text](images/.png)
 
@@ -77,7 +73,9 @@ Now some of the torches there have flames. Open up **M_Fire** and connect the ou
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now some of the torches there have flames. Open up **M_Fire** and connect the output of the **Multiply** node to the **Emissive Color** node in the shader.
+
+![connect multiply to emissive color](images/miFireEmiss.png)
 
 ![](../images/line2.png)
 

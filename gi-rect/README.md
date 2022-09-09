@@ -107,13 +107,15 @@ https://user-images.githubusercontent.com/5504953/189336722-71a573f2-6fe2-4455-a
 
 Select the stained glass window in the middle room that has the **MI_WestStainedGlass** material. Make any adjustments to the window to minimize leaking of light from the outside.
 
-![alt_text](images/miWestSG.png)
+![select west stained glass](images/miWestSG.png)
 
 ![](../images/line2.png)
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/adjustWindowBrightness.png)
+Open up **MI_WestStainedGlass** and adjust the **Window Brightness**.  I liked a value of ~`415`.  Notice that it again glows and affects the near environment.
+
+![adjust window brightness](images/adjustWindowBrightness.png)
 
 ![](../images/line2.png)
 

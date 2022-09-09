@@ -17,7 +17,9 @@ Unreal 5's big improvement is real-time global illumination with Lumen.  This is
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-![alt_text](images/.png)
+Lets move to the middle room.  Now some of the torches there have flames. Open up
+
+![alt_text](images/miFireEmiss.png)
 
 ![](../images/line2.png)
 

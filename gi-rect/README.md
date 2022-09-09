@@ -41,7 +41,7 @@ Now the middle room is quite dark as it is not nearly as bright as the outdoor g
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now lets look at the magic of Lumen.  We now have real time global illumination in the engine.  We can see 
+Now lets look at the magic of Lumen.  We now have real time global illumination in the engine.  Select the **Directional Light** (Sun) and adjust the **Indirect Lighting Intensity**. This adjusts how much the indirect light bounces off surfaces to light up surrounding areas.  I increased to `100` to show off how much it can affect the lighting but put it back to `20` which is a good amount of indirecdt light.
 
 https://user-images.githubusercontent.com/5504953/189326383-b6c20801-1054-4230-8661-bf57385772dd.mp4
 

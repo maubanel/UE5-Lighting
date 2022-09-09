@@ -103,10 +103,11 @@ https://user-images.githubusercontent.com/5504953/189336722-71a573f2-6fe2-4455-a
 
 ![](../images/line2.png)
 
-
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+
+
+![alt_text](images/miWestSG.png)
 
 ![](../images/line2.png)
 

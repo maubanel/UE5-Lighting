@@ -149,15 +149,17 @@ https://user-images.githubusercontent.com/5504953/189341003-dc00df69-6818-4f53-8
 
 ##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now we repeat theis for the east side window.  Now in my case the sun is facing from the east so it will be brighter than the west side.  First select 
+Now we repeat theis for the east side window.  Now in my case the sun is facing from the east so it will be brighter than the west side.  First select **MI_EastStainedGlass** and adjust the **Window Brightness**.
 
-![alt_text](images/repeatOtherSide.png)
+![adjust birghtness of east side stained glass material](images/repeatOtherSide.png)
 
 ![](../images/line2.png)
 
 ##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Copy
+
+![alt_text](images/copyRotate.png)
 
 ![](../images/line2.png)
 

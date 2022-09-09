@@ -1,6 +1,6 @@
 ![](../images/line3.png)
 
-### Global Illumination and Rect Light
+### Global Illumination & Rect Light
 
 <sub>[previous](../) • [home](../README.md#user-content-ue5-lighting) • [next](../)</sub>
 

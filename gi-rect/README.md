@@ -129,7 +129,9 @@ Now we could make this material translucent and use the sunlight coming through 
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.png)
+Now move the exposure balls in front of the window.  Make sure the rect light is pointing inside the room (it only goes in one direction). In this case I need to rotate it on **Z** `180`°.
+
+![rotate rect light](images/lightAdjustment.png)
 
 ![](../images/line2.png)
 

@@ -89,13 +89,15 @@ https://user-images.githubusercontent.com/5504953/189335528-c68c9587-a5f2-403e-b
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
+Move the **Player Start** to the middle room. Run the game and make adjustments to the glow brightness of the fire particle system.  Again with Lumen this lights the world and looks amazing.
+
 https://user-images.githubusercontent.com/5504953/189335925-39a39590-4da0-4b54-9587-9170fdf333c3.mp4
 
 ![](../images/line2.png)
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Look at the flames in the corner and you can see it in the reflection and does affect the Global Illumination.  
 
 ![](../images/line2.png)
 

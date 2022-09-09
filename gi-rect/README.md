@@ -173,13 +173,10 @@ https://user-images.githubusercontent.com/5504953/189345562-b2096d5c-20a3-48d8-8
 
 ##### `Step 20.`\|`ITL`| :large_blue_diamond: :large_blue_diamond:
 
-![alt_text](images/.png)
+Select the **File | Save All** then press the <kbd>Source Control</kbd> button and select **Submit Content**.  If you are prompted, select **Check Out** for all items that are not checked out of source control. Update the **Changelist Description** message and with the latest changes. Make sure all the files are correct and press the <kbd>Submit</kbd> button. A confirmation will pop up on the bottom right with a message about a changelist was submitted with a commit number. Quit Unreal and make sure your **Pending** tab in **P4V** is empty. **Submit** any work that is still in the editor.
 
-![](../images/line2.png)
+![save all and submit to perforce](images/submitP4.png)
 
-##### `Step 21.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
 
 ![](../images/line.png)
 

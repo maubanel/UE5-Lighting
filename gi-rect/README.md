@@ -57,6 +57,8 @@ You can turn **Lumen** off in **Project Settings** (for the whole game) or in th
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
+Now we have another powerful tool we can adjust on the various lights.  Select the **Sun** (Directional Light) and change the 
+
 https://user-images.githubusercontent.com/5504953/189334563-8338f094-8ef7-4313-81d6-87ec54f59cb0.mp4
 
 ![alt_text](images/.png)

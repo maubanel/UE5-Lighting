@@ -17,9 +17,9 @@ Unreal 5's big improvement is real-time global illumination with Lumen.  This is
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-Lets move to the middle room.  Now some of the torches there have flames. Open up
+Lets move on to the middle room.  Put the four exposure balls into a **Gazebo** folder.  Duplicate them and move them the copy to the front part of the middle room (in front of the statue). Select the four new balls and press the <kbd>Folder</kbd> button to place them in a new folder called
 
-![alt_text](images/miFireEmiss.png)
+![alt_text](images/middleExposureBalls.png)
 
 ![](../images/line2.png)
 
@@ -42,8 +42,10 @@ Lets move to the middle room.  Now some of the torches there have flames. Open u
 ![](../images/line2.png)
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
+Lets move to the middle room.  Now some of the torches there have flames. Open up **M_Fire** and connect the output of the **Multiply** node to the **Emissive Color** node in the shader.
 
-![alt_text](images/.png)
+![connect multiply to emissive color](images/miFireEmiss.png)
+
 
 ![](../images/line2.png)
 

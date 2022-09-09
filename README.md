@@ -19,6 +19,7 @@ Lets look at lighting a scene in **UE5**.
 <kbd></kbd> &nbsp;&nbsp; [Sky & Fog](sky-fog/README.md#user-content-sky--fog) <br>
 <kbd></kbd> &nbsp;&nbsp; [SkyLight](skylight/README.md#user-content-skylight) <br>
 <kbd></kbd> &nbsp;&nbsp; [Point Lights](point-lights/README.md#user-content-point-lights) <br>
+<kbd></kbd> &nbsp;&nbsp; [Global Illumination and Rect Light](gi-rect/README.md#user-content-gi-rect) <br>
 <kbd></kbd> &nbsp;&nbsp; [Light Functions](light-functions/README.md#user-content-light-functions) <br>
 <kbd></kbd> &nbsp;&nbsp; [Actor & Light Mobility](mobility/README.md#user-content-actor--light-mobility) <br>
 <kbd></kbd> &nbsp;&nbsp; [Add Dynamics To Mobility](dynamics-mobility/README.md#user-content-add-dynamics-to-mobility) <br>

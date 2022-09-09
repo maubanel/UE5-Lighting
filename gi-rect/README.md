@@ -121,7 +121,9 @@ Open up **MI_WestStainedGlass** and adjust the **Window Brightness**.  I liked a
 
 ##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now we could make this material translucent and use the sunlight coming through but this would be very expensive.  There is a light that will do the work for us that will make it look like sun is coming through this window.  Go to **Add Actor | Lighting | Rect Light** and pull it over the window.
+
+![add rect light](images/addRectLight.png)
 
 ![](../images/line2.png)
 

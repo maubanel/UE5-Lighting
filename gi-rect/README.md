@@ -165,6 +165,8 @@ Rename in **Outliner** the first rect light as `RectLightStainedGlass`.  Create 
 
 ##### `Step 19.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Since this light was on the brighter side I added some **Indirect Lighting Intensity**, and increased the **Intensity** of the light.  Play and look at the reflections and light that these two windows add to the scene.
+
 https://user-images.githubusercontent.com/5504953/189345562-b2096d5c-20a3-48d8-88a0-6c1b3b5a26e9.mp4
 
 ![](../images/line2.png)

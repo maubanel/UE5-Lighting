@@ -48,20 +48,26 @@ https://user-images.githubusercontent.com/5504953/189326383-b6c20801-1054-4230-8
 ![](../images/line2.png)
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
-Lets move to the middle room.  Now some of the torches there have flames. Open up **M_Fire** and connect the output of the **Multiply** node to the **Emissive Color** node in the shader.
 
-![connect multiply to emissive color](images/miFireEmiss.png)
+You can turn **Lumen** off in **Project Settings** (for the whole game) or in the **Post Production Volume** for this level only. If you turn Lumen off in my case the lighting blooms out and becomes much flatter.  If I adjust the exposure down to `-4` I get a very flat lighting without the dramatic difference between outdoors and indoors.
 
+![lumen on/off](images/lumenOnOff.png)
 
 ![](../images/line2.png)
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
+
+
 
 ![alt_text](images/.png)
 
 ![](../images/line2.png)
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Now some of the torches there have flames. Open up **M_Fire** and connect the output of the **Multiply** node to the **Emissive Color** node in the shader.
+
+![connect multiply to emissive color](images/miFireEmiss.png)
 
 ![alt_text](images/.png)
 

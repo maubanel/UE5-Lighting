@@ -33,9 +33,9 @@ Put the ember glow point lights in a folder called **Gazebo** to clean up our **
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now the middle room is quite dark as it is not nearly as bright as the outdoor gazebo.  We do not want to adjust the lights to compensate as this will throw off the front room.  We will adjust the exposure in the room as if we moved a real camera from outside to indoors.  So go to the **GlobalPostProductionVolume** and go to the **Exposure** tab.
+Now the middle room is quite dark as it is not nearly as bright as the outdoor gazebo.  We do not want to adjust the lights to compensate as this will throw off the front room.  We will adjust the exposure in the room as if we moved a real camera from outside to indoors.  So go to the **GlobalPostProductionVolume** and go to the **Lens | Exposure** tab. I adjusted the **Exposure Compensation** to a value of `1.0`. This is a little on the dark side but we will be adding some more lights to this room and want to leave it somewhat dark for dramatic effect.
 
-![alt_text](images/exposureCompensation.png)
+![adjust exposure compensation to 1](images/exposureCompensation.png)
 
 ![](../images/line2.png)
 

@@ -15,7 +15,7 @@ Now we have a back room with no incidental window light and just flames.  So let
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-Lets create a new **Material** in the **Materials** folder.  Click on <kbd>+ Add</kbd> and select a new **Material** and call it ``.  
+Lets create a new **Material** in the **Materials** folder.  Click on <kbd>+ Add</kbd> and select a new **Material** and call it `FL_Flicker`. Open up the material and click on the Material node.  Change the **Material Domain** to `Light Function`.  This will turn off all the pins except for emission (as you cannot use any texture effects on the light - just affect the luminance).  
 
 ![hook up multiply to emissive in m_fire](images/flFlickerLightFunction.png)
 
@@ -23,9 +23,9 @@ Lets create a new **Material** in the **Materials** folder.  Click on <kbd>+ Add
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-I used the same mannequin as the level design assignment and we had the collision volume rendering.  Open up **Blueprints | ThirdPersonCharacter** and select the **Capsule Component**.  Go to **Rendering | Hidden In Game** and select `true` by ticking the box.
+Add a **Time** node to animate the light with.  This returns time in milliseconds. Then add a Sine node that converts that value into a sine.  If you know what a sine wave is, it will return a value between -1 and 1.  Connect the pins and send the output of the **Sine** node to the **Emissive Color** node in the material.
 
-![turn on hidden in games in third person character capsule component](images/HideCapsule.jpg)
+![add time and sign to node](images/timeSign.png)
 
 ![](../images/line2.png)
 

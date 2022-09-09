@@ -85,7 +85,7 @@ https://user-images.githubusercontent.com/5504953/189105474-e9cba197-f828-4548-9
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now lets organize the outliner a bit.  Put the 4 exposure balls inside a folder called.
+Now lets organize the outliner a bit.  Put the 4 exposure balls inside a folder called `Exposure Reference`.
 
 ![torches glowing](images/putBallsInFolder.png)
 

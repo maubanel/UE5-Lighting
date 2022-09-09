@@ -99,6 +99,8 @@ https://user-images.githubusercontent.com/5504953/189335925-39a39590-4da0-4b54-9
 
 Look at the flames in the corner and you can see it in the reflection and does affect the Global Illumination.  
 
+https://user-images.githubusercontent.com/5504953/189336722-71a573f2-6fe2-4455-afef-389b579a21c0.mp4
+
 ![](../images/line2.png)
 
 

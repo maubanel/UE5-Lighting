@@ -67,7 +67,7 @@ https://user-images.githubusercontent.com/5504953/189334563-8338f094-8ef7-4313-8
 
 *Press* the <kbd>Play</kbd> button and now you have a moodier feel and really accentuate the rays coming in through the hallway.
 
-![alt_text](images/.png)
+[![alt_text](images/.png)](https://user-images.githubusercontent.com/5504953/189335305-42c8c941-f9e8-4165-bff7-a372ef7a4858.mp4)
 
 ![](../images/line2.png)
 

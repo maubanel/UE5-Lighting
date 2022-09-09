@@ -43,6 +43,8 @@ Now the middle room is quite dark as it is not nearly as bright as the outdoor g
 
 Now lets look at the magic of Lumen.  We now have real time global illumination in the engine.  We can see 
 
+https://user-images.githubusercontent.com/5504953/189326383-b6c20801-1054-4230-8661-bf57385772dd.mp4
+
 ![](../images/line2.png)
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:

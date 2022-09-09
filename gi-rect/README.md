@@ -137,7 +137,7 @@ Now move the exposure balls in front of the window.  Make sure the rect light is
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/.png)
+https://user-images.githubusercontent.com/5504953/189341003-dc00df69-6818-4f53-8529-fd48097ef5ea.mp4
 
 ![](../images/line2.png)
 

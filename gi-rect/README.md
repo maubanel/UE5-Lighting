@@ -2,7 +2,7 @@
 
 ### Global Illumination & Rect Light
 
-<sub>[previous](../) • [home](../README.md#user-content-ue5-lighting) • [next](../)</sub>
+<sub>[previous](../point-lights/README.md#user-content-point-lights) • [home](../README.md#user-content-ue5-lighting) • [next](../light-functions/README.md#user-content-light-functions)</sub>
 
 ![](../images/line3.png)
 
@@ -147,5 +147,5 @@ Unreal 5's big improvement is real-time global illumination with Lumen.  This is
 
 ![](../images/line.png)
 
-| [previous](../)| [home](../README.md#user-content-ue5-lighting) | [next](../)|
+| [previous](../point-lights/README.md#user-content-point-lights)| [home](../README.md#user-content-ue5-lighting) | [next](../light-functions/README.md#user-content-light-functions)|
 |---|---|---|

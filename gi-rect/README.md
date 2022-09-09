@@ -81,7 +81,7 @@ Now some of the torches there have flames. Open up **M_Fire** and connect the ou
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now since we are in **EV100** we need to increase the luminence of the flame.  Open up
+Now since we are in **EV100** we need to increase the luminence of the flame.  Open up **M_Fire_Inst** and adjust the **Glow**.
 
 https://user-images.githubusercontent.com/5504953/189335528-c68c9587-a5f2-403e-bc9c-7c8956e51f03.mp4
 

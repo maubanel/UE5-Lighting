@@ -25,7 +25,9 @@ Lets move on to the middle room.  Put the four exposure balls into a **Gazebo** 
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/gazeboGlow.png)
+Put the ember glow point lights in a folder called **Gazebo** to clean up our **Outliner**.
+
+![put ember glow lights in gazebo folder](images/gazeboGlow.png)
 
 ![](../images/line2.png)
 

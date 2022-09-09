@@ -157,9 +157,9 @@ Now we repeat theis for the east side window.  Now in my case the sun is facing 
 
 ##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Copy
+Rename in **Outliner** the first rect light as `RectLightStainedGlass`.  Create a new folder in **Lighting** called `MiddleRoom` and drag this rect light in there.  Copy the first rect light, rotate it 180° and put it in the opposite side window.
 
-![alt_text](images/copyRotate.png)
+![copy rect window for other side](images/copyRotate.png)
 
 ![](../images/line2.png)
 

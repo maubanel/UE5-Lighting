@@ -2,8 +2,7 @@
 
 ### Point Lights
 
-<sub>[previous](../prep/README.md#user-content-lighting-prep) • [home](../README.md#user-content-ue4-lighting) • [next](../light-functions/README.md#user-content-light-functions)</sub>
-
+<sub>[previous](../prep/README.md#user-content-lighting-prep) • [home](../README.md#user-content-ue4-lighting) • [next](../gi-rect/README.md#user-content-global-illumination--rect-light
 ![](../images/line3.png)
 
 Lets look at adding light to the flames and embers throughout the level. We will add a static light for the embers and a dynamic one for the flames to add a bit of a realistic flicker. This will be using  a point light.  This is any light source like a lamp or flame that radiates light in all direction. 
@@ -106,5 +105,5 @@ Select the **File | Save All** then press the <kbd>Source Control</kbd> button a
 ![](../images/line.png)
 
 
-| [previous](../prep/README.md#user-content-lighting-prep)| [home](../README.md#user-content-ue4-lighting) | [next](../light-functions/README.md#user-content-light-functions)|
+| [previous](../prep/README.md#user-content-lighting-prep)| [home](../README.md#user-content-ue4-lighting) | [next](../gi-rect/README.md#user-content-global-illumination--rect-light)|
 |---|---|---|

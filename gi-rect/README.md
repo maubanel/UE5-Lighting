@@ -41,7 +41,7 @@ Now the middle room is quite dark as it is not nearly as bright as the outdoor g
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now lets look at the magic of Lumen.  We now have real time global illumination in the engine.  We can see 
 
 ![](../images/line2.png)
 

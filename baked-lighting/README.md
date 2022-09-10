@@ -100,31 +100,31 @@ https://user-images.githubusercontent.com/5504953/189500520-d2b52fea-94d8-491f-a
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/sphereReflection.png)
+https://user-images.githubusercontent.com/5504953/189500693-b1eca194-9cf7-4d33-b41b-dca70051625e.mp4
 
 ![](../images/line2.png)
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/buildReflectoins.png)
+![alt_text](images/sphereReflection.png)
 
 ![](../images/line2.png)
 
 ##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/adjustSunlight.png)
+![alt_text](images/buildReflectoins.png)
 
 ![](../images/line2.png)
 
 ##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+![alt_text](images/adjustSunlight.png)
 
 ![](../images/line2.png)
 
 ##### `Step 19.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+
 
 ![](../images/line2.png)
 

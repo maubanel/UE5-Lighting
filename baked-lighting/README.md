@@ -37,7 +37,9 @@ We want it to effect the entire level so set the **Infinite Extent (Unbound)** t
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/manualExposure.png)
+Lets get back to manual exposure.  Go to **Lens | Exposure** and adjust the **Metering Mode** to `Manual`, the **Exposure Compensation** to `1.0` and **Apply Physical Camera Exposure** to `true`.
+
+![turn on full manual camera](images/manualExposure.png)
 
 ![](../images/line2.png)
 

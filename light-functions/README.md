@@ -85,13 +85,10 @@ https://user-images.githubusercontent.com/5504953/189473330-e3d307d7-a1d6-4d66-a
 
 ![](../images/line2.png)
 
-Summing waves of different periods will give us more eratic curves but still have an organic smooth-ish feel.  Lets copy another two sets of multiply and sine nodes. Change the multiply nodes value to `2` and `2.5`.
-
-![add frac node between sine and emissive color](images/FracNode.jpg)
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-Right clickj on the open graph and select an **Add** node.  Take the output of the first and second **Sine** nodes and add them together.  Put a second **Add** node next to it with the output of the first one in the **A** side of the second add node.
+Right click on the open graph and select an **Add** node.  Take the output of the first and second **Sine** nodes and add them together.  Put a second **Add** node next to it with the output of the first one in the **A** side of the second add node.
 
 ![place two add nodes](images/firstSum.png)
 

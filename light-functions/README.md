@@ -96,9 +96,9 @@ Right click on the open graph and select an **Add** node.  Take the output of th
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-Send the output of the second **Add** node to the input of the **Abs** node. This will sum all three sine waves together.
+Now this gives us a really nice effect.  Lets turn these constants into parameters that we can edit in a light function instance material!
 
-![sum two add nodes](images/secondSum.png)
+
 
 ![](../images/line2.png)
 

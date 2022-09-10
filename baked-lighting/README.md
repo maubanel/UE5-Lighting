@@ -52,19 +52,19 @@ Lets load up a level that has no nanites in it.  Double click on **Maps | UnlitL
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/daylightDRValue.png)
+
 
 ![](../images/line2.png)
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/oldBuiildLighting.png)
+![alt_text](images/daylightDRValue.png)
 
 ![](../images/line2.png)
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/gpuLightMassPlugin.png)
+![alt_text](images/oldBuiildLighting.png)
 
 ![](../images/line2.png)
 
@@ -72,7 +72,7 @@ Lets load up a level that has no nanites in it.  Double click on **Maps | UnlitL
 
 ![alt_text](images/.png)
 
-![](../images/line2.png)
+![alt_text](images/gpuLightMassPlugin.png)
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 

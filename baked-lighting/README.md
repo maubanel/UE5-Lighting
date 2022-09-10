@@ -164,13 +164,17 @@ Select the **Directional Light** and press and hold the <kbd>Cntrl L</kbd> butto
 
 ##### `Step 19.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Now in we see that we have shaows in the scene. If there is a message saying to re-bake lights go back to the **GPU LightMass** and rebuild the lighting again.
+
 https://user-images.githubusercontent.com/5504953/189500913-d49cf52d-a63f-4f40-9602-ea54fda42c40.mp4
 
 ![](../images/line2.png)
 
 ##### `Step 20.`\|`ITL`| :large_blue_diamond: :large_blue_diamond:
 
-![alt_text](images/goInBackRoom.png)
+Now lets go in the backroom and adjust the **PostProcessVolume | Lens | Exposure** and make it darker to make the effect a bit greater.
+
+![make back room dark](images/goInBackRoom.png)
 
 
 ![](../images/line.png)

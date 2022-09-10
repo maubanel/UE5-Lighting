@@ -156,7 +156,9 @@ Now select **Build | Build Reflection Captures** and you should see the black re
 
 ##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/adjustSunlight.png)
+Select the **Directional Light** and press and hold the <kbd>Cntrl L</kbd> buttons and move the mouse to get the sun to cast shadow onto the gazebo.
+
+![adjust sun direction](images/adjustSunlight.png)
 
 ![](../images/line2.png)
 

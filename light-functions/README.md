@@ -12,7 +12,6 @@ Now we have a back room with no incidental window light and just flames.  So let
 
 ---
 
-
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
 Lets create a new **Material** in the **Materials** folder.  Click on <kbd>+ Add</kbd> and select a new **Material** and call it `FL_Flicker`. Open up the material and click on the Material node.  Change the **Material Domain** to `Light Function`.  This will turn off all the pins except for emission (as you cannot use any texture effects on the light - just affect the luminance).  
@@ -48,9 +47,9 @@ If we add an **Abs** node at the end before the shader we will make sure the val
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
-To preview what it might look like click the **Light | Affect World** setting in the Spot Light to simulate a flicker.  Make any adjustments to the above settings to your taste.
+Now the value is always positive. Now the problem the light goes to `0`.  We want it to flicker but not turn off completely.
 
-https://user-images.githubusercontent.com/5504953/131670011-b83fecf7-eda9-415f-8114-146486a9e142.mp4
+https://user-images.githubusercontent.com/5504953/189472860-bd3d5456-5aa1-4b4e-91ed-060f455d2d6e.mp4
 
 ![](../images/line2.png)
 

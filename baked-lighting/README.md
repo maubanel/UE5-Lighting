@@ -42,6 +42,8 @@ Lets load up a level that has no nanites in it.  Double click on **Maps | UnlitL
 
 ![alt_text](images/dragLightingInRoom.png)
 
+https://user-images.githubusercontent.com/5504953/189499355-fc1c7569-8a48-457f-9869-bcc9fa6c2965.mp4
+
 ![](../images/line2.png)
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:

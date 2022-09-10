@@ -41,7 +41,8 @@ Lets add a third light to the front of the back hallway by copying a light and b
 
 *Press* the <kbd>Play</kbd> button and look in the back room.  I am happy with the hallway but when I approach the corridor, not enough light is coming in from the main room.  Lets fix that.
 
-![play game look at three lights](images/.png)
+https://user-images.githubusercontent.com/5504953/189477300-e728dffa-50e1-482a-afb8-ac6455545006.mp4
+
 
 ![](../images/line2.png)
 

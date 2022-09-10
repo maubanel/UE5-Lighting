@@ -94,7 +94,7 @@ https://user-images.githubusercontent.com/5504953/189500520-d2b52fea-94d8-491f-a
 
 ##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+![alt_text](images/readjustExposure.png)
 
 ![](../images/line2.png)
 

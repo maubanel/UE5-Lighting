@@ -1,10 +1,12 @@
-<img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
+![](../images/line3.png)
+
 
 ### Post Process Volumes
 
 <sub>[previous](../baked-lighting-ii/README.md#user-content-baked-lighting-ii) • [home](../README.md#user-content-ue4-lighting) • [next](../sky-texture/README.md#user-content-changing-sky-texture)</sub>
 
-<img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
+![](../images/line3.png)
+
 
 Lets add a post production volume in each room and adjust some settings to finalize our look. These [Post Process Volumes](https://docs.unrealengine.com/4.26/en-US/RenderingAndGraphics/PostProcessEffects/) are a powerful way to add different effects and perform final grading.
 
@@ -19,15 +21,15 @@ Add another **Post Process Volume** and add it to the **Lighting Folder** and ca
 
 ![add post process volume to back room](images/BackHallwayPostVolume.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
-##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
+##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
 Now instead of adding more lights in the back hallway as there are no other light sources we can open up the iris and increase the exposure on the camera. In the **Post Production Volume | Lens | Exposure | Exposure Compensation** try out values above `1.0` and less than `1.0` while your camera is in the room. These do not need to be built as these effects take place right away. I picked a value around `1.2`.
 
 ![adjust exposure compensation to 1.2](images/FinalExposure.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -35,7 +37,7 @@ Now lets add a bit of dirt to the lens to enhance the effect in this back dark a
 
 ![add t_screendirt002 to game](images/ScreenDirt.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -43,7 +45,7 @@ You an see the dusk mask texture and see that it just adds what looks like dirt 
 
 ![screen dirt texture](images/ScreenDirtTexture.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
@@ -51,7 +53,7 @@ Make the Dusk Mask Intensity equal around 90.0. Change the color tint to the col
 
 ![tweak dirt mask](images/withwithoutdirtmask.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
@@ -61,7 +63,7 @@ We can also add some lens flare to the back room as the flames would be quite ho
 
 https://user-images.githubusercontent.com/5504953/131909386-37cfe8c5-d553-453e-9158-03e0830adfd1.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -69,7 +71,7 @@ In the back room being dark you would have to open up the aperature on the lens 
 
 https://user-images.githubusercontent.com/5504953/131910605-c0c1703c-ff39-4d23-a2d9-a2303464d666.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -77,7 +79,7 @@ I added three more volumes for the middle room and Gazebo.  I have them as close
 
 ![add two more volumes to level](images/TwoMoreVolumes.jpg)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
@@ -85,7 +87,7 @@ Make subtle changes between them and test going between volumes.  Can you comple
 
 https://user-images.githubusercontent.com/5504953/131915480-dbca1927-5e78-4f5d-bb4b-38cf17287050.mp4
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+![](../images/line2.png)
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
@@ -98,7 +100,7 @@ ___
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 
-<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Changing Skies">
+<img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - HDRI Skies">
 
 <img src="https://via.placeholder.com/1000x4/dba81a/dba81a" alt="drawing" height="4px" alt = ""/>
 

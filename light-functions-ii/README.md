@@ -39,7 +39,7 @@ Lets add a third light to the front of the back hallway by copying a light and b
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+https://user-images.githubusercontent.com/5504953/189477300-e728dffa-50e1-482a-afb8-ac6455545006.mp4
 
 ![](../images/line2.png)
 

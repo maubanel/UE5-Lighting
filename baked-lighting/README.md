@@ -100,19 +100,19 @@ https://user-images.githubusercontent.com/5504953/189500520-d2b52fea-94d8-491f-a
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.png)
+![alt_text](images/sphereReflection.png)
 
 ![](../images/line2.png)
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/.png)
+![alt_text](images/buildReflectoins.png)
 
 ![](../images/line2.png)
 
 ##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+![alt_text](images/adjustSunlight.png)
 
 ![](../images/line2.png)
 

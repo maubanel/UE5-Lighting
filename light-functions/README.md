@@ -140,16 +140,16 @@ https://user-images.githubusercontent.com/5504953/189475278-d77596d2-cc46-4ab9-b
 
 Right click on **FL_Flicker** and select **Create Material Instance**.  Call it `MI_FlickerBackRoom`.
 
-![add two more scalar parameters](images/matInstance.png)
+![create material instance](images/matInstance.png)
 
 
 ![](../images/line2.png)
 
 ##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Right click on **M_FlickerFlame** and create 3 **Material Instances**.  Turn on **Flicker Speed** and set it to `1.3`,  `1.6` and `1.8`. Now with the original master material we have 4 different speeds. 
+Go to the very back room and above the large fire pit add a **Light | Point Light** to the room.  Add it to a new folder called `Backroom` in the **Lighting** folder. Call the light `BackLight`.
 
-![add three material instances of M_FlickerFlame and change the flicker speed to 4 different values](images/ThreeMatInstances.jpg)
+![add point light to back room](images/pointLightBackRoom.png)
 
 ![](../images/line2.png)
 

@@ -148,7 +148,9 @@ This is a much lower cost solution to using Lumen to do this at runtime.
 
 ##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/buildReflectoins.png)
+Now select **Build | Build Reflection Captures** and you should see the black replaced with nice reflections.
+
+![build reflection capture](images/buildReflectoins.png)
 
 ![](../images/line2.png)
 

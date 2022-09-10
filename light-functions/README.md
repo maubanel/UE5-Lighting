@@ -133,6 +133,8 @@ Add two more scalar parameters. Call the first `SineShift` and set it to `0.5` a
 
 Here is the final material function. Press the <kbd>Apply</kbd> button.
 
+https://user-images.githubusercontent.com/5504953/189475278-d77596d2-cc46-4ab9-bf96-e238fee9a9ba.mp4
+
 ![](../images/line2.png)
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 

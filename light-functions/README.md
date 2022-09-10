@@ -122,7 +122,7 @@ Add three **Scalar Paremeter** nodes.  Call them `SineSpeed1`, `SineSpeed2` and 
 
 ##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Add two more scalar parameters. Call the first `SineShift` and set it to `0.5` and plug it into the **B** side of the second **Add** node.  The second is set to `Brightness` with a default value of `10` and sent into the **Multiply | B**.
+Add two more scalar parameters. Call the first `SineShift` and set it to `0.5` and plug it into the **B** side of the second **Add** node.  The second is set to `Brightness` with a default value of `10` and sent into the **Multiply | B**. Clean up the nodes and add a comment.
 
 ![add two more scalar parameters](images/addTwoMoreScalars.png)
 
@@ -131,9 +131,7 @@ Add two more scalar parameters. Call the first `SineShift` and set it to `0.5` a
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
-I backed off the **Intensity** from `10` to `2` lumens.  This provides a more subtle and realistic effect. The flicker also relects in the mannequin's surface, super cool!
-
-https://user-images.githubusercontent.com/5504953/131690553-f30e19aa-350f-4292-8f1a-b83128bcc5bb.mp4
+Here is the final material function. Press the <kbd>Apply</kbd> button.
 
 ![](../images/line2.png)
 

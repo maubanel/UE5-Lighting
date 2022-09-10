@@ -171,6 +171,8 @@ https://user-images.githubusercontent.com/5504953/189475940-771fd6e2-585f-40e3-b
 
 ##### `Step 20.`\|`ITL`| :large_blue_diamond: :large_blue_diamond:
 
+Adjust the **Attenuation Radius** so that it fills the entire hallway from wall to wall.  Adjust the **Volumetric Scattering Intensity** for how much this light is picked up by the fog in the air.  Finally adjust **Source Radius** and **Soft Source Radius** to taste.
+
 https://user-images.githubusercontent.com/5504953/189476317-43dba461-6b6c-49f5-9ee8-ae4108ff03d3.mp4
 
 <!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Light Functions II> -->

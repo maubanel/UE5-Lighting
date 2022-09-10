@@ -134,7 +134,9 @@ https://user-images.githubusercontent.com/5504953/189500693-b1eca194-9cf7-4d33-b
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/sphereReflection.png)
+Play game and notice all reflective surfaces are black.  We have Lumen turned off so it is no longer being used for reflections.
+
+![play game no reflections](images/sphereReflection.png)
 
 ![](../images/line2.png)
 

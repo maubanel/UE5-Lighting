@@ -114,9 +114,9 @@ https://user-images.githubusercontent.com/5504953/189475041-2e5bb478-76c8-43e2-9
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Now select the **Flame Flicker Light** Spot Light from the **World Outliner** and drag and drop **M_FlickerFlame** into the **Light Function | Light Function Material**.
+Add three **Scalar Paremeter** nodes.  Call them ``
 
-![drag and drop m_flickerflame onto spot light](images/AddFlickerToLight.jpg)
+![add three scalar parameters](images/addThreeScalarParams.png)
 
 ![](../images/line2.png)
 

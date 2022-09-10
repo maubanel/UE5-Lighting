@@ -15,7 +15,7 @@ Lets finish up the back room to create a moody flickering lights.
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-Open up **LFI_FlickerBackRoom** and adjust the parameters to taste.  I brough down the brightness and increased the speed of the flicker.
+Open up **LFI_FlickerBackRoom** and adjust the parameters to taste.  I brough down the brightness and increased the speed of the flicker. Play the game and look to see how dramatic it is too see the flickering light from the back of the room.
 
 ![](../images/line2.png)
 

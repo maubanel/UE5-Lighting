@@ -163,7 +163,7 @@ Now match the orange glow coming off of the embers in the large fire pit.  I use
 
 ##### `Step 19.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-
+https://user-images.githubusercontent.com/5504953/189475940-771fd6e2-585f-40e3-b741-33ee20ea0900.mp4
 
 ![](../images/line2.png)
 

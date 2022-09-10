@@ -2,7 +2,7 @@
 
 ### Light Functions
 
-<sub>[previous](../point-lights/README.md#user-content-point-lights) • [home](../README.md#user-content-ue4-lighting) • [next](../mobility/README.md#user-content-actor--light-mobility)</sub>
+<sub>[previous](../point-lights/README.md#user-content-point-lights) • [home](../README.md#user-content-ue4-lighting) • [next](../light-functions-ii/README.md#user-content-light-functions-ii)</sub>
 
 ![](../images/line3.png)
 
@@ -180,5 +180,5 @@ https://user-images.githubusercontent.com/5504953/189476317-43dba461-6b6c-49f5-9
 
 ![](../images/line.png)
 
-| [previous](../point-lights/README.md#user-content-point-lights)| [home](../README.md#user-content-ue4-lighting) | [next](../mobility/README.md#user-content-actor--light-mobility)|
+| [previous](../point-lights/README.md#user-content-point-lights)| [home](../README.md#user-content-ue4-lighting) | [next](../light-functions-ii/README.md#user-content-light-functions-ii)|
 |---|---|---|

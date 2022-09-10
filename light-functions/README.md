@@ -173,7 +173,7 @@ https://user-images.githubusercontent.com/5504953/189475940-771fd6e2-585f-40e3-b
 
 https://user-images.githubusercontent.com/5504953/189476317-43dba461-6b6c-49f5-9ee8-ae4108ff03d3.mp4
 
-<!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - ADD NEXT TITLE"> -->
+<!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Light Functions II> -->
 ![next up next tile](images/banner.png)
 
 ![](../images/line.png)

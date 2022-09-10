@@ -2,7 +2,7 @@
 
 ### Baked Lighting II
 
-<sub>[previous](../) • [home](../README.md#user-content-ue5-lighting) • [next](../)</sub>
+<sub>[previous](../baked-lighting/README.md#user-content-baked-lighting) • [home](../README.md#user-content-ue5-lighting) • [next](../)</sub>
 
 ![](../images/line3.png)
 
@@ -145,5 +145,5 @@ Chapter introduction here.
 
 ![](../images/line.png)
 
-| [previous](../)| [home](../README.md#user-content-ue5-lighting) | [next](../)|
+| [previous](../baked-lighting/README.md#user-content-baked-lighting)| [home](../README.md#user-content-ue5-lighting) | [next](../)|
 |---|---|---|

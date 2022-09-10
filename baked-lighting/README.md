@@ -2,7 +2,7 @@
 
 ### Baked Lighting
 
-<sub>[previous](../light-functions-ii/README.md#user-content-light-functions-ii) • [home](../README.md#user-content-ue5-lighting) • [next](../)</sub>
+<sub>[previous](../light-functions-ii/README.md#user-content-light-functions-ii) • [home](../README.md#user-content-ue5-lighting) • [next](../baked-lighting-ii/README.md#user-content-baked-lighting-ii)</sub>
 
 ![](../images/line3.png)
 
@@ -140,5 +140,5 @@ https://user-images.githubusercontent.com/5504953/189500913-d49cf52d-a63f-4f40-9
 
 ![](../images/line.png)
 
-| [previous](../light-functions-ii/README.md#user-content-light-functions-ii)| [home](../README.md#user-content-ue5-lighting) | [next](../)|
+| [previous](../light-functions-ii/README.md#user-content-light-functions-ii)| [home](../README.md#user-content-ue5-lighting) | [next](../baked-lighting-ii/README.md#user-content-baked-lighting-ii)|
 |---|---|---|

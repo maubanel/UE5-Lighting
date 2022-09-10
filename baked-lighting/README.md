@@ -66,9 +66,6 @@ https://user-images.githubusercontent.com/5504953/189499629-d88a146c-213b-4e2a-8
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-
-![alt_text](images/oldBuiildLighting.png)
-
 https://user-images.githubusercontent.com/5504953/189499754-857b6440-cab5-4bc8-b0e8-262b027d39ba.mp4
 
 
@@ -78,13 +75,9 @@ https://user-images.githubusercontent.com/5504953/189499754-857b6440-cab5-4bc8-b
 
 ![alt_text](images/oldBuiildLighting.png)
 
-![alt_text](images/gpuLightMassPlugin.png)
-
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
 ![alt_text](images/gpuLightMassPlugin.png)
-
-![](../images/line2.png)
 
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 

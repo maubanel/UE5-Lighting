@@ -108,9 +108,9 @@ Send the output of the second **Add** node to the input of the **Abs** node. Thi
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-Now we can see that we have something usable.  Press the <kbd>Apply</kbd> key.
+Connect **Time** to two multiply nodes.
 
-https://user-images.githubusercontent.com/5504953/131688042-0e1d22c6-1d6b-4302-8b0d-0ca357c51cdd.mp4
+![sum two add nodes](images/connectTime.png)
 
 ![](../images/line2.png)
 

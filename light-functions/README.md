@@ -110,7 +110,7 @@ Send the output of the second **Add** node to the input of the **Abs** node. Thi
 
 Connect **Time** to two multiply nodes.
 
-![sum two add nodes](images/connectTime.png)
+![connect time to multipies](images/connectTime.png)
 
 ![](../images/line2.png)
 

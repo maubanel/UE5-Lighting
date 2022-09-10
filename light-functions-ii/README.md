@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/5504953/189476917-5fb33c20-630b-410a-8
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-Copy the light and bring to the back of the room between the two torches.  This will help make the back of the room a bit more visible and makes it more definable from a distance.
+Copy the light and bring to the back of the room between the two torches.  This will help make the back of the room a bit more visible and makes it more definable from a distance. Play the game and make adjustments to this light as necessary.
 
 ![](../images/line2.png)
 

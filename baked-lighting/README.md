@@ -21,7 +21,9 @@ Lets load up a level that has no nanites in it.  Double click on **Maps | UnlitL
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/addPostProcessVolume.png)
+It is bright, as we are not in manual exposure. Drop in a **Visual Effect | Post Process Volume**.
+
+![add post process volume](images/addPostProcessVolume.png)
 
 ![](../images/line2.png)
 

@@ -104,11 +104,15 @@ Open up **Edit | Plugins** and select the **GPU Lightmass** plugin.  Accept the 
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/gpuLightmass.png)
+Now the **Build** menu has a **GPU Lightmass** selection.  Now selct the GPU Lightmass. 
+
+![select gpu lightmass](images/gpuLightmass.png)
 
 ![](../images/line2.png)
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+
+First we need to turn off **Viewport Realtime** to get the maximum speed for the bake. Then press the **Build Lighting** button. 
 
 https://user-images.githubusercontent.com/5504953/189500520-d2b52fea-94d8-491f-aade-0e687ffa175f.mp4
 

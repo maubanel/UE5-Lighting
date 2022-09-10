@@ -82,7 +82,7 @@ https://user-images.githubusercontent.com/5504953/189499754-857b6440-cab5-4bc8-b
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+![alt_text](images/gpuLightmass.png)
 
 ![](../images/line2.png)
 

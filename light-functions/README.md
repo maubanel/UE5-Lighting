@@ -126,7 +126,6 @@ Add two more scalar parameters. Call the first `SineShift` and set it to `0.5` a
 
 ![add two more scalar parameters](images/addTwoMoreScalars.png)
 
-
 ![](../images/line2.png)
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
@@ -139,9 +138,10 @@ https://user-images.githubusercontent.com/5504953/189475278-d77596d2-cc46-4ab9-b
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-Lets now place 8 more flickering lights (for a total of 9 lights) on the remaining fires.  In my case it is **SM_FirePit_4**, **SM_FirePit_6**, **SM_FirePit_8**, **SM_FirePit_18**, **SM_FirePit_22**, **SM_FirePit_24**, **SM_FirePit_25** and **SM_FirePit_28** (the one I did above was **SM_FirePit2**). Duplicate 8 more lights. Copy and paste the position of the torch with each light and adjust the position. 
+Right click on **M_Flicker** and select **Create Material Instance**.  Call it `MI_FlickerBackRoom`.
 
-https://user-images.githubusercontent.com/5504953/131701352-f6e18cdd-2afb-4141-8e0d-f29f46851764.mp4
+![add two more scalar parameters](images/matInstance.png)
+
 
 ![](../images/line2.png)
 

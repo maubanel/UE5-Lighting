@@ -22,7 +22,7 @@ Lets look at lighting a scene in **UE5**.
 <kbd></kbd> &nbsp;&nbsp; [Global Illumination & Rect Light](gi-rect/README.md#user-content-global-illumination--rect-light) <br>
 <kbd></kbd> &nbsp;&nbsp; [Light Functions](light-functions/README.md#user-content-light-functions) <br>
 <kbd></kbd> &nbsp;&nbsp; [Light Functions II](light-functions-ii/README.md#user-content-light-functions-ii) <br>
-<kbd></kbd> &nbsp;&nbsp; [Actor & Light Mobility](mobility/README.md#user-content-actor--light-mobility) <br>
+<kbd></kbd> &nbsp;&nbsp; [Baked Lighting](baked-lighting/README.md#user-content-baked-lighting) <br>
 <kbd></kbd> &nbsp;&nbsp; [Add Dynamics To Mobility](dynamics-mobility/README.md#user-content-add-dynamics-to-mobility) <br>
 <kbd></kbd> &nbsp;&nbsp; [Reflection Captures](reflection/README.md#user-content-reflection-captures) <br>
 <kbd></kbd> &nbsp;&nbsp; [Reflection Captures](reflection/README.md#user-content-reflection-captures) <br>

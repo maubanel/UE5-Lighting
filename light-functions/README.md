@@ -138,7 +138,7 @@ https://user-images.githubusercontent.com/5504953/189475278-d77596d2-cc46-4ab9-b
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-Right click on **M_Flicker** and select **Create Material Instance**.  Call it `MI_FlickerBackRoom`.
+Right click on **FL_Flicker** and select **Create Material Instance**.  Call it `MI_FlickerBackRoom`.
 
 ![add two more scalar parameters](images/matInstance.png)
 

@@ -12,7 +12,6 @@ Chapter introduction here.
 
 ---
 
-
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
 ![alt_text](images/addCube.png)
@@ -27,7 +26,7 @@ Chapter introduction here.
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+https://user-images.githubusercontent.com/5504953/189501441-5661ed14-e387-4d05-b65c-aab48fd1d041.mp4
 
 ![](../images/line2.png)
 

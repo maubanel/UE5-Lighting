@@ -71,9 +71,7 @@ https://user-images.githubusercontent.com/5504953/189473173-ea5cf95a-fd72-4698-b
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
- So lets multiply the time node to speed up the flicker. Set the **Default Value** to `3.0` to triple the speed.
 
-![triple the speed of the flicker](images/mutliplyTime.png)
 
 ![](../images/line2.png)
 

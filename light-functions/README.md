@@ -63,19 +63,17 @@ So lets shift the whole curve up by .5.  So at the end put an **Add** node and s
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now the issue is that we have shifted the value, it is flickering too slowly. So lets multiply the time node to speed up teh flicker.
+Now the issue is that we have shifted the value, it is flickering too slowly.
 
-mutliplyTime
+https://user-images.githubusercontent.com/5504953/189473173-ea5cf95a-fd72-4698-b7e0-d86cd2b5b804.mp4
 
 ![](../images/line2.png)
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Add a **Time** node to the graph.  This node takes a number from 0 to 1 and back to 0 over time.  This way we can animate it.  Since this is a normalized scalar we can multiply it to speed it up or slow it down.
+ So lets multiply the time node to speed up the flicker. Set the **Default Value** to `3.0` to triple the speed.
 
-Add a **Multiply** node and send the output of the **Time** node. This will multiply by 1 (default) which will be the set speed of the time function.  Now send this to a **Sine** node.  This will take it from a linear transition to a ease in and out over a [sine wave](https://en.wikipedia.org/wiki/Sine_wave).  
-
-![add Time, Multiply and Sine node and connect them in series](images/TimeMaterialNode.jpg)
+![triple the speed of the flicker](images/mutliplyTime.png)
 
 ![](../images/line2.png)
 

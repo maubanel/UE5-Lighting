@@ -25,6 +25,8 @@ https://user-images.githubusercontent.com/5504953/189476917-5fb33c20-630b-410a-8
 
 Copy the light and bring to the back of the room between the two torches.  This will help make the back of the room a bit more visible and makes it more definable from a distance.
 
+https://user-images.githubusercontent.com/5504953/189477055-461b8b45-ff85-4091-91f8-4cb067daf043.mp4
+
 ![](../images/line2.png)
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:

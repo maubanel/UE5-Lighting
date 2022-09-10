@@ -130,17 +130,12 @@ https://user-images.githubusercontent.com/5504953/189500913-d49cf52d-a63f-4f40-9
 
 ##### `Step 20.`\|`ITL`| :large_blue_diamond: :large_blue_diamond:
 
-![alt_text](images/.png)
+![alt_text](images/goInBackRoom.png)
 
-![](../images/line2.png)
-
-##### `Step 21.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
 
 ![](../images/line.png)
 
-<!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - ADD NEXT TITLE"> -->
+<!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Baked Lighting II"> -->
 ![next up next tile](images/banner.png)
 
 ![](../images/line.png)

@@ -2,6 +2,7 @@
 
 ### Light Functions II
 
+<sub>[previous](../light-functions/README.md#user-content-light-functions) • [home](../README.md#user-content-ue5-lighting) • [next](../baked-lighting/README.md#user-content-baked-lighting)</sub>
 
 ![](../images/line3.png)
 

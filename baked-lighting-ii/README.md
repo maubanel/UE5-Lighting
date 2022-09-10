@@ -62,80 +62,9 @@ https://user-images.githubusercontent.com/5504953/189501986-00161166-4255-4821-9
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Select the **File | Save All** then press the <kbd>Source Control</kbd> button and select **Submit Content**.  If you are prompted, select **Check Out** for all items that are not checked out of source control. Update the **Changelist Description** message and with the latest changes. Make sure all the files are correct and press the <kbd>Submit</kbd> button. A confirmation will pop up on the bottom right with a message about a changelist was submitted with a commit number. Quit Unreal and make sure your **Pending** tab in **P4V** is empty. **Submit** any work that is still in the editor.
 
-![](../images/line2.png)
-
-##### `Step 10.`\|`ITL`| :large_blue_diamond:
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-
-##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 19.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 20.`\|`ITL`| :large_blue_diamond: :large_blue_diamond:
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 21.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
+![save all and submit to perforce](images/submitP4.png)
 
 ![](../images/line.png)
 

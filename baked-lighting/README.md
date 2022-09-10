@@ -63,6 +63,8 @@ Put all of the 5 lights/sky/effects in a **Lighting** folder in the **Outliner**
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Set the **Directional Light** and **SkyLight** to `Static`.
+
 https://user-images.githubusercontent.com/5504953/189499629-d88a146c-213b-4e2a-8fb4-15b43085c5d9.mp4
 
 

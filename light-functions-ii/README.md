@@ -80,7 +80,9 @@ https://user-images.githubusercontent.com/5504953/189477675-3026dfd9-01d9-4880-8
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Duplicate this rect light and bring it to the other door.  Make sure both are stored in a **BackRoom** folder in **Lighting**.  I brought the intensity down as this is the less bright side of the middle room.
+
+![duplicate rect light](images/dupeAndCopy.png)
 
 ![](../images/line2.png)
 

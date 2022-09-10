@@ -122,7 +122,7 @@ Add three **Scalar Paremeter** nodes.  Call them `SineSpeed1`, `SineSpeed2` and 
 
 ##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Add two more scalar parameters. 
+Add two more scalar parameters. Call the first `SineShift` and set it to `0.5` and plug it into the **B** side of the second **Add** node.  The second is set to `Brightness` with a default value of `10` and sent into the **Multiply | B**.
 
 ![add two more scalar parameters](images/addTwoMoreScalars.png)
 

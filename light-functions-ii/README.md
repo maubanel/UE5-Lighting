@@ -6,7 +6,7 @@
 
 ![](../images/line3.png)
 
-Chapter introduction here.
+Lets finish up the back room to create a moody flickering lights.
 
 <br>
 
@@ -15,7 +15,7 @@ Chapter introduction here.
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-![alt_text](images/.png)
+Open up **LFI_FlickerBackRoom** and adjust the parameters to taste.  I brough down the brightness and increased the speed of the flicker.
 
 ![](../images/line2.png)
 

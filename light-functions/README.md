@@ -98,7 +98,7 @@ Right click on the open graph and select an **Add** node.  Take the output of th
 
 Now this gives us a really nice effect.  Lets turn these constants into parameters that we can edit in a light function instance material!
 
-
+https://user-images.githubusercontent.com/5504953/189475041-2e5bb478-76c8-43e2-964d-7908fc0b523b.mp4
 
 ![](../images/line2.png)
 

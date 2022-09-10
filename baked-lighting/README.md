@@ -29,7 +29,9 @@ It is bright, as we are not in manual exposure. Drop in a **Visual Effect | Post
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/unbound.png)
+We want it to effect the entire level so set the **Infinite Extent (Unbound)** to `true`. This way all our changes will affect the entire level.
+
+![set unbound](images/unbound.png)
 
 ![](../images/line2.png)
 

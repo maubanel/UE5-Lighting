@@ -155,9 +155,9 @@ Go to the very back room and above the large fire pit add a **Light | Point Ligh
 
 ##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Go to all of your **Flame Flicker Spotlight** actors and mix up the **Light Function Materials** assigning an equal amount of the 4.  Make sure no two lights close to each other or in the same vincinity have the same material.
+Now match the orange glow coming off of the embers in the large fire pit.  I used the eydropper tool to pick a dark rich orange for the glow (remember the emission multiplier brings it closer to white).
 
-![add different material instances to each actor](images/MIxUpMaterialInstances.jpg)
+![make light orange](images/matchOrange.png)
 
 ![](../images/line2.png)
 

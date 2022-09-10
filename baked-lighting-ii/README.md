@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/5504953/189501441-5661ed14-e387-4d05-b
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+https://user-images.githubusercontent.com/5504953/189501556-69ac3267-431d-4753-90f3-3f221bb65619.mp4
 
 ![](../images/line2.png)
 

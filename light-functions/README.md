@@ -91,16 +91,17 @@ Summing waves of different periods will give us more eratic curves but still hav
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
+Right clickj on the open graph and select an **Add** node.  Take the output of the first and second **Sine** nodes and add them together.  Put a second **Add** node next to it with the output of the first one in the **A** side of the second add node.
 
-![alt_text](images/firstSum.png)
+![place two add nodes](images/firstSum.png)
 
 ![](../images/line2.png)
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-Right clickj on the open graph and select an **Add** node.  Take the output of the first and second **Sine** nodes and add them together.  Put a second **Add** node next to it with the output of the first one in the **A** side of the second add node.
+Send the output of the second **Add** node to the input of the **Abs** node. This will sum all three sine waves together.
 
-![two add nodes](images/secondSum.png)
+![sum two add nodes](images/secondSum.png)
 
 ![](../images/line2.png)
 

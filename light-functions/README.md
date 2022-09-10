@@ -98,8 +98,9 @@ Summing waves of different periods will give us more eratic curves but still hav
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
+Right clickj on the open graph and select an **Add** node.  Take the output of the first and second **Sine** nodes and add them together.  Put a second **Add** node next to it with the output of the first one in the **A** side of the second add node.
 
-![alt_text](images/secondSum.png)
+![two add nodes](images/secondSum.png)
 
 ![](../images/line2.png)
 

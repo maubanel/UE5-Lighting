@@ -56,13 +56,17 @@ Duplicate the four exposure balls and place them in the back corridor and back h
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+We will use add a **Light | Rect Light** which we will use to simulate light coming in from the middle room.  Adjust the **Intensity** to exagerate the effect of the light and make sure it is going into the back room (or flip it 180°).
+
+![add rect light](images/addRectLight.png)
 
 ![](../images/line2.png)
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now adjust the size to match the entrance way.  Ajust the barn doors so that the light comes in softly  and does not cast a hard light.  Bring down the **Intensity** so it is quite subtle.
+
+![adjust light settings](images/adjustSizeIntensity.png)
 
 ![](../images/line2.png)
 

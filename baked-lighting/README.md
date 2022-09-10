@@ -120,6 +120,8 @@ https://user-images.githubusercontent.com/5504953/189500520-d2b52fea-94d8-491f-a
 
 ##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
+Now our static meshes do not have dynamic lights but the lighting has been baked into the textures. Go back to the **Post Processing Volume** and make any needed changes to **Exposure**.
+
 ![alt_text](images/readjustExposure.png)
 
 ![](../images/line2.png)

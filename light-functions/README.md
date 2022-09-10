@@ -55,18 +55,17 @@ https://user-images.githubusercontent.com/5504953/189472860-bd3d5456-5aa1-4b4e-9
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-Add a new **Material** in **Materials** called `M_FlickerFlame`.
+So lets shift the whole curve up by .5.  So at the end put an **Add** node and set the **Value** to `0.5`.  This changes the range of the absolute sine from `.5` to `1.5`.
 
-![add m_flickerflame material](images/addMFlickerFlame.jpg)
+![add m_flickerflame material](images/addpoint5.png)
 
 ![](../images/line2.png)
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-A material normally affects a polygon surface and we can apply a lot of effects to it (normal map, ao, base color, roughness etc...). But we can create a material that affects a light and not a Polygonal surface. Go to **Material Domain** and change it from **Surface** to a `Light Function`. This will now affect a light and how it emits through the **only** channel in the graph is now the **Emissive Color**. We cannot use any other polygonal rendering technique.  This is fine as all we want to do is animate the brightness of the light in an eratic fashion.
+Now the issue is that we have shifted the value, it is flickering too slowly. So lets multiply the time node to speed up teh flicker.
 
-
-![set material domain to light function](images/LightFunction.jpg)
+mutliplyTime
 
 ![](../images/line2.png)
 

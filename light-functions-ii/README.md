@@ -90,6 +90,8 @@ Duplicate this rect light and bring it to the other door.  Make sure both are st
 
 *Press* the <kbd>Play</kbd> button and notice the pathway of light we have painted to guide the player.  Nice a subtle and taking advantage of all that Lumen offers us to create realistic dramatic lighting!
 
+https://user-images.githubusercontent.com/5504953/189477858-3d16e4a1-5304-4f40-86ba-a4e09590c539.mp4
+
 ![](../images/line2.png)
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 

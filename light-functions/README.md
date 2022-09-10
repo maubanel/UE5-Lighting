@@ -114,7 +114,7 @@ https://user-images.githubusercontent.com/5504953/189475041-2e5bb478-76c8-43e2-9
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Add three **Scalar Paremeter** nodes.  Call them ``
+Add three **Scalar Paremeter** nodes.  Call them `SineSpeed1`, `SineSpeed2` and `SineSpeed3`. Make them a **Default Value** of `3`, `2` and `2.5`. 
 
 ![add three scalar parameters](images/addThreeScalarParams.png)
 
@@ -122,9 +122,10 @@ Add three **Scalar Paremeter** nodes.  Call them ``
 
 ##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Now play the game and look at the light in action. I find the light much brighter than the flame appears to be.  Lets fix that.
+Add two more scalar parameters. 
 
-https://user-images.githubusercontent.com/5504953/131690436-807e490c-2095-4e31-8bf2-69ed67beb52a.mp4
+![add two more scalar parameters](images/addTwoMoreScalars.png)
+
 
 ![](../images/line2.png)
 

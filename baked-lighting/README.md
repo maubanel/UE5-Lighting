@@ -45,9 +45,9 @@ Lets get back to manual exposure.  Go to **Lens | Exposure** and adjust the **Me
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
-Go to **Window | Env Light Meter** and click on the <kbd>Create Sky Light</kbd>, kbd>Create Atmospheric Light 0</kbd>, kbd>Create Sky Atmosphere</kbd>, kbd>Create Volumetric Cloud</kbd> and kbd>Create Height Fog</kbd>. Put all of these in a **Lighting** folder in the **Outliner**.
+Go to **Window | Env Light Meter** and click on the <kbd>Create Sky Light</kbd>, <kbd>Create Atmospheric Light 0</kbd>, <kbd>Create Sky Atmosphere</kbd>, kbd>Create Volumetric Cloud</kbd> and <kbd>Create Height Fog</kbd>. 
 
-![alt_text](images/dragLightingInRoom.png)
+![add 5 lights](images/dragLightingInRoom.png)
 
 https://user-images.githubusercontent.com/5504953/189499355-fc1c7569-8a48-457f-9869-bcc9fa6c2965.mp4
 
@@ -55,7 +55,9 @@ https://user-images.githubusercontent.com/5504953/189499355-fc1c7569-8a48-457f-9
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/lightingFolder.png)
+Put all of the 5 lights/sky/effects in a **Lighting** folder in the **Outliner**.
+
+![put 5 lights in lighting folder](images/lightingFolder.png)
 
 ![](../images/line2.png)
 

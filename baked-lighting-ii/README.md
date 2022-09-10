@@ -15,13 +15,13 @@ Chapter introduction here.
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-![alt_text](images/.png)
+![alt_text](images/addCube.png)
 
 ![](../images/line2.png)
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+![alt_text](images/addSpotlight.png)
 
 ![](../images/line2.png)
 

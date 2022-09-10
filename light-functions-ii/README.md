@@ -2,7 +2,6 @@
 
 ### Light Functions II
 
-<sub>[previous](../light-functions/README.md#user-content-light-functions) • [home](../README.md#user-content-ue5-lighting) • [next](../)</sub>
 
 ![](../images/line3.png)
 
@@ -99,5 +98,5 @@ https://user-images.githubusercontent.com/5504953/189477858-3d16e4a1-5304-4f40-8
 
 ![](../images/line.png)
 
-| [previous](../light-functions/README.md#user-content-light-functions)| [home](../README.md#user-content-ue5-lighting) | [next](../)|
+| [previous](../light-functions/README.md#user-content-light-functions)| [home](../README.md#user-content-ue5-lighting) | [next](../baked-lighting/README.md#user-content-baked-lighting)|
 |---|---|---|

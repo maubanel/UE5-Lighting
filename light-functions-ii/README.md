@@ -31,7 +31,9 @@ https://user-images.githubusercontent.com/5504953/189477055-461b8b45-ff85-4091-9
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Lets add a third light to the front of the back hallway by copying a light and bringing it close to the torch.  I cut the **Intensity** in half.
+
+![alt_text](images/thirdLight.png)
 
 ![](../images/line2.png)
 

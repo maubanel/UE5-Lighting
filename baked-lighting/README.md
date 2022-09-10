@@ -74,11 +74,15 @@ https://user-images.githubusercontent.com/5504953/189499629-d88a146c-213b-4e2a-8
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/daylightDRValue.png)
+The scene is still dark so go select the **Directional Light** and adjust the **Intensity** until you can see the sky properly.
+
+![adjust directional light intensity](images/daylightDRValue.png)
 
 ![](../images/line2.png)
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Reasess the exposure in the post production volume. 
 
 https://user-images.githubusercontent.com/5504953/189499754-857b6440-cab5-4bc8-b0e8-262b027d39ba.mp4
 

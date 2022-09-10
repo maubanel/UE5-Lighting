@@ -72,7 +72,7 @@ Now adjust the size to match the entrance way.  Ajust the barn doors so that the
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+https://user-images.githubusercontent.com/5504953/189477675-3026dfd9-01d9-4880-8040-7804268c5c82.mp4
 
 ![](../images/line2.png)
 

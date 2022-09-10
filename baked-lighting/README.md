@@ -15,6 +15,7 @@ Now Nanites and Lumen are amazing but they do require high end PC's.  They also 
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
+Lets load up a level that has no nanites in it.  Double click on **Maps | UnlitLevelNoNanite**
 ![alt_text](images/bakedLightingLevel.png)
 
 ![](../images/line2.png)

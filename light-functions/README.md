@@ -147,7 +147,7 @@ Right click on **FL_Flicker** and select **Create Material Instance**.  Call it 
 
 ##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Go to the very back room and above the large fire pit add a **Light | Point Light** to the room.  Add it to a new folder called `Backroom` in the **Lighting** folder. Call the light `BackLight`.
+Go to the very back room and above the large fire pit add a **Light | Point Light** to the room.  Add it to a new folder called `BackRoom` in the **Lighting** folder. Call the light `BackLight`.
 
 ![add point light to back room](images/pointLightBackRoom.png)
 

@@ -12,7 +12,6 @@ Now Nanites and Lumen are amazing but they do require high end PC's.  They also 
 
 ---
 
-
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
 Lets load up a level that has no nanites in it.  Double click on **Maps | UnlitLevelNoNanite**
@@ -54,6 +53,7 @@ https://user-images.githubusercontent.com/5504953/189499355-fc1c7569-8a48-457f-9
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
+https://user-images.githubusercontent.com/5504953/189499629-d88a146c-213b-4e2a-8fb4-15b43085c5d9.mp4
 
 
 ![](../images/line2.png)
@@ -66,19 +66,23 @@ https://user-images.githubusercontent.com/5504953/189499355-fc1c7569-8a48-457f-9
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+
 ![alt_text](images/oldBuiildLighting.png)
+
+https://user-images.githubusercontent.com/5504953/189499754-857b6440-cab5-4bc8-b0e8-262b027d39ba.mp4
+
 
 ![](../images/line2.png)
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-![alt_text](images/.png)
+![alt_text](images/oldBuiildLighting.png)
 
 ![alt_text](images/gpuLightMassPlugin.png)
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+![alt_text](images/gpuLightMassPlugin.png)
 
 ![](../images/line2.png)
 

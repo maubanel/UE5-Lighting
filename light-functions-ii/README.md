@@ -48,7 +48,9 @@ https://user-images.githubusercontent.com/5504953/189477300-e728dffa-50e1-482a-a
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
-![alt_text](images/.png)
+Duplicate the four exposure balls and place them in the back corridor and back hallway.  Name the folders and organize the **Outliner** accordingly.
+
+![duplicate the four exposure balls twice](images/dupeExposureBalls.png)
 
 ![](../images/line2.png)
 

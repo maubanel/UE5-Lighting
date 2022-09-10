@@ -91,11 +91,15 @@ https://user-images.githubusercontent.com/5504953/189499754-857b6440-cab5-4bc8-b
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-![alt_text](images/oldBuiildLighting.png)
+**DO NOT DO THIS**.  This is the old way of baking lights that is slow and uses the CPU.  Unreal has implemented a more effective way, but we need to activate a **Plugin**.
+
+![do not build lights](images/oldBuiildLighting.png)
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/gpuLightMassPlugin.png)
+Open up **Edit | Plugins** and select the **GPU Lightmass** plugin.  Accept the warning message and press the <kbd>Restart Now</kbd> button. It will take time to rebuild all the shaders.
+
+![add gpu lightmass plugin](images/gpuLightMassPlugin.png)
 
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 

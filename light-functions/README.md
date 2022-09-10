@@ -79,33 +79,27 @@ https://user-images.githubusercontent.com/5504953/189473173-ea5cf95a-fd72-4698-b
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Now it flashes much quicker.  But it is a constant curve.  Flickering should be an assymetrical flashing, so a straight absolute sine wave is to perfect.  We need to add more randomness.
+
 https://user-images.githubusercontent.com/5504953/189473330-e3d307d7-a1d6-4d66-a4bf-2f9916607ddf.mp4
 
 ![](../images/line2.png)
 
-Add a **Frac** node between the **Sine** and the **Emissive Color** nodes.
-
-> The [Frac](https://docs.unrealengine.com/4.26/en-US/RenderingAndGraphics/Materials/ExpressionReference/Math/#frac) expression takes in values and outputs the fractional portion of those values. In other words, for an input value "X", the result is "X minus Floor of X". The output value will range from zero to one, inclusive on the low end, but not the high end. See also Ceil and Floor.<br><br>Examples: Frac of (0.2) is (0.2). Frac of (-0.2) is (0.8). Frac of (0.0,1.6,1.0) is (0.0,0.6,0.0) - Unreal Manual
-
-This will give us some apparent randomness to the fades giving more eratic output.
+Summing waves of different periods will give us more eratic curves but still have an organic smooth-ish feel.  Lets copy another two sets of multiply and sine nodes. Change the multiply nodes value to `2` and `2.5`.
 
 ![add frac node between sine and emissive color](images/FracNode.jpg)
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-Now look at the result, it gives us something much closer to what we are looking for. 
 
-https://user-images.githubusercontent.com/5504953/131687015-ab95adc2-a934-4eea-9809-920367c3104a.mp4
+![alt_text](images/firstSum.png)
 
 ![](../images/line2.png)
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-One of the big challenges we face is too much symmetry in a level.  If we place all these lights then they will all have the exact same flicker at the same time.  Lets set up the possibility to extend this in a material instance with a variable to adjust the speed.  This way we can ensure that a room doesn't have the same flicker on two flames.
 
-Add a **Scalar Parameter** and call it `FlickerSpeed`.  Set the **Default Value** to `1.45`.  This is a good speed.
-
-![Vector Parameter called FlickerSpeed with a Default Value of 1.45](images/VectorParameter.jpg)
+![alt_text](images/secondSum.png)
 
 ![](../images/line2.png)
 

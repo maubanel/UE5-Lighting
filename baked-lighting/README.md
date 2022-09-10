@@ -65,11 +65,7 @@ Put all of the 5 lights/sky/effects in a **Lighting** folder in the **Outliner**
 
 Set the **Directional Light** and **SkyLight** to `Static`.
 
->Lights that have their Mobility set to Static are lights that cannot be changed or moved in any way during runtime. They are precomputed using Lightmass when a lighting built is performed. Static Lights store their data in textures called Lightmaps that are applied to geometry in the Level. Once the lighting build is complete, these lights have no further impact on performance.
-
-Static Meshes with their Mobility set to Movable and Skeletal Meshes do not integrate (or blend) fully with Static Lighting. However, when a light build takes place, lighting data is stored in Volumetric Lightmaps or the Indirect Lighting Cache to assist in lighting and grounding these movable objects within a statically lit area.
-
-Of the three light mobilities, Static Lights tend to have medium quality, lowest mutability, and the lowest performance cost. [Unreal Manual](https://docs.unrealengine.com/5.0/en-US/static-light-mobility-in-unreal-engine/)
+>Lights that have their Mobility set to Static are lights that cannot be changed or moved in any way during runtime. They are precomputed using Lightmass when a lighting built is performed. Static Lights store their data in textures called Lightmaps that are applied to geometry in the Level. Once the lighting build is complete, these lights have no further impact on performance.<br><br>Static Meshes with their Mobility set to Movable and Skeletal Meshes do not integrate (or blend) fully with Static Lighting. However, when a light build takes place, lighting data is stored in Volumetric Lightmaps or the Indirect Lighting Cache to assist in lighting and grounding these movable objects within a statically lit area.<br><br>Of the three light mobilities, Static Lights tend to have medium quality, lowest mutability, and the lowest performance cost. [Unreal Manual](https://docs.unrealengine.com/5.0/en-US/static-light-mobility-in-unreal-engine/)
 
 https://user-images.githubusercontent.com/5504953/189499629-d88a146c-213b-4e2a-8fb4-15b43085c5d9.mp4
 

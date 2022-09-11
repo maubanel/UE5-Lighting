@@ -135,7 +135,7 @@ Now play the game and tune to your taste (many games have no depth of field).
 
 ##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+You can grade the game to the exact look your want.  I am adjusting the global contrast on the rear room as an example where I want the dark and flames to have a bit higher contrast.  Run and tune to taste, and make any other color correction changes to the other rooms.
 
 ![](../images/line2.png)
 

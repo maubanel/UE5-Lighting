@@ -6,7 +6,7 @@
 
 ![](../images/line3.png)
 
-Lets do one bake with mobility on **?** and look at IES profiles
+Lets do one bake with mobility of **Stationary** and look at IES profiles
 
 <br>
 
@@ -14,17 +14,25 @@ Lets do one bake with mobility on **?** and look at IES profiles
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
+Add a **Shapes | Cube** to the back room against the wall on the ground. 
+
 ![alt_text](images/addCube.png)
 
 ![](../images/line2.png)
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/addSpotlight.png)
+Now lets add a **SpotLight**.  This is the final light type that we can use.  It operates like a normal spotlight focusing a light in a forward direction. An spotlight can broadcast a strong light that can be manually focused.
+
+![add spotlight to scene](images/addSpotlight.png)
 
 ![](../images/line2.png)
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Rotate the spotlight so it points down on top of the box and broadcasts on the wall.  The **Mobility** to `Stationary`. 
+
+>Lights that have their Mobility set to Stationary are lights that are intended to stay in one position, but are able to change in other ways, such as their brightness and color. This is the primary way they differ from Static Lights, which cannot change in any way during gameplay.<br><br>Of the three light mobilities to choose from, Stationary lights have the highest quality, medium mutability, and medium performance cost.<br><br>Stationary Lights use both dynamic and static lighting to achieve its result, with indirect lighting and shadowing being stored within lightmaps for the Level. Direct shadows are stored within shadow maps. These lights make use of Distance Field Shadows, meaning that their shadows can remain crisp even with fairly low lightmap resolutions on lit objects.
 
 https://user-images.githubusercontent.com/5504953/189501441-5661ed14-e387-4d05-b65c-aab48fd1d041.mp4
 

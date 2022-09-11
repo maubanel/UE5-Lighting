@@ -119,7 +119,11 @@ https://user-images.githubusercontent.com/5504953/189545081-d77e6dd9-09e2-445c-b
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+> The focal length of the lens is the distance between the lens and the image sensor when the subject is in focus - Nikon
+
+This value is read in `cm`.  So we will set the gazebo post process volume's **Focal Distance** to `300` (300cm or 3m or ~10 feet).  The scene will be in crisp focus up to 10 feet.  For the middle room it is set at `250` and the rear at `100` (or 1 meter). Now play the game and tune to your taste (many games have no depth of field). 
+
+![depth of field](images/focalDistance.png)
 
 ![](../images/line2.png)
 

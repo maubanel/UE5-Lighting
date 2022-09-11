@@ -145,7 +145,12 @@ https://user-images.githubusercontent.com/5504953/189552303-93f43582-6c96-430e-9
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.png)
+For portfolio pieces you can also use a higher resolution renderer that is not real time.  Put a hero piece close to a nice lighting area and click the **Lit** button and select **Path Tracing**.  
+
+>The Path Tracer is a progressive, hardware-accelerated rendering mode that mitigates the disadvantages of real-time features with physically correct and compromise-free global illumination, reflection and refraction of materials, and more. It shares the ray tracing architecture built into Unreal Engine, with minimal to no additional setup required to achieve clean, photoreal renders. - [Unreal Manual](https://docs.unrealengine.com/5.0/en-US/path-tracer-in-unreal-engine/)
+
+
+![path tracing](images/litPath.png)
 
 ![](../images/line2.png)
 

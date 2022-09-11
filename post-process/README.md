@@ -42,6 +42,8 @@ https://user-images.githubusercontent.com/5504953/189539630-44b7844a-9a8f-4ba5-9
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Change the **Speed Up** to `5.0` and the **Speed Down to `3.0`.  Play and see the change is more gradual.
+
 https://user-images.githubusercontent.com/5504953/189539639-fccda67d-a038-4729-ba8c-b0a7b78bdc40.mp4
 
 ![](../images/line2.png)

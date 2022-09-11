@@ -108,6 +108,8 @@ https://user-images.githubusercontent.com/5504953/189541971-36db3dcd-2f11-4569-b
 
 We can also add some lens flare to the back room as the flames would be quite hot in a dark room and cause some lens flares. I took the intensity way down to `0.12` in the front room, `0.1` in the middle room and `0` in the back room.
 
+>A lens flare happens when light is scattered or flared in a lens system, often in response to a bright light, producing a sometimes undesirable artifact in the image.  - [Wikipedia](https://en.wikipedia.org/wiki/Lens_flare)
+
 https://user-images.githubusercontent.com/5504953/189545081-d77e6dd9-09e2-445c-b463-a7fb8794cd36.mp4
 
 ![](../images/line2.png)

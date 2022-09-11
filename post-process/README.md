@@ -122,6 +122,7 @@ https://user-images.githubusercontent.com/5504953/189545081-d77e6dd9-09e2-445c-b
 > The focal length of the lens is the distance between the lens and the image sensor when the subject is in focus - Nikon
 
 This value is read in `cm`.  So we will set the gazebo post process volume's **Focal Distance** to `300` (300cm or 3m or ~10 feet).  The scene will be in crisp focus up to 10 feet.  For the middle room it is set at `250` and the rear at `100` (or 1 meter). 
+
 ![depth of field](images/focalDistance.png)
 
 ![](../images/line2.png)
@@ -130,12 +131,15 @@ This value is read in `cm`.  So we will set the gazebo post process volume's **F
 
 Now play the game and tune to your taste (many games have no depth of field). 
 
+https://user-images.githubusercontent.com/5504953/189552212-64ff8bd3-82f6-4875-961c-8e6ec0933610.mp4
 
 ![](../images/line2.png)
 
 ##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-You can grade the game to the exact look your want.  I am adjusting the global contrast on the rear room as an example where I want the dark and flames to have a bit higher contrast.  Run and tune to taste, and make any other color correction changes to the other rooms.
+You can grade the game to the exact look your want.  There is a whole color grading section. I am adjusting the global contrast on the rear room as an example where I want the dark and flames to have a bit higher contrast.  Run and tune to taste, and make any other color correction changes to the other rooms.
+
+https://user-images.githubusercontent.com/5504953/189552227-c6002c0f-c591-4b3c-9a88-892e022218bd.mp4
 
 ![](../images/line2.png)
 

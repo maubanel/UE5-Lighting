@@ -78,15 +78,17 @@ https://user-images.githubusercontent.com/5504953/189541048-4dfd5dc5-a4f9-4298-a
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now lets add a bit of dirt to the lens to enhance the effect in this back dark area. Select **Lens | Dirt Mask** and find the texture **T_ScreenDirt002** which is in the **Engine Content** so you need to allow this by clicking the **View Options** eyeball and selecting **Show Engine Content**. Select the **Engine Content** folder and filter for **T_ScreenDirt002**.  Assign it to the **Dirt Mask Texture**.
-You an see the dusk mask texture and see that it just adds what looks like dirt and some lens abberations to this part of the scene. It is pretty subtle in game especially when we change the color.
-
+Now lets add a bit of dirt to the lens to enhance the effect in this back dark area. This texture comes with **Engine Content** so you need to view this by clicking the **Settings** gear and selecting **Show Engine Content**. Select the **Engine** folder and filter for `T_ScreenDirt002`. Copy `T_ScreenDirt002` to your **Textures | Supplied** folder. 
 
 ![copy dirt mask](images/copyTexture.png)
 
 ![](../images/line2.png)
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Assign it to the **Dirt Mask Texture**.
+You an see the dusk mask texture and see that it just adds what looks like dirt and some lens abberations to this part of the scene. It is pretty subtle in game especially when we change the color.
+
 Make the Dusk Mask Intensity equal around 90.0. Change the color tint to the color of dirt. Turn the mask texture on and off to see the full effect.
 
 

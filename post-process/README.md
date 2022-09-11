@@ -18,7 +18,7 @@ We have used the Post Production Volume to adjust the overall settings.  We can 
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-Now lets turn the auto exposure back on and make some final tweaks first. We turned off auto iris to adjust lights, but now we can turn it back on and make some tweaks.  
+Now lets turn the auto exposure back on and make some final tweaks first. We turned off auto iris to adjust lights, but now we can turn it back on and make some tweaks.  Go to the **Global Post Process Volume** anad change the **Metering Mode** to `Auto Exposure Histogram`.  Turn off **Apply Physical Camera Exposure** and adjust the **Exposure Compenstation** to taste.
 
 https://user-images.githubusercontent.com/5504953/189538749-1158bdb7-9b95-4ddf-bf92-f2348ebfe44c.mp4
 
@@ -26,17 +26,18 @@ https://user-images.githubusercontent.com/5504953/189538749-1158bdb7-9b95-4ddf-b
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-Add another **Post Process Volume** and add it to the **Lighting Folder** and call it `Back Hallway Post Process` and scale the **X,Y,Z** to encompass the entire back hallway and overlap a little bit into the middle room. The overlapping volumes will fade between the two effect volumes. This way we will not make it affect the entire level.  We will do some seperate processing for this back hallway.
-
-![add post process volume to back room](images/BackHallwayPostVolume.jpg)
-
-Now instead of adding more lights in the back hallway as there are no other light sources we can open up the iris and increase the exposure on the camera. In the **Post Production Volume | Lens | Exposure | Exposure Compensation** try out values above `1.0` and less than `1.0` while your camera is in the room. These do not need to be built as these effects take place right away. I picked a value around `1.2`.
-
-![adjust exposure compensation to 1.2](images/FinalExposure.jpg)
+![alt_text](images/realEV.png)
 
 ![](../images/line2.png)
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+
+Add another **Post Process Volume** and add it to the **Lighting Folder** and call it `Back Hallway Post Process` and scale the **X,Y,Z** to encompass the entire back hallway and overlap a little bit into the middle room. The overlapping volumes will fade between the two effect volumes. This way we will not make it affect the entire level.  We will do some seperate processing for this back hallway.
+
+
+Now instead of adding more lights in the back hallway as there are no other light sources we can open up the iris and increase the exposure on the camera. In the **Post Production Volume | Lens | Exposure | Exposure Compensation** try out values above `1.0` and less than `1.0` while your camera is in the room. These do not need to be built as these effects take place right away. I picked a value around `1.2`.
+
 
 Now lets add a bit of dirt to the lens to enhance the effect in this back dark area. Select **Lens | Dirt Mask** and find the texture **T_ScreenDirt002** which is in the **Engine Content** so you need to allow this by clicking the **View Options** eyeball and selecting **Show Engine Content**. Select the **Engine Content** folder and filter for **T_ScreenDirt002**.  Assign it to the **Dirt Mask Texture**.
 

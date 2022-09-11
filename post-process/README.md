@@ -34,13 +34,15 @@ Now since I used real EV values, open up **Advanced** and adjust the **Histogram
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Play the game and look at the light change.  I find the iris moves back and forth too quickly, lets adjust this.
 
-
+https://user-images.githubusercontent.com/5504953/189539630-44b7844a-9a8f-4ba5-9487-3c18841c1bf0.mp4
 
 ![](../images/line2.png)
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+https://user-images.githubusercontent.com/5504953/189539639-fccda67d-a038-4729-ba8c-b0a7b78bdc40.mp4
 
 ![](../images/line2.png)
 

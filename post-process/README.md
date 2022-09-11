@@ -157,7 +157,10 @@ You cannot play in this mode, but it makes for great portfolio renders!
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/.png)
+Try the path trace renderer in a few laces. It doesn't work great on the bright windows and dynamic moody lighting effects.
+
+https://user-images.githubusercontent.com/5504953/189554147-00dc3775-987c-4416-b667-fc16a184b55d.mp4
+
 
 ![](../images/line2.png)
 

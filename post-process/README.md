@@ -58,12 +58,9 @@ Add another **Post Process Volume** and add it to the **Lighting Folder | Back R
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
+Duplicate the back room post process volume and slide it to the middle room.  Ajust it so there is a good overlap between the two volumes (it will average them).  Adjust the size so it fits the room.  Now duplicate this and bring it to the Gazebo.  It is a lot taller so make sure it covers the entire volume.
 
-
-
-![set lens flare](images/LensFlare.jpg)
-
-https://user-images.githubusercontent.com/5504953/131909386-37cfe8c5-d553-453e-9158-03e0830adfd1.mp4
+https://user-images.githubusercontent.com/5504953/189540271-c17f883a-6399-4a55-be8e-5cf4310179ac.mp4
 
 ![](../images/line2.png)
 

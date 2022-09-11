@@ -60,6 +60,16 @@ Add another **Post Process Volume** and add it to the **Lighting Folder | Back R
 
 
 
+
+![set lens flare](images/LensFlare.jpg)
+
+https://user-images.githubusercontent.com/5504953/131909386-37cfe8c5-d553-453e-9158-03e0830adfd1.mp4
+
+![](../images/line2.png)
+
+##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+
+
 Now instead of adding more lights in the back hallway as there are no other light sources we can open up the iris and increase the exposure on the camera. In the **Post Production Volume | Lens | Exposure | Exposure Compensation** try out values above `1.0` and less than `1.0` while your camera is in the room. These do not need to be built as these effects take place right away. I picked a value around `1.2`.
 
 
@@ -72,14 +82,6 @@ Make the Dusk Mask Intensity equal around 90.0. Change the color tint to the col
 
 
 We can also add some lens flare to the back room as the flames would be quite hot in a dark room and cause some lens flares. I took the intensity way down to `0.25` and changed the tint to match the room.  I made the **Bokeh Size** `2.0`.
-
-![set lens flare](images/LensFlare.jpg)
-
-https://user-images.githubusercontent.com/5504953/131909386-37cfe8c5-d553-453e-9158-03e0830adfd1.mp4
-
-![](../images/line2.png)
-
-##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 In the back room being dark you would have to open up the aperature on the lens which would increase the depth of field. You can adjust the focal distance to send more or less of the level out of focus. Notice that when you come in and leave the area that you notice a pop. We will add another post processing volume next to overlap this one which will blend between the two. Make sure the focus is long enough so that the player is still in focus.  It would be annoying if the mannequin was out of focus.  Subtle is better.
 

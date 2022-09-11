@@ -85,17 +85,18 @@ Now lets add a bit of dirt to the lens to enhance the effect in this back dark a
 ![](../images/line2.png)
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-You an see the dusk mask texture and see that it just adds what looks like dirt and some lens abberations to this part of the scene. It is pretty subtle in game especially when we change the color.
 
-Make the Dusk Mask Intensity equal around 90.0. Change the color tint to the color of dirt. Turn the mask texture on and off to see the full effect.
-Assign it to the **Dirt Mask Texture**.
+Assign it to the **Dirt Mask Texture** with `T_ScreenDirt002`.  Crank up the **Dirt Mask Intensity** to `500`.  You an see the dusk mask texture and see that it just adds what looks like dirt and some lens abberations to this part of the scene. 
+
+We want a pretty subtle effect especially when we change the color. So on the **Gazebo** we will make it `12.0`, back room we will exagerate it to `20.0` and make it subtler in the middle room at `6.0`.
+
 ![dirt mask settings](images/dirtMaskSettings.png)
-
-
 
 ![](../images/line2.png)
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
+
+Now press the <kbd>Play</kbd> button.  Make any changes you see fit, this should be subtle.
 
 https://user-images.githubusercontent.com/5504953/189541971-36db3dcd-2f11-4569-b98e-f8675990ba9c.mp4
 

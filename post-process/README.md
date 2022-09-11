@@ -97,7 +97,7 @@ Assign it to the **Dirt Mask Texture**.
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-
+https://user-images.githubusercontent.com/5504953/189541971-36db3dcd-2f11-4569-b98e-f8675990ba9c.mp4
 
 ![alt_text](images/.png)
 

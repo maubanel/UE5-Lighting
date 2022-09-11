@@ -139,7 +139,7 @@ https://user-images.githubusercontent.com/5504953/189552212-64ff8bd3-82f6-4875-9
 
 You can grade the game to the exact look your want.  There is a whole color grading section. I am adjusting the global contrast on the rear room as an example where I want the dark and flames to have a bit higher contrast.  Run and tune to taste, and make any other color correction changes to the other rooms.
 
-https://user-images.githubusercontent.com/5504953/189552227-c6002c0f-c591-4b3c-9a88-892e022218bd.mp4
+https://user-images.githubusercontent.com/5504953/189552303-93f43582-6c96-430e-9fcf-dceee36d5f58.mp4
 
 ![](../images/line2.png)
 

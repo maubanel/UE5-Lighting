@@ -15,9 +15,12 @@ We have used the Post Production Volume to adjust the overall settings.  We can 
 ---
 
 
+
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-Now lets turn the auto exposure back on and make some final tweaks first.
+Now lets turn the auto exposure back on and make some final tweaks first. We turned off auto iris to adjust lights, but now we can turn it back on and make some tweaks.  
+
+https://user-images.githubusercontent.com/5504953/189538749-1158bdb7-9b95-4ddf-bf92-f2348ebfe44c.mp4
 
 ![](../images/line2.png)
 

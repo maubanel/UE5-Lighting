@@ -26,12 +26,25 @@ https://user-images.githubusercontent.com/5504953/189538749-1158bdb7-9b95-4ddf-b
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/realEV.png)
+Now since I used real EV values, open up **Advanced** and adjust the **HistogramMinEV100**.  I set mine to `4.25`.  Look at the gray balls both in the middle room and outdoors and see if it works for you?
+
+![adjust historgram min ev](images/realEV.png)
 
 ![](../images/line2.png)
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+
+
+
+![](../images/line2.png)
+
+##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+
+![](../images/line2.png)
+
+##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
 Add another **Post Process Volume** and add it to the **Lighting Folder** and call it `Back Hallway Post Process` and scale the **X,Y,Z** to encompass the entire back hallway and overlap a little bit into the middle room. The overlapping volumes will fade between the two effect volumes. This way we will not make it affect the entire level.  We will do some seperate processing for this back hallway.
 
@@ -41,19 +54,8 @@ Now instead of adding more lights in the back hallway as there are no other ligh
 
 Now lets add a bit of dirt to the lens to enhance the effect in this back dark area. Select **Lens | Dirt Mask** and find the texture **T_ScreenDirt002** which is in the **Engine Content** so you need to allow this by clicking the **View Options** eyeball and selecting **Show Engine Content**. Select the **Engine Content** folder and filter for **T_ScreenDirt002**.  Assign it to the **Dirt Mask Texture**.
 
-![add t_screendirt002 to game](images/ScreenDirt.jpg)
-
-![](../images/line2.png)
-
-##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
 You an see the dusk mask texture and see that it just adds what looks like dirt and some lens abberations to this part of the scene. It is pretty subtle in game especially when we change the color.
 
-![screen dirt texture](images/ScreenDirtTexture.jpg)
-
-![](../images/line2.png)
-
-##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
 Make the Dusk Mask Intensity equal around 90.0. Change the color tint to the color of dirt. Turn the mask texture on and off to see the full effect.
 

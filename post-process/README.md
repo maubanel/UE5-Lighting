@@ -50,7 +50,14 @@ https://user-images.githubusercontent.com/5504953/189539639-fccda67d-a038-4729-b
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
-Add another **Post Process Volume** and add it to the **Lighting Folder** and call it `Back Hallway Post Process` and scale the **X,Y,Z** to encompass the entire back hallway and overlap a little bit into the middle room. The overlapping volumes will fade between the two effect volumes. This way we will not make it affect the entire level.  We will do some seperate processing for this back hallway.
+Add another **Post Process Volume** and add it to the **Lighting Folder | Back Room** and call it `PostProcessVolumeBackROom` and scale the **X,Y,Z** in the **Brush Settings** to encompass the entire back hallway and overlap a little bit into the middle room. The overlapping volumes will fade between the two effect volumes. This way we will not make it affect the entire level.  We will do some seperate processing for this back hallway.
+
+![add post process volume to back room](images/PPVolumeBack.png)
+
+![](../images/line2.png)
+
+##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
+
 
 
 Now instead of adding more lights in the back hallway as there are no other light sources we can open up the iris and increase the exposure on the camera. In the **Post Production Volume | Lens | Exposure | Exposure Compensation** try out values above `1.0` and less than `1.0` while your camera is in the room. These do not need to be built as these effects take place right away. I picked a value around `1.2`.
@@ -63,11 +70,6 @@ You an see the dusk mask texture and see that it just adds what looks like dirt 
 
 Make the Dusk Mask Intensity equal around 90.0. Change the color tint to the color of dirt. Turn the mask texture on and off to see the full effect.
 
-![tweak dirt mask](images/withwithoutdirtmask.jpg)
-
-![](../images/line2.png)
-
-##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
 We can also add some lens flare to the back room as the flames would be quite hot in a dark room and cause some lens flares. I took the intensity way down to `0.25` and changed the tint to match the room.  I made the **Bokeh Size** `2.0`.
 

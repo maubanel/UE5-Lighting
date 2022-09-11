@@ -34,7 +34,7 @@ Now since I used real EV values, open up **Advanced** and adjust the **Histogram
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Play the game and look at the light change.  I find the iris moves back and forth too quickly, lets adjust this.
+Now move the **Player Start** actor back to the front room. Play the game and look at the light change.  I find the iris moves back and forth too quickly, lets adjust this.
 
 https://user-images.githubusercontent.com/5504953/189539630-44b7844a-9a8f-4ba5-9487-3c18841c1bf0.mp4
 

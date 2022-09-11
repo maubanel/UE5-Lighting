@@ -166,7 +166,9 @@ https://user-images.githubusercontent.com/5504953/189554147-00dc3775-987c-4416-b
 
 ##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Look at the dramatic difference on the statues at the top of the gazebo!
+
+![path tracing on statue](images/litPath2.png)
 
 ![](../images/line2.png)
 

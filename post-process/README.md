@@ -108,7 +108,7 @@ https://user-images.githubusercontent.com/5504953/189541971-36db3dcd-2f11-4569-b
 
 We can also add some lens flare to the back room as the flames would be quite hot in a dark room and cause some lens flares. I took the intensity way down to `0.15` in the front room, `0.1` in the middle room and `0` in the back room.
 
-![added lens flair](images/.png)
+https://user-images.githubusercontent.com/5504953/189545081-d77e6dd9-09e2-445c-b463-a7fb8794cd36.mp4
 
 ![](../images/line2.png)
 

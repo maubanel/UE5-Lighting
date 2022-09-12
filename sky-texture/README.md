@@ -29,13 +29,13 @@ We will look at using an HDRI image to create the lighting the environment which
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-
 ![bring image into photoshop](images/adjustBlendRadius.png)
 
 ![](../images/line2.png)
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+https://user-images.githubusercontent.com/5504953/189629265-a132d73d-360f-47f3-9adb-431ae11c0eb1.mp4
 
 ![](../images/line2.png)
 

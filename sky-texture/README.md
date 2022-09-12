@@ -42,35 +42,36 @@ https://user-images.githubusercontent.com/5504953/189629265-a132d73d-360f-47f3-9
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
 
-![change aspect ration to square](images/image_79.jpg)
+![change aspect ration to square](images/addHDRIBackdrop.png)
 
 ![](../images/line2.png)
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
 
-![image is square ratio](images/image_80.jpg)
+![image is square ratio](images/hdriLevel.png)
 
 ![](../images/line2.png)
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Download [T_KiaraDawn.hdr](../Assets/T_KiaraDawn.hdr) and drag it into the **Textures | Supplied** folder.
 
-![export as a png](images/image_81.jpg)
+![export as a png](images/tKiara.png)
 
 ![](../images/line2.png)
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 
-![export as hdr](images/exportingHDR.jpg)
+![export as hdr](images/.png)
 
 ![](../images/line2.png)
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 
-![change texture in m_sky](images/MSkyCustom.jpg)
+![change texture in m_sky](images/.png)
 
 ![](../images/line2.png)
 
@@ -78,14 +79,14 @@ https://user-images.githubusercontent.com/5504953/189629265-a132d73d-360f-47f3-9
 
 
 
-![add hdri to sky light](images/HDRIskylight.jpg)
+![add hdri to sky light](images/.png)
 
 ![](../images/line2.png)
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
 
-![adjust sun to match new sky sphere](images/EveningLight.jpg)
+![adjust sun to match new sky sphere](images/.png)
 
 ![](../images/line2.png)
 
@@ -98,7 +99,7 @@ https://user-images.githubusercontent.com/5504953/189629265-a132d73d-360f-47f3-9
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
 
-![save all, commit and push to github](images/GitHub.jpg)
+![save all, commit and push to github](images/.png)
 
 | `lighting.reflections`\|`THE END`| 
 | :--- |

@@ -64,7 +64,7 @@ Download [T_KiaraDawn.hdr](../Assets/T_KiaraDawn.hdr) and drag it into the **Tex
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 
-![export as hdr](images/.png)
+![export as hdr](images/noMips.png)
 
 ![](../images/line2.png)
 

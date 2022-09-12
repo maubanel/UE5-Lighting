@@ -6,7 +6,7 @@
 
 ![](../images/line3.png)
 
-We will look at using an HDRI image to create the lighting the environment which is good for portfolio pieces.  We will also look at customizing clouds as the default clouds don't have much customization.
+We will look at using an HDRI image to create the lighting the environment which is good for portfolio pieces.  We will also look at customizing clouds as the default clouds don't have much customization. Lets start by creating another level that uses the exposure in the post production volume to chnage the exposure in each room.
 
 <br>
 

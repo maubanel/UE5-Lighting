@@ -15,7 +15,7 @@ We will look at using an HDRI image to create the lighting the environment which
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-![get an equirectangular panorama](images/image_75.jpg)
+![get an equirectangular panorama](images/unlitLevelFE.png)
 
 ![](../images/line2.png)
 
@@ -23,21 +23,19 @@ We will look at using an HDRI image to create the lighting the environment which
 
 
 
-![only care about top half](images/image_76.jpg)
+![only care about top half](images/setFixedExposure.png)
 
 ![](../images/line2.png)
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 
-![bring image into photoshop](images/image_77.jpg)
+![bring image into photoshop](images/adjustBlendRadius.png)
 
 ![](../images/line2.png)
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-
-![scale to power of two](images/image_78.jpg)
 
 ![](../images/line2.png)
 

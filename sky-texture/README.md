@@ -6,7 +6,7 @@
 
 ![](../images/line3.png)
 
-All of our lighting comes from the sky sphere and the models.  We can completely change the time of day or the mood by changing skyspheres.  Lets give that a shot.
+We will look at using an HDRI image to create the lighting the environment which is good for portfolio pieces.  We will also look at customizing clouds as the default clouds don't have much customization.
 
 <br>
 

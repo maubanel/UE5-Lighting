@@ -73,6 +73,7 @@ Download [T_KiaraDawn.hdr](../Assets/T_KiaraDawn.hdr) and drag it into the **Tex
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Press the **Add Actor | Lights | HDRI Backdrop** to the level.  Assign `t_`.
 
 ![export as hdr](images/noMips.png)
 

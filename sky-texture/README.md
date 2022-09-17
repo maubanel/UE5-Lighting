@@ -31,7 +31,9 @@ Go to all 4 post process volumes and change **Metering Mode** to `Manual`, and *
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![bring image into photoshop](images/adjustBlendRadius.png)
+We want to increase the radius of belnding from one volume to another.  If you <kbd>Shift</kbd> select the **PostProcessVolumeBackRoom**, **PostProcessVolumeGazebo** and **PostProcessVolumeMiddleRoom** you can adjust the **Post Production Volume Settings | Blend Radius** to `300` (3 meters or ~ 10 feet).
+
+![change blend radius](images/adjustBlendRadius.png)
 
 ![](../images/line2.png)
 

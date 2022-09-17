@@ -98,6 +98,7 @@ https://user-images.githubusercontent.com/5504953/190878864-c57640c4-e965-4919-b
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
+Lets add a reflective ball to see if the sky reflects into objects in the scene.  We will also see if it casts a shadow.  Go to **Add Actor | Shapes | Sphere** and drag one into the scene.  Change the **Scale** of **X Y Z** to `3.0`.  Then drag **Materials | Supplied | MI_TestBall** onto the sphere.  Put it on the ground.
 
 ![adjust sun to match new sky sphere](images/addSilverSphere.png)
 

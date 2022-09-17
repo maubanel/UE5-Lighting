@@ -83,7 +83,7 @@ Open up **T_KiaraDawn** and set the **Level of Detail | Meip Gen Settings** to `
 
 Press the **Add Actor | Lights | HDRI Backdrop** to the level.  Assign `t_`.
 
-![change texture in m_sky](images/.png)
+https://user-images.githubusercontent.com/5504953/190878735-57802e0d-372d-4512-918b-1df4b91c7cf2.mp4
 
 ![](../images/line2.png)
 

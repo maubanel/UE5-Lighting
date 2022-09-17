@@ -39,6 +39,8 @@ We want to increase the radius of belnding from one volume to another.  If you <
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Run the game, and make a determination, do you like the audo iris settings or do you prefer having a fixed exposure per room?  Which feels more like a game, which feels more cinematic?  If I was to do one more tweak would be to give a custom exposure to the hallway by the backroom which could use an exposure boost.  I personally prefer the fixed exposure.
+
 https://user-images.githubusercontent.com/5504953/189629265-a132d73d-360f-47f3-9adb-431ae11c0eb1.mp4
 
 ![](../images/line2.png)

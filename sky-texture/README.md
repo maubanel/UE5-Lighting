@@ -99,7 +99,7 @@ https://user-images.githubusercontent.com/5504953/190878864-c57640c4-e965-4919-b
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
 
-![adjust sun to match new sky sphere](images/.png)
+![adjust sun to match new sky sphere](images/addSilverSphere.png)
 
 ![](../images/line2.png)
 

@@ -6,7 +6,7 @@
 
 ![](../images/line3.png)
 
-We will look at using an HDRI image to create the lighting the environment which is good for portfolio pieces.  We will also look at customizing clouds as the default clouds don't have much customization. Lets start by creating another level that uses the exposure in the post production volume to chnage the exposure in each room.
+We will look at using an HDRI image to create the lighting the environment which is good for portfolio pieces.  We will also look at customizing clouds as the default clouds don't have much customization at first glance. Lets start by creating another level that uses the exposure in the post production volume to chnage the exposure in each room.
 
 <br>
 
@@ -15,15 +15,17 @@ We will look at using an HDRI image to create the lighting the environment which
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-![get an equirectangular panorama](images/unlitLevelFE.png)
+Lets change exposure in the post production volume rather than dynamically per frame.  Go to **Maps | UnlitLevel** and select  **Duplicate** and call the new level `UnlitLevelFixedExposure`.  Double click this new level to go to it.
+
+![dupe unlit level and call it UnlitLevelFixedExposure ](images/unlitLevelFE.png)
 
 ![](../images/line2.png)
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
+Go to all 4 post process volumes and change **Metering Mode** to `Manual`, and **Apply Physical Camera Exposure** to `true`.  Set the **Exposure Compenstion** for the back room to `2.6`, middle room to `.2` and front gazebo & global volume to `-1`.  Double check the exposure balls in each room and make adjustments as necessary.
 
-
-![only care about top half](images/setFixedExposure.png)
+![set exposure for each room](images/setFixedExposure.png)
 
 ![](../images/line2.png)
 

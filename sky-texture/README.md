@@ -73,14 +73,15 @@ Download [T_KiaraDawn.hdr](../Assets/T_KiaraDawn.hdr) and drag it into the **Tex
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Press the **Add Actor | Lights | HDRI Backdrop** to the level.  Assign `t_`.
+Open up **T_KiaraDawn** and set the **Level of Detail | Meip Gen Settings** to `NoMipmaps`.  Since this is surrounding us at all times we always want to use the highest resolution image and don't want the renderer to scale it.
 
-![export as hdr](images/noMips.png)
+![turn off mip map on export](images/noMips.png)
 
 ![](../images/line2.png)
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Press the **Add Actor | Lights | HDRI Backdrop** to the level.  Assign `t_`.
 
 ![change texture in m_sky](images/.png)
 

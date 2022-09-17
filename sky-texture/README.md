@@ -107,6 +107,7 @@ Lets add a reflective ball to see if the sky reflects into objects in the scene.
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
+https://user-images.githubusercontent.com/5504953/190879315-75bc20e9-9fbd-4c0c-b6ed-dcb0ac024b14.mp4
 
 ![](../images/line2.png)
 

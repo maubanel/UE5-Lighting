@@ -89,9 +89,10 @@ https://user-images.githubusercontent.com/5504953/190878735-57802e0d-372d-4512-9
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
+We can adust the **Projection Center | Z** to get to the original height of where the camera was located. The ground is are cue to when it is in focus and to scale. We can also adjust the **Size** and look at the horizon to flatten it.  The **Intensity** can be adjusted to adjust the amount of light is sent by the skylight that is built into the HDRI Backdrop blueprint.
+
 https://user-images.githubusercontent.com/5504953/190878864-c57640c4-e965-4919-bb93-4fdab61a8be4.mp4
 
-![add hdri to sky light](images/.png)
 
 ![](../images/line2.png)
 

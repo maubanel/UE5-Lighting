@@ -81,7 +81,7 @@ Open up **T_KiaraDawn** and set the **Level of Detail | Meip Gen Settings** to `
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Press the **Add Actor | Lights | HDRI Backdrop** to the level.  Assign `t_`.
+Press the **Add Actor | Lights | HDRI Backdrop** to the level.  Assign `T_KiaraDawn` to **Cube Mip Map** on the new HDRI Background light. Rotate around and we are surrounded by this high dynamic range spherical projection.
 
 https://user-images.githubusercontent.com/5504953/190878735-57802e0d-372d-4512-918b-1df4b91c7cf2.mp4
 

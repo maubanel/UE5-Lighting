@@ -54,6 +54,9 @@ https://user-images.githubusercontent.com/5504953/189629265-a132d73d-360f-47f3-9
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
+Lets look at **HDRI Backdrops**. The plugin for this feature allows for high-resolution environmental images to be used as a background and an input/light source to the skylight.  The **HDRI** image needs to be a `.hdr` format and include an image with 16 bit per channel images.  The added information allows the image to represent the range of tones we can see with the human eye.  A standar 8 bit image only has 256 shades of gray, where a 16 bit image can generate over 65,000 shades of gray. So for lighting, it produces a lot more subtlety and more acccurately represents the original scene.
+
+First lets go to **Edit | Plugins** and search for the **HDRI Backdrop** plugin. You will have to **restart** the game, to load up the editor.
 
 ![image is square ratio](images/hdriLevel.png)
 

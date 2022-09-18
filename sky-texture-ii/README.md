@@ -39,7 +39,7 @@ https://user-images.githubusercontent.com/5504953/190928453-da93314d-cb15-4dd9-a
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Back on the ground level set a speed that works for the sky you want.  I want to give the sky a bit more motion than it had previously so I up the values on all three active axis.
+Back on the ground level set a speed that works for the sky you want.  I want to give the sky a bit more motion than it had previously so I up the values on all three active axis. Set them to your liking, then play the game and check out the skies!
 
 
 ![](../images/line2.png)

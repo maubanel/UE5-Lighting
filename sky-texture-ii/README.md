@@ -14,6 +14,8 @@ Lets finish up by customizing the clouds.
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
+Go to **Volumetric Cloud** in the game and drag the **MI_VolumetricCloud** in the **Material** slot.  This will change nothing.
+
 ![alt_text](images/changeCloudMat.png)
 
 ![](../images/line2.png)

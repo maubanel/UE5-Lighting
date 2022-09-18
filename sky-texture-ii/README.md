@@ -1,7 +1,6 @@
 ![](../images/line3.png)
 
-### Add Title
-
+### HDRI Skies & Customize Clouds II
 <sub>[previous](../) • [home](../README.md#user-content-ue5-lighting) • [next](../)</sub>
 
 ![](../images/line3.png)
@@ -137,6 +136,10 @@ Chapter introduction here.
 ##### `Step 21.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
 ![alt_text](images/.png)
+
+| `lighting.reflections`\|`THE END`| 
+| :--- |
+| **That's All Folks!** Thanks for sticking around. That's it for this lesson. |
 
 ![](../images/line.png)
 

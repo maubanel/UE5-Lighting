@@ -14,7 +14,7 @@ Lets finish up by customizing the clouds.
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-![alt_text](images/.png)
+![alt_text](images/changeCloudMat.png)
 
 ![](../images/line2.png)
 

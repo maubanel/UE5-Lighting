@@ -125,6 +125,7 @@ Now the only light we need in this outdoor scene is the sun.  So go to **Add Act
 
 Press <kbd>Cntrl L</kbd> bot bring up the light widget and then adjust so that the sun points in the same direction as the sun in the sky sphere.  Now you can see that it casts a long shadow.
 
+https://user-images.githubusercontent.com/5504953/190899513-923b13e9-1bef-437a-a806-3d5f9ef0fb95.mp4
 
 ![](../images/line2.png)
 

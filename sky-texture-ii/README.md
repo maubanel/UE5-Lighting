@@ -5,7 +5,7 @@
 
 ![](../images/line3.png)
 
-Chapter introduction here.
+Lets finish up by customizing the clouds.
 
 <br>
 

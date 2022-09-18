@@ -171,7 +171,7 @@ Now the last thing we will look at are the volumetric clouds..  Lets go to **Edi
 
 ##### `Step 20.`\|`ITL`| :large_blue_diamond: :large_blue_diamond:
 
-![alt_text](images/.png)
+![alt_text](images/windVectors.png)
 
 ![](../images/line2.png)
 

@@ -16,13 +16,15 @@ Lets finish up by customizing the clouds.
 
 Go to **Volumetric Cloud** in the game and drag the **MI_VolumetricCloud** in the **Material** slot.  This will change nothing.
 
-![alt_text](images/changeCloudMat.png)
+![drag mi_volumetriccloud into the material slot](images/changeCloudMat.png)
 
 ![](../images/line2.png)
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Open up the material to get to the wind vector.   
+
+![open up wind vector in material](images/windVector.png)
 
 ![](../images/line2.png)
 

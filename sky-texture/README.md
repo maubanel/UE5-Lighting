@@ -115,8 +115,58 @@ https://user-images.githubusercontent.com/5504953/190879315-75bc20e9-9fbd-4c0c-b
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
+Now the only light we need in this outdoor scene is the sun.  So go to **Add Actor | Light | Directional Light** into the scene.
 
-![save all, commit and push to github](images/.png)
+![add directional light](images/sunlight.png)
+
+![](../images/line2.png)
+
+##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+
+Press <kbd>Cntrl L</kbd> bot bring up the light widget and then adjust so that the sun points in the same direction as the sun in the sky sphere.  Now you can see that it casts a long shadow.
+
+
+![](../images/line2.png)
+
+##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
+
+![alt_text](images/.png)
+
+![](../images/line2.png)
+
+##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
+
+![alt_text](images/.png)
+
+![](../images/line2.png)
+
+##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+
+![alt_text](images/.png)
+
+![](../images/line2.png)
+
+##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+![alt_text](images/.png)
+
+![](../images/line2.png)
+
+##### `Step 19.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+![alt_text](images/.png)
+
+![](../images/line2.png)
+
+##### `Step 20.`\|`ITL`| :large_blue_diamond: :large_blue_diamond:
+
+![alt_text](images/.png)
+
+![](../images/line2.png)
+
+##### `Step 21.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
+
+![alt_text](images/.png)
 
 | `lighting.reflections`\|`THE END`| 
 | :--- |

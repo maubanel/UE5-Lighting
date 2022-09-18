@@ -155,7 +155,7 @@ Position the camera close to a mesh and turn on and off **Path Tracing** (click 
 
 ##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+https://user-images.githubusercontent.com/5504953/190900080-077c1021-382e-460f-9318-ddd5387d8f52.mp4
 
 ![](../images/line2.png)
 

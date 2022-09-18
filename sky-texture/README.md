@@ -139,13 +139,17 @@ Zoom into the reflection ball on the sun (directional light) side and adjust the
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/.png)
+Add some static meshes to the scene. 
+
+![add meshes to game](images/addMeshes.png)
 
 ![](../images/line2.png)
 
 ##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Position the camera close to a mesh and turn on and off **Path Tracing** (click on the **Lit** menu in the top left corner of the game scene). Look at the difference in the shadows, the path tracer has more subtle shadowns for the final render.
+
+![path tracing](images/pathTracing.png)
 
 ![](../images/line2.png)
 

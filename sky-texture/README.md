@@ -171,15 +171,17 @@ Now the last thing we will look at are the volumetric clouds..  Lets go to **Edi
 
 ##### `Step 20.`\|`ITL`| :large_blue_diamond: :large_blue_diamond:
 
-Now lets adjust the speed of the clouds movement.  Select in the **Outliner** the **Volumetric Clouds** and open up the material used **M_SimpleVolumetricCloud_Inst** by clicking on the folder next to the material.
+Now lets adjust the speed of the clouds movement.  Select in the **Outliner** the **Volumetric Clouds** and open up the material used **M_SimpleVolumetricCloud_Inst** by clicking on the folder next to the material. Right click on **M_SimpleVolumetricCloud_Inst** and select **Duplicate**.  Name the new material instance `MI_VolumetricCloud`.  Now we don't want to edit the one in the **Engine** folder as this will change it for every project moving forward.  We just want to affect the clouds in this one level which is why we are duplicating this texture.
 
-![go to wind vector](images/windVectors.png)
+![create material instance of M_SimpleVolumetricCloud_Inst](images/windVectors.png)
 
 ![](../images/line2.png)
 
 ##### `Step 21.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Drag and drop **MI_VolumetricCloud** in **Materials | Supplied** and select **Move**.
+
+![alt_text](images/moveMIVolumetric.png)
 
 | `lighting.reflections`\|`THE END`| 
 | :--- |

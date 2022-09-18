@@ -25,7 +25,8 @@ Lets look at lighting a scene in **UE5**.
 <kbd></kbd> &nbsp;&nbsp; [Baked Lighting](baked-lighting/README.md#user-content-baked-lighting) <br>
 <kbd></kbd> &nbsp;&nbsp; [Baked Lighting II](baked-lighting-ii/README.md#user-content-baked-lighting-ii) <br>
 <kbd></kbd> &nbsp;&nbsp; [Post Process Volumes](post-process/README.md#user-content-post-process-volumes) <br>
-<kbd></kbd> &nbsp;&nbsp; [HDRI Skies & Customize Clouds](sky-texture/README.md#user-content-hdri-skies) <br>
+<kbd></kbd> &nbsp;&nbsp; [HDRI Skies & Customize Clouds](sky-texture/README.md#user-content-hdri-skies--customize-clouds) <br>
+<kbd></kbd> &nbsp;&nbsp; [HDRI Skies & Customize Clouds II](sky-texture-ii/README.md#user-content-hdri-skies--customize-clouds-ii) <br>
 
 <!-- LICENSE -->
 ## License

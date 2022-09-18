@@ -179,7 +179,7 @@ Now lets adjust the speed of the clouds movement.  Select in the **Outliner** th
 
 ##### `Step 21.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
-Drag and drop **MI_VolumetricCloud** in **Materials | Supplied** and select **Move**.
+Drag and drop **MI_VolumetricCloud** in **Materials | Supplied** and select **Move Here**.
 
 ![move material to supplied folder](images/moveMIVolumetric.png)
 

@@ -171,9 +171,9 @@ Now the last thing we will look at are the volumetric clouds..  Lets go to **Edi
 
 ##### `Step 20.`\|`ITL`| :large_blue_diamond: :large_blue_diamond:
 
-Now lets adjust the speed of the clouds movement.  Select in the **Outliner** the **Volumetric Clouds** and open up the material used ****
+Now lets adjust the speed of the clouds movement.  Select in the **Outliner** the **Volumetric Clouds** and open up the material used **M_SimpleVolumetricCloud_Inst** (you can click on the folder then double click on the material instance).  You can look for **Global Vector Parameters | WindVector** and open up that data structure by clicking on the *arrow*.
 
-![alt_text](images/windVectors.png)
+![go to wind vector](images/windVectors.png)
 
 ![](../images/line2.png)
 

@@ -163,7 +163,9 @@ https://user-images.githubusercontent.com/5504953/190900080-077c1021-382e-460f-9
 
 ##### `Step 19.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now the last thing we will look at are the volumetric clouds..  Lets go to **Edit | Plugins** and add the **Volumetrics** plugin and restart the engine to load the plugin.
+
+![add volumetrics plugin](images/Volumetrics.png)
 
 ![](../images/line2.png)
 

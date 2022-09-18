@@ -155,6 +155,8 @@ Position the camera close to a mesh and turn on and off **Path Tracing** (click 
 
 ##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Now you can see that this might be useful for virtual production if you wanted to use a real world set as it would be quicker to photograph it than model it in its entirety.  This HDRI is also useful for turntables of your artwork in your portfolio.
+
 https://user-images.githubusercontent.com/5504953/190900080-077c1021-382e-460f-9318-ddd5387d8f52.mp4
 
 ![](../images/line2.png)

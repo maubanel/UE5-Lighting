@@ -131,7 +131,9 @@ https://user-images.githubusercontent.com/5504953/190899513-923b13e9-1bef-437a-a
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/softenLight.png)
+Zoom into the reflection ball on the sun (directional light) side and adjust the **Source Angle** to soften the early morning longer shadows and the **Source Soft Angle** to adjust the sharpness of the sun in the specular reflection in the ball.
+
+![adjust light settings](images/softenLight.png)
 
 ![](../images/line2.png)
 

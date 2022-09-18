@@ -1,6 +1,6 @@
 ![](../images/line3.png)
 
-### Changing Sky Texture
+### HDRI Skies & Customize Clouds 
 
 <sub>[previous](../post-process/README.md#user-content-post-process-volumes) • [home](../README.md#user-content-ue4-lighting)</sub>
 

@@ -30,7 +30,8 @@ Open up the material to get to the wind vector.
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+https://user-images.githubusercontent.com/5504953/190928453-da93314d-cb15-4dd9-a186-adacf821427f.mp4
+
 
 ![](../images/line2.png)
 

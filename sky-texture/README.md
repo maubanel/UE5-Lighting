@@ -181,7 +181,7 @@ Now lets adjust the speed of the clouds movement.  Select in the **Outliner** th
 
 Drag and drop **MI_VolumetricCloud** in **Materials | Supplied** and select **Move**.
 
-![alt_text](images/moveMIVolumetric.png)
+![move material to supplied folder](images/moveMIVolumetric.png)
 
 | `lighting.reflections`\|`THE END`| 
 | :--- |

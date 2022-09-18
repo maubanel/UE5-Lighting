@@ -131,7 +131,7 @@ https://user-images.githubusercontent.com/5504953/190899513-923b13e9-1bef-437a-a
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.png)
+![alt_text](images/softenLight.png)
 
 ![](../images/line2.png)
 

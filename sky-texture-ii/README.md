@@ -41,6 +41,7 @@ https://user-images.githubusercontent.com/5504953/190928453-da93314d-cb15-4dd9-a
 
 Back on the ground level set a speed that works for the sky you want.  I want to give the sky a bit more motion than it had previously so I up the values on all three active axis. Set them to your liking, then play the game and check out the skies!
 
+https://user-images.githubusercontent.com/5504953/190928595-38017bf2-e922-418e-b926-7ca155e9d506.mp4
 
 ![](../images/line2.png)
 

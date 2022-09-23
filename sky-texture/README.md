@@ -183,10 +183,6 @@ Drag and drop **MI_VolumetricCloud** in **Materials | Supplied** and select **Mo
 
 ![move material to supplied folder](images/moveMIVolumetric.png)
 
-| `lighting.reflections`\|`THE END`| 
-| :--- |
-| **That's All Folks!** Thanks for sticking around. That's it for this lesson. |
-
 
 ![](../images/line.png)
 

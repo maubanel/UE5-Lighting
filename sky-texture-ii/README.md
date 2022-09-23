@@ -47,6 +47,8 @@ https://user-images.githubusercontent.com/5504953/190928595-38017bf2-e922-418e-b
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
+Select **Volumetric Cloud** in the **Outliner** and double click the maerial instance, **m_SimpleVolumetricCloud_Inst**. Now you can adjust the parameters and change the look of the clouds.  Play around with the variuos settings and see what kind of changes you can make.  Then press play and check out the changes in game.
+
 https://user-images.githubusercontent.com/5504953/191955086-a54ea809-163a-4d67-91af-5a4b7561f160.mp4
 
 ![](../images/line2.png)

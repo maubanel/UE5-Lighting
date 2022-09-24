@@ -55,13 +55,15 @@ https://user-images.githubusercontent.com/5504953/191955086-a54ea809-163a-4d67-9
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-Now I have included another cloud material that allows for more customization of the input settings used.
+Now I have included another cloud material that allows for more customization of the input settings used. In **Materials | Supplied** you can drag **MI_CloudCustom** to the material slot in **Volumetric Cloud**.
 
 ![drag new material](images/addMICloudCustom.png)
 
 ![](../images/line2.png)
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Reset to default settings and we should have circles in the sky.
 
 ![reset to default settings and we should have circles in the sky](images/defaultSettings.png)
 

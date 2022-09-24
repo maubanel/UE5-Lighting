@@ -103,13 +103,15 @@ https://user-images.githubusercontent.com/5504953/192096585-792797b3-fa38-419a-9
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+You can also adjust the **Cloud Density** for thicker or a thinner layer of clouds.
+
+https://user-images.githubusercontent.com/5504953/192096822-9d16bfc9-5633-49aa-957a-4260c8c19bea.mp4
 
 ![](../images/line2.png)
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+https://user-images.githubusercontent.com/5504953/192097090-4c67ef8c-1c5f-4f1f-86bd-cb7bdcb6670d.mp4
 
 ![](../images/line2.png)
 

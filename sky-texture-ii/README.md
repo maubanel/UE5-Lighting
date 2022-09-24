@@ -71,6 +71,8 @@ Reset to default settings and we should have circles in the sky.
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Now the **Mask Scale** and **Cloud Scale** play hand in hand so you can adjust them seperately.  But usually they need to be updated in unison to look good.
+
 https://user-images.githubusercontent.com/5504953/192096074-f75d19c5-39da-4d13-9e6a-7a82dbbc40d8.mp4
 
 ![](../images/line2.png)

@@ -71,7 +71,7 @@ Reset to default settings and we should have circles in the sky.
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now the **Mask Scale** and **Cloud Scale** play hand in hand so you can adjust them seperately.  But usually they need to be updated in unison to look good.
+Now the **Mask Scale** and **Cloud Scale** play hand in hand so you can adjust them seperately.  But usually they need to be updated in unison to look correct.
 
 https://user-images.githubusercontent.com/5504953/192096074-f75d19c5-39da-4d13-9e6a-7a82dbbc40d8.mp4
 
@@ -79,11 +79,15 @@ https://user-images.githubusercontent.com/5504953/192096074-f75d19c5-39da-4d13-9
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+You can adjust how the clouds falloff from the top and baottom as well as a cloud bioas on the **Cloud Falloff** section.
+
 https://user-images.githubusercontent.com/5504953/192096086-b5267553-79ef-4f3a-bf6b-dcbfab73cfcb.mp4
 
 ![](../images/line2.png)
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
+
+You can adjust the **Wind Mask** and **Wind Cloud Volume**.  One makes the clouds move the other affects how the clouds change when they move.  Again, these two settings work nicely together and need to be adjusted sepeartely to create a given effect.
 
 https://user-images.githubusercontent.com/5504953/192096098-53500b86-0690-4209-9dc5-15c724b7e3b0.mp4
 

@@ -111,6 +111,8 @@ https://user-images.githubusercontent.com/5504953/192096822-9d16bfc9-5633-49aa-9
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
+I have included a few cloud textures I made in photoshop that you can play with.  Each one will require separate settings to look good.
+
 https://user-images.githubusercontent.com/5504953/192097090-4c67ef8c-1c5f-4f1f-86bd-cb7bdcb6670d.mp4
 
 ![](../images/line2.png)

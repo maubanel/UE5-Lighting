@@ -95,6 +95,8 @@ https://user-images.githubusercontent.com/5504953/192096098-53500b86-0690-4209-9
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
+Now you can also change the color of the bottom of the clouds and top of the clouds.  In this case I am making the top a bit more sky blue to make them blend in a bit better.
+
 https://user-images.githubusercontent.com/5504953/192096585-792797b3-fa38-419a-9a4f-921dacaf0120.mp4
 
 ![](../images/line2.png)

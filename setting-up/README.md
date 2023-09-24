@@ -76,6 +76,9 @@ Open up **Settings | Project Settings | Maps and Modes**. Make sure the **Editor
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+The **Game Mode** loads up the **Blueprints | MyGameLDDemo** that the **PlayerStart** object launches the player in the front terrace. The **Blueprints** folder also contains **ThirdPersonCharacter** which is the **UE5** mannequin that we will control in the game. This character blueprint is the **Default Pawn** in the gamemode blueprint.
+
+![game mode for level](images/worldSettings.png)
 
 ![](../images/line2.png)
 
@@ -121,9 +124,7 @@ Open up **Settings | Project Settings | Maps and Modes**. Make sure the **Editor
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-The **Game Mode** loads up the **Blueprints | MyGameLDDemo** that the **PlayerStart** object launches the player in the front terrace. The **Blueprints** folder also contains **ThirdPersonCharacter** which is the **UE5** mannequin that we will control in the game. This character blueprint is the **Default Pawn** in the gamemode blueprint.
 
-![game mode for level](images/worldSettings.png)
 
 ![](../images/line2.png)
 

@@ -68,7 +68,7 @@ We are now going to set the **Min EV 100** and **Max EV 100** to the same value 
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now <kbd>Play</kbd> the game and notice that the camera lense is no longer compensating. We have turned auto exposure off.
+Now <kbd>Play</kbd> the game and notice that the camera lense is no longer compensating. We have turned auto exposure off. We will get more lighting in the indoor space when we add the full complement of environmental effects.
 
 https://github.com/maubanel/UE5-Lighting/assets/5504953/87492283-1161-4dc7-87ba-ee72ee1b4ce7
 
@@ -85,22 +85,20 @@ Call it `GlobalPostProcessingVolume` and move it to the **Lighting** folder.
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Now before we can properly set the exposure we should have a range of spheres in the level that has white, black, mid gray and a reflective ball for the specular and reflections.  Go to **Materials | Supplied** and select **M_Basic** and right mouse click to select `Create Material Instance`.  Call this new instance `MI_GrayScale`. 
+
+![create material instance grayscale from m_basic](images/materialInstance1.png)
 
 ![](../images/line2.png)
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-Turn down the **Intensity** of the **Sun** to `90 000 lux`.
-
-![sun 90k lutz](images/90klutz.png)
 
 ![](../images/line2.png)
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-Now before we can properly set the exposure we should have a range of spheres in the level that has white, black, mid gray and a reflective ball for the specular and reflections.  Go to **Materials | Supplied** and select **M_Basic** and right mouse click to select `Create Material Instance`.  Call this new instance `MI_GrayScale`. 
 
-![create material instance grayscale from m_basic](images/materialInstance1.png)
 
 ![](../images/line2.png)
 

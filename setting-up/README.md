@@ -14,7 +14,7 @@ We will be working with a level that has already been gray blocked and modelled.
 
 | `required.software`\|`UE5 Lighting`| 
 | :--- |
-| :floppy_disk: &nbsp; &nbsp; You will need to install the latest version of _UE4 5.0.X_ by downloading the [Epic Games Launcher](https://www.epicgames.com/store/en-US/download). You will also need a [P4V](https://www.perforce.com/downloads/helix-visual-client-p4v) account which is free to sign up for as we will be using version control. Lets make sure you can see hidden folders. On the PC follow these [Windows 10 Turn on Hidden Folders](https://support.microsoft.com/en-us/help/4028316/windows-view-hidden-files-and-folders-in-windows-10) directions.
+| :floppy_disk: &nbsp; &nbsp; You will need to install the latest version of _UE4 5.2.X_ by downloading the [Epic Games Launcher](https://www.epicgames.com/store/en-US/download). You will also need a [P4V](https://www.perforce.com/downloads/helix-visual-client-p4v) account which is free to sign up for as we will be using version control. Lets make sure you can see hidden folders. On the PC follow these [Windows 10 Turn on Hidden Folders](https://support.microsoft.com/en-us/help/4028316/windows-view-hidden-files-and-folders-in-windows-10) directions.
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
@@ -26,7 +26,7 @@ If you have not installed the required software go and add [Epic Games Launcher]
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-Make sure you have room for another 4 gigabytes (starter plus your added work) of space on your computer. Navigate to [UE5-Lighting-Starter](https://github.com/LSU-UE5/UE5-Lighting-Starter) and press the <kbd>Code Button</kbd> and select **Download ZIP**. It will take a while so try and do this on your best internet connection available to you. The file is roughly ~2 gigabytes.
+You will have the starting project in your Perforce directory.  The folder is UE5-Intro-To-Lighting.  *Double click* **UE5IntroToLighting.uproject** to launch **Unreal**.
 
 ![download github lighting starter project](images/downloadZip.png)
 
@@ -34,16 +34,13 @@ Make sure you have room for another 4 gigabytes (starter plus your added work) o
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Right click on **UE5-Lighting-Starter-main.zip** and select **Extract Files...**.  A pop up with the current directory appears and you can press the <kbd>OK</kbd> button. 
+Open up **UE5Lighting.uproject**. The project should load up in the Room/Level **UnlitLevel**. It should look like a pitch black room as there are no lights. 
 
-![exract and renamte folder](images/unzipDownload.png)
+![pitch black game screen](images/emptyLevel.png)
 
 ![](../images/line2.png)
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-Rename the folder from **UE5-Lighting-Starter-main** to `UE-5-Lighting`.  Drag and drop the renamed folder into your **P4 Workspace** folder.
-![drag starter project into p4 workspace](images/dragFiles.png)
 
 
 ![](../images/line2.png)
@@ -58,33 +55,22 @@ Delete the `.gitignore` and `.gitattributes` file as they are not needed.
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-Edit the README.md file in a text editor and add your name and a message (in my case it is a reminder that I will complete it at the end!). 
-
-![edit README.md and ](images/changeReadme.png)
 
 ![](../images/line2.png)
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Open up P4V and log into the workspace you avhe set up for this maching. select the **UE5-Lighting** folder and press the **+ Add** button.  Select a **New** changelist and enter a message `uploading ue5 lighting starter`. Press the <kbd>OK</kbd> button.
-
-![alt_text](images/submitToP4Initial.png)
 
 ![](../images/line2.png)
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Press the <kbd>Submit</kbd> button to send these files to the **Depot**. Enter a message `UE 5 Lighting Starter Project` then press the <kbd>Submit</kbd> on the pop up.
-
-![submit to P4V](images/submitP4v.png)
 
 ![](../images/line2.png)
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Open up **UE5Lighting.uproject**. The project should load up in the Room/Level **UnlitLevel**. It should look like a pitch black room as there are no lights. 
 
-![pitch black game screen](images/emptyLevel.png)
 
 ![](../images/line2.png)
 

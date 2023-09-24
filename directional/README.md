@@ -60,7 +60,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/00e305f6-8c1e-4355-8682-
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-We are now going to set the **Min**
+We are now going to set the **Min EV 100** and **Max EV 100** to the same value of `-2`.  This will stop the exposure compensation.
 
 ![add ppv and set to unbound](images/setMinMaxEV.png)
 
@@ -68,14 +68,16 @@ We are now going to set the **Min**
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Call it `GlobalPostProcessingVolume` and move it to the **Lighting** folder. 
+Now <kbd>Play</kbd> the game and notice that the camera lense is no longer compensating. We have turned auto exposure off.
 
-![rename ppv adding global](images/GlobalPostProcessV.png)
 
 ![](../images/line2.png)
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Call it `GlobalPostProcessingVolume` and move it to the **Lighting** folder. 
+
+![rename ppv adding global](images/GlobalPostProcessV.png)
 
 
 ![](../images/line2.png)

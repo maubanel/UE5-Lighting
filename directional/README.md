@@ -52,7 +52,7 @@ So lets go add a **Volumes | Post Process Volume** to the level.  Go to **Post P
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
-Now when you move the camera to and from the hallway look at the sides and the back.  You can see that the exposure is compensating just like our eyes do when moving from outdoors to indoors or vice versa.  For lighting we want to remove it, then turn it back on when we are done (if we like that effect).  Look carefully at the game and see if you can spot it?
+Now when you move the camera to and from the hallway look at the sides and the back.  You can see that the exposure is compensating just like our eyes do when moving from outdoors to indoors or vice versa.  For lighting we want to remove it, then turn it back on when we are done (if we like that effect).  Look carefully at the game and see how the exposure is dynamically changing.  This is death for lighting a scene as if we want dark and moody, it will ALWAYS brighten it up. This is where the post production volume comes in.
 
 https://github.com/maubanel/UE5-Lighting/assets/5504953/00e305f6-8c1e-4355-8682-7a2dbaa03740
 
@@ -60,7 +60,9 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/00e305f6-8c1e-4355-8682-
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
+We are now going to set the **Min**
 
+![add ppv and set to unbound](images/setMinMaxEV.png)
 
 ![](../images/line2.png)
 
@@ -80,9 +82,6 @@ Call it `GlobalPostProcessingVolume` and move it to the **Lighting** folder.
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now go to the sun and see that is is only putting out an **Intensity** of `10.0 lux`.  The real sun  would put out [120,000](https://en.wikipedia.org/wiki/Daylight) lux on the brightest day all the way down to 1,000 lux on overcast days. to the **GlobalPostProductionVolume | Lens | Exposure** and set **Metering Mode** to `Manual`.  And turn on **Apply Physcis Camera Exposure** to `true`. This only applies to a manual exposure setting. Now the scene gos dark.  Go back to the **Sun** directional light and adjust the **Intensity** all the way up to `120000`.
-
-https://user-images.githubusercontent.com/5504953/188335980-055ac744-c9a9-4fa2-bb39-4e5fd2e9ab8c.mp4
 
 ![](../images/line2.png)
 

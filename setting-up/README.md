@@ -60,6 +60,9 @@ The **Static Meshes** folder contains all the static meshes for the level.
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
+Our player will start on the outside terrace of this building.  This is where the level begins when we start the level.
+
+![player start node](images/playerStart.png)
 
 ![](../images/line2.png)
 
@@ -98,17 +101,12 @@ The **Static Meshes** folder contains all the static meshes for the level.
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-In the **Outliner | Ground** folder we have a landscape and ocean water.  We are going to be on an island in the middle of the sea!
-
-![ground and water](images/groundWater.png)
 
 ![](../images/line2.png)
 
 ##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Our player will start on the outside terrace of this building.  This is where the level begins when we start the level.
 
-![player start node](images/playerStart.png)
 
 ![](../images/line2.png)
 

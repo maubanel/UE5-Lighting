@@ -85,7 +85,9 @@ Call it `GlobalPostProcessingVolume` and move it to the **Lighting** folder.
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now before we can properly set the exposure we should have a range of spheres in the level that has white, black, mid gray and a reflective ball for the specular and reflections.  Go to **Materials | Supplied** and select **M_Basic** and right mouse click to select `Create Material Instance`.  Call this new instance `MI_GrayScale`. 
+Now before we can properly set the exposure we should have a range of spheres in the level that has white, black, mid gray and a reflective ball for the specular and reflections.  This will act as a gray card which is used on film sets to properly set the camera exposure.  In the digital world, it is no deifferent. Go to **Materials | Master** and select **M_Basic** and right mouse click to select `Create Material Instance`.  Call this new instance `MI_GrayScale`. 
+
+Create a new folder called **Materials | Material Instances** and drag the **MI_GrayScale** material instance into it.
 
 ![create material instance grayscale from m_basic](images/materialInstance1.png)
 

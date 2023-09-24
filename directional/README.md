@@ -70,6 +70,7 @@ We are now going to set the **Min EV 100** and **Max EV 100** to the same value 
 
 Now <kbd>Play</kbd> the game and notice that the camera lense is no longer compensating. We have turned auto exposure off.
 
+https://github.com/maubanel/UE5-Lighting/assets/5504953/87492283-1161-4dc7-87ba-ee72ee1b4ce7
 
 ![](../images/line2.png)
 

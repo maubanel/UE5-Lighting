@@ -54,7 +54,7 @@ So lets go add a **Volumes | Post Process Volume** to the level.  Go to **Post P
 
 Now when you move the camera to and from the hallway look at the sides and the back.  You can see that the exposure is compensating just like our eyes do when moving from outdoors to indoors or vice versa.  For lighting we want to remove it, then turn it back on when we are done (if we like that effect).  Look carefully at the game and see if you can spot it?
 
-
+https://github.com/maubanel/UE5-Lighting/assets/5504953/00e305f6-8c1e-4355-8682-7a2dbaa03740
 
 ![](../images/line2.png)
 

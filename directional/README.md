@@ -140,6 +140,8 @@ Now there are two more settings for the directional light we want to look at. Le
 
 You can also adjust the **Soft Source Angle**.  This affects mostly the specular.  Look at the reflection ball and it softens the lights sources.  I liked a **Source Angle** of `3.28` and a **Source Soft Angle** of `1.68`. I find the default shadows too sharp. Now there is some fringing on the edges that if we have an RTX ray tracing GPU can fix in the next step.
 
+https://github.com/maubanel/UE5-Lighting/assets/5504953/78401fcc-ffd8-4f06-abad-63edf594b077
+
 ![](../images/line2.png)
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 

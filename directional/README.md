@@ -95,6 +95,9 @@ Create a new folder called **Materials | Material Instances** and drag the **MI_
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
+Now middle gray that we use in photograph as a grey card is at [18% gray](https://en.wikipedia.org/wiki/Gray_card). This mid gray is a good reference for white balance and finding the middle ground.  So our **R G B** are all `.18`, we have minimal **Specular** with `.1` and a very high roughness with `.908`.  So there is not much specularity, just mid gray.   
+
+![water and sky in game](images/greyCardPBR.png)
 
 ![](../images/line2.png)
 
@@ -107,9 +110,7 @@ Create a new folder called **Materials | Material Instances** and drag the **MI_
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :
  
-Now middle gray that we use in photograph as a grey card is at [18% gray](https://en.wikipedia.org/wiki/Gray_card). This mid gray is a good reference for white balance and finding the middle ground.  So our **R G B** are all `.18`, we have minimal **Specular** with `.1` and a very high roughness with `.908`.  So there is not much specularity, just mid gray.   
 
-![water and sky in game](images/greyCardPBR.png)
 
 ![](../images/line2.png)
 

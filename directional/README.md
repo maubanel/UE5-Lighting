@@ -103,7 +103,9 @@ Now middle gray that we use in photograph as a grey card is at [18% gray](https:
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
+Now add a  **Place Actors | Shapes | Sphere** and make the **Scale** `0.65` on **X Y Z**.  Make it a bit smaller.  Place it half in sun and half in shadow and drag the **MI_GrayScale** material you just created.
 
+![set gray scale](images/grayScale.png)
 
 ![](../images/line2.png)
 
@@ -116,9 +118,7 @@ Now middle gray that we use in photograph as a grey card is at [18% gray](https:
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Now add a  **Place Actors | Shapes | Sphere** and make the **Scale** `0.65` on **X Y Z**.  Make it a bit smaller.  Place it half in sun and half in shadow and drag the **MI_GrayScale** material you just created.
 
-![set gray scale](images/grayScale.png)
 
 ![](../images/line2.png)
 

@@ -26,7 +26,7 @@ The placement is irrelevant of where you put the light in the level.  It will li
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-Now the sun's XYZ position in the scene doesn't matter but its rotation does.  It changes the angle of the sun (directional light).  Pressing <kbd>Cntrl L</kbd> allows you to rotate the angle (or if that doesn't work you can use the rotation gizmo).  Pick one where the sun is coming into the porch with longer shadows.
+Now the sun's XYZ position in the scene doesn't matter but its rotation does.  It changes the angle of the sun (directional light).  Pressing <kbd>Cntrl L</kbd> and moving your mouse around allows you to rotate the angle (or if that doesn't work you can use the rotation gizmo).  Pick one where the sun is coming into the porch with longer shadows.
 
 https://github.com/maubanel/UE5-Lighting/assets/5504953/34aeda08-6a57-48ac-b530-f3f6064c3fdb
 
@@ -42,29 +42,25 @@ We will also add a folder called `Lighting` to the **World Outliner**. We will r
 
 ##### `Step 4.`\|`ITL&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now go to **File | Project Settings** and look for **Default RHI** and it should be set to `DirectX 12`.  We need this for Lumen to work properly.  We will look at some Ambient Occlusion settings that can make up for not having hardware raytracing, so we can enable **Generate Mesh Distance Fields**. Set **Support Hardware Raytracing** and restart the gtame engine. Now take short break as it will take a while to recompile all of your shaders.
-
-Boot the game again and now go back to **File | Project Seetings** and adjust the **Use Hardware Ray Tracing when available**.  This will use hardware raytracing when there a a GPU that supports it like all RTX NVidia cards do. And finally, Unreal originally had scalar values for light and did not use real world values (which is critical for architectural visualization and film) but also better to use going forward as the numbers have meaning.  Go to **Extend default luminance range in Auto Exposure settings** to `true`.  Now these changes will require you to restart so press the <kbd>Restart Now</kbd> button.  
-
-![alter default settings in UIE5](images/newSettings.png)
-
-![](../images/line2.png)
-
-##### `Step 5.`\|`ITL`| :small_orange_diamond:
-
-Now in Unreal 4 we relied on baked lighting to get good performance out of Unreal.  With Lumen and Nanites we can now have real time global illumination which looks great.  So we no longer have to bake lights.  Lets go to the **Directional Light** and set **Mobility** to `Movable`.
-
-![change directional light to movable](images/movableLight.png)
-
-![](../images/line2.png)
-
-##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
-
 We don't want the auto iris exposure built in the game affect our lighting settings.  It is hard to light when it opens up to iris to light the scene. Move the camera to and from the front porch to the hallway and you can see that it compensates (like our eyes do or auto exposure on your camera).
 
 So lets go add a **Volumes | Post Process Volume** to the level.  Go to **Post Process Volume Settings | Infinite Extent** and tick the box to `true`.  We want to have this volume affect every object in the world even if it falls outside this box. This allows us to appy effects to the entire level.
 
 ![add ppv and set to unbound](images/GlobalPostProcessV.png)
+
+![](../images/line2.png)
+
+##### `Step 5.`\|`ITL`| :small_orange_diamond:
+
+Now when you move the camera to and from the hallway look at the sides and the back.  You can see that the exposure is compensating just like our eyes do when moving from outdoors to indoors or vice versa.  For lighting we want to remove it, then turn it back on when we are done (if we like that effect).  Look carefully at the game and see if you can spot it?
+
+
+
+![](../images/line2.png)
+
+##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
+
+
 
 ![](../images/line2.png)
 
@@ -78,9 +74,7 @@ Call it `GlobalPostProcessingVolume` and move it to the **Lighting** folder.
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now when you move the camera to and from the hallway look at the sides and the back.  You can see that the exposure is compensating just like our eyes do when moving from outdoors to indoors or vice versa.  For lighting we want to remove it, then turn it back on when we are done.  Look carefully at the game and see if you can spot it?
 
-https://user-images.githubusercontent.com/5504953/188335700-99b05a27-ff06-4e8c-8ce7-94eca7f6d8dc.mp4
 
 ![](../images/line2.png)
 

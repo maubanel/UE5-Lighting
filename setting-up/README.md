@@ -68,6 +68,9 @@ Our player will start on the outside terrace of this building.  This is where th
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Open up **Settings | Project Settings | Maps and Modes**. It will start the editor and full game in the level `Unlit Level`. This is the dark room we are in. We also have **GameModeBase** which is the default gamemode for the entire project. This will not load up our custom third person character.  It would have a first person controller.  But it is the **World Settings** that loads up the custom game mode.
+
+![project settings](images/projectSettings.png)
 
 ![](../images/line2.png)
 
@@ -112,9 +115,7 @@ Our player will start on the outside terrace of this building.  This is where th
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
-Open up **Settings | Project Settings | Maps and Modes**. It will start the editor and full game in the level `Unlit Level`. This is the dark room we are in. We also have **GameModeBase** which is the default gamemode for the entire project. This will not load up our custom third person character.  It would have a first person controller.  But it is the **World Settings** that loads up the custom game mode.
 
-![project settings](images/projectSettings.png)
 
 ![](../images/line2.png)
 

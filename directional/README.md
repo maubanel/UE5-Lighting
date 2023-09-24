@@ -148,6 +148,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/78401fcc-ffd8-4f06-abad-
 
 Now you can also change between the engine doing the shadows through software or through ray tracing if you have a ray tracing gpu (NVidia RTX series).  Go to the **Sun** directional light and select **Cast Ray Traced Shadows**.  Switch between **Use Project Settings** and **Enabled**.  You can see there is some noise in the ray traced shadows by they are a bit more detailed and subtle.
 
+https://github.com/maubanel/UE5-Lighting/assets/5504953/f905088a-d7c5-43a1-9def-f1abf8316cd3
 
 ![](../images/line2.png)
 

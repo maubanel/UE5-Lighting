@@ -154,7 +154,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/f905088a-d7c5-43a1-9def-
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-
+*Press* the <kbd>Play</kbd> button and run around.  Now our exposure is good for the bright end of the front porch but is too dark inside.  We will address that next.
 
 ![](../images/line2.png)
 
@@ -165,10 +165,6 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/f905088a-d7c5-43a1-9def-
 ![](../images/line2.png)
 
 ##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-*Press* the <kbd>Play</kbd> button and run around.  Now our exposure is good for the bright end of the front porch but is too dark inside.  We will address that next.
-
-https://user-images.githubusercontent.com/5504953/188353839-975604cb-cd71-40ba-9c2d-580806d8ef38.mp4
 
 ![](../images/line2.png)
 

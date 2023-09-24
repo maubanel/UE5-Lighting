@@ -28,7 +28,7 @@ The placement is irrelevant of where you put the light in the level.  It will li
 
 Now the sun's XYZ position in the scene doesn't matter but its rotation does.  It changes the angle of the sun (directional light).  Pressing <kbd>Cntrl L</kbd> allows you to rotate the angle (or if that doesn't work you can use the rotation gizmo).  Pick one where the sun is coming into the porch with longer shadows.
 
-https://user-images.githubusercontent.com/5504953/188311367-23c0e83a-3d1b-41ac-936a-15c9d23f02b2.mp4
+https://github.com/maubanel/UE5-Lighting/assets/5504953/34aeda08-6a57-48ac-b530-f3f6064c3fdb
 
 ![](../images/line2.png)
 

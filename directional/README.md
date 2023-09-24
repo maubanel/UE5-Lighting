@@ -14,7 +14,7 @@ Lets get ready to start lighting the scene. Before we can begin we need to add t
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-Since most of this scene is lit by sun through openings in this structure we will add a **Place Actors | Lights | Directional Light** to the level.  Ensure the mobility is **Stationary** and we will explain this later.
+Since most of this scene is lit by sun through openings in this structure we will add a **Directional Light** to the level.  The easiest way to do this is to select **Window | Env. Mixer** and press the <kbd>Environmental Light<kbd> which will add a **Directional Light** to the level.
 
 The placement is irrelevant of where you put the light in the level.  It will light the entire scene.  It lights at an infinite distance (which for us is essentially how the sun behaves, it doesn't fall off like an artificial light). The position is not important.  The light shafts are parallel so the shadows are proportianal.
 

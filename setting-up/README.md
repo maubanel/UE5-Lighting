@@ -76,9 +76,10 @@ Open up **Settings | Project Settings | Maps and Modes**. Make sure the **Editor
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-The **Game Mode** loads up the **Blueprints | MyGameLDDemo** that the **PlayerStart** object launches the player in the front terrace. The **Blueprints** folder also contains **ThirdPersonCharacter** which is the **UE5** mannequin that we will control in the game. This character blueprint is the **Default Pawn** in the gamemode blueprint.
+Go to **Project Settings | Description** and update it to your liking.  I encourage you sue the [MIT License](https://opensource.org/licenses/MIT) for your Copyright notice so you can allow other students to play and look at your creation!
 
-![game mode for level](images/worldSettings.png)
+![game mode for level](images/credits.png)
+
 
 ![](../images/line2.png)
 
@@ -130,9 +131,6 @@ The **Game Mode** loads up the **Blueprints | MyGameLDDemo** that the **PlayerSt
 
 ##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Go to **Project Settings | Description** and update it to your liking.  I encourage you sue the [MIT License](https://opensource.org/licenses/MIT) for your Copyright notice so you can allow other students to play and look at your creation!
-
-![game mode for level](images/credits.png)
 
 ![](../images/line2.png)
 

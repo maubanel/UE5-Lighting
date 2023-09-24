@@ -18,21 +18,14 @@ We will be working with a level that has already been gray blocked and modelled.
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-If you have not installed the required software go and add [Epic Games Launcher](https://www.epicgames.com/store/en-US/download). Make sure the version of Unreal you are installed  has a 5.0.X in its name so that we know this walk through will be compatible with your version of Unreal. This will not work in UE4.
-
-![unreal 5 installed](images/FiveDotO.png)
-
-![](../images/line2.png)
-
-##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
-
 You will have the starting project in your Perforce directory.  The folder is UE5-Intro-To-Lighting.  *Double click* **UE5IntroToLighting.uproject** to launch **Unreal**.
 
 ![download github lighting starter project](images/downloadZip.png)
 
 ![](../images/line2.png)
 
-##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
+
 
 Open up **UE5Lighting.uproject**. The project should load up in the Room/Level **UnlitLevel**. It should look like a pitch black room as there are no lights. 
 
@@ -40,7 +33,19 @@ Open up **UE5Lighting.uproject**. The project should load up in the Room/Level *
 
 ![](../images/line2.png)
 
+##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+You will see a dark room that has not been lit. To see what is going on swtich to **Unlit** mode. Next page we will start lighting the scene from scratch. If you are not in the level proper and out in space click on a mesh in the **World Outliner** and then press the <kbd>F</kbd> (focus) key to go to the active level.
+
+![change to unlit mode to see level](images/unlit.png)
+
+![](../images/line2.png)
+
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Lets look at what is included in this project. We have a **Blocking Volumes** folder that contains invisible meshes. These are collision volumes with no visible geometry. They are used to stop players from entering areas the designer doesn't want them to go in. Select all of the  **BlockingVolumes** and press the <kbd>F</kbd> key to focus on it. Notice that is is blocking the player from jumping outside the unblocked windows and can't exit the building.
+
+![added blocking volumes](images/blockingVolumes.png)
 
 
 ![](../images/line2.png)
@@ -76,17 +81,12 @@ Delete the `.gitignore` and `.gitattributes` file as they are not needed.
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-You will see a dark room that has not been lit. To see what is going on swtich to **Unlit** mode. Next page we will start lighting the scene from scratch.
 
-![change to unlit mode to see level](images/unlit.png)
 
 ![](../images/line2.png)
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-Lets look at what is included in this project. We have a **Blocking Volumes** folder that contains invisible meshes. These are collision volumes with no visible geometry. They are used to stop players from entering areas the designer doesn't want them to go in. Select all of the  **BlockingVolumes** and press the <kbd>F</kbd> key to focus on it. Notice that is is blocking the player from jumping outside the unblocked windows and can't exit the building.
-
-![added blocking volumes](images/blockingVolumes.png)
 
 ![](../images/line2.png)
 

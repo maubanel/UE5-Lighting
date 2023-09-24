@@ -52,9 +52,9 @@ Lets look at what is included in this project. We have a **Blocking Volumes** fo
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
-Delete the `.gitignore` and `.gitattributes` file as they are not needed.
+The **Static Meshes** folder contains all the static meshes for the level.
 
-![delete two .git... files](images/deleteDotGit.png)
+![building meshes in world outliner](images/staticMeshes.png)
 
 ![](../images/line2.png)
 
@@ -92,9 +92,7 @@ Delete the `.gitignore` and `.gitattributes` file as they are not needed.
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-The **Static Meshes** folder contains all the static meshes for the level.
 
-![building meshes in world outliner](images/staticMeshes.png)
 
 ![](../images/line2.png)
 

@@ -146,15 +146,13 @@ Now lets get interesting patterns of the sun off of the gazebo to interact with 
 
 Also, turn on **Light Shaft Occlusion** which will add a bloom through the fog when looking at the light.  You can then adjust the scale, threshold and brightness.  The default settings are too pronounced so I adjusted them down to lessen the bloom effect. 
 
-
 https://github.com/maubanel/UE5-Lighting/assets/5504953/18eca17f-891e-4de4-a26c-b6f2ce455d9d
-
-
-Run the game and make the tweaks to your liking.
 
 ![](../images/line2.png)
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
+
+Run the game and make the tweaks to your liking.
 
 Now lets make one more change.  Lets have the clouds overhead affect the lighting.  Select **Cast Cloud Shadows**.  This might have no effect, or in my case it makes the entire scene go dark.  This is because the clouds are occluding the sun and there is no other light source.  The sun will light up all the particle sin the sky and we get lots of ambient light (why we can still see when the clouds block the sun). If you can see some blue sky there will lighting.  Our sky atmosphere doesn't act as a light and there is one more actor we need for an outdoor scene that will act to light the entire sky. Turn **Cast Cloud Shadows** back to `false` and we will fix this.
 

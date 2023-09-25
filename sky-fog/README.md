@@ -104,7 +104,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/9c1e06a2-7a42-4e56-a2ff-
 
 If you have ever looked out on an ocean it is often hard to amke out the horizon as fog and mist usually limits your view. Toggle the eyeball in the **Outliner** on and off and look at the horizon.  You can make it look as foggy and as moody as you like.
 
-
+https://github.com/maubanel/UE5-Lighting/assets/5504953/ea3533db-f91a-4999-a5c7-47469cbc96b3
 
 ![](../images/line2.png)
 

@@ -53,7 +53,7 @@ Lets add an ocean into the scene.  Open up **Edit | Plugins** and search for the
 ![](../images/line2.png)
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
-
+Adjust the shape of the ocean so it surrounds the level.  We cannot leave the level so it will not be noticable that we are on such a tiny island but will look better from our point of view.  Take the three water actors and move them to the **Ground** folder. 
 ![add volumetric clouds](images/shapeAndNameOcean.png)
 
 ![](../images/line2.png)

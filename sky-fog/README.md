@@ -96,7 +96,7 @@ Now lets go back to the **Env Light Mixer**.  We are missing the Height Fog. Now
 
 > Exponential Height Fog creates more density in low places of a map and less density in high places. The transition is smooth, so you never get a hard cutoff as you increase altitude. Exponential Height Fog also provides two fog colors—one for the hemisphere facing the dominant directional light (or straight up if none exists), and another color for the opposite hemisphere. 
 
-
+https://github.com/maubanel/UE5-Lighting/assets/5504953/9c1e06a2-7a42-4e56-a2ff-db77cc6df891
 
 ![](../images/line2.png)
 

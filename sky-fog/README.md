@@ -112,6 +112,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/ea3533db-f91a-4999-a5c7-
 
 You can also adjust how dense the fog is with the **Fog Max Opacity**.  A value of `1` is the least transulcent and `0` would be completely transparent. You can also adjust the **Start Distance**: "*Distance from the camera that the fog will start.*" and **Fog Cuttoff Distance**: "*Scene elements past this distance will not have fog applied. This is useful for excluding skyboxes which already have fog baked into them.*" So in our case we don't want a cuttoff as we do not have a skybox with a texture on it.
 
+https://github.com/maubanel/UE5-Lighting/assets/5504953/5dd6461e-c254-4909-ae19-aa69caba13e6
 
 ![](../images/line2.png)
 

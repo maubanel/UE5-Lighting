@@ -154,7 +154,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/18eca17f-891e-4de4-a26c-
 
 Run the game and make the tweaks to your liking.
 
-
+https://github.com/maubanel/UE5-Lighting/assets/5504953/2dca31d8-50b4-489d-b0eb-5e894d023614
 
 ![](../images/line2.png)
 

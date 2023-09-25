@@ -122,6 +122,8 @@ Now there is a secondary fog layer that you can add with the **Second Fog Densit
 
 Make all the fog changes you see fit on your level.
 
+https://github.com/maubanel/UE5-Lighting/assets/5504953/65373aec-cb25-4e16-8305-d1c81f7b9e61
+
 ![](../images/line2.png)
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 

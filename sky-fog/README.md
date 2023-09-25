@@ -71,13 +71,17 @@ https://user-images.githubusercontent.com/5504953/188461608-8034546b-c7cb-4fcd-b
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Move the **SkyAtmosphere** actor to the **Lighting** folder.
-
 Now you can add **Volumetric Clouds** from the **Env Light Mixer** to add moving clouds to the sky. And you see volumetric clouds in the sky.  
 
 >The [Volumetric Cloud](https://docs.unrealengine.com/5.0/en-US/volumetric-cloud-component-properties-in-unreal-engine/) component is a physically-based cloud rendering system that uses a material-driven approach to give artists and designers the freedom to create any type of clouds they need for their projects. The cloud system handles dynamic time-of-day setups that is complemented by the Sky Atmosphere and Sky Light using the real time capture mode. The system provides scalable, artist-defined clouds that can adapt to projects using ground views, flying, and ground to outer space transitions. - Unreal Manual
 
 ![add volumetric clouds](images/volumetricClouds.png)
+
+
+![](../images/line2.png)
+
+##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
 
 Put the **Volumetric Clouds** actor in the **Lighting** folder. Now we will get into more detail on how to alter the cloud cover.  This basic actor has two major elements we can change.  The height the clouds start at and how high they extend into the sky.  If we go up in the air it is a bit more appraent what is happening here. You can adjust the **Layer Bottom Altitude** in kilometers which is how far from the ground do the clouds start.  You can also adjust the **Layer Height** which is how high in kilometers to the clouds extend from the prior starting point.
 
@@ -87,9 +91,7 @@ So now back on the gazebo and you can customize the values you want for **Layer 
 
 ![custom layer bottom altitude and layer height](images/customizeClouds.png)
 
-![](../images/line2.png)
-
-##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+Move the **SkyAtmosphere** actor to the **Lighting** folder.
 
 Now lets go back to the **Env Light Mixer**.  We are missing the Height Fog. Now lets add some immediate fog as we are on the ocean which often has a fog/mist.  The horizon is too straight and visible. Drag a **[Special Effects | Exponential Height Fog](https://docs.unrealengine.com/5.0/en-US/BuildingWorlds/FogEffects/HeightFog/)** into the level in the **Lighting** folder.  
 

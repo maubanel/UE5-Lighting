@@ -28,7 +28,7 @@ Now add a **[Sky Atmosphere](https://docs.unrealengine.com/5.0/en-US/sky-atmosph
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-Change the sun position and notice that the atmosphere changes based on the position of the sun.
+Change the sun position and notice that the atmosphere changes based on the position of the sun. The closer the sun is to the horizon the more yellow is mixed into the light and the sky.
 
 https://github.com/maubanel/UE5-Lighting/assets/5504953/9b1f2ea8-48fe-4a09-aeb0-13156324854e
 

@@ -46,7 +46,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/e24d8f84-d4bd-49f4-8ad4-
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Lets add an ocean into the scene.  Open up **Edit | Plugins** and search for the **Water** plugin. It will prompt you to restart the game.  When the game restarts look for the water actors and drag an **Ocean** actor and drag it onto the landscape (the flat plane around the island),
+Lets add an ocean into the scene.  Open up **Edit | Plugins** and search for the **Water** plugin. It will prompt you to restart the game.  When the game restarts look for the water actors and drag an **All Actors | Body Ocean** actor and drag it onto the landscape (the flat plane around the island).  After the shader renders you should see an ocean!
 
 ![add volumetric clouds](images/addOcean.png)
 
@@ -54,11 +54,23 @@ Lets add an ocean into the scene.  Open up **Edit | Plugins** and search for the
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
+![add volumetric clouds](images/shapeAndNameOcean.png)
+
+![](../images/line2.png)
+
+##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
+
 You can make many adjustments but most of the defaults are set for planet earth so not much needs to be done for realistic earth like atmosphere. There is one adjustment that affects the "thickness" of the atmosphere as if higher up in the sky (like on the top of a mountain). In the Sky Atmosphere you can change the **Art Direction | Aerial Perspecive View Distance Scale**. You can see a change on the horizon.
 
 > The Aerial Perspective View Distance Scale property scales distances from the view to surfaces to make them look thicker when viewed from a high enough distance above the ground surface. - Unreal manual
 
 https://user-images.githubusercontent.com/5504953/188461608-8034546b-c7cb-4fcd-b67e-0358caba7c62.mp4
+
+
+
+![](../images/line2.png)
+
+##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Move the **SkyAtmosphere** actor to the **Lighting** folder.
 
@@ -68,17 +80,9 @@ Now you can add **Volumetric Clouds** from the **Env Light Mixer** to add moving
 
 ![add volumetric clouds](images/volumetricClouds.png)
 
-![](../images/line2.png)
-
-##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
-
 Put the **Volumetric Clouds** actor in the **Lighting** folder. Now we will get into more detail on how to alter the cloud cover.  This basic actor has two major elements we can change.  The height the clouds start at and how high they extend into the sky.  If we go up in the air it is a bit more appraent what is happening here. You can adjust the **Layer Bottom Altitude** in kilometers which is how far from the ground do the clouds start.  You can also adjust the **Layer Height** which is how high in kilometers to the clouds extend from the prior starting point.
 
 https://user-images.githubusercontent.com/5504953/188489577-4edd6f5a-53f7-45a4-b552-7417dfd47f9a.mp4
-
-![](../images/line2.png)
-
-##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 So now back on the gazebo and you can customize the values you want for **Layer Bottom Altitude** and **Layer Height**. I raised them a bit and made the a bit thinner (less tall).  I think this is the look I am sticking with for now.
 

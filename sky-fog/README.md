@@ -118,7 +118,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/a4db4c9b-c388-4741-9d61-
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-Now there is a secondary fog layer that you can add with the **Second Fog Density** and **Second Height Falloff**.  You can also adjust the height relative to the first fog layer with the **Fog Height Offset**.  If the density is set to `0` there is no secondary fog at all.
+Now there is a secondary fog layer that you can add with the **Second Fog Density** and **Second Height Falloff**.  You can also adjust the height relative to the first fog layer with the **Fog Height Offset**.  If the density is set to `0` there is no secondary fog at all. This is most usefuly when you have mountainous terrain as you can have different levels of fog floating over your landscape.  In this case I don't think it adds much so I set it back to `0`.
 
 Make all the fog changes you see fit on your level.
 

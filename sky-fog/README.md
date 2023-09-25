@@ -64,8 +64,7 @@ Now that we have water it will be easier to see the future tweaks to the lightin
 
 > The Aerial Perspective View Distance Scale property scales distances from the view to surfaces to make them look thicker when viewed from a high enough distance above the ground surface. - Unreal manual
 
-
-
+https://github.com/maubanel/UE5-Lighting/assets/5504953/a3a10f69-3170-4e6d-8351-9bd93f7d0fac
 
 ![](../images/line2.png)
 

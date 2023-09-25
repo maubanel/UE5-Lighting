@@ -102,18 +102,14 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/9c1e06a2-7a42-4e56-a2ff-
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-
 If you have ever looked out on an ocean it is often hard to amke out the horizon as fog and mist usually limits your view. Toggle the eyeball in the **Outliner** on and off and look at the horizon.  You can make it look as foggy and as moody as you like.
 
-https://user-images.githubusercontent.com/5504953/188520360-70df16f0-9b3a-4de4-abcc-f315995b91c4.mp4
 
-There are quite a few things we can tweak with the exponential height fog.  First is the **Fog Density**: "*This is the global density factor, which can be thought of as the fog layer's thickness.*".  The second is **Fog Height Falloff**: "*Height density factor, controls how the density increases as height decreases. Smaller values make the transition larger.*" You can control the height of the fog layer by adjusting the **Z** value of the fog actor.
-
-https://user-images.githubusercontent.com/5504953/188520978-d211fa64-7a00-4b6e-a027-dddf7ad643a0.mp4
 
 ![](../images/line2.png)
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
+
 
 Now there is a secondary fog layer hta tyou can add with the **Second Fog Density** and **Second Height Falloff**.  You can also adjust the height relative to the first fog layer with the **Fog Height Offset**.  If the density is set to `0` there is no secondary fog at all.
 

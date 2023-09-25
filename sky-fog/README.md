@@ -46,16 +46,19 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/e24d8f84-d4bd-49f4-8ad4-
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Lets add an ocean into the scene.  Open up **Edit | Plugins** and search for the **Water** plugin. It will prompt you to restart the game.  When the game restarts look for the water actors and drag an **Ocean** actor and drag it onto the landscape (the flat plane around the island),
+
+![add volumetric clouds](images/addOcean.png)
+
+![](../images/line2.png)
+
+##### `Step 5.`\|`ITL`| :small_orange_diamond:
+
 You can make many adjustments but most of the defaults are set for planet earth so not much needs to be done for realistic earth like atmosphere. There is one adjustment that affects the "thickness" of the atmosphere as if higher up in the sky (like on the top of a mountain). In the Sky Atmosphere you can change the **Art Direction | Aerial Perspecive View Distance Scale**. You can see a change on the horizon.
 
 > The Aerial Perspective View Distance Scale property scales distances from the view to surfaces to make them look thicker when viewed from a high enough distance above the ground surface. - Unreal manual
 
 https://user-images.githubusercontent.com/5504953/188461608-8034546b-c7cb-4fcd-b67e-0358caba7c62.mp4
-
-
-![](../images/line2.png)
-
-##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
 Move the **SkyAtmosphere** actor to the **Lighting** folder.
 

@@ -40,7 +40,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/9b1f2ea8-48fe-4a09-aeb0-
 
 Now you can can adjust the camera speed and zoom out into space.  Our island disappears as those object culls are set to not render at a certain distance.  But you can see that we have a complete earth like atmosphere even in space.
 
-https://user-images.githubusercontent.com/5504953/188460013-14fa14af-d427-4748-bf87-35e7cdf3e9ee.mp4
+https://github.com/maubanel/UE5-Lighting/assets/5504953/3cd9cd6d-f7ac-4a74-8992-9e5a17ece0da
 
 ![](../images/line2.png)
 

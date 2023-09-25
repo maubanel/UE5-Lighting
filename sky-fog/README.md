@@ -78,6 +78,7 @@ Now you can add **Volumetric Clouds** from the **Env Light Mixer** to add moving
 
 Put the **Volumetric Clouds** actor in the **Lighting** folder. Now we will get into more detail on how to alter the cloud cover.  This basic actor has two major elements we can change.  The height the clouds start at and how high they extend into the sky.  If we go up in the air it is a bit more appraent what is happening here. You can adjust the **Layer Bottom Altitude** in kilometers which is how far from the ground do the clouds start.  You can also adjust the **Layer Height** which is how high in kilometers to the clouds extend from the prior starting point.
 
+https://github.com/maubanel/UE5-Lighting/assets/5504953/712a4250-f544-4203-b9fa-387b35ec008c
 
 ![](../images/line2.png)
 

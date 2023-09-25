@@ -21,7 +21,7 @@ Now add a **[Sky Atmosphere](https://docs.unrealengine.com/5.0/en-US/sky-atmosph
 
 > The Sky Atmosphere component in Unreal Engine is a physically-based sky and atmosphere-rendering technique. It's flexible enough to create an Earth-like atmosphere with time-of-day featuring sunrise and sunset, or to create extraterrestrial atmospheres of an exotic nature. - Unreal Manual
 
-![add volumetric clouds](images/volumetricClouds.png)
+![add volumetric clouds](images/addSkyAtmosphere.png)
 
 
 ![](../images/line2.png)

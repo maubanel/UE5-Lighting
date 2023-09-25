@@ -144,7 +144,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/72001bb1-a016-4435-8306-
 
 Now lets get interesting patterns of the sun off of the gazebo to interact with our volumetric fog.  Select the **Directional Light** (Sun). You can adjust the **Volumetric Scattering Intensity** which affects the intensity of the scattering of the volumetric fog from this light. Turn on **Light Shaft Occlusion** which adjusts how it is blurred based on the camera angle with the light. The **Occlusion Mask Darkening** controls how much the rays will darken.  
 
-Also, turn on **Light Shaft Occlusion** which will add a bloom through the fog when looking at the light.  You can then adjust the scale, threshold and brightness.  The default settings are too pronounced so I adjusted them down to lessen the bloom effect. 
+Also, turn on **Light Shaft Occlusion** which will add a bloom through the fog when looking at the light.  You can then adjust the scale, threshold and brightness.  The default settings are too pronounced so I adjusted them down to lessen the bloom effect. Turn on **Light Shaft Bloom** and adjust the **Bloom Scale**.
 
 https://github.com/maubanel/UE5-Lighting/assets/5504953/18eca17f-891e-4de4-a26c-b6f2ce455d9d
 

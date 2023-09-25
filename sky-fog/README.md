@@ -136,7 +136,7 @@ You can adjust the **Scaterring Distribution**: "*This determines how directiona
 
 Turn **Volumetric Fog** on.  Make all the fog changes you see fit on your level.
 
-
+https://github.com/maubanel/UE5-Lighting/assets/5504953/72001bb1-a016-4435-8306-df9e3a8622ec
 
 ![](../images/line2.png)
 

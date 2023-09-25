@@ -148,8 +148,6 @@ Also, turn on **Light Shaft Occlusion** which will add a bloom through the fog w
 
 Run the game and make the tweaks to your liking.
 
-https://user-images.githubusercontent.com/5504953/188624574-9454f1c7-a6d4-46c6-aa79-de224f7dd9e8.mp4
-
 ![](../images/line2.png)
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 

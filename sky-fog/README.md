@@ -162,7 +162,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/2dca31d8-50b4-489d-b0eb-
 
 Now lets make one more change.  Lets have the clouds overhead affect the lighting.  Select **Cast Cloud Shadows**.  This might have no effect, or in my case it makes the entire scene go dark.  This is because the clouds are occluding the sun and there is no other light source.  The sun will light up all the particle sin the sky and we get lots of ambient light (why we can still see when the clouds block the sun). If you can see some blue sky there will lighting.  Our sky atmosphere doesn't act as a light and there is one more actor we need for an outdoor scene that will act to light the entire sky. Turn **Cast Cloud Shadows** back to `false` and we will fix this.
 
-
+https://github.com/maubanel/UE5-Lighting/assets/5504953/dfa6cb0f-bda0-47d4-ac64-146620784958
 
 ![](../images/line2.png)
 

@@ -15,21 +15,21 @@ Now that we have a single direct light we need a sky to reflect the light and ac
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-Now we have a convenient tool for setting up levels quickly.  You can click on **Window | Env. Light Mixer** and it brings up all of the elements you need to complete an initial pass at lighting the level.
-
-![environmental light mixer](images/envLightMixer.png)
-
-![](../images/line2.png)
-
-##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
+Open up the **Window | Env. Light Mixer** and it brings up all of the elements you need to complete an initial pass at lighting the level.
 
 Now add a **[Sky Atmosphere](https://docs.unrealengine.com/5.0/en-US/sky-atmosphere-component-in-unreal-engine/)** to the level.  Notice that our sky goes from black to an actual atmosphere.  
 
 > The Sky Atmosphere component in Unreal Engine is a physically-based sky and atmosphere-rendering technique. It's flexible enough to create an Earth-like atmosphere with time-of-day featuring sunrise and sunset, or to create extraterrestrial atmospheres of an exotic nature. - Unreal Manual
 
+![add volumetric clouds](images/volumetricClouds.png)
+
+
+![](../images/line2.png)
+
+##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
+
 Change the sun position and notice that the atmosphere changes based on the position of the sun.
 
-https://user-images.githubusercontent.com/5504953/188452815-0ea89816-b8ce-4a08-aa3e-035049efc78b.mp4
 
 ![](../images/line2.png)
 

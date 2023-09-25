@@ -110,20 +110,18 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/ea3533db-f91a-4999-a5c7-
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-Now there is a secondary fog layer that you can add with the **Second Fog Density** and **Second Height Falloff**.  You can also adjust the height relative to the first fog layer with the **Fog Height Offset**.  If the density is set to `0` there is no secondary fog at all.
+You can also adjust how dense the fog is with the **Fog Max Opacity**.  A value of `1` is the least transulcent and `0` would be completely transparent. You can also adjust the **Start Distance**: "*Distance from the camera that the fog will start.*" and **Fog Cuttoff Distance**: "*Scene elements past this distance will not have fog applied. This is useful for excluding skyboxes which already have fog baked into them.*" So in our case we don't want a cuttoff as we do not have a skybox with a texture on it.
 
-https://user-images.githubusercontent.com/5504953/188612829-bc4bd408-532a-4a21-967e-69cc4e289ff1.mp4
+
 
 ![](../images/line2.png)
 
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-You can also adjust how dense the fog is with the **Fog Max Opacity**.  A value of `1` is the least transulcent and `0` would be completely transparent. You can also adjust the **Start Distance**: "*Distance from the camera that the fog will start.*" and **Fog Cuttoff Distance**: "*Scene elements past this distance will not have fog applied. This is useful for excluding skyboxes which already have fog baked into them.*" So in our case we don't want a cuttoff as we do not have a skybox with a texture on it.
+Now there is a secondary fog layer that you can add with the **Second Fog Density** and **Second Height Falloff**.  You can also adjust the height relative to the first fog layer with the **Fog Height Offset**.  If the density is set to `0` there is no secondary fog at all.
 
 Make all the fog changes you see fit on your level.
-
-https://user-images.githubusercontent.com/5504953/188612919-9d48eb9c-95ed-48f3-ab37-6ca548dd6109.mp4
 
 ![](../images/line2.png)
 

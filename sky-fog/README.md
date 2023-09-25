@@ -136,7 +136,7 @@ You can adjust the **Scaterring Distribution**: "*This determines how directiona
 
 Turn **Volumetric Fog** on.  Make all the fog changes you see fit on your level.
 
-https://user-images.githubusercontent.com/5504953/188617279-0b383a35-cbe2-4e28-8d27-630a8c468cbb.mp4
+
 
 ![](../images/line2.png)
 

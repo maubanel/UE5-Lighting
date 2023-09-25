@@ -30,6 +30,7 @@ Now add a **[Sky Atmosphere](https://docs.unrealengine.com/5.0/en-US/sky-atmosph
 
 Change the sun position and notice that the atmosphere changes based on the position of the sun.
 
+https://github.com/maubanel/UE5-Lighting/assets/5504953/9b1f2ea8-48fe-4a09-aeb0-13156324854e
 
 ![](../images/line2.png)
 

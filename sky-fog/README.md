@@ -84,16 +84,9 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/712a4250-f544-4203-b9fa-
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-So now back on the gazebo and you can customize the values you want for **Layer Bottom Altitude** and **Layer Height**. I raised them a bit and made the a bit thinner (less tall).  I think this is the look I am sticking with for now.
+So now back on the gazebo and you can customize the values you want for **Layer Bottom Altitude** and **Layer Height**. I raised them a bit and made them moodier.  I think this is the look I am sticking with for now.
 
 ![custom layer bottom altitude and layer height](images/customizeClouds.png)
-
-Move the **SkyAtmosphere** actor to the **Lighting** folder.
-
-Now lets go back to the **Env Light Mixer**.  We are missing the Height Fog. Now lets add some immediate fog as we are on the ocean which often has a fog/mist.  The horizon is too straight and visible. Drag a **[Special Effects | Exponential Height Fog](https://docs.unrealengine.com/5.0/en-US/BuildingWorlds/FogEffects/HeightFog/)** into the level in the **Lighting** folder.  
-
-> Exponential Height Fog creates more density in low places of a map and less density in high places. The transition is smooth, so you never get a hard cutoff as you increase altitude. Exponential Height Fog also provides two fog colors—one for the hemisphere facing the dominant directional light (or straight up if none exists), and another color for the opposite hemisphere. 
-
 
 
 ![add exponential light fog](images/addExponentialHeightFog.png)
@@ -101,6 +94,11 @@ Now lets go back to the **Env Light Mixer**.  We are missing the Height Fog. Now
 ![](../images/line2.png)
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+
+Now lets go back to the **Env Light Mixer**.  We are missing the Height Fog. Now lets add some immediate fog as we are on the ocean which often has a fog/mist.  The horizon is too straight and visible. Drag a **[Special Effects | Exponential Height Fog](https://docs.unrealengine.com/5.0/en-US/BuildingWorlds/FogEffects/HeightFog/)** into the level in the **Lighting** folder.  
+
+> Exponential Height Fog creates more density in low places of a map and less density in high places. The transition is smooth, so you never get a hard cutoff as you increase altitude. Exponential Height Fog also provides two fog colors—one for the hemisphere facing the dominant directional light (or straight up if none exists), and another color for the opposite hemisphere. 
 
 If you have ever looked out on an ocean it is often hard to amke out the horizon as fog and mist usually limits your view. Toggle the eyeball in the **Outliner** on and off and look at the horizon.  You can make it look as foggy and as moody as you like.
 

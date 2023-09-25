@@ -92,21 +92,20 @@ So now back on the gazebo and you can customize the values you want for **Layer 
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-
 Now lets go back to the **Env Light Mixer**.  We are missing the Height Fog. Now lets add some immediate fog as we are on the ocean which often has a fog/mist.  The horizon is too straight and visible. Drag a **[Special Effects | Exponential Height Fog](https://docs.unrealengine.com/5.0/en-US/BuildingWorlds/FogEffects/HeightFog/)** into the level in the **Lighting** folder.  
 
 > Exponential Height Fog creates more density in low places of a map and less density in high places. The transition is smooth, so you never get a hard cutoff as you increase altitude. Exponential Height Fog also provides two fog colors—one for the hemisphere facing the dominant directional light (or straight up if none exists), and another color for the opposite hemisphere. 
 
 
-![add exponential light fog](images/addExponentialHeightFog.png)
-
-If you have ever looked out on an ocean it is often hard to amke out the horizon as fog and mist usually limits your view. Toggle the eyeball in the **Outliner** on and off and look at the horizon.  You can make it look as foggy and as moody as you like.
-
-https://user-images.githubusercontent.com/5504953/188520360-70df16f0-9b3a-4de4-abcc-f315995b91c4.mp4
 
 ![](../images/line2.png)
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
+
+
+If you have ever looked out on an ocean it is often hard to amke out the horizon as fog and mist usually limits your view. Toggle the eyeball in the **Outliner** on and off and look at the horizon.  You can make it look as foggy and as moody as you like.
+
+https://user-images.githubusercontent.com/5504953/188520360-70df16f0-9b3a-4de4-abcc-f315995b91c4.mp4
 
 There are quite a few things we can tweak with the exponential height fog.  First is the **Fog Density**: "*This is the global density factor, which can be thought of as the fog layer's thickness.*".  The second is **Fog Height Falloff**: "*Height density factor, controls how the density increases as height decreases. Smaller values make the transition larger.*" You can control the height of the fog layer by adjusting the **Z** value of the fog actor.
 

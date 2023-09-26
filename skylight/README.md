@@ -110,7 +110,6 @@ Now the **SkyLight** is using the actual sky in the game.  We can also use an **
 
 You can match real life locations really quickly this way.  It will also affect the sky in the reflection. Go to the **SkyLight** and select **Source Type** and  choose `SLS Specified Cubemap`. Adjust the **Intensity Scale** as the scene is too dark.  Switch between the three HDR's and look how the ambient lighting changes brightness and color as well as the reflection changing.
 
-https://user-images.githubusercontent.com/5504953/188874768-91f4cb40-4b42-48c0-aba6-2bf64d5068f5.mp4
 
 ![](../images/line2.png)
 

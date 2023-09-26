@@ -30,7 +30,7 @@ Press the <kbd>Apply</kbd> and <kbd>Save</kbd> buttons.
 
 Now open up **M_FirePit_Inst_Glow** material instance and increase the **Glow** scalr to a very large number.  The preview window does not reflect what we are seeing in game as we are in **EV100**. Now you should see an ember in every lantern except for one on the gazebo.
 
-
+https://github.com/maubanel/UE5-Lighting/assets/5504953/877811c9-4264-473e-b340-c6f206b8aa14
 
 ![](../images/line2.png)
 

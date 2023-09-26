@@ -26,7 +26,7 @@ Go back to the editor and make sure you have opened up **Window | Env Light Mixe
 
 Now if you zoom way up and turn the eyeball on and off.  You will see that now the water reflects the sky and that the sky is lighting the scene (taking into account the clouds). Notice that when the directional light gets turned off that the lighting doesn't disappear.  The skylight is using a capture of the sky to light up the scene with soft indirect light.
 
-https://user-images.githubusercontent.com/5504953/188761989-cf2176a2-6bec-4c56-a22c-d51d5dee114f.mp4
+https://github.com/maubanel/UE5-Lighting/assets/5504953/7d3c12fc-34e8-4b85-b1b0-daba1d43397f
 
 ![](../images/line2.png)
 

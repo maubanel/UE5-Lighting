@@ -42,7 +42,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/e7890e32-209a-4669-91c5-
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now in my case it darkened the scene.  I go back to the reference balls in the room and select the **Global Post Production Volume** adjust the **Exposure | Exposure Compensation** value to re-expose the room with the new settings.
+Now in my case it darkened the scene.  I go back to the reference balls in the room and select the **Global Post Production Volume** adjust the **Exposure | Exposure Compensation** value to re-expose the room with the new settings. Now my sun is at a sunrise (or sunset) position with a yellow light. I like an exposure compensation of `0.2` as it gives me the right light I think is appropriate for a sunny morning in a covered gazebo.
 
 ![readjust exposure](images/readjustExposure.png)
 

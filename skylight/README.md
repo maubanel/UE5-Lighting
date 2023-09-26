@@ -36,7 +36,7 @@ Now you can go back to the **Directional Light** (Sun) and now go to **Atmospher
 
 If you move back into the gazebo you see the sky has more detail as the bottom of the clouds are more shadowed.  Even in the back of the room you get an effect on the global illumination.  Lets keep cloud shadows on as it significantly improves the look.
 
-https://user-images.githubusercontent.com/5504953/188763433-13739436-f804-4133-b0e8-e8939ce4db15.mp4
+https://github.com/maubanel/UE5-Lighting/assets/5504953/e7890e32-209a-4669-91c5-ac4fcbb192ac
 
 ![](../images/line2.png)
 

@@ -106,9 +106,11 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/079dbbcd-a33f-4642-a321-
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-Now the **SkyLight** is using the actual sky in the game.  We can also use an **HDR** 360 capture to project instead. 
+Now the **SkyLight** is using the actual sky in the game.  We can also use an **HDR** 360 capture to project instead. You can match real life locations really quickly this way.  It will also affect the sky in the reflection. 
 
-You can match real life locations really quickly this way.  It will also affect the sky in the reflection. Go to the **SkyLight** and select **Source Type** and  choose `SLS Specified Cubemap`. Adjust the **Intensity Scale** as the scene is too dark.  Switch between the three HDR's and look how the ambient lighting changes brightness and color as well as the reflection changing.
+First you cannot have **Real Time Capture** as set to `true` as there is nothing *real time* about a 360 degree photo. Go to the **SkyLight** and select **Source Type** and set it to `false`.  Then choose **Source Type** to be `SLS Specified Cubemap`. Now to get some cubemaps press the <kbd>Gear</kbd> button and turn on **Engine Content**.  The only textures that will appear are HDR (so an image with greater than 8 bit per channel that is saved in HDR format, if using photoshop).
+
+Switch between the different HDR's and look how the ambient lighting changes brightness and color as well as the reflection changing. Now go to the refleciton ball and do the same thing.  Notice that it affects the sky being reflected into the scene!
 
 https://github.com/maubanel/UE5-Lighting/assets/5504953/289ef3d3-bbd3-4fdf-9f30-0c4c35ac2952
 
@@ -117,15 +119,15 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/289ef3d3-bbd3-4fdf-9f30-
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
+Change the **Intensity Scale** back to `1.0`, the **Source Type** to `SLS Capture Scene` and the **Real Time Capture** back to `true`. We will use our existing sky as our lighting and reflection source.
+
+![put cubemap back to original settings](images/returnSettings.png)
 
 
 ![](../images/line2.png)
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Change the **Intensity Scale** back to `1.0`, the **Source Type** to `SLS Capture Scene` and the **Real Time Capture** back to `true`. We will use our existing sky as our lighting and reflection source.
-
-![put cubemap back to original settings](images/returnSettings.png)
 
 ![](../images/line2.png)
 

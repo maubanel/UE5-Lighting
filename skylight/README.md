@@ -106,18 +106,18 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/079dbbcd-a33f-4642-a321-
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-Now the **SkyLight** is using the actual sky in the game.  We can also use an **HDR** 360 capture to project instead.  I have included a few samples including this outdoor scene.  This way you can use an actual 360 photo from an existing sight to recreate the ambient lighting from that area at that time of day. 
+Now the **SkyLight** is using the actual sky in the game.  We can also use an **HDR** 360 capture to project instead. 
 
-![outdoor hdr photo](images/outdoorScene.png)
+You can match real life locations really quickly this way.  It will also affect the sky in the reflection. Go to the **SkyLight** and select **Source Type** and  choose `SLS Specified Cubemap`. Adjust the **Intensity Scale** as the scene is too dark.  Switch between the three HDR's and look how the ambient lighting changes brightness and color as well as the reflection changing.
+
+https://user-images.githubusercontent.com/5504953/188874768-91f4cb40-4b42-48c0-aba6-2bf64d5068f5.mp4
 
 ![](../images/line2.png)
 
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-You can match real life locations really quickly this way.  It will also affect the sky in the reflection. Go to the **SkyLight** and select **Source Type** and  choose `SLS Specified Cubemap`. Adjust the **Intensity Scale** as the scene is too dark.  Switch between the three HDR's and look how the ambient lighting changes brightness and color as well as the reflection changing.
 
-https://user-images.githubusercontent.com/5504953/188874768-91f4cb40-4b42-48c0-aba6-2bf64d5068f5.mp4
 
 ![](../images/line2.png)
 

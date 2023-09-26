@@ -34,7 +34,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/7d3c12fc-34e8-4b85-b1b0-
 
 Now you can go back to the **Directional Light** (Sun) and now go to **Atmosphere and Cloud | Cloud Shadows** so that the cloud casts shadows on the ground.  Notice that the ground does not go black like it did before because even though the clouds are blocking the sun, the sky is still lighting the scene (especially the blue parts).  You can see the shadow on the building really soften when we take the clouds into account.
 
-https://user-images.githubusercontent.com/5504953/188763433-13739436-f804-4133-b0e8-e8939ce4db15.mp4
+https://github.com/maubanel/UE5-Lighting/assets/5504953/e7890e32-209a-4669-91c5-ac4fcbb192ac
 
 ![](../images/line2.png)
 

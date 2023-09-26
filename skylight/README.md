@@ -90,7 +90,7 @@ Our reflection has a black ring at the bottom when you move outside the building
 
 >Lower Hemisphere is Solid Color determines whether all lighting from the lower hemisphere should be set to zero. This is useful to prevent leaking from the lower hemisphere. Advanced.
 
-https://user-images.githubusercontent.com/5504953/188850009-8fb6b17d-a29c-4ae7-8edd-dd4b35d7a45c.mp4
+https://github.com/maubanel/UE5-Lighting/assets/5504953/13464f2e-d8f5-4d10-9824-1795c4cf1749
 
 ![](../images/line2.png)
 

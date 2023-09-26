@@ -96,7 +96,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/a9bbc683-4547-44d0-87d1-
 
 lt drag another copy of the ember light to each lantern that either has an ember. You should hvae a total of 7 lights on the gazebo. Make 6 copies and place them inside each burning ember. There is one stand that has neither and we will not place a light here. 
 
-Uploading CopyPlace6MoreLights.mp4…
+https://github.com/maubanel/UE5-Lighting/assets/5504953/316e3de1-239b-4ccb-97ac-4d4d0442702e
 
 Now lets organize the outliner a bit.  Put the 4 exposure balls inside a folder called `Exposure Reference`.
 

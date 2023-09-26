@@ -119,7 +119,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/289ef3d3-bbd3-4fdf-9f30-
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-Change the **Intensity Scale** back to `1.0`, the **Source Type** to `SLS Capture Scene` and the **Real Time Capture** back to `true`. We will use our existing sky as our lighting and reflection source.
+Change the the **Source Type** back to `SLS Capture Scene` and the **Real Time Capture** back to `true`. We will use our existing sky as our lighting and reflection source and lighting source for the environment (just like the sky does in real life).
 
 ![put cubemap back to original settings](images/returnSettings.png)
 

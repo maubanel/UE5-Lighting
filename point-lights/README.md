@@ -62,29 +62,37 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/145f19ed-b3e4-4ff1-93e6-
 
 I also set the **Source Radius**.  This is how large and what shape is the light emanating from.  It is the entire coal bed so I set mine to `27`. This is the inner yellow sphere. This not only affects how large a radius the light is emitted from, but it also shows up in the reflection.  Move the silver ball close to the light and see how the glow grows with the source radius.  Now the **Soft Source Radius** affects how soft the light is and since this is an ember and not a flame it looks a bit bright so we will soften the radius of the light.  This is easiest to see in the silver ball.
 
+REDO MOVIE
+
 https://user-images.githubusercontent.com/5504953/189126555-622baf8f-be41-4ec8-858b-6af88d184571.mp4
 
 ![](../images/line2.png)
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-*Press* the <kbd>Play</kbd> button and look at the light you created.  Notice the effect is quite subtle which is exactly what we want.  It is an ember and not a raging flame, so the light should be sublte.
+Now we need to pick the color. Move to a glow without the light and use the color picker to pick an orangy hue.
 
-https://user-images.githubusercontent.com/5504953/189105415-f286a91e-8e25-4a9d-aca5-9feb3d45db72.mp4
+![torches glowing](images/useColorPicker.png)
 
 ![](../images/line2.png)
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-lt drag another copy of the ember light to each lantern that either has an ember. You should hvae a total of 7 lights on the gazebo. There is one stand that has neither and we will not place a light here. 
-
-https://user-images.githubusercontent.com/5504953/189105474-e9cba197-f828-4548-9e4b-cdc71019ceec.mp4
 
 
 
 ![](../images/line2.png)
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+*Press* the <kbd>Play</kbd> button and look at the light you created.  Notice the effect is quite subtle which is exactly what we want.  It is an ember and not a raging flame, so the light should be sublte.
+
+https://user-images.githubusercontent.com/5504953/189105415-f286a91e-8e25-4a9d-aca5-9feb3d45db72.mp4
+
+lt drag another copy of the ember light to each lantern that either has an ember. You should hvae a total of 7 lights on the gazebo. There is one stand that has neither and we will not place a light here. 
+
+https://user-images.githubusercontent.com/5504953/189105474-e9cba197-f828-4548-9e4b-cdc71019ceec.mp4
+
 
 Now lets organize the outliner a bit.  Put the 4 exposure balls inside a folder called `Exposure Reference`.
 

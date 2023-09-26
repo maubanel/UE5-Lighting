@@ -28,7 +28,9 @@ Press the <kbd>Apply</kbd> and <kbd>Save</kbd> buttons.
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-Now open up **M_FirePit_Inst_Glow** material instance and increase the **Glow** scalr to a very large number.  The preview window does not reflect what we are seeing in game as we are in **EV100**. Now you should see an ember in every lantern except for one on the gazebo.
+Now open up **M_FirePit_Inst_Glow** material instance and increase the **Glow** scalar to a very large number.  Notice that the color gets lighter as it gets brigher.
+
+Now you should see an ember in every lantern except for one on the gazebo. The material is not a light so even though the emissive channel does affect the GI it is not acting like a light.  So we also want to add a point light that reflects what the fire is doing in this scene.
 
 https://github.com/maubanel/UE5-Lighting/assets/5504953/877811c9-4264-473e-b340-c6f206b8aa14
 
@@ -36,7 +38,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/877811c9-4264-473e-b340-
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now you should see some of the torches in the level are glowing.  Lets add a Point Light to light up the surrounding. Now these materials send a light but not enough.  We should add a point light (a radiating light like a light bulb).
+Now you should see some of the torches in the level are glowing.  Lets add a Point Light to light up the surrounding. Now these materials send a light but not enough. If we use too much glow it will be noisy in the game and the color will get too hot for the amount of ligh We should add a point light (a radiating light like a light bulb).
 
 ![torches glowing](images/TorchesGlow.png)
 

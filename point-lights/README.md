@@ -54,6 +54,7 @@ So press the **Add Actor** button and select a **Light | Point Light** and drag 
 
 Center the light inside the torch.  Adjust the height so that the right amount of shadow emanates from the edges of the torch. Now lets adjust the **Attenuation Radius**.  This is the distance the light will travel before it no longer affects the world.  It is the distance a light travels before its light drops to 0.  It is indicated with the light colored sphere.  The smaller the more performant and the more lights we can place.  Since this is just an ember I set mine to `130` cm.
 
+https://github.com/maubanel/UE5-Lighting/assets/5504953/1b62f0a5-85b5-48a3-bf8a-befc312ec053
 
 ![](../images/line2.png)
 

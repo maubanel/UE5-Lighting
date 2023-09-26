@@ -68,7 +68,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/a3a5f7af-03a2-4ee7-9549-
 
 Now if you go back to the gazebo and you turn off **Affects World** on the **Sky Light**, you can see the shadows get a bit of fill. The sky light fills in details in the shadow and makes up for the fact that the ray tracer can only calculate so many bounces.  It also affects reflections.  Look in the silver ball, the sky in the reflection also disappears.  Remember the skylight provides additional environmental lighting as well as reflections for your level.
 
-https://user-images.githubusercontent.com/5504953/188779547-0468efb6-767d-410f-8a6b-dde2b168a637.mp4
+https://github.com/maubanel/UE5-Lighting/assets/5504953/4161e7b4-c043-4dbe-996c-58fce88cf817
 
 ![](../images/line2.png)
 

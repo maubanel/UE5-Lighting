@@ -88,7 +88,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/7157374b-e96e-4d36-90c4-
 
 *Press* the <kbd>Play</kbd> button and look at the light you created.  Notice the effect is quite subtle which is exactly what we want.  It is an ember and not a raging flame, so the light should be sublte.
 
-
+https://github.com/maubanel/UE5-Lighting/assets/5504953/a9bbc683-4547-44d0-87d1-12a9e7a2e068
 
 ![](../images/line2.png)
 

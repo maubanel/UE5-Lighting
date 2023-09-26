@@ -88,7 +88,11 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/7157374b-e96e-4d36-90c4-
 
 *Press* the <kbd>Play</kbd> button and look at the light you created.  Notice the effect is quite subtle which is exactly what we want.  It is an ember and not a raging flame, so the light should be sublte.
 
-https://user-images.githubusercontent.com/5504953/189105415-f286a91e-8e25-4a9d-aca5-9feb3d45db72.mp4
+
+
+![](../images/line2.png)
+
+##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
 lt drag another copy of the ember light to each lantern that either has an ember. You should hvae a total of 7 lights on the gazebo. There is one stand that has neither and we will not place a light here. 
 
@@ -98,10 +102,6 @@ https://user-images.githubusercontent.com/5504953/189105474-e9cba197-f828-4548-9
 Now lets organize the outliner a bit.  Put the 4 exposure balls inside a folder called `Exposure Reference`.
 
 ![add folder for exposure balls](images/putBallsInFolder.png)
-
-![](../images/line2.png)
-
-##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
 Select the **File | Save All** then press the <kbd>Source Control</kbd> button and select **Submit Content**.  If you are prompted, select **Check Out** for all items that are not checked out of source control. Update the **Changelist Description** message and with the latest changes. Make sure all the files are correct and press the <kbd>Submit</kbd> button. A confirmation will pop up on the bottom right with a message about a changelist was submitted with a commit number. Quit Unreal and make sure your **Pending** tab in **P4V** is empty. **Submit** any work that is still in the editor.
 

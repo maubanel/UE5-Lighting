@@ -66,7 +66,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/a3a5f7af-03a2-4ee7-9549-
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now if you go back to the gazebo and you turn off **Affects World** on the **Sky Light**, you can see the shadows goes from solid and crisp to light and blurry because of the effect of the sun being filtered through the clouds.  Look in the silver ball, the sky in the reflection also disappears.  Remember the skylight provides additional environmental lighting as well as reflections.
+Now if you go back to the gazebo and you turn off **Affects World** on the **Sky Light**, you can see the shadows get a bit of fill. The sky light fills in details in the shadow and makes up for the fact that the ray tracer can only calculate so many bounces.  It also affects reflections.  Look in the silver ball, the sky in the reflection also disappears.  Remember the skylight provides additional environmental lighting as well as reflections for your level.
 
 https://user-images.githubusercontent.com/5504953/188779547-0468efb6-767d-410f-8a6b-dde2b168a637.mp4
 

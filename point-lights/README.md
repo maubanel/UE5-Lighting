@@ -78,8 +78,7 @@ Now we need to pick the color. Move to a glow without the light and use the colo
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-
-
+https://github.com/maubanel/UE5-Lighting/assets/5504953/7157374b-e96e-4d36-90c4-dbeecdf2f568
 
 ![](../images/line2.png)
 

@@ -16,7 +16,7 @@ This is the final outdoor lighting effect we will look at.  It acts as the sky a
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-Go back to the editor and make sure you have opened up **Window | Env Light Mixer** and select a **SkyLight**.  Move it to the **Lighting** folder.  Make sure it's mobility is set to **Movable**.
+Go back to the editor and make sure you have opened up **Window | Env Light Mixer** and select a **SkyLight**.  Move it to the **Lighting** folder. 
 
 ![make skylight movable](images/addSkyLight.png)
 
@@ -24,7 +24,7 @@ Go back to the editor and make sure you have opened up **Window | Env Light Mixe
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-Now if you zoom way up and turn the eyeball on and off.  You will see that now the water reflects the sky and that the sky is lighting the scene (taking into account the clouds). Notice that when the directional light gets turned off that the lighting doesn't disappear.  The skylight is using a capture of the sky to light up the scene with soft indirect light.
+Now if you zoom way up and turn the eyeball on and off.  You will see that now the water reflects the sky and that the sky is lighting the scene (taking into account the clouds). Notice that when the directional light gets turned off that the lighting doesn't disappear.  The skylight is using a capture of the sky to light up the scene with soft indirect light. Make sure it's mobility is set to **Movable**.
 
 https://github.com/maubanel/UE5-Lighting/assets/5504953/7d3c12fc-34e8-4b85-b1b0-daba1d43397f
 
@@ -33,6 +33,8 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/7d3c12fc-34e8-4b85-b1b0-
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now you can go back to the **Directional Light** (Sun) and now go to **Atmosphere and Cloud | Cloud Shadows** so that the cloud casts shadows on the ground.  Notice that the ground does not go black like it did before because even though the clouds are blocking the sun, the sky is still lighting the scene (especially the blue parts).  You can see the shadow on the building really soften when we take the clouds into account.
+
+If you move back into the gazebo you see the sky has more detail as the bottom of the clouds are more shadowed.  Even in the back of the room you get an effect on the global illumination.  Lets keep cloud shadows on as it significantly improves the look.
 
 https://user-images.githubusercontent.com/5504953/188763433-13739436-f804-4133-b0e8-e8939ce4db15.mp4
 

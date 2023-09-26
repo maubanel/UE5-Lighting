@@ -52,9 +52,8 @@ So press the **Add Actor** button and select a **Light | Point Light** and drag 
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
-Now lets adjust the **Attenuation Radius**.  This is the distance the light will travel before it no longer affects the world.  It is the distance a light travels before its light drops to 0.  It is indicated with the light colored sphere.  I set mine to `130`.
+Center the light inside the torch.  Adjust the height so that the right amount of shadow emanates from the edges of the torch. Now lets adjust the **Attenuation Radius**.  This is the distance the light will travel before it no longer affects the world.  It is the distance a light travels before its light drops to 0.  It is indicated with the light colored sphere.  The smaller the more performant and the more lights we can place.  Since this is just an ember I set mine to `130` cm.
 
-https://user-images.githubusercontent.com/5504953/189125482-355ed330-d096-4641-a3f8-07a8492c4843.mp4
 
 ![](../images/line2.png)
 

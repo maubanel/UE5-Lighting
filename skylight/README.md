@@ -98,9 +98,9 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/13464f2e-d8f5-4d10-9824-
 
 Move the silver ball back into its location with the other exposure balls. Now we can adjust the resolution of the map used for reflections. We can adjust the **Cubemap Resolution**.  We will use power of two numbers so go to 512 and 1024.  It looks better but we have no mirrored surfaces.  Now in this level I think the 128 resolution will suffice.
 
->Maximum resolution for the very top processed cubemap MIP. It also must be a power of 2 texture. - Unreal manual
+>Maximum resolution for the very top processed cubemap MIP. It also must be a power of 2 texture. - Unreal manual=
 
-https://user-images.githubusercontent.com/5504953/188872610-aa19055a-7b2c-4c18-8bf9-b6fc65f31a49.mp4
+https://github.com/maubanel/UE5-Lighting/assets/5504953/079dbbcd-a33f-4642-a321-b0060c8a3423
 
 ![](../images/line2.png)
 

@@ -25,9 +25,9 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/b28bf8c6-9c1a-4fb0-b468-
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-Now lets look at the magic of Lumen.  We now have real time global illumination in the engine.  Select the **Directional Light** (Sun) and adjust the **Indirect Lighting Intensity**. This adjusts how much the indirect light bounces off surfaces to light up surrounding areas.  I increased to `100` to show off how much it can affect the lighting but put it back to `20` which is a good amount of indirecdt light.
+Now lets look at the magic of Lumen.  We now have real time global illumination in the engine.  Select the **Directional Light** (Sun) and adjust the **Indirect Lighting Intensity**. This adjusts how much the indirect light bounces off surfaces to light up surrounding areas.  I increased to `50` to show off how much it can affect the lighting but put it back to `8` which is a good amount of indirect light.
 
-
+https://github.com/maubanel/UE5-Lighting/assets/5504953/5b301034-52ff-40f0-8755-3d0f9c2bddc5
 
 ![](../images/line2.png)
 

@@ -89,6 +89,11 @@ Select the stained glass window in the middle room that has the **MI_WestStained
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
+Now we could make this material translucent and use the sunlight coming through but this would be very expensive.  There is a light that will do the work for us that will make it look like sun is coming through this window.  Go to **Add Actor | Lighting | Rect Light** and pull it over the window.
+
+![add rect light](images/addRectLight.png)
+
+
 ![](../images/line2.png)
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
@@ -111,9 +116,6 @@ Select the stained glass window in the middle room that has the **MI_WestStained
 
 ##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Now we could make this material translucent and use the sunlight coming through but this would be very expensive.  There is a light that will do the work for us that will make it look like sun is coming through this window.  Go to **Add Actor | Lighting | Rect Light** and pull it over the window.
-
-![add rect light](images/addRectLight.png)
 
 ![](../images/line2.png)
 

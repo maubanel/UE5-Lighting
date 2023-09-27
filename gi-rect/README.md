@@ -73,6 +73,9 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/45c96841-c87b-4e94-8127-
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+*Press* the <kbd>Play</kbd> button and look at the middle room.  This is getting a bit better, but we can improve it some more.
+
+
 
 ![](../images/line2.png)
 

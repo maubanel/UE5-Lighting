@@ -41,6 +41,8 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/2671396d-d7fb-4181-8451-
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Now we have another powerful tool we can adjust on the various lights.  Select the **Sun** (Directional Light) and change the **Volumetric Scattering Intensity** to `100`.  You can see that the volumetric fog now picks up the light and it much more visible. Now I want to have a bit of dramatic fog inside so I liked a setting of `3.25`.
+
 
 
 ![](../images/line2.png)
@@ -53,9 +55,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/2671396d-d7fb-4181-8451-
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-Now we have another powerful tool we can adjust on the various lights.  Select the **Sun** (Directional Light) and change the **Volumetric Scattering Intensity** to `100`.  You can see that the volumetric fog now picks up the light and it much more visible. Now I want to have a bit of dramatic fog inside so I liked a setting of `10`.
 
-https://user-images.githubusercontent.com/5504953/189334563-8338f094-8ef7-4313-81d6-87ec54f59cb0.mp4
 
 ![](../images/line2.png)
 

@@ -81,6 +81,10 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/9f8ed025-8703-482c-b2be-
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Select the stained glass window in the middle room that has the **MI_WestStainedGlass** material. Open up **MI_WestStainedGlass** and adjust the **Window Brightness**.  My sun is rising in the east so the west side window should be less bright. I liked a value of ~`415`.  Notice that it again glows and affects the near environment.
+
+![adjust window brightness](images/adjustWindowBrightness.png)
+
 ![](../images/line2.png)
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
@@ -95,17 +99,13 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/9f8ed025-8703-482c-b2be-
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-Select the stained glass window in the middle room that has the **MI_WestStainedGlass** material. Make any adjustments to the window to minimize leaking of light from the outside.
-
-![select west stained glass](images/miWestSG.png)
-
 ![](../images/line2.png)
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Open up **MI_WestStainedGlass** and adjust the **Window Brightness**.  I liked a value of ~`415`.  Notice that it again glows and affects the near environment.
 
-![adjust window brightness](images/adjustWindowBrightness.png)
+
+
 
 ![](../images/line2.png)
 

@@ -33,9 +33,9 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/5b301034-52ff-40f0-8755-
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-You can turn **Lumen** off in **Project Settings** (for the whole game) or in the **Post Production Volume** for this level only. If you turn Lumen off in my case the lighting blooms out and becomes much flatter.  If I adjust the exposure down to `-4` I get a very flat lighting without the dramatic difference between outdoors and indoors.
+You can turn **Lumen** off in **Project Settings** (for the whole game) or in the **Post Production Volume** for this level only. If you turn Lumen off in my case the lighting blooms out and becomes much flatter. This is the power of ray tracing and really makes the overall look more realistic and more dramatic.
 
-![lumen on/off](images/lumenOnOff.png)
+https://github.com/maubanel/UE5-Lighting/assets/5504953/2671396d-d7fb-4181-8451-9fb3cdbdc989
 
 ![](../images/line2.png)
 

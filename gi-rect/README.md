@@ -106,7 +106,7 @@ Now move the exposure balls in front of the window.
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-Make sure the rect light is pointing inside the room (it only goes in one direction). In this case I need to rotate it on **Z** `180`°. Play the game and make any other adjustmets you would like!
+Make sure the rect light is pointing inside the room (it only goes in one direction). In this case I need to rotate it on **Z** `180`°. Play the game and make any other adjustmets you would like! Put it right next to the glass so it lights the inner frame of the window.
 
 ![](../images/line2.png)
 

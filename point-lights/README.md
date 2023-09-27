@@ -108,7 +108,7 @@ Now lets organize the outliner a bit.  Put the 4 exposure balls inside a folder 
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-
+In the **Lighting** folder create a folder called **Gazebo**. Name the lights appropriately, I have named them **EmberGlowPointLight** and move them into the new folder.
 
 ![add folder for exposure balls](images/nameLights.png)
 

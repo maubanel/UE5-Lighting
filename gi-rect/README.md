@@ -57,7 +57,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/568f3d78-5837-470d-9c5a-
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-Now some of the torches there have flames. Open up **M_Fire** and connect the output of the **Multiply** node to the **Emissive Color** node in the shader.
+Now some of the torches there have flames. *Click* on the coals on the torch in front of the status.  *Double click* on **M_Fire_Inst** and then *double click* on its **Parent** material called **M_Fire**. *Connect* the output of the **Multiply** node to the **Emissive Color** node in the shader. Now press the <kbdA>pply</kbd>button and now we have a flame.  Look at it in the reflection of the metallic part at the base of the statue.
 
 https://github.com/maubanel/UE5-Lighting/assets/5504953/0a16086d-d1cd-41a4-8fd5-24fe45071615
 

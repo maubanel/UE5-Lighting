@@ -98,11 +98,15 @@ Now we could make this material translucent and use the sunlight coming through 
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
+Now move the exposure balls in front of the window.  
 
+![rotate rect light](images/lightAdjustment.png)
 
 ![](../images/line2.png)
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
+
+Make sure the rect light is pointing inside the room (it only goes in one direction). In this case I need to rotate it on **Z** `180`°. Play the game and make any other adjustmets you would like!
 
 ![](../images/line2.png)
 
@@ -121,9 +125,7 @@ Now we could make this material translucent and use the sunlight coming through 
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
-Now move the exposure balls in front of the window.  Make sure the rect light is pointing inside the room (it only goes in one direction). In this case I need to rotate it on **Z** `180`°. Play the game and make any other adjustmets you would like!
 
-![rotate rect light](images/lightAdjustment.png)
 
 ![](../images/line2.png)
 

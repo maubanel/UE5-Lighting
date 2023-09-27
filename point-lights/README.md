@@ -60,7 +60,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/145f19ed-b3e4-4ff1-93e6-
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-I also set the **Source Radius**.  This is how large and what shape is the light emanating from.  It is the entire coal bed so I set mine to `27`. This is the inner yellow sphere. This not only affects how large a radius the light is emitted from, but it also shows up in the reflection.  Move the silver ball close to the light and see how the glow grows with the source radius.  Now the **Soft Source Radius** affects how soft the light is and since this is an ember and not a flame it looks a bit bright so we will soften the radius of the light.  This is easiest to see in the silver ball.
+I also set the **Source Radius**.  This is how large and what shape is the light emanating from.  It is the entire coal bed so I set mine to `27`. This is the inner yellow sphere. This not only affects how large a radius the light is emitted from, but it also shows up in the reflection.  Move the silver ball close to the light and see how the glow grows with the source radius.  Now the **Soft Source Radius** affects how soft the light is and since this is an ember and not a flame it looks a bit bright so we will soften the radius of the light.  This is easiest to see in the silver ball. I went really soft with the soft source as it is a glowing ember and not a light.
 
 https://github.com/maubanel/UE5-Lighting/assets/5504953/7ea1bc80-40be-44c0-840b-c840ff959d87
 

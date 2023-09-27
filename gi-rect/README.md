@@ -75,7 +75,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/45c96841-c87b-4e94-8127-
 
 *Press* the <kbd>Play</kbd> button and look at the middle room.  This is getting a bit better, but we can improve it some more.
 
-
+https://github.com/maubanel/UE5-Lighting/assets/5504953/9f8ed025-8703-482c-b2be-5276d0b1392a
 
 ![](../images/line2.png)
 

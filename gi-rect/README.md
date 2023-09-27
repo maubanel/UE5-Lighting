@@ -108,6 +108,8 @@ Now move the exposure balls in front of the window.
 
 Make sure the rect light is pointing inside the room (it only goes in one direction). In this case I need to rotate it on **Z** `180`°. Play the game and make any other adjustmets you would like! Put it right next to the glass so it lights the inner frame of the window.
 
+https://github.com/maubanel/UE5-Lighting/assets/5504953/884753c8-4cfa-4737-8943-02ef35578535
+
 ![](../images/line2.png)
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 

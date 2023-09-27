@@ -59,7 +59,6 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/568f3d78-5837-470d-9c5a-
 
 Now some of the torches there have flames. Open up **M_Fire** and connect the output of the **Multiply** node to the **Emissive Color** node in the shader.
 
-![connect multiply to emissive color](images/miFireEmiss.png)
 
 
 ![](../images/line2.png)

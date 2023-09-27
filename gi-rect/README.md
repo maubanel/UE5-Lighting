@@ -43,7 +43,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/2671396d-d7fb-4181-8451-
 
 Now we have another powerful tool we can adjust on the various lights.  Select the **Sun** (Directional Light) and change the **Volumetric Scattering Intensity** to `100`.  You can see that the volumetric fog now picks up the light and it much more visible. Now I want to have a bit of dramatic fog inside so I liked a setting of `3.25`.
 
-
+https://github.com/maubanel/UE5-Lighting/assets/5504953/cb0fc6a4-a8ef-4e5c-a9e5-cab86f28cc2d
 
 ![](../images/line2.png)
 

@@ -57,6 +57,9 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/cb0fc6a4-a8ef-4e5c-a9e5-
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
+Now some of the torches there have flames. Open up **M_Fire** and connect the output of the **Multiply** node to the **Emissive Color** node in the shader.
+
+![connect multiply to emissive color](images/miFireEmiss.png)
 
 
 ![](../images/line2.png)
@@ -69,9 +72,6 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/cb0fc6a4-a8ef-4e5c-a9e5-
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now some of the torches there have flames. Open up **M_Fire** and connect the output of the **Multiply** node to the **Emissive Color** node in the shader.
-
-![connect multiply to emissive color](images/miFireEmiss.png)
 
 ![](../images/line2.png)
 

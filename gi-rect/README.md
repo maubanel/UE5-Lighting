@@ -19,7 +19,6 @@ Unreal 5's big improvement is real-time global illumination with Lumen.  This is
 
 Lets move on to the middle room.  Duplicate the four exposure spheres by holding the <kbd>Alt</kbd> key while moving the widget direction arrow.  If you press the <kbd>Shift</kbd> key as well you the camera will move with the exposure spheres.  and move them to the front part of the middle room in front of the statue. 
 
-![duplicate exposure balls move to middle room](images/middleExposureBalls.png)
 
 ![](../images/line2.png)
 

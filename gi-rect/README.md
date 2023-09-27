@@ -67,7 +67,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/0a16086d-d1cd-41a4-8fd5-
 
 Look at the flames in the corner and you can see it in the reflection and does affect the Global Illumination.  
 
-
+https://github.com/maubanel/UE5-Lighting/assets/5504953/45c96841-c87b-4e94-8127-8f871ddb0f51
 
 ![](../images/line2.png)
 

@@ -25,25 +25,21 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/b28bf8c6-9c1a-4fb0-b468-
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-Put the ember glow point lights in a folder called **Gazebo** to clean up our **Outliner**.
+Now lets look at the magic of Lumen.  We now have real time global illumination in the engine.  Select the **Directional Light** (Sun) and adjust the **Indirect Lighting Intensity**. This adjusts how much the indirect light bounces off surfaces to light up surrounding areas.  I increased to `100` to show off how much it can affect the lighting but put it back to `20` which is a good amount of indirecdt light.
 
-![put ember glow lights in gazebo folder](images/gazeboGlow.png)
+
 
 ![](../images/line2.png)
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now the middle room is quite dark as it is not nearly as bright as the outdoor gazebo.  We do not want to adjust the lights to compensate as this will throw off the front room.  We will adjust the exposure in the room as if we moved a real camera from outside to indoors.  So go to the **GlobalPostProductionVolume** and go to the **Lens | Exposure** tab. I adjusted the **Exposure Compensation** to a value of `1.0`. This is a little on the dark side but we will be adding some more lights to this room and want to leave it somewhat dark for dramatic effect.
 
-![adjust exposure compensation to 1](images/exposureCompensation.png)
 
 ![](../images/line2.png)
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now lets look at the magic of Lumen.  We now have real time global illumination in the engine.  Select the **Directional Light** (Sun) and adjust the **Indirect Lighting Intensity**. This adjusts how much the indirect light bounces off surfaces to light up surrounding areas.  I increased to `100` to show off how much it can affect the lighting but put it back to `20` which is a good amount of indirecdt light.
 
-https://user-images.githubusercontent.com/5504953/189326383-b6c20801-1054-4230-8661-bf57385772dd.mp4
 
 ![](../images/line2.png)
 

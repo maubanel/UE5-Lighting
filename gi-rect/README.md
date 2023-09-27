@@ -126,7 +126,7 @@ Adjust the **Source Width** and **Source Height** so it is the exact size of the
 
 Now the one unique item of the rect light is that you can use a texture that will change each pixel of the light to match the color of the texture.  In this case we will use the same texture of the window in the **Source Texture** and assign `T_StainedGlass_BCH`. Notice that it now lights up the scene in color!
 
-https://user-images.githubusercontent.com/5504953/189341003-dc00df69-6818-4f53-8529-fd48097ef5ea.mp4
+
 
 ![](../images/line2.png)
 

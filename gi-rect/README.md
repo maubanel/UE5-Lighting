@@ -17,7 +17,7 @@ Unreal 5's big improvement is real-time global illumination with Lumen.  This is
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-Lets move on to the middle room.  Put the four exposure balls into a **Gazebo** folder.  Duplicate them and move them the copy to the front part of the middle room (in front of the statue). Select the four new balls and press the <kbd>Folder</kbd> button to place them in a new folder called `Middle Room`. Move it to root of the **Exposure REference** folder.
+Lets move on to the middle room.  Duplicate the four exposure spheres by holding the <kbd>Alt</kbd> key while moving the widget direction arrow.  If you press the <kbd>Shift</kbd> key as well you the camera will move with the exposure spheres.  and move them to the front part of the middle room in front of the statue. 
 
 ![duplicate exposure balls move to middle room](images/middleExposureBalls.png)
 

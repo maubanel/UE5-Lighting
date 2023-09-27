@@ -65,7 +65,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/0a16086d-d1cd-41a4-8fd5-
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Look at the flames in the corner and you can see it in the reflection and does affect the Global Illumination.  
+Look at the flames in the corner and you can see it in the reflection and does affect the Global Illumination.  Now the GI can be a bit noisy and there is a bit of grain that I see.  
 
 https://github.com/maubanel/UE5-Lighting/assets/5504953/45c96841-c87b-4e94-8127-8f871ddb0f51
 

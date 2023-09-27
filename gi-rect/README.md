@@ -65,6 +65,8 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/0a16086d-d1cd-41a4-8fd5-
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Look at the flames in the corner and you can see it in the reflection and does affect the Global Illumination.  
+
 
 
 ![](../images/line2.png)
@@ -76,25 +78,15 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/0a16086d-d1cd-41a4-8fd5-
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now since we are in **EV100** we need to increase the luminence of the flame.  Open up **M_Fire_Inst** and **M_File_InstGlow** and adjust the **Glow**.
-
-https://user-images.githubusercontent.com/5504953/189335528-c68c9587-a5f2-403e-bc9c-7c8956e51f03.mp4
-
 ![](../images/line2.png)
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
-
-Move the **Player Start** to the middle room. Run the game and make adjustments to the glow brightness of the fire particle system.  Again with Lumen this lights the world and looks amazing.
-
-https://user-images.githubusercontent.com/5504953/189335925-39a39590-4da0-4b54-9587-9170fdf333c3.mp4
 
 ![](../images/line2.png)
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-Look at the flames in the corner and you can see it in the reflection and does affect the Global Illumination.  
 
-https://user-images.githubusercontent.com/5504953/189336722-71a573f2-6fe2-4455-afef-389b579a21c0.mp4
 
 ![](../images/line2.png)
 

@@ -140,7 +140,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/226f0ff9-9944-40e9-8719-
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-Now we repeat theis for the east side window.  Now in my case the sun is facing from the east so it will be brighter than the west side.  First select **MI_EastStainedGlass** and adjust the **Window Brightness**.
+Now we repeat theis for the east side window.  Now in my case the sun is facing from the east so it will be brighter than the west side.  First select **MI_EastStainedGlass** and adjust the **Window Brightness**. I found `0.35` works well for my taste.
 
 ![adjust birghtness of east side stained glass material](images/repeatOtherSide.png)
 
@@ -148,13 +148,15 @@ Now we repeat theis for the east side window.  Now in my case the sun is facing 
 
 ##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Rename in **Outliner** the first rect light as `RectLightStainedGlass`.  Create a new folder in **Lighting** called `MiddleRoom` and drag this rect light in there.  Copy the first rect light, rotate it 180° and put it in the opposite side window.
-
-![copy rect window for other side](images/copyRotate.png)
+Copy the first rect light, rotate it 180° and put it in the opposite side window.
 
 ![](../images/line2.png)
 
 ##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Rename in **Outliner** the first rect light as `RectLightStainedGlass`.  Create a new folder in **Lighting** called `MiddleRoom` and drag this rect light in there.  
+
+![copy rect window for other side](images/copyRotate.png)
 
 Since this light was on the brighter side I added some **Indirect Lighting Intensity**, and increased the **Intensity** of the light.  Play and look at the reflections and light that these two windows add to the scene.
 

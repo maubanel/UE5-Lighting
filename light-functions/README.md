@@ -49,7 +49,7 @@ If we add an **Abs** node at the end before the shader we will make sure the val
 
 Now the value is always positive. Now the problem the light goes to `0`.  We want it to flicker but not turn off completely.
 
-https://user-images.githubusercontent.com/5504953/189472860-bd3d5456-5aa1-4b4e-91ed-060f455d2d6e.mp4
+https://github.com/maubanel/UE5-Lighting/assets/5504953/1e4cc935-d91d-4763-b0ab-aeceea691c29
 
 ![](../images/line2.png)
 

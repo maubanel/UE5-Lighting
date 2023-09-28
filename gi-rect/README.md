@@ -134,6 +134,8 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/52515353-8e45-4201-8616-
 
 Now move the exposure spheres to the front of the window.  Notice the light is still white.  We could project the texture into a light function, but lets just tint the light and adjust the brightness.
 
+https://github.com/maubanel/UE5-Lighting/assets/5504953/226f0ff9-9944-40e9-8719-61004f5f2b24
+
 ![](../images/line2.png)
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 

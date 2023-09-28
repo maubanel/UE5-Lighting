@@ -166,7 +166,7 @@ Rename in **Outliner** the first rect light as `StainedGlassWestRectLight` and s
 
 Adjust the brightness of the second rect light.  It should be a lot brighter than the west side. Since this light was on the brighter side I also increased the **Indirect Lighting Intensity**.  This increases how much it affects to surrounding GI.  Play and look at the reflections and light that these two windows add to the scene.
 
-https://github.com/maubanel/UE5-Lighting/assets/5504953/8ba42ebf-da23-491b-bbcd-be86bc955657
+https://github.com/maubanel/UE5-Lighting/assets/5504953/cf589da4-5c75-4515-92d7-71c8eaafdd15
 
 ![](../images/line2.png)
 

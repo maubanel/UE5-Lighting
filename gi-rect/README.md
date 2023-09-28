@@ -156,7 +156,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/0fb2afce-cd61-44c2-ac69-
 
 ##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Rename in **Outliner** the first rect light as `StainedGlassWestRectLight` and second as `StainedGlassEastRectLight`.  Create a new folder in **Lighting** called `MiddleRoom` and drag this rect light in there.  
+Rename in **Outliner** the first rect light as `StainedGlassWestRectLight` and second as `StainedGlassEastRectLight`.  Create a new folder in **Lighting** called `MiddleRoom` and drag both rect lights in there.  
 
 ![copy rect window for other side](images/copyRotate.png)
 

@@ -88,13 +88,17 @@ https://user-images.githubusercontent.com/5504953/189473330-e3d307d7-a1d6-4d66-a
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-Right click on the open graph and select an **Add** node.  Take the output of the first and second **Sine** nodes and add them together.  Put a second **Add** node next to it with the output of the first one in the **A** side of the second add node.
+To add more randomness we can add together three sine waves that have a different period.  So lets multiply time by `2.5` adn `2` take an input from **Time** then send them to their own sine nodes (for a total of 3 sine nodes).
 
-![place two add nodes](images/firstSum.png)
+![triple the speed of the flicker](images/doubleMultiply.png)
 
 ![](../images/line2.png)
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
+
+Right click on the open graph and select an **Add** node.  Take the output of the first and second **Sine** nodes and add them together.  Put a second **Add** node next to it with the output of the first one in the **A** side of the second add node.
+
+![place two add nodes](images/firstSum.png)
 
 Connect **Time** to two multiply nodes.
 
@@ -136,6 +140,9 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/b27b8a72-b9eb-438d-88fd-
 ![](../images/line2.png)
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
+
+Your final node chart should look like this:
+
 
 Right click on **FL_Flicker** and select **Create Material Instance**.  Call it `MI_FlickerBackRoom`.
 

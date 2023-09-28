@@ -96,18 +96,20 @@ To add more randomness we can add together three sine waves that have a differen
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-Right click on the open graph and select an **Add** node.  Take the output of the first and second **Sine** nodes and add them together.  Put a second **Add** node next to it with the output of the first one in the **A** side of the second add node.
+Right click on the open graph and select an **Add** node.  Take the output of the first and second **Sine** nodes and add them together.  Put a second **Add** node next to it with the output of the first one in the **A** side of the second add node. This adds up all sine nodes.  Send the final output to the absolute value **Abs** node.
 
 ![place two add nodes](images/firstSum.png)
 
-Connect **Time** to two multiply nodes.
 
-![connect time to multipies](images/connectTime.png)
 
 ![](../images/line2.png)
 
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
+
+Connect **Time** to two multiply nodes.
+
+![connect time to multipies](images/connectTime.png)
 
 Now since we are adding up three sine waves we can get a range from -3 to 3.  So we should divide the result by `3.0`.
 

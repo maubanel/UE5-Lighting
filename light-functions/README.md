@@ -100,16 +100,10 @@ Right click on the open graph and select an **Add** node.  Take the output of th
 
 ![place two add nodes](images/firstSum.png)
 
-
-
 ![](../images/line2.png)
 
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
-
-Connect **Time** to two multiply nodes.
-
-![connect time to multipies](images/connectTime.png)
 
 Now since we are adding up three sine waves we can get a range from -3 to 3.  So we should divide the result by `3.0`.
 
@@ -119,13 +113,19 @@ Now since we are adding up three sine waves we can get a range from -3 to 3.  So
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Add three **Scalar Paremeter** nodes.  Call them `SineSpeed1`, `SineSpeed2` and `SineSpeed3`. Make them a **Default Value** of `3`, `2` and `2.5`.  Make all the **Group**'s `LightFlicker` and set the **Sort Priority** from `0` to `2`.
+Now we should have a more random looking flashing that is a bit more subtle.
 
-![add three scalar parameters](images/addThreeScalarParams.png)
+
+
 
 ![](../images/line2.png)
 
 ##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+
+Add three **Scalar Paremeter** nodes.  Call them `SineSpeed1`, `SineSpeed2` and `SineSpeed3`. Make them a **Default Value** of `3`, `2` and `2.5`.  Make all the **Group**'s `LightFlicker` and set the **Sort Priority** from `0` to `2`.
+
+![add three scalar parameters](images/addThreeScalarParams.png)
+
 
 Add two more scalar parameters. Call the first `SineShift` and set it to `0.5` and plug it into the **B** side of the second **Add** node.  The second is set to `Brightness` with a default value of `10` and sent into the **Multiply | B**. Clean up the nodes and add a comment.
 

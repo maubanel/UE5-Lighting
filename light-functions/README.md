@@ -125,6 +125,9 @@ Add three **Scalar Paremeter** nodes.  Call them `SineSpeed1`, `SineSpeed2` and 
 
 ![add three scalar parameters](images/addThreeScalarParams.png)
 
+![](../images/line2.png)
+
+##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
 Add two more scalar parameters. Call the first `SineShift` and set it to `0.5` and plug it into the **B** side of the second **Add** node.  The second is set to `Brightness` with a default value of `10` and sent into the **Multiply | B**. Clean up the nodes and add a comment.
 
@@ -132,15 +135,11 @@ Add two more scalar parameters. Call the first `SineShift` and set it to `0.5` a
 
 ![](../images/line2.png)
 
-##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
+##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
 Now you can preview what it looks like as we go from the pure sine waves added to adjusting it back to the 0 to 1 zone keeping the values positive. Press the <kbd>Apply</kbd> button.
 
 https://github.com/maubanel/UE5-Lighting/assets/5504953/b27b8a72-b9eb-438d-88fd-e5895c7590f6
-
-![](../images/line2.png)
-
-##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
 Your final node chart should look like this:
 

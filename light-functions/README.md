@@ -96,7 +96,7 @@ To add more randomness we can add together three sine waves that have a differen
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-Right click on the open graph and select an **Add** node.  Take the output of the seconds and third **Sine** nodes and add them together.  Put a second **Add** node next to it with the output of the first one in the **A** side of the second add node. This adds up all sine nodes.  Send the final output to the absolute value **Abs** node.
+Right click on the open graph and select an **Add** node.  Take the output of the seconds and third **Sine** nodes and add them together.  Put a second **Add** node next to it with the output of the first add node in the **B** side of the second add node and the output of the first **Sine** to the **A** side. This adds up all sine nodes.  Send the final output to the absolute value **Abs** node.
 
 ![place two add nodes](images/firstSum.png)
 

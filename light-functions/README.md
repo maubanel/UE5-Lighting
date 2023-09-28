@@ -129,9 +129,9 @@ Add two more scalar parameters. Call the first `SineShift` and set it to `0.5` a
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
-Here is the final material function. Press the <kbd>Apply</kbd> button.
+Now you can preview what it looks like as we go from the pure sine waves added to adjusting it back to the 0 to 1 zone keeping the values positive. Press the <kbd>Apply</kbd> button.
 
-https://user-images.githubusercontent.com/5504953/189475278-d77596d2-cc46-4ab9-bf96-e238fee9a9ba.mp4
+
 
 ![](../images/line2.png)
 

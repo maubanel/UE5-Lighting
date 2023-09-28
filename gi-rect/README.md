@@ -166,6 +166,8 @@ Rename in **Outliner** the first rect light as `StainedGlassWestRectLight` and s
 
 Since this light was on the brighter side I added some **Indirect Lighting Intensity**, and increased the **Intensity** of the light.  Play and look at the reflections and light that these two windows add to the scene.
 
+https://github.com/maubanel/UE5-Lighting/assets/5504953/8ba42ebf-da23-491b-bbcd-be86bc955657
+
 ![](../images/line2.png)
 
 ##### `Step 20.`\|`ITL`| :large_blue_diamond: :large_blue_diamond:

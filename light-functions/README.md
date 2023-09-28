@@ -115,8 +115,7 @@ Now since we are adding up three sine waves we can get a range from -3 to 3.  So
 
 Now we should have a more random looking flashing that is a bit more subtle.
 
-
-
+https://github.com/maubanel/UE5-Lighting/assets/5504953/114b5687-5b89-46e3-b50b-372d36c1dc2b
 
 ![](../images/line2.png)
 

@@ -132,26 +132,20 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/52515353-8e45-4201-8616-
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
-
+ADD VIDEO OF THIS LIGHT ON THE SPHERES
 
 ![](../images/line2.png)
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
+Now we repeat theis for the east side window.  Now in my case the sun is facing from the east so it will be brighter than the west side.  First select **MI_EastStainedGlass** and adjust the **Window Brightness**.
 
+![adjust birghtness of east side stained glass material](images/repeatOtherSide.png)
 
 
 ![](../images/line2.png)
 
 ##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
-
-Now we repeat theis for the east side window.  Now in my case the sun is facing from the east so it will be brighter than the west side.  First select **MI_EastStainedGlass** and adjust the **Window Brightness**.
-
-![adjust birghtness of east side stained glass material](images/repeatOtherSide.png)
-
-![](../images/line2.png)
-
-##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Rename in **Outliner** the first rect light as `RectLightStainedGlass`.  Create a new folder in **Lighting** called `MiddleRoom` and drag this rect light in there.  Copy the first rect light, rotate it 180° and put it in the opposite side window.
 
@@ -159,7 +153,7 @@ Rename in **Outliner** the first rect light as `RectLightStainedGlass`.  Create 
 
 ![](../images/line2.png)
 
-##### `Step 19.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Since this light was on the brighter side I added some **Indirect Lighting Intensity**, and increased the **Intensity** of the light.  Play and look at the reflections and light that these two windows add to the scene.
 
@@ -167,11 +161,17 @@ https://user-images.githubusercontent.com/5504953/189345562-b2096d5c-20a3-48d8-8
 
 ![](../images/line2.png)
 
-##### `Step 20.`\|`ITL`| :large_blue_diamond: :large_blue_diamond:
-
+##### `Step 19.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 Select the **File | Save All** then press the <kbd>Source Control</kbd> button and select **Submit Content**.  If you are prompted, select **Check Out** for all items that are not checked out of source control. Update the **Changelist Description** message and with the latest changes. Make sure all the files are correct and press the <kbd>Submit</kbd> button. A confirmation will pop up on the bottom right with a message about a changelist was submitted with a commit number. Quit Unreal and make sure your **Pending** tab in **P4V** is empty. **Submit** any work that is still in the editor.
 
 ![save all and submit to perforce](images/submitP4.png)
+
+
+![](../images/line2.png)
+
+##### `Step 20.`\|`ITL`| :large_blue_diamond: :large_blue_diamond:
+
+
 
 
 ![](../images/line.png)

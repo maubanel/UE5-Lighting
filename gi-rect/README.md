@@ -174,6 +174,8 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/cf589da4-5c75-4515-92d7-
 
 *Press* the <kbd>Play</kbd> button and look at the middle room and make any adjustements to the stained glass window.
 
+https://github.com/maubanel/UE5-Lighting/assets/5504953/c88bdb41-255e-4840-8eee-057a855487e2
+
 ![](../images/line2.png)
 
 ##### `Step 21.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:

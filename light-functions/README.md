@@ -129,13 +129,21 @@ Add three **Scalar Paremeter** nodes.  Call them `SineSpeed1`, `SineSpeed2` and 
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
-Add two more scalar parameters. Call the first `SineShift` and set it to `0.5` and plug it into the **B** side of the second **Add** node.  The second is set to `Brightness` with a default value of `10` and sent into the **Multiply | B**. Clean up the nodes and add a comment.
+Add another **Mutliply** node at the end so we can scale the amount of emissive coming from the light.
+
+![add three scalar parameters](images/multiplyScalar.png)
+
+![](../images/line2.png)
+
+##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
+
+Lets allow the user to alter the addition shifting the range and the multiplyer, making it brighter. Add two more scalar parameters. Call the first `SineShift` and set it to `0.5` and plug it into the **B** side of the second **Add** node.  The second is set to `Brightness` with a default value of `2.5` and sent into the **Multiply | B**. Clean up the nodes and add a comment. Change the **Group** to `LightFlicker` and set the **Sort Priority** to `3` and `4`
 
 ![add two more scalar parameters](images/addTwoMoreScalars.png)
 
 ![](../images/line2.png)
 
-##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
+##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now you can preview what it looks like as we go from the pure sine waves added to adjusting it back to the 0 to 1 zone keeping the values positive. Press the <kbd>Apply</kbd> button.
 
@@ -148,10 +156,6 @@ Right click on **FL_Flicker** and select **Create Material Instance**.  Call it 
 
 ![create material instance](images/matInstance.png)
 
-
-![](../images/line2.png)
-
-##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Go to the very back room and above the large fire pit add a **Light | Point Light** to the room.  Add it to a new folder called `BackRoom` in the **Lighting** folder. Call the light `BackLight`.
 

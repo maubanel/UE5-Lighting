@@ -131,7 +131,7 @@ Add two more scalar parameters. Call the first `SineShift` and set it to `0.5` a
 
 Now you can preview what it looks like as we go from the pure sine waves added to adjusting it back to the 0 to 1 zone keeping the values positive. Press the <kbd>Apply</kbd> button.
 
-
+https://github.com/maubanel/UE5-Lighting/assets/5504953/b27b8a72-b9eb-438d-88fd-e5895c7590f6
 
 ![](../images/line2.png)
 

@@ -150,6 +150,8 @@ Now we repeat theis for the east side window.  Now in my case the sun is facing 
 
 Copy the first rect light, rotate it 180° and put it in the opposite side window.
 
+https://github.com/maubanel/UE5-Lighting/assets/5504953/0fb2afce-cd61-44c2-ac69-fdc38f02aebd
+
 ![](../images/line2.png)
 
 ##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:

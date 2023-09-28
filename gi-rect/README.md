@@ -144,7 +144,6 @@ Now we repeat theis for the east side window.  Now in my case the sun is facing 
 
 ![adjust birghtness of east side stained glass material](images/repeatOtherSide.png)
 
-
 ![](../images/line2.png)
 
 ##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:

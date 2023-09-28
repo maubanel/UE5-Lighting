@@ -113,7 +113,7 @@ Now since we are adding up three sine waves we can get a range from -3 to 3.  So
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Add three **Scalar Paremeter** nodes.  Call them `SineSpeed1`, `SineSpeed2` and `SineSpeed3`. Make them a **Default Value** of `3`, `2` and `2.5`. 
+Add three **Scalar Paremeter** nodes.  Call them `SineSpeed1`, `SineSpeed2` and `SineSpeed3`. Make them a **Default Value** of `3`, `2` and `2.5`.  Make all the **Group**'s `LightFlicker` and set the **Sort Priority** from `0` to `2`.
 
 ![add three scalar parameters](images/addThreeScalarParams.png)
 

@@ -105,10 +105,9 @@ Connect **Time** to two multiply nodes.
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-Now this gives us a really nice effect.  Lets turn these constants into parameters that we can edit in a light function instance material!
+Now since we are adding up three sine waves we can get a range from -3 to 3.  So we should divide the result by `3.0`.
 
-https://user-images.githubusercontent.com/5504953/189475041-2e5bb478-76c8-43e2-964d-7908fc0b523b.mp4
-
+![connect time to multipies](images/divide3.png)
 
 ![](../images/line2.png)
 

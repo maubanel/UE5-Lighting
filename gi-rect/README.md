@@ -160,13 +160,18 @@ Rename in **Outliner** the first rect light as `RectLightStainedGlass`.  Create 
 
 ![copy rect window for other side](images/copyRotate.png)
 
-Since this light was on the brighter side I added some **Indirect Lighting Intensity**, and increased the **Intensity** of the light.  Play and look at the reflections and light that these two windows add to the scene.
-
-https://user-images.githubusercontent.com/5504953/189345562-b2096d5c-20a3-48d8-88a0-6c1b3b5a26e9.mp4
-
 ![](../images/line2.png)
 
 ##### `Step 19.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Since this light was on the brighter side I added some **Indirect Lighting Intensity**, and increased the **Intensity** of the light.  Play and look at the reflections and light that these two windows add to the scene.
+
+![](../images/line2.png)
+
+##### `Step 20.`\|`ITL`| :large_blue_diamond: :large_blue_diamond:
+
+https://user-images.githubusercontent.com/5504953/189345562-b2096d5c-20a3-48d8-88a0-6c1b3b5a26e9.mp4
+
 Select the **File | Save All** then press the <kbd>Source Control</kbd> button and select **Submit Content**.  If you are prompted, select **Check Out** for all items that are not checked out of source control. Update the **Changelist Description** message and with the latest changes. Make sure all the files are correct and press the <kbd>Submit</kbd> button. A confirmation will pop up on the bottom right with a message about a changelist was submitted with a commit number. Quit Unreal and make sure your **Pending** tab in **P4V** is empty. **Submit** any work that is still in the editor.
 
 ![save all and submit to perforce](images/submitP4.png)
@@ -174,7 +179,7 @@ Select the **File | Save All** then press the <kbd>Source Control</kbd> button a
 
 ![](../images/line2.png)
 
-##### `Step 20.`\|`ITL`| :large_blue_diamond: :large_blue_diamond:
+##### `Step 21.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
 Sometimes not all files get submitted to Unreal especially for files that don't show up in the editor.  It is good practice one you submit in **Unreal** and quit the game to right click on the top most project folder and select **Reconcile Offline Work...**.
 

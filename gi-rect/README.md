@@ -164,7 +164,7 @@ Rename in **Outliner** the first rect light as `StainedGlassWestRectLight` and s
 
 ##### `Step 19.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Since this light was on the brighter side I added some **Indirect Lighting Intensity**, and increased the **Intensity** of the light.  Play and look at the reflections and light that these two windows add to the scene.
+Adjust the brightness of the second rect light.  It should be a lot brighter than the west side. Since this light was on the brighter side I also increased the **Indirect Lighting Intensity**.  This increases how much it affects to surrounding GI.  Play and look at the reflections and light that these two windows add to the scene.
 
 https://github.com/maubanel/UE5-Lighting/assets/5504953/8ba42ebf-da23-491b-bbcd-be86bc955657
 

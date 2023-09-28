@@ -14,7 +14,7 @@ Now we have a back room with no incidental window light and just flames.  So let
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-Lets create a new **Material** in the **Materials** folder.  Click on <kbd>+ Add</kbd> and select a new **Material** and call it `FL_Flicker`. Open up the material and click on the Material node.  Change the **Material Domain** to `Light Function`.  This will turn off all the pins except for emission (as you cannot use any texture effects on the light - just affect the luminance).  
+Lets create a new **Material** in the **Materials | Master** folder.  Click on <kbd>+ Add</kbd> and select a new **Material** and call it `FL_Flicker`. Open up the material and click on the Material node.  Change the **Material Domain** to `Light Function`.  This will turn off all the pins except for emission (as you cannot use any texture effects on the light - just affect the luminance).  
 
 ![hook up multiply to emissive in m_fire](images/flFlickerLightFunction.png)
 

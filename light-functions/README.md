@@ -149,8 +149,18 @@ Now you can preview what it looks like as we go from the pure sine waves added t
 
 https://github.com/maubanel/UE5-Lighting/assets/5504953/b27b8a72-b9eb-438d-88fd-e5895c7590f6
 
-Your final node chart should look like this:
+![](../images/line2.png)
 
+##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Your final node chart should look like the below.  Select all the nodes and press the <kbd>C</kbd> and put a comment box and clean up the node chart.
+
+![add two more scalar parameters](images/finalFlickerWithComments.png)
+
+
+![](../images/line2.png)
+
+##### `Step 19.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Right click on **FL_Flicker** and select **Create Material Instance**.  Call it `MI_FlickerBackRoom`.
 
@@ -161,17 +171,9 @@ Go to the very back room and above the large fire pit add a **Light | Point Ligh
 
 ![add point light to back room](images/pointLightBackRoom.png)
 
-![](../images/line2.png)
-
-##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
 Now match the orange glow coming off of the embers in the large fire pit.  I used the eydropper tool to pick a dark rich orange for the glow (remember the emission multiplier brings it closer to white).
 
 ![make light orange](images/matchOrange.png)
-
-![](../images/line2.png)
-
-##### `Step 19.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Add **MFI_FlickerBackRoom** to the **Light Function Material** slot on the point light.  Change the **Intensity** to a subtle value. Adjust the **Indirect Lighting** value and look around to see how it propagates throughout the dark back hallway.
 

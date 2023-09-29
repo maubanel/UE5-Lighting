@@ -49,21 +49,18 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/c8b957cd-c516-460a-985c-
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
-Lets add a third light to the front of the back hallway by copying a light and bringing it close to the torch.  I cut the **Intensity** in half.
 
-![alt_text](images/thirdLight.png)
 *Press* the <kbd>Play</kbd> button and look in the back room.  I am happy with the hallway but when I approach the corridor, not enough light is coming in from the main room.  Lets fix that.
 
-https://user-images.githubusercontent.com/5504953/189477300-e728dffa-50e1-482a-afb8-ac6455545006.mp4
 
-
-Duplicate the four exposure balls and place them in the back corridor and back hallway.  Name the folders and organize the **Outliner** accordingly.
-
-![duplicate the four exposure balls twice](images/dupeExposureBalls.png)
 
 ![](../images/line2.png)
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
+
+Duplicate the four exposure balls and place them in the back corridor and back hallway.  Name the folders and organize the **Outliner** accordingly.
+
+![duplicate the four exposure balls twice](images/dupeExposureBalls.png)
 
 We will use add a **Light | Rect Light** which we will use to simulate light coming in from the middle room.  Adjust the **Intensity** to exagerate the effect of the light and make sure it is going into the back room (or flip it 180°).
 

@@ -57,17 +57,17 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/bd30b4f9-59a9-4b9c-814f-
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-Duplicate the four exposure balls and place them in the back corridor and back hallway.  Name the folders and organize the **Outliner** accordingly.
+Duplicate the four exposure balls and place them in the west side of the back corridor and end of the back hallway with the two torches.  
 
 ![duplicate the four exposure balls twice](images/dupeExposureBalls.png)
-
-We will use add a **Light | Rect Light** which we will use to simulate light coming in from the middle room.  Adjust the **Intensity** to exagerate the effect of the light and make sure it is going into the back room (or flip it 180°).
-
-![add rect light](images/addRectLight.png)
 
 ![](../images/line2.png)
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+
+We will use add a **Light | Rect Light** which we will use to simulate light coming in from the middle room.  Adjust the **Intensity** to exagerate the effect of the light and make sure it is going into the back room (or flip it 180°).
+
+![add rect light](images/addRectLight.png)
 
 Now adjust the size to match the entrance way.  Ajust the barn doors so that the light comes in softly  and does not cast a hard light.  Bring down the **Intensity** so it is quite subtle.
 

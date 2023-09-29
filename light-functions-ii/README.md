@@ -17,9 +17,7 @@ Lets finish up the back room to create a moody flickering lights.
 
 Add **MFI_FlickerBackRoom** to the **Light Function Material** slot on the point light.  Change the **Intensity** to a subtle value. Adjust the **Indirect Lighting** value and look around to see how it propagates throughout the dark back hallway. Adjust the material variables, especially 
 
-https://user-images.githubusercontent.com/5504953/189475940-771fd6e2-585f-40e3-b741-33ee20ea0900.mp4
-
-
+https://github.com/maubanel/UE5-Lighting/assets/5504953/2f5bdd0c-5ec5-4254-a299-4f939c8c577e
 
 ![](../images/line2.png)
 

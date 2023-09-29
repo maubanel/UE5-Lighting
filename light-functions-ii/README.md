@@ -15,13 +15,23 @@ Lets finish up the back room to create a moody flickering lights.
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-Open up **LFI_FlickerBackRoom** and adjust the parameters to taste.  I brough down the brightness and increased the speed of the flicker. Play the game and look to see how dramatic it is too see the flickering light from the back of the room.
+Add **MFI_FlickerBackRoom** to the **Light Function Material** slot on the point light.  Change the **Intensity** to a subtle value. Adjust the **Indirect Lighting** value and look around to see how it propagates throughout the dark back hallway.
 
-https://user-images.githubusercontent.com/5504953/189476917-5fb33c20-630b-410a-88fd-9232bfe979e8.mp4
+https://user-images.githubusercontent.com/5504953/189475940-771fd6e2-585f-40e3-b741-33ee20ea0900.mp4
+
+
 
 ![](../images/line2.png)
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
+
+Adjust the **Attenuation Radius** so that it fills the entire hallway from wall to wall.  Adjust the **Volumetric Scattering Intensity** for how much this light is picked up by the fog in the air.  Finally adjust **Source Radius** and **Soft Source Radius** to taste.
+
+https://user-images.githubusercontent.com/5504953/189476317-43dba461-6b6c-49f5-9ee8-ae4108ff03d3.mp4
+
+Open up **LFI_FlickerBackRoom** and adjust the parameters to taste.  I brough down the brightness and increased the speed of the flicker. Play the game and look to see how dramatic it is too see the flickering light from the back of the room.
+
+https://user-images.githubusercontent.com/5504953/189476917-5fb33c20-630b-410a-88fd-9232bfe979e8.mp4
 
 Copy the light and bring to the back of the room between the two torches.  This will help make the back of the room a bit more visible and makes it more definable from a distance. Play the game and make adjustments to this light as necessary.
 

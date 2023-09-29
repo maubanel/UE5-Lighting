@@ -43,8 +43,7 @@ Finally adjust **Source Radius** and **Soft Source Radius** to taste. Look at th
 
 Copy the light and bring to the back of the room between the two torches.  This will help make the back of the room a bit more visible and makes it more definable from a distance. Play the game and make adjustments to this light as necessary.
 
-
-
+https://github.com/maubanel/UE5-Lighting/assets/5504953/c8b957cd-c516-460a-985c-f5797b78030d
 
 ![](../images/line2.png)
 

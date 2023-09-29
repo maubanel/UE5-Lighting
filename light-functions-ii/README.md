@@ -15,7 +15,7 @@ Lets finish up the back room to create a moody flickering lights.
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-Add **MFI_FlickerBackRoom** to the **Light Function Material** slot on the point light.  Change the **Intensity** to a subtle value. Adjust the **Indirect Lighting** value and look around to see how it propagates throughout the dark back hallway. Adjust the material variables, especially 
+Add **MFI_FlickerBackRoom** to the **Light Function Material** slot on the point light.  Change the **Intensity** to a subtle value. Adjust the **Indirect Lighting** value and look around to see how it propagates throughout the dark back hallway. Adjust the material variables, especially **SineShift** and **Brightness**.
 
 https://github.com/maubanel/UE5-Lighting/assets/5504953/d5385572-7760-40fb-b075-1d6ff32af829
 
@@ -25,19 +25,17 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/d5385572-7760-40fb-b075-
 
 Adjust the **Attenuation Radius** so that it fills the entire hallway from wall to wall.  Adjust the **Volumetric Scattering Intensity** for how much this light is picked up by the fog in the air.  Finally adjust **Source Radius** and **Soft Source Radius** to taste.
 
-https://user-images.githubusercontent.com/5504953/189476317-43dba461-6b6c-49f5-9ee8-ae4108ff03d3.mp4
+![attenuation radii](images/attRad.png)
 
-Open up **LFI_FlickerBackRoom** and adjust the parameters to taste.  I brough down the brightness and increased the speed of the flicker. Play the game and look to see how dramatic it is too see the flickering light from the back of the room.
 
-https://user-images.githubusercontent.com/5504953/189476917-5fb33c20-630b-410a-88fd-9232bfe979e8.mp4
+![](../images/line2.png)
+
+##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Copy the light and bring to the back of the room between the two torches.  This will help make the back of the room a bit more visible and makes it more definable from a distance. Play the game and make adjustments to this light as necessary.
 
 https://user-images.githubusercontent.com/5504953/189477055-461b8b45-ff85-4091-91f8-4cb067daf043.mp4
 
-![](../images/line2.png)
-
-##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Lets add a third light to the front of the back hallway by copying a light and bringing it close to the torch.  I cut the **Intensity** in half.
 

@@ -166,10 +166,18 @@ Right click on **FL_Flicker** and select **Create Material Instance**.  Call it 
 
 ![create material instance](images/matInstance.png)
 
+![](../images/line2.png)
+
+##### `Step 20.`\|`ITL`| :large_blue_diamond: :large_blue_diamond:
+
 
 Go to the very back room and above the large fire pit add a **Light | Point Light** to the room.  Add it to a new folder called `BackRoom` in the **Lighting** folder. Call the light `BackLight`.
 
 ![add point light to back room](images/pointLightBackRoom.png)
+
+![](../images/line2.png)
+
+##### `Step 21.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
 Now match the orange glow coming off of the embers in the large fire pit.  I used the eydropper tool to pick a dark rich orange for the glow (remember the emission multiplier brings it closer to white).
 
@@ -179,9 +187,6 @@ Add **MFI_FlickerBackRoom** to the **Light Function Material** slot on the point
 
 https://user-images.githubusercontent.com/5504953/189475940-771fd6e2-585f-40e3-b741-33ee20ea0900.mp4
 
-![](../images/line2.png)
-
-##### `Step 20.`\|`ITL`| :large_blue_diamond: :large_blue_diamond:
 
 Adjust the **Attenuation Radius** so that it fills the entire hallway from wall to wall.  Adjust the **Volumetric Scattering Intensity** for how much this light is picked up by the fog in the air.  Finally adjust **Source Radius** and **Soft Source Radius** to taste.
 

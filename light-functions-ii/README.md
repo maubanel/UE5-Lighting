@@ -49,10 +49,9 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/c8b957cd-c516-460a-985c-
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
-
 *Press* the <kbd>Play</kbd> button and look in the back room.  I am happy with the hallway but when I approach the corridor, not enough light is coming in from the main room.  Lets fix that.
 
-
+https://github.com/maubanel/UE5-Lighting/assets/5504953/bd30b4f9-59a9-4b9c-814f-c1fd5f3cf6bc
 
 ![](../images/line2.png)
 

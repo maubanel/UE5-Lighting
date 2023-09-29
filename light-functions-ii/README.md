@@ -81,10 +81,6 @@ Now adjust the **Source Width** and **Source Height** to match the entrance way.
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-*Press* the <kbd>Play</kbd> button and make adjustments so that it is just a subtle light.  We want it to look like light coming in from the hallway.  Now on the other side it is way too dark.
-
-https://user-images.githubusercontent.com/5504953/189477675-3026dfd9-01d9-4880-8040-7804268c5c82.mp4
-
 Duplicate this rect light and bring it to the other door.  Make sure both are stored in a **BackRoom** folder in **Lighting**.  I brought the intensity down as this is the less bright side of the middle room.
 
 ![duplicate rect light](images/dupeAndCopy.png)
@@ -93,18 +89,36 @@ Duplicate this rect light and bring it to the other door.  Make sure both are st
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-*Press* the <kbd>Play</kbd> button and notice the pathway of light we have painted to guide the player.  Nice a subtle and taking advantage of all that Lumen offers us to create realistic dramatic lighting!
+Now I have 4 overlapping lights with the windows and the two doors.  It is too many for Unreal and I am getting a red X.  Adjust the **Attenuation Radius** on the four lights so fewer overlap each other and this should take care of the errors.  Do not more forward with the red X as the light will not work.
 
-https://user-images.githubusercontent.com/5504953/189477858-3d16e4a1-5304-4f40-86ba-a4e09590c539.mp4
+![duplicate rect light](images/noRedX.png)
 
 ![](../images/line2.png)
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
+*Press* the <kbd>Play</kbd> button and make adjustments so that it is just a subtle light.  We want it to look like light coming in from the hallway.  Make it nice a subtle and taking advantage of all that Lumen offers us to create realistic dramatic lighting!
+
+![](../images/line2.png)
+
+
+##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
+
 Select the **File | Save All** then press the <kbd>Source Control</kbd> button and select **Submit Content**.  If you are prompted, select **Check Out** for all items that are not checked out of source control. Update the **Changelist Description** message and with the latest changes. Make sure all the files are correct and press the <kbd>Submit</kbd> button. A confirmation will pop up on the bottom right with a message about a changelist was submitted with a commit number. Quit Unreal and make sure your **Pending** tab in **P4V** is empty. **Submit** any work that is still in the editor.
 
 ![save all and submit to perforce](images/submitP4.png)
 
+![](../images/line2.png)
+
+##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
+
+Sometimes not all files get submitted to Unreal especially for files that don't show up in the editor.  It is good practice one you submit in **Unreal** and quit the game to right click on the top most project folder and select **Reconcile Offline Work...**.
+
+This will either give a message saying ther is nothing to reconcile or bring up a tab.  Make sure that these are **NOT** files in the **Intermediate** and **Saved** folders as these should be ignored from the `.p4ignore`.
+
+If the files are in **Content** or **Configuration** then press the <kbd>Reconcile</kbd> button.  Then submit the changes with a message and press the <kbd>Submit</kbd> button.
+
+![reconcile offline work](images/reconcile.png)
 
 ![](../images/line.png)
 

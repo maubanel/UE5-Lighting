@@ -69,21 +69,22 @@ We will use add a **Light | Rect Light** which we will use to simulate light com
 
 ![add rect light](images/addRectLight.png)
 
-Now adjust the size to match the entrance way.  Ajust the barn doors so that the light comes in softly  and does not cast a hard light.  Bring down the **Intensity** so it is quite subtle.
-
-![adjust light settings](images/adjustSizeIntensity.png)
-
 ![](../images/line2.png)
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-*Press* the <kbd>Play</kbd> button and make adjustments so that it is just a subtle light.  We want it to look like light coming in from the hallway.  Now on the other side it is way too dark.
+Now adjust the size to match the entrance way.  Ajust the barn doors so that the light comes in softly  and does not cast a hard light.  Bring down the **Intensity** so it is quite subtle.
 
-https://user-images.githubusercontent.com/5504953/189477675-3026dfd9-01d9-4880-8040-7804268c5c82.mp4
+![adjust light settings](images/adjustSizeIntensity.png)
+
 
 ![](../images/line2.png)
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+*Press* the <kbd>Play</kbd> button and make adjustments so that it is just a subtle light.  We want it to look like light coming in from the hallway.  Now on the other side it is way too dark.
+
+https://user-images.githubusercontent.com/5504953/189477675-3026dfd9-01d9-4880-8040-7804268c5c82.mp4
 
 Duplicate this rect light and bring it to the other door.  Make sure both are stored in a **BackRoom** folder in **Lighting**.  I brought the intensity down as this is the less bright side of the middle room.
 

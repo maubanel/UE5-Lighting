@@ -88,7 +88,7 @@ https://user-images.githubusercontent.com/5504953/189473330-e3d307d7-a1d6-4d66-a
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-To add more randomness we can add together three sine waves that have a different period.  So lets multiply time by `2.5` adn `2` take an input from **Time** then send them to their own sine nodes (for a total of 3 sine nodes).
+To add more randomness we can add together three sine waves that have a different period.  So lets multiply time by `2.5` and `2` take an input from **Time** then send them to their own sine nodes (for a total of 3 sine nodes).
 
 ![triple the speed of the flicker](images/doubleMultiply.png)
 

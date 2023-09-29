@@ -23,7 +23,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/d5385572-7760-40fb-b075-
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-Adjust the **Attenuation Radius** so that it fills the entire hallway from wall to wall.  Adjust the **Volumetric Scattering Intensity** for how much this light is picked up by the fog in the air.  Finally adjust **Source Radius** and **Soft Source Radius** to taste.
+Adjust the **Attenuation Radius** so that it fills the entire hallway from wall to wall.  Adjust the **Volumetric Scattering Intensity** for how much this light is picked up by the fog in the air.  
 
 ![attenuation radii](images/attRad.png)
 
@@ -31,6 +31,15 @@ Adjust the **Attenuation Radius** so that it fills the entire hallway from wall 
 ![](../images/line2.png)
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Finally adjust **Source Radius** and **Soft Source Radius** to taste. Look at the wall, we shouldn't see the reflection of a point light as there isn't one there in the space.  It is acting as an overall glow reflecting the flames that are not getting picked up by the GI.
+
+![attenuation radii](images/attRadii.png)
+
+
+![](../images/line2.png)
+
+##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Copy the light and bring to the back of the room between the two torches.  This will help make the back of the room a bit more visible and makes it more definable from a distance. Play the game and make adjustments to this light as necessary.
 
@@ -40,11 +49,6 @@ https://user-images.githubusercontent.com/5504953/189477055-461b8b45-ff85-4091-9
 Lets add a third light to the front of the back hallway by copying a light and bringing it close to the torch.  I cut the **Intensity** in half.
 
 ![alt_text](images/thirdLight.png)
-
-![](../images/line2.png)
-
-##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
 *Press* the <kbd>Play</kbd> button and look in the back room.  I am happy with the hallway but when I approach the corridor, not enough light is coming in from the main room.  Lets fix that.
 
 https://user-images.githubusercontent.com/5504953/189477300-e728dffa-50e1-482a-afb8-ac6455545006.mp4

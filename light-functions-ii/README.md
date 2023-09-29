@@ -73,10 +73,9 @@ We will use add a **Light | Rect Light** which we will use to simulate light com
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now adjust the size to match the entrance way.  Ajust the barn doors so that the light comes in softly  and does not cast a hard light.  Bring down the **Intensity** so it is quite subtle.
+Now adjust the **Source Width** and **Source Height** to match the entrance way. Make sure it doesn't go into the door frame too much  Ajust the barn doors so that the light comes in softly  and does not cast a hard light. The barn doors should block most light from falling on the entrance walls as this is not a direct light.  Bring down the **Intensity** so it is quite subtle.
 
 ![adjust light settings](images/adjustSizeIntensity.png)
-
 
 ![](../images/line2.png)
 

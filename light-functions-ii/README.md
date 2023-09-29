@@ -43,8 +43,12 @@ Finally adjust **Source Radius** and **Soft Source Radius** to taste. Look at th
 
 Copy the light and bring to the back of the room between the two torches.  This will help make the back of the room a bit more visible and makes it more definable from a distance. Play the game and make adjustments to this light as necessary.
 
-https://user-images.githubusercontent.com/5504953/189477055-461b8b45-ff85-4091-91f8-4cb067daf043.mp4
 
+
+
+![](../images/line2.png)
+
+##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
 Lets add a third light to the front of the back hallway by copying a light and bringing it close to the torch.  I cut the **Intensity** in half.
 
@@ -53,10 +57,6 @@ Lets add a third light to the front of the back hallway by copying a light and b
 
 https://user-images.githubusercontent.com/5504953/189477300-e728dffa-50e1-482a-afb8-ac6455545006.mp4
 
-
-![](../images/line2.png)
-
-##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
 Duplicate the four exposure balls and place them in the back corridor and back hallway.  Name the folders and organize the **Outliner** accordingly.
 

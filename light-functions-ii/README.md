@@ -99,8 +99,9 @@ Now I have 4 overlapping lights with the windows and the two doors.  It is too m
 
 *Press* the <kbd>Play</kbd> button and make adjustments so that it is just a subtle light.  We want it to look like light coming in from the hallway.  Make it nice a subtle and taking advantage of all that Lumen offers us to create realistic dramatic lighting!
 
-![](../images/line2.png)
+https://github.com/maubanel/UE5-Lighting/assets/5504953/fd5ae784-c688-45e2-aae4-94d97dad665e
 
+![](../images/line2.png)
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 

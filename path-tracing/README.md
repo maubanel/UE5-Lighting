@@ -48,7 +48,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/f5687efb-3258-4dfb-a496-
 
 This is even more evident on the model on the top of the mantle in the very top of the gazebo.  The fallback model popping in is obvious when switching to Path Tracing mode.  Now click on the model and 
 
-![alt_text](images/.png)
+https://github.com/maubanel/UE5-Lighting/assets/5504953/1826b70c-6320-49c8-8ab2-991201691c0c
 
 ![](../images/line2.png)
 

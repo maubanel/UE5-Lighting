@@ -34,6 +34,13 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/b1978849-0ad8-4ee0-bab8-
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+CGI can produce unrealistically sharp edges that a camera can't capture in real life.  The chromatic abberation mimics the issues a lens has between high contrast surfaces (like the edge of the pillar and the bright sky). 
+
+>Chromatic aberration, also known as color fringing, is a color distortion that creates an outline of unwanted color along the edges of objects in a photograph. Often, it appears along metallic surfaces or where there's a high contrast between light and dark objects, such as a black wall in front of a bright blue sky. -Adobe
+
+This is to be used subtly. You shouldn't see it, it should just soften the high contrast lines a git.  For the front room I set **Chromatic Abberation | Intensity** to `.4`.  I set the back room to `.01` as there is little light in the first place.  In the middle room I sent it to `0.3`.  Now play the game and it should be VERY subtle.
+
+
 
 ![](../images/line2.png)
 
@@ -56,13 +63,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/b1978849-0ad8-4ee0-bab8-
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-CGI can produce unrealistically sharp edges that a camera can't capture in real life.  The chromatic abberation mimics the issues a lens has between high contrast surfaces (like the edge of the pillar and the bright sky). 
 
->Chromatic aberration, also known as color fringing, is a color distortion that creates an outline of unwanted color along the edges of objects in a photograph. Often, it appears along metallic surfaces or where there's a high contrast between light and dark objects, such as a black wall in front of a bright blue sky. -Adobe
-
-This is to be used subtly. You shouldn't see it, it should just soften the high contrast lines a git.  For the front room I set **Chromatic Abberation | Intensity** to `.4`.  I set the back room to `.01` as there is little light in the first place.  In the middle room I sent it to `0.3`.  Now play the game and it should be VERY subtle.
-
-https://user-images.githubusercontent.com/5504953/189541048-4dfd5dc5-a4f9-4298-a9cb-2c2a57123f60.mp4
 
 ![](../images/line2.png)
 

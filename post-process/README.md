@@ -3,7 +3,7 @@
 
 ### Post Process Volumes
 
-<sub>[previous](../baked-lighting-ii/README.md#user-content-baked-lighting-ii) • [home](../README.md#user-content-ue4-lighting) • [next](../sky-texture/README.md#user-content-changing-sky-texture)</sub>
+<sub>[previous](../baked-lighting-ii/README.md#user-content-baked-lighting-ii) • [home](../README.md#user-content-ue4-lighting) • [next](../path-tracing/README.md#path-tracing)</sub>
 
 ![](../images/line3.png)
 
@@ -122,5 +122,5 @@ Select the **File | Save All** then press the <kbd>Source Control</kbd> button a
 
 ![](../images/line.png)
 
-| [previous](../baked-lighting-ii/README.md#user-content-baked-lighting-ii)| [home](../README.md#user-content-ue4-lighting) | [next](../sky-texture/README.md#user-content-changing-sky-texture)|
+| [previous](../baked-lighting-ii/README.md#user-content-baked-lighting-ii)| [home](../README.md#user-content-ue4-lighting) | [next](../path-tracing/README.md#path-tracing)|
 |---|---|---|

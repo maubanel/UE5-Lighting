@@ -95,7 +95,9 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/92e25200-f4a0-4bca-ac33-
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
+Even though it is reflecting darkness it is still need of a boost.  I found a setting of `1.5` in **Exposure Compensatino** got the lighting back to where it was bright like day.
 
+![select gpu lightmass](images/adjustExposure.png)
 
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 

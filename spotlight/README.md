@@ -24,9 +24,9 @@ Our scene doesn't contain any artificial lighting so we don't have a natural use
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-Now lets add a **SpotLight**.  This is the final light type that we can use.  It operates like a normal spotlight focusing a light in a forward direction. An spotlight can broadcast a strong light that can be manually focused.
+Change the spot light color to **Orange** and then put the light pointing upwards above the fire pit.  Adjust the brightness of the light.
 
-![add spotlight to scene](images/addSpotlight.png)
+![add spotlight to scene](images/changePositionLight.png)
 
 ![](../images/line2.png)
 

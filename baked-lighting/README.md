@@ -42,13 +42,16 @@ Put all of the 5 lights/sky/effects in a **Lighting** folder in the **Outliner**
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Lets get back to manual exposure.  Go to **Lens | Exposure** and adjust the **Metering Mode** to `Manual`, the **Exposure Compensation** to `1.0` and **Apply Physical Camera Exposure** to `true`.
+Lets add a **Post Process Volume** to the level and set the **Bounds** to **Infinite Extents** to `true`.
 
-![turn on full manual camera](images/manualExposure.png)
+![put 5 lights in lighting folder](images/ppInfinite.png)
 
 ![](../images/line2.png)
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
+Lets get back to manual exposure.  Go to **Lens | Exposure** and adjust the **Metering Mode** to `Manual`, the **Exposure Compensation** to `1.0` and **Apply Physical Camera Exposure** to `true`.
+
+![turn on full manual camera](images/manualExposure.png)
 
 
 https://user-images.githubusercontent.com/5504953/189499355-fc1c7569-8a48-457f-9869-bcc9fa6c2965.mp4

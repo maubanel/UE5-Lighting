@@ -35,7 +35,6 @@ Change the spot light color to **Orange** and then put the light pointing upward
 
 ![add spotlight to scene](images/sizeIntoHallway.png)
 
-
 ![](../images/line2.png)
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:

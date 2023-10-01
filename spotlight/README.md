@@ -40,7 +40,7 @@ Make sure the attenuation radius is large enough the light the back hallway as i
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Rotate the spotlight so it points down on top of the box and broadcasts on the wall.  The **Mobility** to `Stationary`. 
+Now it is not a point light but essentially because of the edges of the bowl the light only goes upwards.  So we can adjust the  
 
 ![add spotlight to scene](images/outerCone.png)
 

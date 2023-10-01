@@ -46,7 +46,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/f5687efb-3258-4dfb-a496-
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-This is even more evident on the model on the top of the mantle in the very top of the gazebo.  The fallback model popping in is obvious when switching to Path Tracing mode.  Now click on the model and 
+This is even more evident on the model on the top of the mantle in the very top of the gazebo.  The fallback model popping in is obvious when switching to Path Tracing mode.  Now click on the model in the game and in the **Details Panel** right click on the model and select **Browse to Asset**.  Open up the model and change the **Fallback Relative Error** to `0.0`.  Press the **Apply** button.  This will minimize the degradation that takes place but will take minutes to render.  Please do not leave these settings as they are **NOT** appropriate for a game, so undo these changes when you have finished path rendering. 
 
 https://github.com/maubanel/UE5-Lighting/assets/5504953/1826b70c-6320-49c8-8ab2-991201691c0c
 

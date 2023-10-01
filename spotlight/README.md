@@ -50,6 +50,7 @@ Now it is not a point light but essentially because of the edges of the bowl the
 
 Add a `FLI_FlickerBackRoom` to the **Light FunctionMaterial** of the spot light.  Make adjustments to your liking.  Then play the game and jump on the flames to see what the light is doing.
 
+https://github.com/maubanel/UE5-Lighting/assets/5504953/082e44d7-779d-4530-a2a7-398bcbfc4fdc
 
 ![](../images/line2.png)
 

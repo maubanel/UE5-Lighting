@@ -16,7 +16,7 @@ Lets look at the final type of light that we have not used yet.  It is the [spot
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-Open back up the original **UnlitLevel**. Our scene doesn't contain any artificial lighting so we don't have a natural use for a spot light.  We do have one point light in the back room that can be replaced with a spotlight.  It is a lot more efficient to use that a point light and allows you to direct the lighting to where you need it. Delete the point light above the fireplace as we will use the spot light instead.
+Our scene doesn't contain any artificial lighting so we don't have a natural use for a spot light.  We do have one point light in the back room that can be replaced with a spotlight.  It is a lot more efficient to use that a point light and allows you to direct the lighting to where you need it. Delete the point light above the fireplace as we will use the spot light instead.
 
 ![alt_text](images/addSpotlight.png)
 
@@ -56,7 +56,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/082e44d7-779d-4530-a2a7-
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-Now lets add a **Cube** to the back wall in the middle room.
+Open back up the original **UnlitLevel**. Lets add a **Cube** to the back wall in the middle room.
 
 ![add spotlight to scene](images/AddCube.png)
 

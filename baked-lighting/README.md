@@ -154,13 +154,17 @@ Add a **Point Light** and place it just above the fire pit.
 
 ##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Select the **Directional Light** and press and hold the <kbd>Cntrl L</kbd> buttons and move the mouse to get the sun to cast shadow onto the gazebo.
+Now adjust the color to be orange like the fire glow and the intensity to light the rear room.  Make the 
 
-![adjust sun direction](images/adjustSunlight.png)
+![alt_text](images/adjustValuesOfLight.png)
 
 ![](../images/line2.png)
 
 ##### `Step 19.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Select the **Directional Light** and press and hold the <kbd>Cntrl L</kbd> buttons and move the mouse to get the sun to cast shadow onto the gazebo.
+
+![adjust sun direction](images/adjustSunlight.png)
 
 Now in we see that we have shaows in the scene. If there is a message saying to re-bake lights go back to the **GPU LightMass** and rebuild the lighting again.
 

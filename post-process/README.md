@@ -95,6 +95,7 @@ This value is read in `cm`.  So we will set the gazebo post process volume's **F
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Now play the game and tune to your taste (many games have no depth of field). 
 
 
 ![](../images/line2.png)
@@ -121,9 +122,7 @@ This value is read in `cm`.  So we will set the gazebo post process volume's **F
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Now play the game and tune to your taste (many games have no depth of field). 
 
-https://user-images.githubusercontent.com/5504953/189552212-64ff8bd3-82f6-4875-961c-8e6ec0933610.mp4
 
 ![](../images/line2.png)
 

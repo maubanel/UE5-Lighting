@@ -21,7 +21,7 @@ Lets look at lighting a scene in **UE5**. Lighting is what really makes games go
 <kbd></kbd> &nbsp;&nbsp; [Light Functions](light-functions/README.md#user-content-light-functions) <br>
 <kbd></kbd> &nbsp;&nbsp; [Light Functions II](light-functions-ii/README.md#user-content-light-functions-ii) <br>
 <kbd></kbd> &nbsp;&nbsp; [Baked Lighting](baked-lighting/README.md#user-content-baked-lighting) <br>
-<kbd></kbd> &nbsp;&nbsp; [Baked Lighting II](baked-lighting-ii/README.md#user-content-baked-lighting-ii) <br>
+<kbd></kbd> &nbsp;&nbsp; [Spot Light](spotlight/README.md#user-content-baked-lighting-ii) <br>
 <kbd></kbd> &nbsp;&nbsp; [Post Process Volumes](post-process/README.md#user-content-post-process-volumes) <br>
 <kbd></kbd> &nbsp;&nbsp; [HDRI Skies & Customize Clouds](sky-texture/README.md#user-content-hdri-skies--customize-clouds) <br>
 <kbd></kbd> &nbsp;&nbsp; [HDRI Skies & Customize Clouds II](sky-texture-ii/README.md#user-content-hdri-skies--customize-clouds-ii) <br>

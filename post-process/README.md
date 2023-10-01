@@ -72,7 +72,11 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/54db02ab-6e52-499c-a910-
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
+We can also add some lens flare to the back room as the flames would be quite hot in a dark room and cause some lens flares. 
 
+>A lens flare happens when light is scattered or flared in a lens system, often in response to a bright light, producing a sometimes undesirable artifact in the image.  - [Wikipedia](https://en.wikipedia.org/wiki/Lens_flare)
+
+I took the intensity way down to `0.12` in the front room, `0.1` in the middle room and `0` in the back room. Run the game and tune to your liking.
 
 ![](../images/line2.png)
 
@@ -90,9 +94,6 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/54db02ab-6e52-499c-a910-
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-Now press the <kbd>Play</kbd> button.  Make any changes you see fit, this should be subtle.
-
-https://user-images.githubusercontent.com/5504953/189541971-36db3dcd-2f11-4569-b98e-f8675990ba9c.mp4
 
 ![alt_text](images/.png)
 
@@ -100,13 +101,8 @@ https://user-images.githubusercontent.com/5504953/189541971-36db3dcd-2f11-4569-b
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-We can also add some lens flare to the back room as the flames would be quite hot in a dark room and cause some lens flares. 
 
->A lens flare happens when light is scattered or flared in a lens system, often in response to a bright light, producing a sometimes undesirable artifact in the image.  - [Wikipedia](https://en.wikipedia.org/wiki/Lens_flare)
 
-I took the intensity way down to `0.12` in the front room, `0.1` in the middle room and `0` in the back room. Run the game and tune to your liking.
-
-https://user-images.githubusercontent.com/5504953/189545081-d77e6dd9-09e2-445c-b463-a7fb8794cd36.mp4
 
 ![](../images/line2.png)
 

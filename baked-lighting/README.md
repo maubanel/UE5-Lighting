@@ -108,6 +108,8 @@ Add a **Sphere Reflection Volume**.
 
 This is a much lower cost solution to using Lumen to do this at runtime.
 
+![play game no reflections](images/sphereReflection.png)
+
 ![](../images/line2.png)
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
@@ -136,7 +138,7 @@ Now our static meshes do not have dynamic lights but the lighting has been baked
 
 
 
-![play game no reflections](images/sphereReflection.png)
+
 
 ![](../images/line2.png)
 

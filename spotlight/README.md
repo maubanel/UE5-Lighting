@@ -56,14 +56,9 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/082e44d7-779d-4530-a2a7-
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
->Lights that have their Mobility set to Stationary are lights that are intended to stay in one position, but are able to change in other ways, such as their brightness and color. This is the primary way they differ from Static Lights, which cannot change in any way during gameplay.<br><br>Of the three light mobilities to choose from, Stationary lights have the highest quality, medium mutability, and medium performance cost.<br><br>Stationary Lights use both dynamic and static lighting to achieve its result, with indirect lighting and shadowing being stored within lightmaps for the Level. Direct shadows are stored within shadow maps. These lights make use of Distance Field Shadows, meaning that their shadows can remain crisp even with fairly low lightmap resolutions on lit objects.
+Now lets add a **Cube** to the back wall in the middle room.
 
-This coment about highest quality is for when you are lighting with lumen turned off. To get the highest quality with lumen, we want the lights to be marked as movable.
-
-Adjust the **Intensity** so you can see the light fall on the wall and the cube. The direciotnal light has an **Outer Cone Angle** and **Inner Code Angle**.  The inner cone is the focused sharp edged part of the light with minimal falloff and the outer cone is soft and falls off to the edges.  This represents a focasble lens spot like you would see in the theater.
-
-
-
+![add spotlight to scene](images/AddCube.png)
 
 ![](../images/line2.png)
 

@@ -86,7 +86,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/9908a65f-af47-49f7-8162-
 
 > The focal length of the lens is the distance between the lens and the image sensor when the subject is in focus - Nikon
 
-This value is read in `cm`.  So we will set the gazebo post process volume's **Focal Distance** to `300` (300cm or 3m or ~10 feet).  The scene will be in crisp focus up to 10 feet.  For the middle room it is set at `250` and the rear at `100` (or 1 meter). 
+This value is read in `cm`.  So we will set the gazebo post process volume's **Focal Distance** to `300` (300cm or 3m or ~10 feet).  The scene will be in crisp focus up to 10 feet.  For the middle room it is set at `250` and the rear at `70` (or 1 meter). 
 
 ![depth of field](images/focalDistance.png)
 

@@ -65,6 +65,10 @@ Lets get back to having no auto iris.  Go to **Lens | Exposure** and adjust the 
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Open up **Edit | Plugins** and select the **GPU Lightmass** plugin.  Accept the warning message and press the <kbd>Restart Now</kbd> button. It will take time to rebuild all the shaders.
+
+![add gpu lightmass plugin](images/gpuLightMassPlugin.png)
+
 ![](../images/line2.png)
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
@@ -82,9 +86,7 @@ Lets get back to having no auto iris.  Go to **Lens | Exposure** and adjust the 
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-Open up **Edit | Plugins** and select the **GPU Lightmass** plugin.  Accept the warning message and press the <kbd>Restart Now</kbd> button. It will take time to rebuild all the shaders.
 
-![add gpu lightmass plugin](images/gpuLightMassPlugin.png)
 
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 

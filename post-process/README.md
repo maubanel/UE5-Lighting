@@ -18,41 +18,30 @@ We have used the Post Production Volume to adjust the overall settings.  We can 
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-Now lets turn the auto exposure back on and make some final tweaks first. We turned off auto iris to adjust lights, but now we can turn it back on and make some tweaks.  Go to the **Global Post Process Volume** anad change the **Metering Mode** to `Auto Exposure Histogram`.  Turn off **Apply Physical Camera Exposure** and adjust the **Exposure Compenstation** to taste.
+Add another **Post Process Volume** and add it to the **Lighting Folder | Back Room** and call it `PostProcessVolumeBackRoom` and scale the **X,Y,Z** in the **Brush Settings** to encompass the entire back hallway and overlap a little bit into the middle room. The overlapping volumes will fade between the two effect volumes. This way we will not make it affect the entire level.  We will do some seperate processing for this back hallway.
 
-https://user-images.githubusercontent.com/5504953/189538749-1158bdb7-9b95-4ddf-bf92-f2348ebfe44c.mp4
+![add post process volume to back room](images/PPVolumeBack.png)
 
 ![](../images/line2.png)
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-Now since I used real EV values, open up **Advanced** and adjust the **HistogramMinEV100**.  I set mine to `4.25`.  Look at the gray balls both in the middle room and outdoors and see if it works for you?
-
-![adjust historgram min ev](images/realEV.png)
 
 ![](../images/line2.png)
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now move the **Player Start** actor back to the front room. Play the game and look at the light change.  I find the iris moves back and forth too quickly, lets adjust this.
-
-https://user-images.githubusercontent.com/5504953/189539630-44b7844a-9a8f-4ba5-9487-3c18841c1bf0.mp4
 
 ![](../images/line2.png)
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Change the **Speed Up** to `5.0` and the **Speed Down to `3.0`.  Play and see the change is more gradual.
-
-https://user-images.githubusercontent.com/5504953/189539639-fccda67d-a038-4729-ba8c-b0a7b78bdc40.mp4
 
 ![](../images/line2.png)
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
-Add another **Post Process Volume** and add it to the **Lighting Folder | Back Room** and call it `PostProcessVolumeBackRoom` and scale the **X,Y,Z** in the **Brush Settings** to encompass the entire back hallway and overlap a little bit into the middle room. The overlapping volumes will fade between the two effect volumes. This way we will not make it affect the entire level.  We will do some seperate processing for this back hallway.
 
-![add post process volume to back room](images/PPVolumeBack.png)
 
 ![](../images/line2.png)
 

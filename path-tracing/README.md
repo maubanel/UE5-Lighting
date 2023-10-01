@@ -64,7 +64,9 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/47ad667e-418a-455a-9169-
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+You need to adjust the lighting and exposure as the resulst can be different, in this one case very dramatic.  Try it for a few more screenshots.
+
+![alt_text](images/differentSettings.png)
 
 ![](../images/line2.png)
 

@@ -154,7 +154,7 @@ Add a **Point Light** and place it just above the fire pit.
 
 ##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now adjust the color to be orange like the fire glow and the intensity to light the rear room.  Make the 
+Now adjust the color to be orange like the fire glow and the intensity to light the rear room.  Make sure the **Attenuation Radius** covers the entire back room and some of the hallway.
 
 ![alt_text](images/adjustValuesOfLight.png)
 
@@ -166,18 +166,19 @@ Select the **Directional Light** and press and hold the <kbd>Cntrl L</kbd> butto
 
 ![adjust sun direction](images/adjustSunlight.png)
 
-Now in we see that we have shaows in the scene. If there is a message saying to re-bake lights go back to the **GPU LightMass** and rebuild the lighting again.
-
-https://user-images.githubusercontent.com/5504953/189500913-d49cf52d-a63f-4f40-9602-ea54fda42c40.mp4
-
 ![](../images/line2.png)
 
 ##### `Step 20.`\|`ITL`| :large_blue_diamond: :large_blue_diamond:
 
-Now lets go in the backroom and adjust the **PostProcessVolume | Lens | Exposure** and make it darker to make the effect a bit greater.
+Now in we see that we have shaows in the scene. If there is a message saying to re-bake lights go back to the **GPU LightMass** and rebuild the lighting again.
 
-![make back room dark](images/goInBackRoom.png)
+![adjust sun direction](images/secondBake.png)
 
+![](../images/line2.png)
+
+##### `Step 21.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
+
+Play the game and make any adjustements to the exposure.  Now I can see in the backroom and the baked reflections look a lot better.
 
 ![](../images/line.png)
 

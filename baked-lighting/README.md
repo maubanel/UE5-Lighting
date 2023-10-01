@@ -73,6 +73,10 @@ Open up **Edit | Plugins** and select the **GPU Lightmass** plugin.  Accept the 
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Now the **Build** menu has a **GPU Lightmass** selection.  Now selct the GPU Lightmass. 
+
+![select gpu lightmass](images/gpuLightmass.png)
+
 ![](../images/line2.png)
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
@@ -91,9 +95,7 @@ Open up **Edit | Plugins** and select the **GPU Lightmass** plugin.  Accept the 
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-Now the **Build** menu has a **GPU Lightmass** selection.  Now selct the GPU Lightmass. 
 
-![select gpu lightmass](images/gpuLightmass.png)
 
 ![](../images/line2.png)
 

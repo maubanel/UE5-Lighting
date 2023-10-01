@@ -82,6 +82,11 @@ I took the intensity way down to `0.01` in the front room, `0.02` in the middle 
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+> The focal length of the lens is the distance between the lens and the image sensor when the subject is in focus - Nikon
+
+This value is read in `cm`.  So we will set the gazebo post process volume's **Focal Distance** to `300` (300cm or 3m or ~10 feet).  The scene will be in crisp focus up to 10 feet.  For the middle room it is set at `250` and the rear at `100` (or 1 meter). 
+
+![depth of field](images/focalDistance.png)
 
 
 ![](../images/line2.png)
@@ -109,11 +114,6 @@ I took the intensity way down to `0.01` in the front room, `0.02` in the middle 
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-> The focal length of the lens is the distance between the lens and the image sensor when the subject is in focus - Nikon
-
-This value is read in `cm`.  So we will set the gazebo post process volume's **Focal Distance** to `300` (300cm or 3m or ~10 feet).  The scene will be in crisp focus up to 10 feet.  For the middle room it is set at `250` and the rear at `100` (or 1 meter). 
-
-![depth of field](images/focalDistance.png)
 
 ![](../images/line2.png)
 

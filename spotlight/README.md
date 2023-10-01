@@ -92,6 +92,8 @@ Now we can replicate a specific type/brand of light using **ies** profiles.  A s
 
 >The Illuminating Engineering Society (IES) has defined a file format which describes a light's distribution from a light source using real world measured data. These IES Photometric files, or IES Profiles, are a lighting industry standard method of diagramming the brightness and falloff of light as it exists a particular real world light fixture. It enables them to account for reflective surfaces in the light fixture, the shape of the light bulb, and any lensing effects that happens. - [Unreal Manual](https://docs.unrealengine.com/5.0/en-US/using-ies-light-profiles-in-unreal-engine/).
 
+Go through the different profiles that Unreal comes with and choose one you like!
+
 https://github.com/maubanel/UE5-Lighting/assets/5504953/13cc865d-3f56-4703-8dab-9ba024d00bd4
 
 ![](../images/line2.png)

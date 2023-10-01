@@ -32,6 +32,14 @@ Change the spot light color to **Orange** and then put the light pointing upward
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+
+![add spotlight to scene](images/sizeIntoHallway.png)
+
+
+![](../images/line2.png)
+
+##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
 Rotate the spotlight so it points down on top of the box and broadcasts on the wall.  The **Mobility** to `Stationary`. 
 
 >Lights that have their Mobility set to Stationary are lights that are intended to stay in one position, but are able to change in other ways, such as their brightness and color. This is the primary way they differ from Static Lights, which cannot change in any way during gameplay.<br><br>Of the three light mobilities to choose from, Stationary lights have the highest quality, medium mutability, and medium performance cost.<br><br>Stationary Lights use both dynamic and static lighting to achieve its result, with indirect lighting and shadowing being stored within lightmaps for the Level. Direct shadows are stored within shadow maps. These lights make use of Distance Field Shadows, meaning that their shadows can remain crisp even with fairly low lightmap resolutions on lit objects.
@@ -43,10 +51,6 @@ Adjust the **Intensity** so you can see the light fall on the wall and the cube.
 You **Soft Source Radius** is the size of the light source (size of the bulb). 
 
 https://user-images.githubusercontent.com/5504953/189501441-5661ed14-e387-4d05-b65c-aab48fd1d041.mp4
-
-![](../images/line2.png)
-
-##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Select **Build | GPU Lightmass** to bring up the light builder.  Turn off **Viewport Realtime** to speed up the light baking.  Press the <kbd>Build Lighting</kbd> button.
 

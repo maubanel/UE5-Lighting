@@ -102,13 +102,19 @@ Even though it is reflecting darkness it is still need of a boost.  I found a se
 
 ##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
+Add a **Sphere Reflection Volume**.
 
+>Reflection Capture Actors are probes that can be placed around the world to capture a static image of the area they cover. This reflection method reprojects the captured cubemap onto surrounding reflective materials. It is a low-cost method of reflections with no runtime performance cost. - [Unreal Manual](https://docs.unrealengine.com/5.0/en-US/reflections-captures-in-unreal-engine/). 
+
+This is a much lower cost solution to using Lumen to do this at runtime.
 
 ![](../images/line2.png)
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
+Now select **Build | Build Reflection Captures** and you should see the black replaced with nice reflections.
 
+![build reflection capture](images/buildCaptures.png)
 
 ![](../images/line2.png)
 
@@ -128,11 +134,7 @@ Now our static meshes do not have dynamic lights but the lighting has been baked
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-Add a **Sphere Reflection Volume**.
 
->Reflection Capture Actors are probes that can be placed around the world to capture a static image of the area they cover. This reflection method reprojects the captured cubemap onto surrounding reflective materials. It is a low-cost method of reflections with no runtime performance cost. - [Unreal Manual](https://docs.unrealengine.com/5.0/en-US/reflections-captures-in-unreal-engine/). 
-
-This is a much lower cost solution to using Lumen to do this at runtime.
 
 ![play game no reflections](images/sphereReflection.png)
 
@@ -140,9 +142,7 @@ This is a much lower cost solution to using Lumen to do this at runtime.
 
 ##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now select **Build | Build Reflection Captures** and you should see the black replaced with nice reflections.
 
-![build reflection capture](images/buildReflectoins.png)
 
 ![](../images/line2.png)
 

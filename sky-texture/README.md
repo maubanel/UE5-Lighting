@@ -15,18 +15,16 @@ Lets look at customizing clouds as the default clouds don't have much customizat
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-Now the last thing we will look at are the volumetric clouds..  Lets go to **Edit | Plugins** and add the **Volumetrics** plugin and restart the engine to load the plugin.
+Now lets add a more advanced material with more elements to control.  Go to **Materials | Supplied** and drag and drop `MI_VolumetricCloud` into the **Volumetric Cloud Instance | Cloud Material | Material** slot.
 
-![add volumetrics plugin](images/Volumetrics.png)
+![create material instance of M_SimpleVolumetricCloud_Inst](images/addAdvanceVCmat.png)
 
 
 ![](../images/line2.png)
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-Now lets add a more advanced material with more elements to control.  
 
-![create material instance of M_SimpleVolumetricCloud_Inst](images/addAdvanceVCmat.png)
 ![](../images/line2.png)
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:

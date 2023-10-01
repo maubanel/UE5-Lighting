@@ -81,7 +81,9 @@ Now the **Build** menu has a **GPU Lightmass** selection.  Now selct the GPU Lig
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+First we need to turn off **Viewport Realtime** to get the maximum speed for the bake. Then press the **Build Lighting** button. I got a warning saying the lightmap uv's need updating. I pressed the <kbd>Yes</kbd> button.  Be patient this might take a while. Its got to take every texture and bake the lighting into it.  It is no longer dynamic and will be fixed and not moved or animate. All the shadowing in the level will be essentially static and baked.
 
+![select gpu lightmass](images/buildLighting.png)
 
 ![](../images/line2.png)
 
@@ -101,9 +103,7 @@ Now the **Build** menu has a **GPU Lightmass** selection.  Now selct the GPU Lig
 
 ##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-First we need to turn off **Viewport Realtime** to get the maximum speed for the bake. Then press the **Build Lighting** button. 
 
-https://user-images.githubusercontent.com/5504953/189500520-d2b52fea-94d8-491f-aade-0e687ffa175f.mp4
 
 ![](../images/line2.png)
 

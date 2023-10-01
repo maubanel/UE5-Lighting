@@ -97,6 +97,7 @@ This value is read in `cm`.  So we will set the gazebo post process volume's **F
 
 Now play the game and tune to your taste (many games have no depth of field). 
 
+https://github.com/maubanel/UE5-Lighting/assets/5504953/23ec7029-2c71-486b-8c94-c89675ffa78a
 
 ![](../images/line2.png)
 

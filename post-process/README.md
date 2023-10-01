@@ -106,7 +106,6 @@ You can grade the game to the exact look your want.  There is a whole color grad
 
 https://github.com/maubanel/UE5-Lighting/assets/5504953/c5d2eb00-3b56-4a09-8007-da3803376131
 
-![alt_text](images/.png)
 
 ![](../images/line2.png)
 

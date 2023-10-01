@@ -100,6 +100,8 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/13cc865d-3f56-4703-8dab-
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
+Rename the light in the fire pit as `BackMiddleFirePit` and put it in the **BackRoom** folder.  Create a new folder called **IES Profiles**.  Put the spotlight on top of the cube there and call it `IES Narrow Complex` (or whichever profile you chose).
+
 ![import three files into UE5](images/nameFiles.png)
 
 ![](../images/line2.png)

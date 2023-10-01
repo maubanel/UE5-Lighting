@@ -64,7 +64,7 @@ Open back up the original **UnlitLevel**. Lets add a **Cube** to the back wall i
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![add spotlight to scene](images/addSpotlight.png)
+![add spotlight to scene](images/addSpotlight2.png)
 
 Create a folder called **IESProfiles**.  Drag the three profiles you downloaded from the internet into this new folder.  You will see a thumbnail of the shape of the light.
 

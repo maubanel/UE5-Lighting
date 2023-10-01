@@ -116,48 +116,6 @@ Select the **File | Save All** then press the <kbd>Source Control</kbd> button a
 
 ![save all and submit to perforce](images/p4Submit.png)
 
-
-![](../images/line2.png)
-
-
-##### `Step 12.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
-
-
-![](../images/line2.png)
-
-##### `Step 13.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
-
-
-
-![](../images/line2.png)
-
-##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
-
-
-
-![](../images/line2.png)
-
-##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
-
-
-![](../images/line2.png)
-
-##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
-
-
-
-
-![](../images/line2.png)
-
-##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
-
-
-
-![](../images/line2.png)
-
-##### `Step 18.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-
 ![](../images/line.png)
 
 <!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Path Tracing"> -->

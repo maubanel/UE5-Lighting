@@ -122,23 +122,25 @@ Now select **Build | Build Reflection Captures** and you should see the black re
 
 ##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Now our static meshes do not have dynamic lights but the lighting has been baked into the textures. Go back to the **Post Processing Volume** and make any needed changes to **Exposure**.
+Depending on whether you have a ray tracing card you will notice improvements in the reflections.
 
-![alt_text](images/readjustExposure.png)
+![alt_text](images/reflectionsBuilt.png)
 
 ![](../images/line2.png)
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
+Now add another sphere reflection capture volume to the back room.  Make it large enough to cover this and the mid room as well.
 
+![alt_text](images/sphereCaptureBackRoom.png)
 
 ![](../images/line2.png)
 
 ##### `Step 16.`\|`ITL`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
+Once again select **Build | Build Reflection Captures** and bake in the reflections for the back room. Notice the room go very dark.
 
-
-
+![alt_text](images/BuildReflectionsAgain.png)
 
 ![](../images/line2.png)
 

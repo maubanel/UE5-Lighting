@@ -54,6 +54,8 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/1826b70c-6320-49c8-8ab2-
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
+Now change from **Lit** to **Path Tracing** and let it render.  In this case I increased the depth of field and tilted the model to accentuare the render.
+
 ![alt_text](images/.png)
 
 ![](../images/line2.png)

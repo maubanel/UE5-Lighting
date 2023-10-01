@@ -58,7 +58,7 @@ Crank up the **Dirt Mask Intensity** to `500`.  You can see the dusk mask textur
 
 We want a pretty subtle effect especially when we change the color. So on the **Gazebo** we will make it `10.0`, back room we will exagerate it to `20.0` and make it subtler in the middle room at `11.0`. Play the game and check the results.  It should be **VERY** subtle.
 
-![dirt mask settings](images/dirtMaskSettings.png)
+
 
 ![](../images/line2.png)
 

@@ -91,7 +91,7 @@ First we need to turn off **Viewport Realtime** to get the maximum speed for the
 
 Play game and notice all reflective surfaces are dark.  We have Lumen turned off so it is no longer being used for reflections and we need something to build static reflections.
 
-
+https://github.com/maubanel/UE5-Lighting/assets/5504953/92e25200-f4a0-4bca-ac33-dbed26ceacb6
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 

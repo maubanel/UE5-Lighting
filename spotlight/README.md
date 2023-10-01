@@ -88,15 +88,13 @@ Look at the **Details** panel for the spotlight added and look for **IES Profile
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-Now we can replicate a specific type/brand of light using **ies** profiles.  A site like [ies library](https://ieslibrary.com) has light profiles availabel to us.  This affects how light comes out of bulb.  If it is used on a Rect or point light, it turns them into spot lights.
+Now we can replicate a specific type/brand of light using **ies** profiles.  A site like [ies library](https://ieslibrary.com) has light profiles availabel to us.  This affects how light comes out of bulb.  If it is used on a Rect or point light, it turns them into spot lights. Many manufacturers of lights release these profiles.
 
 >The Illuminating Engineering Society (IES) has defined a file format which describes a light's distribution from a light source using real world measured data. These IES Photometric files, or IES Profiles, are a lighting industry standard method of diagramming the brightness and falloff of light as it exists a particular real world light fixture. It enables them to account for reflective surfaces in the light fixture, the shape of the light bulb, and any lensing effects that happens. - [Unreal Manual](https://docs.unrealengine.com/5.0/en-US/using-ies-light-profiles-in-unreal-engine/). 
 
-Google and download three free ies profiles.
+![](../images/line2.png)
 
-![ies profiles in UE5](images/iesLights.png)
-
-Make a copy of the spot light and move it over.  Change between the IES profiles and look at how the light changes to match the real life light pattern shown on the web.
+##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
 https://user-images.githubusercontent.com/5504953/189501986-00161166-4255-4821-9543-536ab98ca7ff.mp4
 

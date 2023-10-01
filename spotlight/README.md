@@ -1,6 +1,6 @@
 ![](../images/line3.png)
 
-### Baked Lighting II
+### Spotlight
 
 <sub>[previous](../baked-lighting/README.md#user-content-baked-lighting) • [home](../README.md#user-content-ue5-lighting) • [next](../post-process/README.md#user-content-post-process-volumes)</sub>
 

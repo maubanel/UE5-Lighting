@@ -28,7 +28,7 @@ Add another **Post Process Volume** and add it to the **Lighting Folder | Back R
 
 Duplicate the back room post process volume and slide it to the middle room.  Ajust it so there is a good overlap between the two volumes (it will average them).  Adjust the size so it fits the room.  Now duplicate this and bring it to the Gazebo.  It is a lot taller so make sure it covers the entire volume. Move the middle volume to the **MiddleRoom** rolder and rename the volume to `PostProcessVolumeMiddleRoom`. Move the gazebo volume to the **Gazebo** rolder and rename the volume to `PostProcessVolumeGazebo`.
 
-https://user-images.githubusercontent.com/5504953/189540271-c17f883a-6399-4a55-be8e-5cf4310179ac.mp4
+
 
 ![](../images/line2.png)
 

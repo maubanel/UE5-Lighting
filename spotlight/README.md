@@ -72,15 +72,21 @@ Add a Spot Light and put it above the box pointing down.
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Adjust the **Inner Cone Angle** and **Outer Cone Angle**.  You see that the inner light is more focused and the outer light is more diffused.  This is what a stage light with a lense would look like. You can also change the color and intensity of the light.
+
 https://github.com/maubanel/UE5-Lighting/assets/5504953/a0e642f0-fd46-4964-8775-884fcfe077a6
 
 ![](../images/line2.png)
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Create a folder called **IESProfiles**.  Drag the three profiles you downloaded from the internet into this new folder.  You will see a thumbnail of the shape of the light.
+Look at the **Details** panel for the spotlight added and look for **IES Profiles**.  Click the gear and set **Show Engine Content** to `true`.
 
 ![import three files into UE5](images/threeIESProfiles.png)
+
+![](../images/line2.png)
+
+##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
 Now we can replicate a specific type/brand of light using **ies** profiles.  A site like [ies library](https://ieslibrary.com) has light profiles availabel to us.  This affects how light comes out of bulb.  If it is used on a Rect or point light, it turns them into spot lights.
 

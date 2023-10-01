@@ -44,7 +44,7 @@ Put all of the 5 lights/sky/effects in a **Lighting** folder in the **Outliner**
 
 Lets add a **Post Process Volume** to the level and set the **Bounds** to **Infinite Extents** to `true`.
 
-![put 5 lights in lighting folder](images/ppInfinite.png)
+![put 5 lights in lighting folder](images/ppvInfinite.png)
 
 ![](../images/line2.png)
 

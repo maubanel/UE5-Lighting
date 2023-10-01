@@ -49,53 +49,37 @@ Lets add a **Post Process Volume** to the level and set the  **Infinite Extent (
 ![](../images/line2.png)
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
-Lets get back to manual exposure.  Go to **Lens | Exposure** and adjust the **Metering Mode** to `Manual`, the **Exposure Compensation** to `1.0` and **Apply Physical Camera Exposure** to `true`.
+Lets get back to having no auto iris.  Go to **Lens | Exposure** and adjust the **Min EV** and **Max Ev** to `0.0`.  Then adjust **Exposure Compensation** to taste.
 
 ![turn on full manual camera](images/manualExposure.png)
-
-
-https://user-images.githubusercontent.com/5504953/189499355-fc1c7569-8a48-457f-9869-bcc9fa6c2965.mp4
 
 ![](../images/line2.png)
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
 
+**DO NOT DO THIS**.  This is the old way of baking lights that is slow and uses the CPU.  Unreal has implemented a more effective way, but we need to activate a **Plugin**.
+
+![do not build lights](images/oldBuiildLighting.png)
 
 ![](../images/line2.png)
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Set the **Directional Light** and **SkyLight** to `Static`.
-
-
-https://user-images.githubusercontent.com/5504953/189499629-d88a146c-213b-4e2a-8fb4-15b43085c5d9.mp4
-
-
 ![](../images/line2.png)
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-The scene is still dark so go select the **Directional Light** and adjust the **Intensity** until you can see the sky properly.
-
-![adjust directional light intensity](images/daylightDRValue.png)
 
 ![](../images/line2.png)
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Reasess the exposure in the post production volume. 
-
-https://user-images.githubusercontent.com/5504953/189499754-857b6440-cab5-4bc8-b0e8-262b027d39ba.mp4
 
 
 ![](../images/line2.png)
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-**DO NOT DO THIS**.  This is the old way of baking lights that is slow and uses the CPU.  Unreal has implemented a more effective way, but we need to activate a **Plugin**.
-
-![do not build lights](images/oldBuiildLighting.png)
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 

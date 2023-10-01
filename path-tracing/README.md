@@ -40,6 +40,8 @@ Frame up a shop and change the rendered from **Lit** to `Path Tracing`. Notice t
 
 Lets make our first attempt at path tracing.  Switch from **Ligt** to `Path Tracing` and you will notice that it is going to the fallback model as nanites are *not* supported in this mode.
 
+https://github.com/maubanel/UE5-Lighting/assets/5504953/f5687efb-3258-4dfb-a496-126968e36afc
+
 ![](../images/line2.png)
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:

@@ -58,7 +58,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/082e44d7-779d-4530-a2a7-
 
 Open back up the original **UnlitLevel**. Lets add a **Cube** to the back wall in the middle room.
 
-![add spotlight to scene](images/AddCube.png)
+![add spotlight to scene](images/addCube.png)
 
 ![](../images/line2.png)
 

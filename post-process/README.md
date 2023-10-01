@@ -76,7 +76,7 @@ We can also add some lens flare to the back room as the flames would be quite ho
 
 >A lens flare happens when light is scattered or flared in a lens system, often in response to a bright light, producing a sometimes undesirable artifact in the image.  - [Wikipedia](https://en.wikipedia.org/wiki/Lens_flare)
 
-I took the intensity way down to `0.12` in the front room, `0.1` in the middle room and `0` in the back room. Run the game and tune to your liking.
+I took the intensity way down to `0.01` in the front room, `0.02` in the middle room and `0.0` in the back room. Run the game and tune to your liking.
 
 ![](../images/line2.png)
 

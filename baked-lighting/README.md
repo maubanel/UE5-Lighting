@@ -146,6 +146,8 @@ Once again select **Build | Build Reflection Captures** and bake in the reflecti
 
 ##### `Step 17.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Add a **Point Light** into the fire pit.
+
 ![alt_text](images/addLight.png)
 
 ![](../images/line2.png)

@@ -2,7 +2,7 @@
 
 ### Path Tracing
 
-<sub>[previous](../) • [home](../README.md#user-content-ue5-lighting) • [next](../)</sub>
+<sub>[previous](../post-process/README.md#post-process-volumes) • [home](../README.md#user-content-ue5-lighting) • [next](../sky-texture/README.md#customize-clouds)</sub>
 
 ![](../images/line3.png)
 
@@ -157,5 +157,5 @@ Look at the dramatic difference on the statues at the top of the gazebo!
 
 ![](../images/line.png)
 
-| [previous](../)| [home](../README.md#user-content-ue5-lighting) | [next](../)|
+| [previous](../post-process/README.md#post-process-volumes)| [home](../README.md#user-content-ue5-lighting) | [next](../sky-texture/README.md#customize-clouds)|
 |---|---|---|

@@ -1,12 +1,12 @@
 ![](../images/line3.png)
 
-### HDRI Skies & Customize Clouds 
+### Customize Clouds 
 
 <sub>[previous](../post-process/README.md#user-content-post-process-volumes) • [home](../README.md#user-content-ue4-lighting)</sub>
 
 ![](../images/line3.png)
 
-We will look at using an HDRI image to create the lighting the environment which is good for portfolio pieces.  We will also look at customizing clouds as the default clouds don't have much customization at first glance. Lets start by creating another level that uses the exposure in the post production volume to chnage the exposure in each room.
+Lets look at customizing clouds as the default clouds don't have much customization at first glance. We have a more advanced cloud material that has more parameters to edit.
 
 <br>
 

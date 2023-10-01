@@ -102,7 +102,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/23ec7029-2c71-486b-8c94-
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
-You can grade the game to the exact look your want.  There is a whole color grading section. I am adjusting the **Color Grade | Global | Contrast** on the rear room as an example where I want the dark and flames to have a bit higher contrast.  Run and tune to taste, and make any other color correction changes to the other rooms.
+You can grade the game to the exact look your want.  There is a whole color grading section. I am adjusting the **Color Grade | Global | Contrast** on the rear room as an example where I want the dark and flames to have a bit higher contrast.  I also just tweak the color balance and add some orange to the grade. Run and tune to taste, and make any other color correction changes to the other rooms. I like a slightly increased contrast across the board.
 
 
 ![alt_text](images/.png)

@@ -78,6 +78,8 @@ We can also add some lens flare to the back room as the flames would be quite ho
 
 I took the intensity way down to `0.01` in the front room, `0.02` in the middle room and `0.0` in the back room. Run the game and tune to your liking.
 
+https://github.com/maubanel/UE5-Lighting/assets/5504953/9908a65f-af47-49f7-8162-1661cc514d9c
+
 ![](../images/line2.png)
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:

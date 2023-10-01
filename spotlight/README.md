@@ -100,7 +100,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/13cc865d-3f56-4703-8dab-
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
-nameFiles
+![import three files into UE5](images/nameFiles.png)
 
 ![](../images/line2.png)
 

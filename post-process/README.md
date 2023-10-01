@@ -46,7 +46,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/5f1ade13-ccb3-4454-b8b6-
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now lets add a bit of dirt to the lens to enhance the effect in this back dark area. This texture comes with **Engine Content** so you need to view this by clicking the **Settings** gear and selecting **Show Engine Content**. Select the **Engine** folder and filter for `T_ScreenDirt002`. Copy `T_ScreenDirt002` to your **Textures | Supplied** folder. 
+Now lets add a bit of dirt to the lens to enhance the effect in this back dark area. This texture comes with **Engine Content** so you need to view this by clicking the **Settings** gear and selecting **Show Engine Content**. Select the **Engine** folder and filter for `T_ScreenDirt002`. Add `T_ScreenDirt002` to your **Dirt Map Texture** in all of your post volumes (gazebo, middle and back). 
 
 ![copy dirt mask](images/copyTexture.png)
 

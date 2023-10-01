@@ -24,7 +24,7 @@ Now lets add a more advanced material with more elements to control.  Go to **Ma
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-Open up the material to get to the wind vector. If you go up above and change the **R** and **G** to `0`.  Then set each **R**, **G**, **B** an de**A** to `10`.  Notice that **R** and **G** affect the horizontal axis.  A positive number goes one direction on the axis and a negative another direction.  The **B** value makes the clouds move in **Z** up and down.  **A** appears to do nothing.
+Open up the material to get to the wind vector. If you go up above and change the **R** and **G** to `0`.  Then set each **R**, **G**, **B** to a vlue you like.  Notice that **R** and **G** affect the horizontal axis.  A positive number goes one direction on the axis and a negative another direction.  The **B** value makes the clouds move in **Z** up and down.  **A** appears to do nothing. I am happy making the clouds move in the same direction as the sun is focusing for some symmetry.
 
 https://github.com/maubanel/UE5-Lighting/assets/5504953/8ec537ea-6b66-4c3b-8aae-72bc1155a8d4
 

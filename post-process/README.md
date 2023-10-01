@@ -56,7 +56,7 @@ Now lets add a bit of dirt to the lens to enhance the effect in this back dark a
 
 Crank up the **Dirt Mask Intensity** to `500`.  You can see the dusk mask texture and see that it just adds what looks like dirt and some lens abberations to this part of the scene. 
 
-We want a pretty subtle effect especially when we change the color. So on the **Gazebo** we will make it `10.0`, back room we will exagerate it to `20.0` and make it subtler in the middle room at `11.0`. Play the game and check the results.  It should be **VERY** subtle.
+We want a pretty subtle effect especially when we change the color. So on the **Gazebo** we will make it `10.0`, back room we will exagerate it to `20.0` and make it subtler in the middle room at `11.0`. 
 
 https://github.com/maubanel/UE5-Lighting/assets/5504953/65d69870-acbb-4e15-b16c-c7e71444c584
 
@@ -64,7 +64,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/65d69870-acbb-4e15-b16c-
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-
+Play the game and check the results.  It should be **VERY** subtle.
 
 ![](../images/line2.png)
 

@@ -2,7 +2,7 @@
 
 ### Customize Clouds 
 
-<sub>[previous](../post-process/README.md#user-content-post-process-volumes) • [home](../README.md#user-content-ue4-lighting)</sub>
+<sub>[previous](../path-tracing/README.md#path-tracing) • [home](../README.md#user-content-ue4-lighting)</sub>
 
 ![](../images/line3.png)
 
@@ -68,5 +68,5 @@ If the files are in **Content** or **Configuration** then press the <kbd>Reconci
 
 ![](../images/line.png)
 
-| [previous](../post-process/README.md#user-content-post-process-volumes)| [home](../README.md#user-content-ue4-lighting) | 
+| [previous](../path-tracing/README.md#path-tracing)| [home](../README.md#user-content-ue4-lighting) | 
 |---|---|

@@ -40,7 +40,7 @@ CGI can produce unrealistically sharp edges that a camera can't capture in real 
 
 This is to be used subtly. You shouldn't see it, it should just soften the high contrast lines a git.  For the front room I set **Chromatic Abberation | Intensity** to `.4`.  I set the back room to `.01` as there is little light in the first place.  In the middle room I sent it to `0.3`.  Now play the game and it should be VERY subtle.
 
-
+https://github.com/maubanel/UE5-Lighting/assets/5504953/5f1ade13-ccb3-4454-b8b6-08c7a80792b6
 
 ![](../images/line2.png)
 

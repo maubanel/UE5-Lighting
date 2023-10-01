@@ -21,9 +21,10 @@ Lets load up a level that has no nanites in it.  Double click on **Maps | UnlitL
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-It is bright, as we are not in manual exposure. Drop in a **Visual Effect | Post Process Volume**.
+Go to **Window | Env Light Meter** and click on the <kbd>Create Sky Light</kbd>, <kbd>Create Atmospheric Light 0</kbd>, <kbd>Create Sky Atmosphere</kbd>, kbd>Create Volumetric Cloud</kbd> and <kbd>Create Height Fog</kbd>. 
 
-![add post process volume](images/addPostProcessVolume.png)
+![add 5 lights](images/dragLightingInRoom.png)
+
 
 ![](../images/line2.png)
 
@@ -45,9 +46,6 @@ Lets get back to manual exposure.  Go to **Lens | Exposure** and adjust the **Me
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
-Go to **Window | Env Light Meter** and click on the <kbd>Create Sky Light</kbd>, <kbd>Create Atmospheric Light 0</kbd>, <kbd>Create Sky Atmosphere</kbd>, kbd>Create Volumetric Cloud</kbd> and <kbd>Create Height Fog</kbd>. 
-
-![add 5 lights](images/dragLightingInRoom.png)
 
 https://user-images.githubusercontent.com/5504953/189499355-fc1c7569-8a48-457f-9869-bcc9fa6c2965.mp4
 

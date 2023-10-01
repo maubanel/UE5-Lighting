@@ -23,24 +23,22 @@ For portfolio pieces you can also use a higher resolution renderer that is not r
 
 You cannot play in this mode, but it makes for great portfolio renders!
 
-![path tracing](images/litPath.png)
+![path tracing](images/litPath2.png)
 
 
 ![](../images/line2.png)
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-Try the path trace renderer in a few laces. It doesn't work great on the bright windows and dynamic moody lighting effects.
+Frame up a shop and change the rendered from **Lit** to `Path Tracing`. Notice that it is very pixelated and there is a progress bar at the bottom.  It takes a long time to render (minutes not seconds).
 
-https://user-images.githubusercontent.com/5504953/189554147-00dc3775-987c-4416-b667-fc16a184b55d.mp4
+![path tracing](images/FrameUp.png)
 
 ![](../images/line2.png)
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Look at the dramatic difference on the statues at the top of the gazebo!
-
-![path tracing on statue](images/litPath2.png)
+Lets make our first attempt at path tracing.  Switch from **Ligt** to `Path Tracing` and you will notice that it is going to the fallback model as nanites are *not* supported in this mode.
 
 ![](../images/line2.png)
 

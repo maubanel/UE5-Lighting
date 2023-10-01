@@ -1,6 +1,6 @@
 ![](../images/line3.png)
 
-### Add Title
+### Path Tracing
 
 <sub>[previous](../) • [home](../README.md#user-content-ue5-lighting) • [next](../)</sub>
 

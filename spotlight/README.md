@@ -16,7 +16,7 @@ Lets look at the final type of light that we have not used yet.  It is the [spot
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-Open back up the original **UnlitLevel**. Our scene doesn't contain any artificial lighting so we don't have a natural use for a spot light.  We do have one point light in the back room that can be replaced with a spotlight.  It is a lot more efficient to use that a point light and allows you to direct the lighting to where you need it.
+Open back up the original **UnlitLevel**. Our scene doesn't contain any artificial lighting so we don't have a natural use for a spot light.  We do have one point light in the back room that can be replaced with a spotlight.  It is a lot more efficient to use that a point light and allows you to direct the lighting to where you need it. Delete the point light above the fireplace as we will use the spot light instead.
 
 ![alt_text](images/addSpotlight.png)
 

@@ -32,6 +32,7 @@ Change the spot light color to **Orange** and then put the light pointing upward
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Make sure the attenuation radius is large enough the light the back hallway as it is very dark.  I adjusted the size to extend just past the hallway.
 
 ![add spotlight to scene](images/sizeIntoHallway.png)
 
@@ -40,6 +41,12 @@ Change the spot light color to **Orange** and then put the light pointing upward
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Rotate the spotlight so it points down on top of the box and broadcasts on the wall.  The **Mobility** to `Stationary`. 
+
+![add spotlight to scene](images/outerCone.png)
+
+![](../images/line2.png)
+
+##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
 >Lights that have their Mobility set to Stationary are lights that are intended to stay in one position, but are able to change in other ways, such as their brightness and color. This is the primary way they differ from Static Lights, which cannot change in any way during gameplay.<br><br>Of the three light mobilities to choose from, Stationary lights have the highest quality, medium mutability, and medium performance cost.<br><br>Stationary Lights use both dynamic and static lighting to achieve its result, with indirect lighting and shadowing being stored within lightmaps for the Level. Direct shadows are stored within shadow maps. These lights make use of Distance Field Shadows, meaning that their shadows can remain crisp even with fairly low lightmap resolutions on lit objects.
 
@@ -54,10 +61,6 @@ https://user-images.githubusercontent.com/5504953/189501441-5661ed14-e387-4d05-b
 Select **Build | GPU Lightmass** to bring up the light builder.  Turn off **Viewport Realtime** to speed up the light baking.  Press the <kbd>Build Lighting</kbd> button.
 
 https://user-images.githubusercontent.com/5504953/189501556-69ac3267-431d-4753-90f3-3f221bb65619.mp4
-
-![](../images/line2.png)
-
-##### `Step 5.`\|`ITL`| :small_orange_diamond:
 
 Now if you move the light, notice the light doesn't move, it is baked into the wall and the cube.  The light baking puts it permanently in the textures and doesn't change during gameplay. The lights only bake on objects marked as static or stationary.  If they are marked as movable they do not get added to the light baking.  This is only for objects that are not meant to move during gameplay.
 

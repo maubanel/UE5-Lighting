@@ -40,13 +40,20 @@ Make sure the attenuation radius is large enough the light the back hallway as i
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now it is not a point light but essentially because of the edges of the bowl the light only goes upwards.  So we can adjust the outer cone angle to `90`°.
+Now it is not a point light but essentially because of the edges of the bowl the light only goes upwards.  So we can adjust the outer cone angle to `90.0`°.
 
 ![add spotlight to scene](images/outerCone.png)
 
 ![](../images/line2.png)
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
+
+Add a `FLI_FlickerBackRoom` to the **Light FunctionMaterial** of the spot light.  Make adjustments to your liking.  Then play the game and jump on the flames to see what the light is doing.
+
+
+![](../images/line2.png)
+
+##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
 >Lights that have their Mobility set to Stationary are lights that are intended to stay in one position, but are able to change in other ways, such as their brightness and color. This is the primary way they differ from Static Lights, which cannot change in any way during gameplay.<br><br>Of the three light mobilities to choose from, Stationary lights have the highest quality, medium mutability, and medium performance cost.<br><br>Stationary Lights use both dynamic and static lighting to achieve its result, with indirect lighting and shadowing being stored within lightmaps for the Level. Direct shadows are stored within shadow maps. These lights make use of Distance Field Shadows, meaning that their shadows can remain crisp even with fairly low lightmap resolutions on lit objects.
 
@@ -65,10 +72,6 @@ https://user-images.githubusercontent.com/5504953/189501556-69ac3267-431d-4753-9
 Now if you move the light, notice the light doesn't move, it is baked into the wall and the cube.  The light baking puts it permanently in the textures and doesn't change during gameplay. The lights only bake on objects marked as static or stationary.  If they are marked as movable they do not get added to the light baking.  This is only for objects that are not meant to move during gameplay.
 
 https://user-images.githubusercontent.com/5504953/189501595-3d4f85b0-17da-453d-bb53-9c8882207bfd.mp4
-
-![](../images/line2.png)
-
-##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
 Now we can replicate a specific type/brand of light using **ies** profiles.  A site like [ies library](https://ieslibrary.com) has light profiles availabel to us.  This affects how light comes out of bulb.  If it is used on a Rect or point light, it turns them into spot lights.
 

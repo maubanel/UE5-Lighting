@@ -21,7 +21,7 @@ Lets load up a level that has no nanites in it.  Double click on **Maps | UnlitL
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-Go to **Window | Env Light Meter** and click on the <kbd>Create Sky Light</kbd>, <kbd>Create Atmospheric Light 0</kbd>, <kbd>Create Sky Atmosphere</kbd>, <kbd>Create Volumetric Cloud</kbd> and <kbd>Create Height Fog</kbd>. 
+Go to **Window | Env Light Meter** and click on the <kbd>Create Sky Light</kbd>, <kbd>Create Atmospheric Light</kbd>, <kbd>Create Sky Atmosphere</kbd>, <kbd>Create Volumetric Cloud</kbd> and <kbd>Create Height Fog</kbd>. 
 
 ![add 5 lights](images/dragLightingInRoom.png)
 
@@ -30,9 +30,11 @@ Go to **Window | Env Light Meter** and click on the <kbd>Create Sky Light</kbd>,
 
 ##### `Step 3.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-We want it to effect the entire level so set the **Infinite Extent (Unbound)** to `true`. This way all our changes will affect the entire level.
+>Lights that have their Mobility set to Static are lights that cannot be changed or moved in any way during runtime. They are precomputed using Lightmass when a lighting built is performed. Static Lights store their data in textures called Lightmaps that are applied to geometry in the Level. Once the lighting build is complete, these lights have no further impact on performance.<br><br>Static Meshes with their Mobility set to Movable and Skeletal Meshes do not integrate (or blend) fully with Static Lighting. However, when a light build takes place, lighting data is stored in Volumetric Lightmaps or the Indirect Lighting Cache to assist in lighting and grounding these movable objects within a statically lit area.<br><br>Of the three light mobilities, Static Lights tend to have medium quality, lowest mutability, and the lowest performance cost. [Unreal Manual](https://docs.unrealengine.com/5.0/en-US/static-light-mobility-in-unreal-engine/)
 
-![set unbound](images/unbound.png)
+Put all of the 5 lights/sky/effects in a **Lighting** folder in the **Outliner**.
+
+![put 5 lights in lighting folder](images/lightingFolder.png)
 
 ![](../images/line2.png)
 
@@ -53,9 +55,7 @@ https://user-images.githubusercontent.com/5504953/189499355-fc1c7569-8a48-457f-9
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
 
-Put all of the 5 lights/sky/effects in a **Lighting** folder in the **Outliner**.
 
-![put 5 lights in lighting folder](images/lightingFolder.png)
 
 ![](../images/line2.png)
 
@@ -63,7 +63,6 @@ Put all of the 5 lights/sky/effects in a **Lighting** folder in the **Outliner**
 
 Set the **Directional Light** and **SkyLight** to `Static`.
 
->Lights that have their Mobility set to Static are lights that cannot be changed or moved in any way during runtime. They are precomputed using Lightmass when a lighting built is performed. Static Lights store their data in textures called Lightmaps that are applied to geometry in the Level. Once the lighting build is complete, these lights have no further impact on performance.<br><br>Static Meshes with their Mobility set to Movable and Skeletal Meshes do not integrate (or blend) fully with Static Lighting. However, when a light build takes place, lighting data is stored in Volumetric Lightmaps or the Indirect Lighting Cache to assist in lighting and grounding these movable objects within a statically lit area.<br><br>Of the three light mobilities, Static Lights tend to have medium quality, lowest mutability, and the lowest performance cost. [Unreal Manual](https://docs.unrealengine.com/5.0/en-US/static-light-mobility-in-unreal-engine/)
 
 https://user-images.githubusercontent.com/5504953/189499629-d88a146c-213b-4e2a-8fb4-15b43085c5d9.mp4
 

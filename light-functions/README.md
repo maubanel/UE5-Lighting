@@ -2,7 +2,7 @@
 
 ### Light Functions
 
-<sub>[previous](../point-lights/README.md#user-content-point-lights) • [home](../README.md#user-content-ue4-lighting) • [next](../light-functions-ii/README.md#user-content-light-functions-ii)</sub>
+<sub>[previous](../gi-rect/README.md#global-illumination--rect-light) • [home](../README.md#user-content-ue4-lighting) • [next](../light-functions-ii/README.md#user-content-light-functions-ii)</sub>
 
 ![](../images/line3.png)
 
@@ -188,5 +188,5 @@ Now match the orange glow coming off of the embers in the large fire pit.  I use
 
 ![](../images/line.png)
 
-| [previous](../point-lights/README.md#user-content-point-lights)| [home](../README.md#user-content-ue4-lighting) | [next](../light-functions-ii/README.md#user-content-light-functions-ii)|
+| [previous](../gi-rect/README.md#global-illumination--rect-light)| [home](../README.md#user-content-ue4-lighting) | [next](../light-functions-ii/README.md#user-content-light-functions-ii)|
 |---|---|---|

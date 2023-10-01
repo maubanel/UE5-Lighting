@@ -178,7 +178,7 @@ Now in we see that we have shaows in the scene. If there is a message saying to 
 
 ##### `Step 21.`\|`ITL`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
-Play the game and make any adjustements to the exposure.  Now I can see in the backroom and the baked reflections look a lot better.\
+Play the game and make any adjustements to the exposure.  Now I can see in the backroom and the baked reflections look a lot better.
 
 https://github.com/maubanel/UE5-Lighting/assets/5504953/c71e4aee-7f8f-45d9-85d4-e7f37f7a3b2f
 

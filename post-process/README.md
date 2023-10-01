@@ -66,6 +66,8 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/65d69870-acbb-4e15-b16c-
 
 Play the game and check the results.  It should be **VERY** subtle.
 
+https://github.com/maubanel/UE5-Lighting/assets/5504953/54db02ab-6e52-499c-a910-856a444efa55
+
 ![](../images/line2.png)
 
 ##### `Step 7.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:

@@ -90,7 +90,6 @@ This value is read in `cm`.  So we will set the gazebo post process volume's **F
 
 ![depth of field](images/focalDistance.png)
 
-
 ![](../images/line2.png)
 
 ##### `Step 9.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
@@ -102,6 +101,8 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/23ec7029-2c71-486b-8c94-
 ![](../images/line2.png)
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
+
+You can grade the game to the exact look your want.  There is a whole color grading section. I am adjusting the **Color Grade | Global | Contrast** on the rear room as an example where I want the dark and flames to have a bit higher contrast.  Run and tune to taste, and make any other color correction changes to the other rooms.
 
 
 ![alt_text](images/.png)
@@ -129,9 +130,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/23ec7029-2c71-486b-8c94-
 
 ##### `Step 14.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-You can grade the game to the exact look your want.  There is a whole color grading section. I am adjusting the **Color Grade | Global | Contrast** on the rear room as an example where I want the dark and flames to have a bit higher contrast.  Run and tune to taste, and make any other color correction changes to the other rooms.
 
-https://user-images.githubusercontent.com/5504953/189552303-93f43582-6c96-430e-9fcf-dceee36d5f58.mp4
 
 ![](../images/line2.png)
 

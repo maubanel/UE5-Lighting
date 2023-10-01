@@ -49,14 +49,13 @@ Lets add a **Post Process Volume** to the level and set the  **Infinite Extent (
 ![](../images/line2.png)
 
 ##### `Step 5.`\|`ITL`| :small_orange_diamond:
-Lets get back to having no auto iris.  Go to **Lens | Exposure** and adjust the **Min EV** and **Max Ev** to `0.0`.  Then adjust **Exposure Compensation** to taste.
+Lets get back to having no auto iris.  Go to **Lens | Exposure** and adjust the **Min EV 100** and **Max Ev 100** to `0.0`.  Then adjust **Exposure Compensation** to taste.
 
 ![turn on full manual camera](images/manualExposure.png)
 
 ![](../images/line2.png)
 
 ##### `Step 6.`\|`ITL`| :small_orange_diamond: :small_blue_diamond:
-
 
 **DO NOT DO THIS**.  This is the old way of baking lights that is slow and uses the CPU.  Unreal has implemented a more effective way, but we need to activate a **Plugin**.
 

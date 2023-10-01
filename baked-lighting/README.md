@@ -184,7 +184,7 @@ https://github.com/maubanel/UE5-Lighting/assets/5504953/c71e4aee-7f8f-45d9-85d4-
 
 ![](../images/line.png)
 
-<!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Baked Lighting II"> -->
+<!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Spot Light"> -->
 ![next up next tile](images/banner.png)
 
 ![](../images/line.png)

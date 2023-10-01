@@ -72,9 +72,7 @@ Add a Spot Light and put it above the box pointing down.
 
 ##### `Step 8.`\|`ITL`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-
-
-
+https://github.com/maubanel/UE5-Lighting/assets/5504953/a0e642f0-fd46-4964-8775-884fcfe077a6
 
 ![](../images/line2.png)
 

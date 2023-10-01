@@ -12,19 +12,19 @@ Lets look at lighting a scene in **UE5**. Lighting is what really makes games go
 
 <!-- TOC -->
 ## Table of Contents
-<kbd></kbd> &nbsp;&nbsp; [Setting Up](setting-up/README.md#user-content-setting-up) <br>
-<kbd></kbd> &nbsp;&nbsp; [Directional Light & Exposure](directional/README.md#user-content-directional-light--exposure) <br>
-<kbd></kbd> &nbsp;&nbsp; [Sky & Fog](sky-fog/README.md#user-content-sky--fog) <br>
-<kbd></kbd> &nbsp;&nbsp; [SkyLight](skylight/README.md#user-content-skylight) <br>
-<kbd></kbd> &nbsp;&nbsp; [Point Lights](point-lights/README.md#user-content-point-lights) <br>
-<kbd></kbd> &nbsp;&nbsp; [Global Illumination & Rect Light](gi-rect/README.md#user-content-global-illumination--rect-light) <br>
-<kbd></kbd> &nbsp;&nbsp; [Light Functions](light-functions/README.md#user-content-light-functions) <br>
-<kbd></kbd> &nbsp;&nbsp; [Light Functions II](light-functions-ii/README.md#user-content-light-functions-ii) <br>
-<kbd></kbd> &nbsp;&nbsp; [Baked Lighting](baked-lighting/README.md#user-content-baked-lighting) <br>
-<kbd></kbd> &nbsp;&nbsp; [Spotlight](spotlight/README.md#user-content-spotlight) <br>
-<kbd></kbd> &nbsp;&nbsp; [Post Process Volumes](post-process/README.md#user-content-post-process-volumes) <br>
-<kbd></kbd> &nbsp;&nbsp; [HDRI Skies & Customize Clouds](sky-texture/README.md#user-content-hdri-skies--customize-clouds) <br>
-<kbd></kbd> &nbsp;&nbsp; [HDRI Skies & Customize Clouds II](sky-texture-ii/README.md#user-content-hdri-skies--customize-clouds-ii) <br>
+<kbd></kbd> &nbsp;&nbsp; [Setting Up](setting-up/README.md#-setting-up) <br>
+<kbd></kbd> &nbsp;&nbsp; [Directional Light & Exposure](directional/README.md#-directional-light--exposure) <br>
+<kbd></kbd> &nbsp;&nbsp; [Sky & Fog](sky-fog/README.md#-sky--fog) <br>
+<kbd></kbd> &nbsp;&nbsp; [SkyLight](skylight/README.md#-skylight) <br>
+<kbd></kbd> &nbsp;&nbsp; [Point Lights](point-lights/README.md#-point-lights) <br>
+<kbd></kbd> &nbsp;&nbsp; [Global Illumination & Rect Light](gi-rect/README.md#-global-illumination--rect-light) <br>
+<kbd></kbd> &nbsp;&nbsp; [Light Functions](light-functions/README.md#-light-functions) <br>
+<kbd></kbd> &nbsp;&nbsp; [Light Functions II](light-functions-ii/README.md#-light-functions-ii) <br>
+<kbd></kbd> &nbsp;&nbsp; [Baked Lighting](baked-lighting/README.md#-baked-lighting) <br>
+<kbd></kbd> &nbsp;&nbsp; [Spotlight](spotlight/README.md#-spotlight) <br>
+<kbd></kbd> &nbsp;&nbsp; [Post Process Volumes](post-process/README.md#-post-process-volumes) <br>
+<kbd></kbd> &nbsp;&nbsp; [HDRI Skies & Customize Clouds](sky-texture/README.md#-hdri-skies--customize-clouds) <br>
+<kbd></kbd> &nbsp;&nbsp; [HDRI Skies & Customize Clouds II](sky-texture-ii/README.md#-hdri-skies--customize-clouds-ii) <br>
 
 <!-- LICENSE -->
 ## License

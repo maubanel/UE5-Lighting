@@ -89,6 +89,9 @@ First we need to turn off **Viewport Realtime** to get the maximum speed for the
 
 ##### `Step 10.`\|`ITL`| :large_blue_diamond:
 
+Play game and notice all reflective surfaces are dark.  We have Lumen turned off so it is no longer being used for reflections and we need something to build static reflections.
+
+
 
 ##### `Step 11.`\|`ITL`| :large_blue_diamond: :small_blue_diamond: 
 
@@ -117,9 +120,7 @@ Now our static meshes do not have dynamic lights but the lighting has been baked
 
 ##### `Step 15.`\|`ITL`| :large_blue_diamond: :small_orange_diamond: 
 
-Play game and notice all reflective surfaces are black.  We have Lumen turned off so it is no longer being used for reflections.
 
-https://user-images.githubusercontent.com/5504953/189500693-b1eca194-9cf7-4d33-b41b-dca70051625e.mp4
 
 ![](../images/line2.png)
 

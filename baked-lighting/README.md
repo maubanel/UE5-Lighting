@@ -42,7 +42,7 @@ Put all of the 5 lights/sky/effects in a **Lighting** folder in the **Outliner**
 
 ##### `Step 4.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Lets add a **Post Process Volume** to the level and set the  **Infinite Extent (Unbound)** to `true`.
+Lets add a **Post Process Volume** to the level and set the  **Infinite Extent (Unbound)** to `true`. This way the volume affects the entire level.
 
 ![put 5 lights in lighting folder](images/ppvInfinite.png)
 

@@ -21,7 +21,7 @@ Lets load up a level that has no nanites in it.  Double click on **Maps | UnlitL
 
 ##### `Step 2.`\|`ITL`|:small_blue_diamond: :small_blue_diamond: 
 
-Go to **Window | Env Light Meter** and click on the <kbd>Create Sky Light</kbd>, <kbd>Create Atmospheric Light 0</kbd>, <kbd>Create Sky Atmosphere</kbd>, kbd>Create Volumetric Cloud</kbd> and <kbd>Create Height Fog</kbd>. 
+Go to **Window | Env Light Meter** and click on the <kbd>Create Sky Light</kbd>, <kbd>Create Atmospheric Light 0</kbd>, <kbd>Create Sky Atmosphere</kbd>, <kbd>Create Volumetric Cloud</kbd> and <kbd>Create Height Fog</kbd>. 
 
 ![add 5 lights](images/dragLightingInRoom.png)
 

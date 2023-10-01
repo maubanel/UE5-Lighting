@@ -6,7 +6,9 @@
 
 ![](../images/line3.png)
 
-Chapter introduction here.
+For any beauty shots or portfolio stills there is a render mode that is not **real time** (not for a game) but will make the highest quality renders that the engine is capable of.  It is called the [Path Tracer](https://docs.unrealengine.com/5.2/en-US/path-tracer-in-unreal-engine/).
+
+> The Path Tracer is a progressive, hardware-accelerated rendering mode that mitigates the disadvantages of real-time features with physically correct and compromise-free global illumination, reflection and refraction of materials, and more. It shares the ray tracing architecture built into Unreal Engine, with minimal to no additional setup required to achieve clean, photoreal renders.
 
 <br>
 

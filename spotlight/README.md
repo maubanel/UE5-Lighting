@@ -6,7 +6,9 @@
 
 ![](../images/line3.png)
 
-Lets do one bake with mobility of **Stationary** and look at IES profiles
+Lets look at the final type of light that we have not used yet.  It is the [spotlight](https://docs.unrealengine.com/5.2/en-US/spot-lights-in-unreal-engine/).  
+
+>A Spot Light emits light from a single point in a cone shape. Users are given two cones to shape the light - the Inner Cone Angle and Outer Cone Angle. Within the Inner Cone Angle, the light achieves full brightness. As you go from the extent of the inner radius to the extents of the Outer Cone Angle, a falloff takes place, creating a penumbra, or softening around the Spot Light's disc of illumination. The Radius of the light defines the length of the cones. More simply, this will work like a flash light or stage can light.
 
 <br>
 
@@ -14,9 +16,9 @@ Lets do one bake with mobility of **Stationary** and look at IES profiles
 
 ##### `Step 1.`\|`ITL`|:small_blue_diamond:
 
-Add a **Shapes | Cube** to the back room against the wall on the ground. 
+Our scene doesn't contain any artificial lighting so we don't have a natural use for a spotlight.  We do have one point light in the back room that can be replaced with a spotlight.  It is a lot more efficient to use that a point light and allows you to direct the lighting to where you need it.
 
-![alt_text](images/addCube.png)
+![alt_text](images/addSpotlight.png)
 
 ![](../images/line2.png)
 

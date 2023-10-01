@@ -24,8 +24,7 @@ Lets look at lighting a scene in **UE5**. Lighting is what really makes games go
 <kbd></kbd> &nbsp;&nbsp; [Spot Light](spotlight/README.md#spot-light) <br>
 <kbd></kbd> &nbsp;&nbsp; [Post Process Volumes](post-process/README.md#post-process-volumes) <br>
 <kbd></kbd> &nbsp;&nbsp; [Path Tracing](path-tracing/README.md#path-tracing) <br>
-<kbd></kbd> &nbsp;&nbsp; [Customize Clouds](sky-texture/README.md#customize-clouds) <br>
-<kbd></kbd> &nbsp;&nbsp; [HDRI Skies & Customize Clouds II](sky-texture-ii/README.md#hdri-skies--customize-clouds-ii) <br>
+<kbd></kbd> &nbsp;&nbsp; [Customize Clouds](sky-texture/README.md#customize-clouds) <br><br>
 
 <!-- LICENSE -->
 ## License
